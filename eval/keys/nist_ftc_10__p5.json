@@ -1,0 +1,56 @@
+{
+ "id": "nist_ftc_10",
+ "page": 5,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_10_asme1_rb.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_10_asme1_rb",
+ "title": "PMI Fully-Toleranced Test Case 10 - View E",
+ "doubts": [
+  "Frames and depth lines stacked under an nX callout carry that callout's multiplier (same convention as the d2mi hand keys).",
+  "T35 and T36 are separate frames stacked under D26 (T36 shorter); one item each. Excluded: CS1."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "4X ⌀7 ±0.25",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    862,
+    545,
+    1044,
+    573
+   ],
+   "official_id": "D26"
+  },
+  {
+   "key": "k2",
+   "text": "⌖|⌀0Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    860,
+    579,
+    1153,
+    629
+   ],
+   "official_id": "T35"
+  },
+  {
+   "key": "k3",
+   "text": "⌭|0.1",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    860,
+    625,
+    1000,
+    676
+   ],
+   "official_id": "T36"
+  }
+ ]
+}

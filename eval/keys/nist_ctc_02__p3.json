@@ -1,0 +1,266 @@
+{
+ "id": "nist_ctc_02",
+ "page": 3,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ctc/nist_ctc_02_asme1_rc.pdf",
+ "source": "official",
+ "drawing_number": "nist_ctc_02_asme1_rc",
+ "title": "PMI Complex Test Case 2 - View 3 (of 3)",
+ "doubts": [
+  "Black commentary block 'Optional: The geometric tolerances applied to datum features D, E, F, G, H, and J are not required for the test case...' is explanation, not a requirement; excluded.",
+  "k8 STR1 '4 COPLANAR SURFACES' kept as a note item qualifying k7 T20; both take multiplier 4.",
+  "Frames with an attached datum feature symbol (T15, T21, T22, T20, T13, T14): box drawn around the frame only, but the rotated axis-aligned box still overlaps the top of the datum symbol.",
+  "Excluded DF1 to DF6 datum feature symbols and CS1, CS3, CS4 coordinate systems."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T17",
+   "text": "⌓|0.8|G|HⓁ|JⓁ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    916,
+    166,
+    1156,
+    345
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T18",
+   "text": "⌓|0.8|G|H|JⓁ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1389,
+    175,
+    1603,
+    339
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T16",
+   "text": "⌓|0.8|G|HⓁ|J",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1716,
+    169,
+    1939,
+    337
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T19",
+   "text": "⌓|0.8|G|H|J",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1749,
+    232,
+    1982,
+    432
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D7",
+   "text": "⌀22 ±0.1",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1793,
+    352,
+    1915,
+    440
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T22",
+   "text": "⌖|⌀0.15Ⓛ|G|H",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1794,
+    307,
+    2009,
+    478
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "T20",
+   "text": "⌓|0.1",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    1770,
+    548,
+    1898,
+    655
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "STR1",
+   "text": "4 COPLANAR SURFACES",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    1836,
+    627,
+    1986,
+    748
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "D5",
+   "text": "⌀12 ±0.05",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    661,
+    635,
+    803,
+    736
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T15",
+   "text": "⌖|⌀0.05|D|E",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    621,
+    635,
+    803,
+    790
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "T9",
+   "text": "⌓|0.5|D|EⓂ|FⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1327,
+    593,
+    1569,
+    773
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "T10",
+   "text": "⌓|0.5|D|EⓂ|F",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1271,
+    785,
+    1487,
+    950
+   ]
+  },
+  {
+   "key": "k13",
+   "official_id": "D6",
+   "text": "⌀22 ±0.1",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    685,
+    848,
+    796,
+    929
+   ]
+  },
+  {
+   "key": "k14",
+   "official_id": "T21",
+   "text": "⊥|⌀0.1Ⓛ|G",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    639,
+    858,
+    817,
+    999
+   ]
+  },
+  {
+   "key": "k15",
+   "official_id": "T13",
+   "text": "⏥|0.05",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1723,
+    918,
+    1839,
+    1025
+   ]
+  },
+  {
+   "key": "k16",
+   "official_id": "T11",
+   "text": "⌓|0.5|D|E|FⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1288,
+    1066,
+    1506,
+    1254
+   ]
+  },
+  {
+   "key": "k17",
+   "official_id": "T12",
+   "text": "⌓|0.5|D|E|F",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1296,
+    1129,
+    1498,
+    1282
+   ]
+  },
+  {
+   "key": "k18",
+   "official_id": "D4",
+   "text": "⌀12 ±0.05",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1662,
+    1213,
+    1788,
+    1302
+   ]
+  },
+  {
+   "key": "k19",
+   "official_id": "T14",
+   "text": "⊥|⌀0.05|D",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1662,
+    1211,
+    1825,
+    1345
+   ]
+  }
+ ]
+}

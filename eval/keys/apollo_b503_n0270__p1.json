@@ -1,0 +1,385 @@
+{
+ "id": "apollo_b503_n0270",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0270.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10070",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "doubts": [
+  "k1: Grumman block; the marking row is hand-annotated ELECTRO-ETCH and SEE NOTE 1. Checked rows: marking, fillet radii tolerances, tapped hole depth, 125 surface roughness, 200 holes (word before HOLES blacked out), burrs and edges",
+  "k9, k12, k13, k14, k16, k17: one tapped hole stack for 8 holes, split one item per line as in other keys; MINOR DIA and CSK keyed as hole_callout, TAP and the full thread depth line as thread, .375 MAX DEPTH as dimension, 8 HOLES EQUALLY SPACED as a note (spacing requirement); all multiplier 8",
+  "k25, k27, k28, k29: the 1.250-12UNF-3B internal thread stack split per line; P.D. (pitch diameter) limits keyed as thread",
+  "k21: G41-12 THREAD RELIEF UNDERCUT TO 1.290-1.300 RELIEF DIA keyed as one note (spec plus a diameter range); could be split into a note and a dimension",
+  "TYP items (k3, k7, k10, k23, k24, k26) carry no printed count, multiplier left 1",
+  "k19: '1.052/1.039 HOLE' keyed as hole_callout (limit diameter of the bore)",
+  "Not keyed: SEE NOTE 1 with the marking-region box (note 1 is k30), circled A1 flag, -11 balloon, SECTION A-A, GRAIN DIRECTION OPTIONAL",
+  "limit callouts printed with tight hyphens (.069-.074, .1560-.1641, 1.1600-1.1698, 1.1959-1.2019) rewritten with spaced hyphen per limit format",
+  "title block has no part name cell; title left empty. Drawing LDW270M10070 rev A"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED APPLY TO THIS DWG. (checked): ELECTRO-ETCH PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED. USE BOTH SIDES IF NECESSARY. SEE NOTE 1; FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030; DEPTH SHOWN FOR TAPPED HOLES IS FULL THDS. 2-3 IMP. THDS. BEYOND PERMISSIBLE; 125 √ SURFACE ROUGHNESS PER MIL-STD-10; 200 √ FOR ALL HOLES; REMOVE ALL BURRS. BREAK ALL EDGES .015-.031",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4740,
+    970,
+    5146,
+    2796
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".700",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2017,
+    1470,
+    2131,
+    1505
+   ]
+  },
+  {
+   "key": "k3",
+   "text": ".640/.630 (TYP)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1950,
+    1555,
+    2148,
+    1626
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "24.700 SPHERICAL R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2448,
+    1593,
+    2878,
+    1636
+   ]
+  },
+  {
+   "key": "k5",
+   "text": ".069 - .074 HOLE (2)",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    1536,
+    1652,
+    1900,
+    1691
+   ]
+  },
+  {
+   "key": "k6",
+   "text": ".320",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2033,
+    1676,
+    2140,
+    1712
+   ]
+  },
+  {
+   "key": "k7",
+   "text": ".030/.015 R(TYP)",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2421,
+    1686,
+    2686,
+    1754
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "2.062 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2916,
+    1714,
+    3119,
+    1749
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "MINOR DIA .1560 - .1641",
+   "kind": "hole_callout",
+   "multiplier": 8,
+   "box": [
+    3758,
+    1786,
+    4233,
+    1821
+   ]
+  },
+  {
+   "key": "k10",
+   "text": ".188(TYP)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2444,
+    1785,
+    2638,
+    1824
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1877,
+    1788,
+    1969,
+    1824
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".375 MAX DEPTH",
+   "kind": "dimension",
+   "multiplier": 8,
+   "box": [
+    3766,
+    1820,
+    4132,
+    1855
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "TAP .190-32 UNF-3B",
+   "kind": "thread",
+   "multiplier": 8,
+   "box": [
+    3765,
+    1851,
+    4210,
+    1887
+   ]
+  },
+  {
+   "key": "k14",
+   "text": ".285 MIN DEEP FULL THD",
+   "kind": "thread",
+   "multiplier": 8,
+   "box": [
+    3768,
+    1885,
+    4275,
+    1920
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "22°30'",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    2894,
+    1901,
+    3029,
+    1945
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "CSK 90°x .221 DIA",
+   "kind": "hole_callout",
+   "multiplier": 8,
+   "box": [
+    3766,
+    1917,
+    4141,
+    1952
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "8 HOLES EQUALLY SPACED",
+   "kind": "note",
+   "multiplier": 8,
+   "box": [
+    3768,
+    1945,
+    4332,
+    1985
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "2.500/2.490 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1721,
+    1976,
+    1961,
+    2056
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "1.052/1.039 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2509,
+    2110,
+    2770,
+    2178
+   ]
+  },
+  {
+   "key": "k20",
+   "text": ".125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2209,
+    1968,
+    2246
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "G41-12 THREAD RELIEF UNDERCUT TO 1.290 - 1.300 RELIEF DIA",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2525,
+    2213,
+    3199,
+    2284
+   ]
+  },
+  {
+   "key": "k22",
+   "text": ".830",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2478,
+    2300,
+    2603,
+    2335
+   ]
+  },
+  {
+   "key": "k23",
+   "text": ".129(TYP)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3094,
+    2309,
+    3279,
+    2352
+   ]
+  },
+  {
+   "key": "k24",
+   "text": "FULL R (TYP)",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    3476,
+    2309,
+    3733,
+    2349
+   ]
+  },
+  {
+   "key": "k25",
+   "text": "MINOR DIA 1.1600 - 1.1698",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2320,
+    2352,
+    2836,
+    2389
+   ]
+  },
+  {
+   "key": "k26",
+   "text": ".263/.256 (TYP)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3415,
+    2378,
+    3649,
+    2446
+   ]
+  },
+  {
+   "key": "k27",
+   "text": "1.250-12UNF-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    2321,
+    2386,
+    2678,
+    2421
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "P.D. 1.1959 - 1.2019",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    2320,
+    2418,
+    2701,
+    2456
+   ]
+  },
+  {
+   "key": "k29",
+   "text": "CSK 90° x 1.281 DIA",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2318,
+    2450,
+    2722,
+    2486
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "1. ELECTRO-ETCH PER LSP-14-4706",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    3506,
+    2706,
+    4296,
+    2743
+   ]
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+ "id": "cadsy_part_0005_asme",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0005_asme.png",
+ "source": "official",
+ "standard": "ASME",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "63.51",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    604,
+    370,
+    654,
+    389
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "4X ⌀2 THRU EQ SP ON ⌀33.94 B.C.",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1045,
+    499,
+    1452,
+    520
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "4X ⌀2 THRU EQ SP ON ⌀24 B.C.",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1045,
+    641,
+    1421,
+    662
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "⌭|0.1",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    1045,
+    663,
+    1147,
+    713
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "55",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1024,
+    723,
+    1042,
+    745
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "⌭|0.05",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1086,
+    732,
+    1205,
+    783
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "27.5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    215,
+    876,
+    233,
+    917
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "31.75",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    414,
+    1079,
+    468,
+    1097
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "⌀2 THRU ⌴⌀4 ±0.05 ↧2",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    723,
+    1078,
+    1033,
+    1098
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "31.75",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    414,
+    1198,
+    468,
+    1217
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "27.5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1653,
+    1198,
+    1694,
+    1217
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "⌀16",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    707,
+    1202,
+    768,
+    1222
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "6",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    215,
+    1268,
+    233,
+    1277
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "14",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1473,
+    1309,
+    1491,
+    1331
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "2X C1",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    2202,
+    1305,
+    2266,
+    1323
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "8",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1024,
+    1350,
+    1042,
+    1360
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "31.75",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    414,
+    1423,
+    468,
+    1441
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "27.5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1653,
+    1423,
+    1694,
+    1441
+   ]
+  }
+ ]
+}

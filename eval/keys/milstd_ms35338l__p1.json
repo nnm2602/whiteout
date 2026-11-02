@@ -1,0 +1,1269 @@
+{
+ "id": "milstd_ms35338l",
+ "page": 1,
+ "width": 1689,
+ "height": 2153,
+ "dpi": 200,
+ "file": "data/raw/milstd/MS35338L.pdf",
+ "source": "hand",
+ "drawing_number": "MS35338L",
+ "title": "WASHER, LOCK-SPRING, HELICAL, REGULAR (MEDIUM) SERIES",
+ "distribution_statement": "A. Approved for public release; distribution is unlimited.",
+ "doubts": [
+  "Table I: NOMINAL SIZE column (size designation such as NO.2 (.086)) and the six DASH NUMBERS columns (CAD OR ZINC, PHOS, PH BRZ OR TIN BRS, NICKEL COPPER ALLOY, CRES 300 SERIES, CRES 420) excluded as identifier and part number columns.",
+  "Table I: C THICK MIN cells carry footnote 1/ SEE REQUIREMENT 4; requirement 4 is on page 2, so the footnote itself is not keyed.",
+  "Readings: B (OD) MAX of the 1/2 row is blurred between .889 and .869; keyed as .869 (the standard regular series value); the 1-1/2 row B MAX has a stray dot before 2.419, ignored.",
+  "Figure: letter-only dimensions (⌀A, ⌀B, C, W, T, t) carry no values; values are in Table I, so no separate figure items. The C THICK header formula (T+t)/2 is a definition, not keyed.",
+  "k1: vertical left-margin acquisition statement naming ASME B18.21.1 keyed as a spec note (the sheet's procurement specification); drop if margin text is out of scope.",
+  "Page 1 has no numbered requirements (they are on page 2); '(L) DENOTES CHANGE(S)', INCH-POUND box and title block fields excluded."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "THE REQUIREMENTS FOR ACQUIRING THE PRODUCT(S) DESCRIBED HEREIN SHALL CONSIST OF THIS SPECIFICATION SHEET AND THE ISSUE OF THE FOLLOWING SPECIFICATION LISTED IN THAT ISSUE OF THE DODISS SPECIFIED IN THE SOLICITATION: ASME B18.21.1",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    158,
+    229,
+    224,
+    1097
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".088",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    874,
+    1071,
+    893
+   ],
+   "table": true
+  },
+  {
+   "key": "k3",
+   "text": ".094",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1104,
+    874,
+    1144,
+    892
+   ],
+   "table": true
+  },
+  {
+   "key": "k4",
+   "text": ".172",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1179,
+    873,
+    1219,
+    892
+   ],
+   "table": true
+  },
+  {
+   "key": "k5",
+   "text": ".035",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    874,
+    1302,
+    892
+   ],
+   "table": true
+  },
+  {
+   "key": "k6",
+   "text": ".020",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    873,
+    1380,
+    892
+   ],
+   "table": true
+  },
+  {
+   "key": "k7",
+   "text": ".114",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    904,
+    1071,
+    921
+   ],
+   "table": true
+  },
+  {
+   "key": "k8",
+   "text": ".120",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1103,
+    902,
+    1145,
+    921
+   ],
+   "table": true
+  },
+  {
+   "key": "k9",
+   "text": ".209",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1179,
+    902,
+    1219,
+    921
+   ],
+   "table": true
+  },
+  {
+   "key": "k10",
+   "text": ".040",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1261,
+    902,
+    1302,
+    921
+   ],
+   "table": true
+  },
+  {
+   "key": "k11",
+   "text": ".025",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1339,
+    902,
+    1380,
+    920
+   ],
+   "table": true
+  },
+  {
+   "key": "k12",
+   "text": ".141",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    932,
+    1069,
+    949
+   ],
+   "table": true
+  },
+  {
+   "key": "k13",
+   "text": ".148",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1104,
+    931,
+    1145,
+    949
+   ],
+   "table": true
+  },
+  {
+   "key": "k14",
+   "text": ".250",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1179,
+    930,
+    1220,
+    949
+   ],
+   "table": true
+  },
+  {
+   "key": "k15",
+   "text": ".047",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1261,
+    931,
+    1301,
+    949
+   ],
+   "table": true
+  },
+  {
+   "key": "k16",
+   "text": ".031",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1339,
+    930,
+    1377,
+    949
+   ],
+   "table": true
+  },
+  {
+   "key": "k17",
+   "text": ".167",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    960,
+    1071,
+    979
+   ],
+   "table": true
+  },
+  {
+   "key": "k18",
+   "text": ".174",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1104,
+    959,
+    1145,
+    978
+   ],
+   "table": true
+  },
+  {
+   "key": "k19",
+   "text": ".293",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1179,
+    959,
+    1220,
+    978
+   ],
+   "table": true
+  },
+  {
+   "key": "k20",
+   "text": ".055",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1261,
+    959,
+    1302,
+    978
+   ],
+   "table": true
+  },
+  {
+   "key": "k21",
+   "text": ".040",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1339,
+    959,
+    1380,
+    978
+   ],
+   "table": true
+  },
+  {
+   "key": "k22",
+   "text": ".193",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    988,
+    1072,
+    1007
+   ],
+   "table": true
+  },
+  {
+   "key": "k23",
+   "text": ".200",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1104,
+    988,
+    1145,
+    1006
+   ],
+   "table": true
+  },
+  {
+   "key": "k24",
+   "text": ".334",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1179,
+    987,
+    1219,
+    1006
+   ],
+   "table": true
+  },
+  {
+   "key": "k25",
+   "text": ".062",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    988,
+    1301,
+    1006
+   ],
+   "table": true
+  },
+  {
+   "key": "k26",
+   "text": ".047",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    987,
+    1380,
+    1006
+   ],
+   "table": true
+  },
+  {
+   "key": "k27",
+   "text": ".252",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    1017,
+    1072,
+    1035
+   ],
+   "table": true
+  },
+  {
+   "key": "k28",
+   "text": ".260",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1104,
+    1016,
+    1146,
+    1034
+   ],
+   "table": true
+  },
+  {
+   "key": "k29",
+   "text": ".487",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1180,
+    1015,
+    1220,
+    1034
+   ],
+   "table": true
+  },
+  {
+   "key": "k30",
+   "text": ".109",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1016,
+    1302,
+    1034
+   ],
+   "table": true
+  },
+  {
+   "key": "k31",
+   "text": ".062",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1015,
+    1380,
+    1034
+   ],
+   "table": true
+  },
+  {
+   "key": "k32",
+   "text": ".314",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1032,
+    1045,
+    1072,
+    1063
+   ],
+   "table": true
+  },
+  {
+   "key": "k33",
+   "text": ".322",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1104,
+    1044,
+    1145,
+    1063
+   ],
+   "table": true
+  },
+  {
+   "key": "k34",
+   "text": ".583",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1180,
+    1044,
+    1220,
+    1063
+   ],
+   "table": true
+  },
+  {
+   "key": "k35",
+   "text": ".125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1044,
+    1302,
+    1063
+   ],
+   "table": true
+  },
+  {
+   "key": "k36",
+   "text": ".078",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1044,
+    1380,
+    1062
+   ],
+   "table": true
+  },
+  {
+   "key": "k37",
+   "text": ".377",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1032,
+    1073,
+    1072,
+    1091
+   ],
+   "table": true
+  },
+  {
+   "key": "k38",
+   "text": ".385",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1105,
+    1072,
+    1146,
+    1091
+   ],
+   "table": true
+  },
+  {
+   "key": "k39",
+   "text": ".680",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1180,
+    1072,
+    1221,
+    1090
+   ],
+   "table": true
+  },
+  {
+   "key": "k40",
+   "text": ".141",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1073,
+    1300,
+    1091
+   ],
+   "table": true
+  },
+  {
+   "key": "k41",
+   "text": ".094",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1072,
+    1380,
+    1090
+   ],
+   "table": true
+  },
+  {
+   "key": "k42",
+   "text": ".440",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    1100,
+    1072,
+    1119
+   ],
+   "table": true
+  },
+  {
+   "key": "k43",
+   "text": ".450",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1104,
+    1100,
+    1145,
+    1118
+   ],
+   "table": true
+  },
+  {
+   "key": "k44",
+   "text": ".776",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1179,
+    1099,
+    1219,
+    1118
+   ],
+   "table": true
+  },
+  {
+   "key": "k45",
+   "text": ".156",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1261,
+    1100,
+    1302,
+    1118
+   ],
+   "table": true
+  },
+  {
+   "key": "k46",
+   "text": ".109",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1339,
+    1099,
+    1380,
+    1118
+   ],
+   "table": true
+  },
+  {
+   "key": "k47",
+   "text": ".502",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    1128,
+    1071,
+    1147
+   ],
+   "table": true
+  },
+  {
+   "key": "k48",
+   "text": ".512",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1104,
+    1128,
+    1145,
+    1147
+   ],
+   "table": true
+  },
+  {
+   "key": "k49",
+   "text": ".869",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1179,
+    1127,
+    1219,
+    1146
+   ],
+   "table": true
+  },
+  {
+   "key": "k50",
+   "text": ".171",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1261,
+    1127,
+    1300,
+    1146
+   ],
+   "table": true
+  },
+  {
+   "key": "k51",
+   "text": ".125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1339,
+    1127,
+    1380,
+    1146
+   ],
+   "table": true
+  },
+  {
+   "key": "k52",
+   "text": ".564",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    1157,
+    1071,
+    1176
+   ],
+   "table": true
+  },
+  {
+   "key": "k53",
+   "text": ".574",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1104,
+    1156,
+    1145,
+    1175
+   ],
+   "table": true
+  },
+  {
+   "key": "k54",
+   "text": ".965",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1179,
+    1156,
+    1220,
+    1175
+   ],
+   "table": true
+  },
+  {
+   "key": "k55",
+   "text": ".188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1156,
+    1302,
+    1175
+   ],
+   "table": true
+  },
+  {
+   "key": "k56",
+   "text": ".141",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1157,
+    1378,
+    1174
+   ],
+   "table": true
+  },
+  {
+   "key": "k57",
+   "text": ".628",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1032,
+    1185,
+    1072,
+    1204
+   ],
+   "table": true
+  },
+  {
+   "key": "k58",
+   "text": ".641",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1105,
+    1185,
+    1143,
+    1204
+   ],
+   "table": true
+  },
+  {
+   "key": "k59",
+   "text": "1.073",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1181,
+    1184,
+    1230,
+    1204
+   ],
+   "table": true
+  },
+  {
+   "key": "k60",
+   "text": ".203",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1185,
+    1302,
+    1204
+   ],
+   "table": true
+  },
+  {
+   "key": "k61",
+   "text": ".156",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1184,
+    1381,
+    1203
+   ],
+   "table": true
+  },
+  {
+   "key": "k62",
+   "text": ".753",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1032,
+    1214,
+    1072,
+    1233
+   ],
+   "table": true
+  },
+  {
+   "key": "k63",
+   "text": ".766",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1105,
+    1214,
+    1146,
+    1232
+   ],
+   "table": true
+  },
+  {
+   "key": "k64",
+   "text": "1.265",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1181,
+    1213,
+    1230,
+    1232
+   ],
+   "table": true
+  },
+  {
+   "key": "k65",
+   "text": ".234",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1214,
+    1302,
+    1232
+   ],
+   "table": true
+  },
+  {
+   "key": "k66",
+   "text": ".188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1213,
+    1381,
+    1232
+   ],
+   "table": true
+  },
+  {
+   "key": "k67",
+   "text": ".878",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1032,
+    1243,
+    1072,
+    1261
+   ],
+   "table": true
+  },
+  {
+   "key": "k68",
+   "text": ".894",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1105,
+    1242,
+    1145,
+    1260
+   ],
+   "table": true
+  },
+  {
+   "key": "k69",
+   "text": "1.459",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1182,
+    1241,
+    1230,
+    1260
+   ],
+   "table": true
+  },
+  {
+   "key": "k70",
+   "text": ".266",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1242,
+    1303,
+    1260
+   ],
+   "table": true
+  },
+  {
+   "key": "k71",
+   "text": ".219",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1341,
+    1242,
+    1381,
+    1260
+   ],
+   "table": true
+  },
+  {
+   "key": "k72",
+   "text": "1.003",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1033,
+    1271,
+    1082,
+    1290
+   ],
+   "table": true
+  },
+  {
+   "key": "k73",
+   "text": "1.024",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1106,
+    1270,
+    1155,
+    1289
+   ],
+   "table": true
+  },
+  {
+   "key": "k74",
+   "text": "1.656",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1181,
+    1270,
+    1230,
+    1289
+   ],
+   "table": true
+  },
+  {
+   "key": "k75",
+   "text": ".297",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1270,
+    1302,
+    1289
+   ],
+   "table": true
+  },
+  {
+   "key": "k76",
+   "text": ".250",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1270,
+    1381,
+    1289
+   ],
+   "table": true
+  },
+  {
+   "key": "k77",
+   "text": "1.129",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1033,
+    1300,
+    1082,
+    1319
+   ],
+   "table": true
+  },
+  {
+   "key": "k78",
+   "text": "1.153",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1106,
+    1299,
+    1155,
+    1318
+   ],
+   "table": true
+  },
+  {
+   "key": "k79",
+   "text": "1.847",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1181,
+    1299,
+    1230,
+    1318
+   ],
+   "table": true
+  },
+  {
+   "key": "k80",
+   "text": ".328",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1299,
+    1302,
+    1318
+   ],
+   "table": true
+  },
+  {
+   "key": "k81",
+   "text": ".281",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1299,
+    1378,
+    1317
+   ],
+   "table": true
+  },
+  {
+   "key": "k82",
+   "text": "1.254",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1033,
+    1329,
+    1082,
+    1348
+   ],
+   "table": true
+  },
+  {
+   "key": "k83",
+   "text": "1.280",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1106,
+    1328,
+    1156,
+    1347
+   ],
+   "table": true
+  },
+  {
+   "key": "k84",
+   "text": "2.036",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1180,
+    1328,
+    1230,
+    1347
+   ],
+   "table": true
+  },
+  {
+   "key": "k85",
+   "text": ".359",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1328,
+    1302,
+    1347
+   ],
+   "table": true
+  },
+  {
+   "key": "k86",
+   "text": ".312",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1327,
+    1381,
+    1347
+   ],
+   "table": true
+  },
+  {
+   "key": "k87",
+   "text": "1.379",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1033,
+    1358,
+    1082,
+    1377
+   ],
+   "table": true
+  },
+  {
+   "key": "k88",
+   "text": "1.408",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1107,
+    1358,
+    1156,
+    1377
+   ],
+   "table": true
+  },
+  {
+   "key": "k89",
+   "text": "2.219",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1180,
+    1357,
+    1230,
+    1377
+   ],
+   "table": true
+  },
+  {
+   "key": "k90",
+   "text": ".391",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1262,
+    1358,
+    1301,
+    1376
+   ],
+   "table": true
+  },
+  {
+   "key": "k91",
+   "text": ".344",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1340,
+    1357,
+    1381,
+    1376
+   ],
+   "table": true
+  },
+  {
+   "key": "k92",
+   "text": "1.504",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1034,
+    1388,
+    1083,
+    1406
+   ],
+   "table": true
+  },
+  {
+   "key": "k93",
+   "text": "1.534",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1107,
+    1387,
+    1156,
+    1405
+   ],
+   "table": true
+  },
+  {
+   "key": "k94",
+   "text": "2.419",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1179,
+    1385,
+    1230,
+    1406
+   ],
+   "table": true
+  },
+  {
+   "key": "k95",
+   "text": ".422",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1263,
+    1387,
+    1304,
+    1405
+   ],
+   "table": true
+  },
+  {
+   "key": "k96",
+   "text": ".375",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1341,
+    1386,
+    1381,
+    1405
+   ],
+   "table": true
+  }
+ ]
+}

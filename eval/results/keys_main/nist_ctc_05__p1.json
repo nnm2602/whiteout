@@ -1,0 +1,28 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 0,
+ "true_missed_visible": 0,
+ "key": "nist_ctc_05__p1.json",
+ "kind": "nist_ctc",
+ "source": "official",
+ "items": 11,
+ "found": 11,
+ "first_read_hits": 11,
+ "final_hits": 11,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 0,
+ "baseline_found": 0,
+ "exact_text": 11,
+ "multiplier_right": 11,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [],
+ "timings": {
+  "overview": 0.022477149963378906,
+  "read": 3.2115068435668945,
+  "audit": 0.3184800148010254,
+  "text_layer_unmatched": 8,
+  "total": 3.5735223293304443
+ }
+}

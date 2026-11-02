@@ -1,0 +1,169 @@
+{
+ "key": "apollo_b502_n0014__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 42,
+ "found": 71,
+ "first_read_hits": 41,
+ "final_hits": 41,
+ "baseline_hits": 12,
+ "baseline_found": 17,
+ "exact_text": 37,
+ "multiplier_right": 41,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k21",
+   "text": ".688",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3220,
+    2641,
+    3366,
+    2683
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "4. -11 & -12 MAY BE USED ON LM-4(34) THRU LM-15 (45).",
+   "box": [
+    4257,
+    3089,
+    5149,
+    3144
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2. THIS DWG AFFECTED BY LFM-4.",
+   "box": [
+    4260,
+    2917,
+    4905,
+    2948
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".3272",
+   "box": [
+    3377,
+    2868,
+    3484,
+    2903
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".812",
+   "box": [
+    3377,
+    2985,
+    3466,
+    3020
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.281",
+   "box": [
+    4071,
+    2409,
+    4130,
+    2454
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "5. (4) MODULE QUANTITIES REQUIRED PER LFM-4.",
+   "box": [
+    4262,
+    3131,
+    5220,
+    3188
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-12 OPPOSITE",
+   "box": [
+    4156,
+    1930,
+    4419,
+    1963
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".500",
+   "box": [
+    2485,
+    1783,
+    2644,
+    1797
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".188",
+   "box": [
+    2434,
+    2586,
+    2523,
+    2621
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-11 SHOWN",
+   "box": [
+    4155,
+    1858,
+    4384,
+    1894
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".688",
+   "box": [
+    3200,
+    2621,
+    3306,
+    2645
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "CHAMFER",
+   "box": [
+    2665,
+    2468,
+    2842,
+    2504
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 50.984943866729736,
+  "read": 2794.7877810001373,
+  "audit": 1372.8490421772003,
+  "total": 4219.0021276474
+ }
+}

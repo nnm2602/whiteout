@@ -1,0 +1,77 @@
+{
+ "id": "nist_d2mi_906",
+ "page": 1,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-906.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": "MATERIAL: ALUMINUM, PLATE, 6061-T6, IN ACCORDANCE WITH ASTM B205.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    112,
+    93,
+    1268,
+    120
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "FINISH: CHROMATE CONVERSION COATING IN ACCORDANCE WITH MIL-DTL-5541, CLASS 1A, TYPE II.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    112,
+    140,
+    1702,
+    167
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "IDENTIFICATION MARKING SHALL BE LOCATED APPROXIMATELY WHERE SHOWN IN ACCORDANCE WITH MIL-STD-130.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    98,
+    188,
+    1622,
+    258
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "UNLESS OTHERWISE SPECIFIED, ALL BASIC DIMENSION SURFACES SHALL COMPLY WITH: ⌓|.016|A|B|C.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    112,
+    276,
+    1572,
+    337
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "WHEN THE FLATNESS OF DATUM FEATURE A EXCEEDS THE STATED PROFILE TOLERANCE IN THE FREE STATE, THE FEATURE MAY BE RESTRAINED TO DATUM PLANE A WITHIN THE SPECIFIED PROFILE TOLERANCE VALUE. THE ITEM SHALL BE DEEMED ACCEPTABLE WHEN FEATURES RELATED TO DATUM A MEET TOLERANCE REQUIREMENTS IN THIS RESTRAINED STATE.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    112,
+    358,
+    1758,
+    452
+   ]
+  }
+ ],
+ "doubts": [
+  "k4: note 4 holds a profile frame (⌓|.016|A|B|C) as the default for all basic dimensions; kept as one note item, an app may list the frame as its own gdt_frame",
+  "k5: note 5 is a restraint condition for inspection, not a measured characteristic; included as a note because it governs acceptance",
+  "Excluded: note 6 (inches, interpret per ASME Y14.5-2009) and note 7 (parentheses are reference only); both impose no inspectable requirement",
+  "No UNLESS OTHERWISE SPECIFIED tolerance block in the title block; sheet has notes and reference views only"
+ ]
+}

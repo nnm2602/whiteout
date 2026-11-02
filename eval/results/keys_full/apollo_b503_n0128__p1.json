@@ -1,0 +1,23 @@
+{
+ "key": "apollo_b503_n0128__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 46,
+ "found": 63,
+ "first_read_hits": 46,
+ "final_hits": 46,
+ "baseline_hits": 3,
+ "baseline_found": 9,
+ "exact_text": 45,
+ "multiplier_right": 46,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [],
+ "timings": {
+  "overview": 25.129173040390015,
+  "read": 70.0962450504303,
+  "audit": 66.83393001556396,
+  "total": 162.30702805519104
+ }
+}

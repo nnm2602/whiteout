@@ -1,0 +1,159 @@
+{
+ "name": "01_nist-d2mi-904_p3",
+ "source": {
+  "file": "data/raw/nist-d2mi-904.pdf",
+  "page": 3
+ },
+ "glyph_h": 26,
+ "items": [
+  {
+   "text": "1.250",
+   "kind": "dimension",
+   "condition": "plain",
+   "box": [
+    1015,
+    1898,
+    1109,
+    1922
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "1.250"
+  },
+  {
+   "text": "4X .312",
+   "kind": "dimension",
+   "condition": "small",
+   "box": [
+    1869,
+    1610,
+    1955,
+    1627
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "4X .312"
+  },
+  {
+   "text": "DIA .257-.261",
+   "kind": "hole_callout",
+   "condition": "rotated",
+   "box": [
+    2515,
+    1461,
+    2539,
+    1690
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DIA .257-.261"
+  },
+  {
+   "text": "1.250",
+   "kind": "dimension",
+   "condition": "on_line",
+   "box": [
+    1192,
+    290,
+    1286,
+    314
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "1.250"
+  },
+  {
+   "text": "ALL FILLETS R.030",
+   "kind": "note",
+   "condition": "plain",
+   "box": [
+    2714,
+    1641,
+    3025,
+    1665
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "ALL FILLETS R.030"
+  },
+  {
+   "text": "1.500 +/-.005",
+   "kind": "dimension",
+   "condition": "small",
+   "box": [
+    2260,
+    1634,
+    2417,
+    1655
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "1.500 +/males -.005"
+  },
+  {
+   "text": "DEBURR ALL EDGES",
+   "kind": "note",
+   "condition": "rotated",
+   "box": [
+    812,
+    170,
+    836,
+    497
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DEBURR ALL EDGES"
+  },
+  {
+   "text": "MARK PART NO PER MIL-STD-130",
+   "kind": "note",
+   "condition": "on_line",
+   "box": [
+    2027,
+    1177,
+    2580,
+    1201
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "MARK PART NO PER MIL-STD-130"
+  },
+  {
+   "text": "2X .188",
+   "kind": "dimension",
+   "condition": "plain",
+   "box": [
+    2428,
+    1271,
+    2553,
+    1295
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "2X .188"
+  },
+  {
+   "text": "2X DIA .136 THRU",
+   "kind": "hole_callout",
+   "condition": "small",
+   "box": [
+    569,
+    759,
+    768,
+    776
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "2X DIA .136 THRU"
+  }
+ ],
+ "chars": 33,
+ "audit_new_not_planted": [],
+ "passes": 1,
+ "timings": {
+  "overview": 18.699347019195557,
+  "read": 32.229105949401855,
+  "audit": 32.31818222999573,
+  "total": 83.29449701309204
+ }
+}

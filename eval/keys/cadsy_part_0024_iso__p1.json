@@ -1,0 +1,113 @@
+{
+ "id": "cadsy_part_0024_iso",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0024_iso.png",
+ "source": "official",
+ "standard": "ISO",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "81,58",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    398,
+    496,
+    450,
+    518
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "10",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    724,
+    556,
+    742,
+    577
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "40,79",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    277,
+    614,
+    329,
+    636
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "40,79",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    857,
+    614,
+    909,
+    636
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "4×⌀12 ±0,05 EQUALLY SPACED ON ⌀40 PCD",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1274,
+    831,
+    1776,
+    852
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "⌭|0,2",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    1274,
+    853,
+    1378,
+    904
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "81,58",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    978,
+    1196,
+    1029,
+    1217
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "General tolerance ISO 2768-f",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1619,
+    1511,
+    1720,
+    1530
+   ],
+   "title_block": true
+  }
+ ]
+}

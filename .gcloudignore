@@ -1,0 +1,12 @@
+.gcloudignore
+.git
+.venv
+.cache
+.jobs
+out
+data
+eval
+web
+deploy
+tests
+**/__pycache__

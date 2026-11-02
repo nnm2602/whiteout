@@ -1,0 +1,251 @@
+{
+ "id": "apollo_b503_n0202",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0202.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10047",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "items": [
+  {
+   "key": "k1",
+   "text": "16√",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2562,
+    1778,
+    2630,
+    1828
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".380",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2806,
+    1853,
+    2897,
+    1888
+   ]
+  },
+  {
+   "key": "k3",
+   "text": ".188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2582,
+    1928,
+    2656,
+    1964
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "THIS SURFACE TO BE FLAT WITHIN .001 (SEE NOTE *2)",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2052,
+    2000,
+    2618,
+    2080
+   ]
+  },
+  {
+   "key": "k5",
+   "text": ".710/.700 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2242,
+    2252,
+    2458,
+    2318
+   ]
+  },
+  {
+   "key": "k6",
+   "text": ".755/.750 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2985,
+    2043,
+    3180,
+    2112
+   ]
+  },
+  {
+   "key": "k7",
+   "text": ".062R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2852,
+    2280,
+    2990,
+    2318
+   ]
+  },
+  {
+   "key": "k8",
+   "text": ".812",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3178,
+    1912,
+    3262,
+    1948
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "1.625",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3355,
+    1792,
+    3450,
+    1828
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "1.500 DIA BASIC",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    3605,
+    1792,
+    3972,
+    1830
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "4 HOLES EQUALLY SPACED WITHIN .001 OF TRUE LOCATION",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    3578,
+    1902,
+    4102,
+    2018
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "1.625",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3732,
+    2152,
+    3848,
+    2188
+   ]
+  },
+  {
+   "key": "k13",
+   "text": ".812",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3682,
+    2307,
+    3758,
+    2342
+   ]
+  },
+  {
+   "key": "k14",
+   "text": ".256 - .263 HOLE (4) (SEE NOTE *1)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    2702,
+    2388,
+    3068,
+    2472
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "45° BASIC",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    3228,
+    2422,
+    3358,
+    2502
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "CHAMFER 45° x .160 (4) (OPTIONAL)",
+   "kind": "chamfer",
+   "multiplier": 4,
+   "box": [
+    3668,
+    2405,
+    4018,
+    2478
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "2.064 - 2.074 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3548,
+    2505,
+    3872,
+    2542
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "2. THIS SURFACE TO BE FREE FROM SPIRAL AND LONGITUDINAL TOOL MARKS. ANNULAR TOOL MARKS ONLY WILL BE ALLOWED.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    3385,
+    2868,
+    4108,
+    3018
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED APPLY TO THIS DWG: RUBBER STAMP PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED; FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010, .063R TO .250R ±.015, OVER .250R ±.030; DIAMETERS MARKED MUST BE CONCENTRIC WITHIN .002 FULL INDICATOR READING; 125 SURFACE ROUGHNESS PER MIL-STD-10; 200 FOR ALL HOLES; REMOVE ALL BURRS, BREAK ALL EDGES .015-.031",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4128,
+    1298,
+    4518,
+    3062
+   ]
+  }
+ ],
+ "doubts": [
+  "k4: written flatness requirement keyed as a note, not a feature control frame",
+  "k11: worded positional requirement for the 4 holes, keyed as a note with multiplier 4",
+  "k15: 45° BASIC is an angle marked BASIC; keyed as basic_dimension (could be kind angle)",
+  "k19: one word in the 200 finish row (FOR ALL ... HOLES) and one line under SURFACE ROUGHNESS are blacked out on the card",
+  "not keyed: NOTE 1 (FOR HOLES MARKED ▲ SEE DRAWING LDW270M10046 FOR CORRESPONDING HOLE PATTERN), treated as a reference to another drawing; arguably a requirement",
+  "not keyed: GRAIN DIRECTION OPTIONAL (imposes nothing)",
+  "title block has no part name cell on this card; title left empty"
+ ]
+}

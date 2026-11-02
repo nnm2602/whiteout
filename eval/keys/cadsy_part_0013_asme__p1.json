@@ -1,0 +1,232 @@
+{
+ "id": "cadsy_part_0013_asme",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0013_asme.png",
+ "source": "official",
+ "standard": "ASME",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "⊥|⌀0.05|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    627,
+    493,
+    823,
+    544
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "⌭|0.05",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    627,
+    544,
+    823,
+    594
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "2X C0.8",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    1037,
+    576,
+    1124,
+    594
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "⌀8 THRU",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1390,
+    711,
+    1503,
+    731
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "31",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    365,
+    788,
+    383,
+    807
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "2X R1",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    1390,
+    886,
+    1453,
+    904
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "80",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    865,
+    1001,
+    887,
+    1020
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "2.5 ±0.05",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    365,
+    1058,
+    383,
+    1149
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "∥|0.2|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    929,
+    1079,
+    1085,
+    1129
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "40",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    628,
+    1095,
+    651,
+    1113
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "30",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1767,
+    1095,
+    1789,
+    1113
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "2X C0.8",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    2057,
+    1095,
+    2143,
+    1113
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "⏥|0.2",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    215,
+    1126,
+    321,
+    1177
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "2.5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1369,
+    1193,
+    1387,
+    1222
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "7.5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1562,
+    1163,
+    1580,
+    1192
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "12",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    865,
+    1243,
+    887,
+    1261
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "H 5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1012,
+    1243,
+    1044,
+    1261
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "15",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1679,
+    1242,
+    1700,
+    1261
+   ]
+  }
+ ]
+}

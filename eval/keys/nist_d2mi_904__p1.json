@@ -1,0 +1,91 @@
+{
+ "id": "nist_d2mi_904",
+ "page": 1,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-904 rev c.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": "1. MATERIAL: ALUMINUM, PLATE, 6061-T651, IN ACCORDANCE WITH ASTM B205.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    138,
+    92,
+    1282,
+    123
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "2. FINISH: CHROMATE CONVERSION COATING IN ACCORDANCE WITH MIL-DTL-5541, CLASS 1A, TYPE II.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    138,
+    140,
+    1608,
+    168
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "3 IDENTIFICATION MARKING SHALL BE LOCATED APPROXIMATELY WHERE SHOWN IN ACCORDANCE WITH MIL-STD-130.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    118,
+    166,
+    1562,
+    234
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "4. UNLESS OTHERWISE SPECIFIED, ALL BASIC DIMENSION SURFACES SHALL COMPLY WITH: ⌓|.016|A|B|C.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    138,
+    253,
+    1412,
+    312
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "5. WHEN THE FLATNESS OF DATUM FEATURE A EXCEEDS THE STATED PROFILE TOLERANCE IN THE FREE STATE, THE FEATURE MAY BE RESTRAINED TO DATUM PLANE A WITHIN THE SPECIFIED PROFILE TOLERANCE VALUE. THE ITEM SHALL BE DEEMED ACCEPTABLE WHEN FEATURES RELATED TO DATUM A MEET TOLERANCE REQUIREMENTS IN THIS RESTRAINED STATE.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    138,
+    336,
+    1692,
+    427
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "6. UNLESS OTHERWISE SPECIFIED, DIMENSIONS AND TOLERANCES ARE EXPRESSED IN INCHES AND SHALL BE INTERPRETED IN ACCORDANCE WITH ASME Y14.5-2009.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    138,
+    448,
+    1662,
+    494
+   ]
+  }
+ ],
+ "doubts": [
+  "k3: flag note (number 3 printed in a circle); the balloon 3 on sheet 2 points to the marking location",
+  "k4: the note holds a profile frame ⌓|.016|A|B|C; kept as one note item, a reader could also treat the frame as a gdt_frame",
+  "k5: restraint condition for inspection rather than a feature requirement; included per the when-in-doubt rule",
+  "k6: units and Y14.5-2009 interpretation note; included per the when-in-doubt rule, could be read as not a requirement",
+  "Note 7 (INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY) left out: imposes nothing",
+  "Sheet has no UNLESS OTHERWISE SPECIFIED tolerance block and no material/finish entry in the title block; the iso views carry no dimensions"
+ ]
+}

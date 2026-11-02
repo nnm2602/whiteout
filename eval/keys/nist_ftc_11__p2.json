@@ -1,0 +1,68 @@
+{
+ "id": "nist_ftc_11",
+ "page": 2,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_11_asme1_rb.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_11_asme1_rb",
+ "title": "PMI Fully-Toleranced Test Case 11 - View B",
+ "doubts": [
+  "Section view B. D5 web thickness (FSI: envelope principle does not apply) keyed as a plain dimension. Excluded: DF1, CS1."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "⌓|0.3Ⓕ|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1039,
+    628,
+    1310,
+    680
+   ],
+   "official_id": "T4"
+  },
+  {
+   "key": "k2",
+   "text": "2X R0.1 MAX",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    388,
+    688,
+    596,
+    716
+   ],
+   "official_id": "D6"
+  },
+  {
+   "key": "k3",
+   "text": "1.93 ±0.08",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1576,
+    748,
+    1729,
+    776
+   ],
+   "official_id": "D5"
+  },
+  {
+   "key": "k4",
+   "text": "⏥|0.3Ⓕ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    907,
+    932,
+    1083,
+    982
+   ],
+   "official_id": "T1"
+  }
+ ]
+}

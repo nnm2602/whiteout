@@ -1,0 +1,71 @@
+{
+ "key": "nist_d2mi_904__p3.json",
+ "kind": "nist_d2mi",
+ "source": "hand",
+ "items": 21,
+ "found": 23,
+ "first_read_hits": 20,
+ "final_hits": 20,
+ "baseline_hits": 8,
+ "baseline_found": 8,
+ "exact_text": 18,
+ "multiplier_right": 18,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k14",
+   "text": "4X \u2300.123 - .133",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    710,
+    1338,
+    990,
+    1372
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "MECHANICAL REFERENCE DATASET",
+   "box": [
+    1542,
+    2000,
+    1859,
+    2031
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "SEE PDM FOR DEFINING DATA",
+   "box": [
+    1426,
+    2045,
+    1973,
+    2076
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2.832 \u00b1.010",
+   "box": [
+    1225,
+    1325,
+    1349,
+    1372
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 40.00254011154175,
+  "read": 710.9654657840729,
+  "audit": 554.1037359237671,
+  "text_layer_unmatched": 0,
+  "total": 1305.1381120681763
+ }
+}

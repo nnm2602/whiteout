@@ -1,0 +1,447 @@
+{
+ "id": "apollo_b503_n0032",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0032.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10008",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "items": [
+  {
+   "key": "k1",
+   "text": "1.001/1.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2392,
+    1168,
+    2505,
+    1242
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".062 - .065 HOLE × .120 - .130 DEEP (DRILL PT PERMISSIBLE)",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2906,
+    1180,
+    3976,
+    1224
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "MS16562-189 PRESS FIT",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2906,
+    1222,
+    3386,
+    1265
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3926,
+    1286,
+    4028,
+    1358
+   ]
+  },
+  {
+   "key": "k5",
+   "text": ".375",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4226,
+    1336,
+    4322,
+    1372
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "45° (BASIC)",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2362,
+    1339,
+    2576,
+    1384
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "2.000 DIA ℄ (BASIC)",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2906,
+    1337,
+    3322,
+    1382
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "CHAMFER 45° × .156 (4)",
+   "kind": "chamfer",
+   "multiplier": 4,
+   "box": [
+    2906,
+    1444,
+    3336,
+    1488
+   ]
+  },
+  {
+   "key": "k9",
+   "text": ".256 - .263 HOLE (3)",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    1876,
+    1491,
+    2229,
+    1531
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "1.188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3164,
+    1654,
+    3257,
+    1694
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "1.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2878,
+    1666,
+    2986,
+    1704
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "1.260/1.240 DIA ℄",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4324,
+    1700,
+    4534,
+    1780
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "1.561/1.560",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1978,
+    1714,
+    2082,
+    1789
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "2.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3014,
+    1781,
+    3124,
+    1822
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "2.375",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3294,
+    1794,
+    3402,
+    1832
+   ]
+  },
+  {
+   "key": "k16",
+   "text": ".062R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    4228,
+    1961,
+    4364,
+    1999
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "125",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3270,
+    2004,
+    3364,
+    2082
+   ]
+  },
+  {
+   "key": "k18",
+   "text": ".2522 - .2532 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2906,
+    2042,
+    3275,
+    2080
+   ]
+  },
+  {
+   "key": "k19",
+   "text": ".250",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3906,
+    2034,
+    4004,
+    2072
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "4 HOLES EQUALLY SPACED WITHIN .001 OF TRUE LOCATION ▲ SEE NOTE 1.",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    1466,
+    2046,
+    2149,
+    2129
+   ]
+  },
+  {
+   "key": "k21",
+   "text": ".188R (6)",
+   "kind": "radius",
+   "multiplier": 6,
+   "box": [
+    2234,
+    2048,
+    2399,
+    2087
+   ]
+  },
+  {
+   "key": "k22",
+   "text": "1.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2531,
+    2156,
+    2639,
+    2199
+   ]
+  },
+  {
+   "key": "k23",
+   "text": ".281R (3)",
+   "kind": "radius",
+   "multiplier": 3,
+   "box": [
+    2186,
+    2160,
+    2374,
+    2202
+   ]
+  },
+  {
+   "key": "k24",
+   "text": "1.188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2848,
+    2251,
+    2944,
+    2289
+   ]
+  },
+  {
+   "key": "k25",
+   "text": "2.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2591,
+    2341,
+    2714,
+    2379
+   ]
+  },
+  {
+   "key": "k26",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3184,
+    2456,
+    3264,
+    2526
+   ]
+  },
+  {
+   "key": "k27",
+   "text": "1.630/1.614 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3020,
+    2474,
+    3200,
+    2550
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2991,
+    2576,
+    3064,
+    2639
+   ]
+  },
+  {
+   "key": "k29",
+   "text": ".116/.110 (CONST)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2638,
+    2601,
+    2856,
+    2674
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2777,
+    2701,
+    2849,
+    2764
+   ]
+  },
+  {
+   "key": "k31",
+   "text": "FULL R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2621,
+    2728,
+    2779,
+    2769
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "1.152/1.142 DIA ℄",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3040,
+    2676,
+    3224,
+    2784
+   ]
+  },
+  {
+   "key": "k33",
+   "text": ".092/.087",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2396,
+    2804,
+    2496,
+    2879
+   ]
+  },
+  {
+   "key": "k34",
+   "text": ".010R MAX (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    2306,
+    3061,
+    2579,
+    3104
+   ]
+  },
+  {
+   "key": "k35",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED (checked): RUBBER STAMP PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED; FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030; DIAMETERS MARKED ℄ MUST BE CONCENTRIC WITHIN .002 FULL INDICATOR READING; 125 √ SURFACE ROUGHNESS PER MIL-STD-10; 200 √ FOR ALL HOLES; REMOVE ALL BURRS. BREAK ALL EDGES .015-.031",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4986,
+    1010,
+    5392,
+    2872
+   ]
+  }
+ ],
+ "doubts": [
+  "title: no part name in the title block; drawing number LDW270M10008 rev B, LEM, scale FULL",
+  "k3: MS16562-189 PRESS FIT is a pin part number with an installation requirement; kept as a note, could be excluded as a hardware callout",
+  "k9: printed '.256×.263 HOLE (3)'; the × is read as a limit dash",
+  "k2: printed '.062-.065 HOLE ×.120-.130 DEEP'; × kept as printed",
+  "k7, k12, k32: '℄' stands for the Grumman concentricity marker (C with bar) defined in the standard block",
+  "k6, k7: printed (BASIC), not boxed; keyed as basic_dimension",
+  "k20: positional requirement written as a local note; keyed as note with multiplier 4",
+  "k10 and the second 1.188 / 1.000 / 2.000 pairs: two separate dimension sets (plan view horizontal and vertical); each printed value keyed once",
+  "k31: FULL R has no numeric value; keyed as radius",
+  "Not keyed: GRAIN DIRECTION OPTIONAL; note 1 (refers to LDW270M10009 and LDW270M10007 only); LDW270M10008-5 ASSY label; SECTION A-A SCALE 2X; (-7) find number; A3 and B1 revision balloons",
+  "k35: the 200 √ line reads 'FOR ALL [blacked out] HOLES'; blacked-out word unreadable"
+ ]
+}

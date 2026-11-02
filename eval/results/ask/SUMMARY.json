@@ -1,0 +1,593 @@
+{
+ "questions": 27,
+ "right": 21,
+ "by_kind": {
+  "list": {
+   "questions": 12,
+   "right": 6
+  },
+  "limits": {
+   "questions": 9,
+   "right": 9
+  },
+  "stack": {
+   "questions": 6,
+   "right": 6
+  }
+ },
+ "list_balloons_wanted": 91,
+ "list_balloons_found": 91,
+ "list_balloons_extra": 6,
+ "usd": 0.5058,
+ "results": [
+  {
+   "job": "bd20fca1920f",
+   "kind": "list",
+   "q": "Which balloons refer to datum A?",
+   "want": [
+    "14",
+    "19",
+    "20",
+    "31",
+    "4",
+    "41",
+    "43",
+    "48",
+    "68",
+    "75"
+   ],
+   "answer": "Balloons 4, 14, 19, 20, 31, 41, 43 and 48 specify datum A. Balloons 68 in all four places and 75 also specify datum A. Note balloon 6 describes datum feature A restraint.",
+   "cited": [
+    "14",
+    "19",
+    "20",
+    "31",
+    "4",
+    "41",
+    "43",
+    "48",
+    "6",
+    "68",
+    "75"
+   ],
+   "found": 10,
+   "extra": 1,
+   "right": false
+  },
+  {
+   "job": "bd20fca1920f",
+   "kind": "list",
+   "q": "Which balloons refer to datum B?",
+   "want": [
+    "14",
+    "19",
+    "20",
+    "31",
+    "4",
+    "41",
+    "48",
+    "68",
+    "75"
+   ],
+   "answer": "Balloons 4, 14, 19, 20, 31, 41, 48, 68 and 75 refer to datum B. Balloon 4 references A B C, balloons 14, 19, 20, 31, 41, 68 and 75 reference A B C, and balloon 48 references A B.",
+   "cited": [
+    "14",
+    "19",
+    "20",
+    "31",
+    "4",
+    "41",
+    "48",
+    "68",
+    "75"
+   ],
+   "found": 9,
+   "extra": 0,
+   "right": true
+  },
+  {
+   "job": "bd20fca1920f",
+   "kind": "list",
+   "q": "Which balloons are radius requirements?",
+   "want": [
+    "54",
+    "69"
+   ],
+   "answer": "Balloon 26 calls out 4X SR.094. Balloon 54 calls out 4X R.032 \u00b1.010. Balloon 69 calls out R.135.",
+   "cited": [
+    "26",
+    "54",
+    "69"
+   ],
+   "found": 2,
+   "extra": 1,
+   "right": false
+  },
+  {
+   "job": "bd20fca1920f",
+   "kind": "list",
+   "q": "Which balloons are GD&T feature control frame requirements?",
+   "want": [
+    "14",
+    "19",
+    "20",
+    "31",
+    "4",
+    "41",
+    "43",
+    "48",
+    "50",
+    "51",
+    "68",
+    "75"
+   ],
+   "answer": "The GD&T feature control frame requirements are balloons 4, 14, 19, 20, 31, 41, 43, 48, 50, 51, 68 and 75.",
+   "cited": [
+    "14",
+    "19",
+    "20",
+    "31",
+    "4",
+    "41",
+    "43",
+    "48",
+    "50",
+    "51",
+    "68",
+    "75"
+   ],
+   "found": 12,
+   "extra": 0,
+   "right": true
+  },
+  {
+   "job": "bd20fca1920f",
+   "kind": "list",
+   "q": "Among the size, depth, location and radius requirements (not GD&T frames), which balloons have the narrowest tolerance band?",
+   "want": [
+    "15",
+    "17",
+    "18",
+    "30",
+    "39",
+    "71"
+   ],
+   "answer": "The narrowest band is 0.010 inch. It is the diameter size in balloons 15, 17, 18, 30, 39 and 71. Depths in balloons 17, 18, 30, 39 and radii in balloon 54 are 0.020 inch. GD&T frames are excluded.",
+   "cited": [
+    "15",
+    "17",
+    "18",
+    "30",
+    "39",
+    "54",
+    "71"
+   ],
+   "found": 6,
+   "extra": 1,
+   "right": false
+  },
+  {
+   "job": "bd20fca1920f",
+   "kind": "limits",
+   "q": "What are the lower and upper limits of line 30.2?",
+   "want": [
+    "30.2"
+   ],
+   "lower": 0.09,
+   "upper": 0.11,
+   "answer": "Balloon 30 calls out depth .100 \u00b1 .010. The lower limit is 0.09 and the upper limit is 0.11.",
+   "cited": [
+    "30"
+   ],
+   "right": true
+  },
+  {
+   "job": "bd20fca1920f",
+   "kind": "limits",
+   "q": "What are the lower and upper limits of line 18.1?",
+   "want": [
+    "18.1"
+   ],
+   "lower": 0.182,
+   "upper": 0.192,
+   "answer": "Balloon 18, line 18.1 is size dia .182 to .192. Lower limit is 0.182 in. Upper limit is 0.192 in.",
+   "cited": [
+    "18"
+   ],
+   "right": true
+  },
+  {
+   "job": "bd20fca1920f",
+   "kind": "limits",
+   "q": "What are the lower and upper limits of line 54-2?",
+   "want": [
+    "54-2"
+   ],
+   "lower": 0.022,
+   "upper": 0.042,
+   "answer": "Balloon 54, line 54-2 is 4X R.032 \u00b1.010. Lower limit is 0.022. Upper limit is 0.042.",
+   "cited": [
+    "54"
+   ],
+   "right": true
+  },
+  {
+   "job": "bd20fca1920f",
+   "kind": "stack",
+   "q": "What is the worst-case range of line 71-2 plus line 17.1?",
+   "chain": {
+    "71-2": 1,
+    "17.1": 1
+   },
+   "answer": "Balloon 71 is 0.215 to 0.225 in. Balloon 17 is 0.245 to 0.255 in. The drawing does not state their sum.",
+   "cited": [
+    "17",
+    "71"
+   ],
+   "right": true
+  },
+  {
+   "job": "bd20fca1920f",
+   "kind": "stack",
+   "q": "What is the worst-case range of line 71-2 minus line 17.1?",
+   "chain": {
+    "71-2": 1,
+    "17.1": -1
+   },
+   "answer": "The drawing does not list a total for balloon 71 minus balloon 17. Use the stackup of 71-2 minus 17.1.",
+   "cited": [
+    "17",
+    "71"
+   ],
+   "right": true
+  },
+  {
+   "job": "e9f770195cba",
+   "kind": "list",
+   "q": "Which balloons are radius requirements?",
+   "want": [
+    "48",
+    "5",
+    "67"
+   ],
+   "answer": "The radius requirements are balloons 5.1, 5.2, 5.3, 48, and 67 (67-1 and 67-2).",
+   "cited": [
+    "48",
+    "5",
+    "67"
+   ],
+   "found": 3,
+   "extra": 0,
+   "right": true
+  },
+  {
+   "job": "e9f770195cba",
+   "kind": "list",
+   "q": "Among the size, depth, location and radius requirements (not GD&T frames), which balloons have the narrowest tolerance band?",
+   "want": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "13",
+    "32",
+    "47",
+    "69",
+    "70",
+    "9"
+   ],
+   "answer": "The narrowest tolerance band is 0.001 inch. It is shared by balloons 1, 9, 10, 11, 12, 13, 32, 47, 69 and 70. All other size, location and radius balloons with stated limits are wider.",
+   "cited": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "13",
+    "32",
+    "47",
+    "69",
+    "70",
+    "9"
+   ],
+   "found": 10,
+   "extra": 0,
+   "right": true
+  },
+  {
+   "job": "e9f770195cba",
+   "kind": "limits",
+   "q": "What are the lower and upper limits of line 1?",
+   "want": [
+    "1"
+   ],
+   "lower": 1.9945,
+   "upper": 1.9955,
+   "answer": "Line 1 lower limit is 1.9945 and upper limit is 1.9955 (balloon 1).",
+   "cited": [
+    "1"
+   ],
+   "right": true
+  },
+  {
+   "job": "e9f770195cba",
+   "kind": "limits",
+   "q": "What are the lower and upper limits of line 69?",
+   "want": [
+    "69"
+   ],
+   "lower": 1.67,
+   "upper": 1.671,
+   "answer": "Balloon 69 has lower limit 1.67 and upper limit 1.671.",
+   "cited": [
+    "69"
+   ],
+   "right": true
+  },
+  {
+   "job": "e9f770195cba",
+   "kind": "limits",
+   "q": "What are the lower and upper limits of line 9?",
+   "want": [
+    "9"
+   ],
+   "lower": 1.1595,
+   "upper": 1.1605,
+   "answer": "Balloon 9 has a lower limit of 1.1595 and an upper limit of 1.1605.",
+   "cited": [
+    "9"
+   ],
+   "right": true
+  },
+  {
+   "job": "e9f770195cba",
+   "kind": "stack",
+   "q": "What is the worst-case range of line 12 plus line 11?",
+   "chain": {
+    "12": 1,
+    "11": 1
+   },
+   "answer": "Balloon 11 is 1.1660 with limits 1.1655 to 1.1665. Balloon 12 is 1.1680 with limits 1.1675 to 1.1685. The worst-case range is their sum as in the stackup.",
+   "cited": [
+    "11",
+    "12"
+   ],
+   "right": true
+  },
+  {
+   "job": "e9f770195cba",
+   "kind": "stack",
+   "q": "What is the worst-case range of line 12 minus line 11?",
+   "chain": {
+    "12": 1,
+    "11": -1
+   },
+   "answer": "Worst case is balloon 12 minus balloon 11. See the chain for the stack-up. The drawing does not state the total.",
+   "cited": [
+    "11",
+    "12"
+   ],
+   "right": true
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "list",
+   "q": "Which balloons refer to datum A?",
+   "want": [
+    "14",
+    "19",
+    "20",
+    "32",
+    "4",
+    "40",
+    "43",
+    "49",
+    "70",
+    "77"
+   ],
+   "answer": "Balloons 4, 6, 14, 19, 20, 32, 40, 43, 49, 70, and 77 refer to datum A.",
+   "cited": [
+    "14",
+    "19",
+    "20",
+    "32",
+    "4",
+    "40",
+    "43",
+    "49",
+    "6",
+    "70",
+    "77"
+   ],
+   "found": 10,
+   "extra": 1,
+   "right": false
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "list",
+   "q": "Which balloons refer to datum B?",
+   "want": [
+    "14",
+    "19",
+    "20",
+    "32",
+    "4",
+    "40",
+    "49",
+    "70",
+    "77"
+   ],
+   "answer": "Balloons 4, 14, 19, 20, 32, 40, 49, 70 and 77 reference datum B in their datum sequences.",
+   "cited": [
+    "14",
+    "19",
+    "20",
+    "32",
+    "4",
+    "40",
+    "49",
+    "70",
+    "77"
+   ],
+   "found": 9,
+   "extra": 0,
+   "right": true
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "list",
+   "q": "Which balloons are radius requirements?",
+   "want": [
+    "54",
+    "71"
+   ],
+   "answer": "Radius requirements are balloons 26, 54, and 71. Balloon 26 is 4X SR.094, balloon 54 is 4X R.032 \u00b1.010, and balloon 71 is R.135.",
+   "cited": [
+    "26",
+    "54",
+    "71"
+   ],
+   "found": 2,
+   "extra": 1,
+   "right": false
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "list",
+   "q": "Which balloons are GD&T feature control frame requirements?",
+   "want": [
+    "14",
+    "19",
+    "20",
+    "32",
+    "4",
+    "40",
+    "43",
+    "48",
+    "49",
+    "51",
+    "70",
+    "77"
+   ],
+   "answer": "The GD&T feature control frame balloons are 4, 14, 19, 20, 32, 40, 43, 48, 49, 51, 70 and 77.",
+   "cited": [
+    "14",
+    "19",
+    "20",
+    "32",
+    "4",
+    "40",
+    "43",
+    "48",
+    "49",
+    "51",
+    "70",
+    "77"
+   ],
+   "found": 12,
+   "extra": 0,
+   "right": true
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "list",
+   "q": "Among the size, depth, location and radius requirements (not GD&T frames), which balloons have the narrowest tolerance band?",
+   "want": [
+    "15",
+    "17",
+    "18",
+    "31",
+    "38",
+    "73"
+   ],
+   "answer": "The narrowest stated band is 0.010 in. It occurs for balloons 15, 17, 18, 31, 38 and 73. All other stated size, depth and radius bands are 0.020 in.",
+   "cited": [
+    "15",
+    "17",
+    "18",
+    "31",
+    "38",
+    "54",
+    "73"
+   ],
+   "found": 6,
+   "extra": 1,
+   "right": false
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "limits",
+   "q": "What are the lower and upper limits of line 73-2?",
+   "want": [
+    "73-2"
+   ],
+   "lower": 0.215,
+   "upper": 0.225,
+   "answer": "Balloon 73, line 73-2 has a lower limit of 0.215 and an upper limit of 0.225.",
+   "cited": [
+    "73"
+   ],
+   "right": true
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "limits",
+   "q": "What are the lower and upper limits of line 73-4?",
+   "want": [
+    "73-4"
+   ],
+   "lower": 0.215,
+   "upper": 0.225,
+   "answer": "Balloon 73, line 73-4 is 4X diameter .215-.225. Its lower limit is 0.215 and upper limit is 0.225.",
+   "cited": [
+    "73"
+   ],
+   "right": true
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "limits",
+   "q": "What are the lower and upper limits of line 54-3?",
+   "want": [
+    "54-3"
+   ],
+   "lower": 0.022,
+   "upper": 0.042,
+   "answer": "Balloon 54-3 has lower limit 0.022 and upper limit 0.042.",
+   "cited": [
+    "54"
+   ],
+   "right": true
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "stack",
+   "q": "What is the worst-case range of line 18.1 plus line 31.2?",
+   "chain": {
+    "18.1": 1,
+    "31.2": 1
+   },
+   "answer": "Balloon 18 (18.1) is 0.245 to 0.255. Balloon 31 (31.2) is 0.090 to 0.110 depth. The drawing does not state their sum.",
+   "cited": [
+    "18",
+    "31"
+   ],
+   "right": true
+  },
+  {
+   "job": "880a653a1d04",
+   "kind": "stack",
+   "q": "What is the worst-case range of line 18.1 minus line 31.2?",
+   "chain": {
+    "18.1": 1,
+    "31.2": -1
+   },
+   "answer": "Balloon 18.1 is 0.245 to 0.255 in. Balloon 31.2 is 0.09 to 0.11 in. The worst-case is 18.1 minus 31.2.",
+   "cited": [
+    "18",
+    "31"
+   ],
+   "right": true
+  }
+ ]
+}

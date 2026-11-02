@@ -1,0 +1,1239 @@
+{
+ "id": "milstd_ms16562c",
+ "page": 1,
+ "width": 1725,
+ "height": 2162,
+ "dpi": 200,
+ "file": "data/raw/milstd/MS16562C.pdf",
+ "source": "hand",
+ "drawing_number": "MS16562C",
+ "title": "PIN, SPRING - TUBULAR, SLOTTED",
+ "distribution_statement": "DISTRIBUTION STATEMENT A. Approved for public release; distribution is unlimited.",
+ "doubts": [
+  "Table I: NOM SIZE column (size designation used to pick the row) excluded as an identifier column, like a dash number column; the part number example in requirement 5 and the FED. SUP CLASS box are also excluded.",
+  "Table I: RECOMMENDED HOLE SIZE MAX/MIN columns (24 cells) excluded because they size the mating hole, not the pin; add them if mating-hole recommendations count.",
+  "Table I: DOUBLE SHEAR STRENGTH LBS-MIN cells keyed as table note items (a minimum test value, not a dimension); drop them if only dimension cells count.",
+  "Table I: C CHAMFER MAX/MIN cells keyed as kind chamfer with multiplier 2 from the figure callout 'C, BOTH ENDS'; B CHAMFER DIA cells keyed as dimension with multiplier 1 although the chamfer is at both ends.",
+  "Table I: T WALL THICKNESS is printed NOM (no tolerance); keyed as dimension cells.",
+  "Readings: C MAX of the .062 row read as .026 (6 and 8 look alike in this font); C MAX of the .078 row is overstruck, read as .032.",
+  "Figure: the three *45° angles are marked APPROXIMATE; keyed as angle items, drop if approximate values are not inspectable.",
+  "Figure: letter-only dimensions (D1, D2, D3, D, B, L, T, C) carry no values on the figure, values are in Table I (L comes from Table II on a later page); not keyed as separate items.",
+  "k5: the MIN AVERAGE DIA = (D1+D2+D3)/3 definition keyed as a note since it sets how the D MIN AVG column is measured.",
+  "Requirement 5 (PART NUMBER) imposes no product requirement and is excluded.",
+  "Title block PROCUREMENT SPECIFICATION MIL-P-10971 keyed as a spec note, following the MS21919E key."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "*45°",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    433,
+    347,
+    476,
+    370
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "*45°",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    537,
+    346,
+    581,
+    370
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "80",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    936,
+    384,
+    964,
+    408
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "*45°",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    614,
+    428,
+    657,
+    452
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "MIN AVERAGE DIA. = (D1+D2+D3)/3",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    412,
+    640,
+    606,
+    722
+   ]
+  },
+  {
+   "key": "k6",
+   "text": ".069",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    892,
+    531,
+    913
+   ],
+   "table": true
+  },
+  {
+   "key": "k7",
+   "text": ".066",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    892,
+    615,
+    913
+   ],
+   "table": true
+  },
+  {
+   "key": "k8",
+   "text": ".026",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    891,
+    706,
+    912
+   ],
+   "table": true
+  },
+  {
+   "key": "k9",
+   "text": ".007",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    891,
+    797,
+    912
+   ],
+   "table": true
+  },
+  {
+   "key": "k10",
+   "text": ".059",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    890,
+    922,
+    911
+   ],
+   "table": true
+  },
+  {
+   "key": "k11",
+   "text": ".012",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    889,
+    1062,
+    910
+   ],
+   "table": true
+  },
+  {
+   "key": "k12",
+   "text": "425",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1212,
+    888,
+    1250,
+    909
+   ],
+   "table": true
+  },
+  {
+   "key": "k13",
+   "text": ".086",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    913,
+    531,
+    934
+   ],
+   "table": true
+  },
+  {
+   "key": "k14",
+   "text": ".083",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    913,
+    615,
+    934
+   ],
+   "table": true
+  },
+  {
+   "key": "k15",
+   "text": ".032",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    912,
+    706,
+    933
+   ],
+   "table": true
+  },
+  {
+   "key": "k16",
+   "text": ".008",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    912,
+    797,
+    933
+   ],
+   "table": true
+  },
+  {
+   "key": "k17",
+   "text": ".075",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    911,
+    922,
+    932
+   ],
+   "table": true
+  },
+  {
+   "key": "k18",
+   "text": ".018",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    910,
+    1062,
+    931
+   ],
+   "table": true
+  },
+  {
+   "key": "k19",
+   "text": "650",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1212,
+    909,
+    1251,
+    930
+   ],
+   "table": true
+  },
+  {
+   "key": "k20",
+   "text": ".103",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    935,
+    531,
+    956
+   ],
+   "table": true
+  },
+  {
+   "key": "k21",
+   "text": ".099",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    935,
+    615,
+    956
+   ],
+   "table": true
+  },
+  {
+   "key": "k22",
+   "text": ".038",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    934,
+    706,
+    955
+   ],
+   "table": true
+  },
+  {
+   "key": "k23",
+   "text": ".008",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    934,
+    797,
+    955
+   ],
+   "table": true
+  },
+  {
+   "key": "k24",
+   "text": ".091",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    933,
+    922,
+    954
+   ],
+   "table": true
+  },
+  {
+   "key": "k25",
+   "text": ".022",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    932,
+    1062,
+    953
+   ],
+   "table": true
+  },
+  {
+   "key": "k26",
+   "text": "1,000",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1194,
+    931,
+    1251,
+    952
+   ],
+   "table": true
+  },
+  {
+   "key": "k27",
+   "text": ".135",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    956,
+    531,
+    977
+   ],
+   "table": true
+  },
+  {
+   "key": "k28",
+   "text": ".131",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    956,
+    615,
+    977
+   ],
+   "table": true
+  },
+  {
+   "key": "k29",
+   "text": ".044",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    955,
+    706,
+    976
+   ],
+   "table": true
+  },
+  {
+   "key": "k30",
+   "text": ".008",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    955,
+    797,
+    976
+   ],
+   "table": true
+  },
+  {
+   "key": "k31",
+   "text": ".122",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    954,
+    922,
+    975
+   ],
+   "table": true
+  },
+  {
+   "key": "k32",
+   "text": ".028",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    953,
+    1062,
+    974
+   ],
+   "table": true
+  },
+  {
+   "key": "k33",
+   "text": "2,100",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1193,
+    952,
+    1252,
+    973
+   ],
+   "table": true
+  },
+  {
+   "key": "k34",
+   "text": ".167",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    976,
+    531,
+    997
+   ],
+   "table": true
+  },
+  {
+   "key": "k35",
+   "text": ".162",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    976,
+    615,
+    997
+   ],
+   "table": true
+  },
+  {
+   "key": "k36",
+   "text": ".048",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    975,
+    706,
+    996
+   ],
+   "table": true
+  },
+  {
+   "key": "k37",
+   "text": ".010",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    975,
+    797,
+    996
+   ],
+   "table": true
+  },
+  {
+   "key": "k38",
+   "text": ".151",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    974,
+    922,
+    995
+   ],
+   "table": true
+  },
+  {
+   "key": "k39",
+   "text": ".032",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    973,
+    1062,
+    994
+   ],
+   "table": true
+  },
+  {
+   "key": "k40",
+   "text": "3,000",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1193,
+    972,
+    1252,
+    993
+   ],
+   "table": true
+  },
+  {
+   "key": "k41",
+   "text": ".199",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    997,
+    531,
+    1018
+   ],
+   "table": true
+  },
+  {
+   "key": "k42",
+   "text": ".194",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    997,
+    615,
+    1018
+   ],
+   "table": true
+  },
+  {
+   "key": "k43",
+   "text": ".055",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    996,
+    706,
+    1017
+   ],
+   "table": true
+  },
+  {
+   "key": "k44",
+   "text": ".011",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    996,
+    797,
+    1017
+   ],
+   "table": true
+  },
+  {
+   "key": "k45",
+   "text": ".182",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    995,
+    922,
+    1016
+   ],
+   "table": true
+  },
+  {
+   "key": "k46",
+   "text": ".040",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    994,
+    1062,
+    1015
+   ],
+   "table": true
+  },
+  {
+   "key": "k47",
+   "text": "4,400",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1192,
+    993,
+    1251,
+    1014
+   ],
+   "table": true
+  },
+  {
+   "key": "k48",
+   "text": ".232",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    1038,
+    531,
+    1059
+   ],
+   "table": true
+  },
+  {
+   "key": "k49",
+   "text": ".226",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    1038,
+    615,
+    1059
+   ],
+   "table": true
+  },
+  {
+   "key": "k50",
+   "text": ".065",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    1037,
+    706,
+    1058
+   ],
+   "table": true
+  },
+  {
+   "key": "k51",
+   "text": ".011",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    1037,
+    797,
+    1058
+   ],
+   "table": true
+  },
+  {
+   "key": "k52",
+   "text": ".214",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    1036,
+    922,
+    1057
+   ],
+   "table": true
+  },
+  {
+   "key": "k53",
+   "text": ".048",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    1035,
+    1062,
+    1056
+   ],
+   "table": true
+  },
+  {
+   "key": "k54",
+   "text": "5,700",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1193,
+    1034,
+    1252,
+    1055
+   ],
+   "table": true
+  },
+  {
+   "key": "k55",
+   "text": ".264",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    1059,
+    531,
+    1080
+   ],
+   "table": true
+  },
+  {
+   "key": "k56",
+   "text": ".258",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    1059,
+    615,
+    1080
+   ],
+   "table": true
+  },
+  {
+   "key": "k57",
+   "text": ".065",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    1058,
+    706,
+    1079
+   ],
+   "table": true
+  },
+  {
+   "key": "k58",
+   "text": ".012",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    1058,
+    797,
+    1079
+   ],
+   "table": true
+  },
+  {
+   "key": "k59",
+   "text": ".245",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    1057,
+    922,
+    1078
+   ],
+   "table": true
+  },
+  {
+   "key": "k60",
+   "text": ".048",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    1056,
+    1062,
+    1077
+   ],
+   "table": true
+  },
+  {
+   "key": "k61",
+   "text": "7,700",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1191,
+    1055,
+    1251,
+    1076
+   ],
+   "table": true
+  },
+  {
+   "key": "k62",
+   "text": ".328",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    1079,
+    531,
+    1100
+   ],
+   "table": true
+  },
+  {
+   "key": "k63",
+   "text": ".321",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    1079,
+    615,
+    1100
+   ],
+   "table": true
+  },
+  {
+   "key": "k64",
+   "text": ".080",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    1078,
+    706,
+    1099
+   ],
+   "table": true
+  },
+  {
+   "key": "k65",
+   "text": ".014",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    1078,
+    797,
+    1099
+   ],
+   "table": true
+  },
+  {
+   "key": "k66",
+   "text": ".306",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    1077,
+    922,
+    1098
+   ],
+   "table": true
+  },
+  {
+   "key": "k67",
+   "text": ".062",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    1076,
+    1062,
+    1097
+   ],
+   "table": true
+  },
+  {
+   "key": "k68",
+   "text": "11,500",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1181,
+    1075,
+    1251,
+    1096
+   ],
+   "table": true
+  },
+  {
+   "key": "k69",
+   "text": ".392",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    1100,
+    531,
+    1121
+   ],
+   "table": true
+  },
+  {
+   "key": "k70",
+   "text": ".385",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    1100,
+    615,
+    1121
+   ],
+   "table": true
+  },
+  {
+   "key": "k71",
+   "text": ".095",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    1099,
+    706,
+    1120
+   ],
+   "table": true
+  },
+  {
+   "key": "k72",
+   "text": ".016",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    1099,
+    797,
+    1120
+   ],
+   "table": true
+  },
+  {
+   "key": "k73",
+   "text": ".368",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    1098,
+    922,
+    1119
+   ],
+   "table": true
+  },
+  {
+   "key": "k74",
+   "text": ".077",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    1097,
+    1062,
+    1118
+   ],
+   "table": true
+  },
+  {
+   "key": "k75",
+   "text": "17,600",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1181,
+    1096,
+    1251,
+    1117
+   ],
+   "table": true
+  },
+  {
+   "key": "k76",
+   "text": ".456",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    1121,
+    531,
+    1142
+   ],
+   "table": true
+  },
+  {
+   "key": "k77",
+   "text": ".448",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    1121,
+    615,
+    1142
+   ],
+   "table": true
+  },
+  {
+   "key": "k78",
+   "text": ".095",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    1120,
+    706,
+    1141
+   ],
+   "table": true
+  },
+  {
+   "key": "k79",
+   "text": ".017",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    1120,
+    797,
+    1141
+   ],
+   "table": true
+  },
+  {
+   "key": "k80",
+   "text": ".430",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    1119,
+    922,
+    1140
+   ],
+   "table": true
+  },
+  {
+   "key": "k81",
+   "text": ".077",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    1118,
+    1062,
+    1139
+   ],
+   "table": true
+  },
+  {
+   "key": "k82",
+   "text": "20,000",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1181,
+    1117,
+    1251,
+    1138
+   ],
+   "table": true
+  },
+  {
+   "key": "k83",
+   "text": ".521",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    1142,
+    531,
+    1163
+   ],
+   "table": true
+  },
+  {
+   "key": "k84",
+   "text": ".513",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    1142,
+    615,
+    1163
+   ],
+   "table": true
+  },
+  {
+   "key": "k85",
+   "text": ".110",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    1141,
+    706,
+    1162
+   ],
+   "table": true
+  },
+  {
+   "key": "k86",
+   "text": ".025",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    751,
+    1141,
+    797,
+    1162
+   ],
+   "table": true
+  },
+  {
+   "key": "k87",
+   "text": ".485",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    1140,
+    922,
+    1161
+   ],
+   "table": true
+  },
+  {
+   "key": "k88",
+   "text": ".094",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1016,
+    1139,
+    1062,
+    1160
+   ],
+   "table": true
+  },
+  {
+   "key": "k89",
+   "text": "25,800",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1181,
+    1138,
+    1251,
+    1159
+   ],
+   "table": true
+  },
+  {
+   "key": "k90",
+   "text": "1. MATERIAL: STEEL, CARBON, GRADES 1070 THRU 1095 (UNS G10700 THRU G10950) IN ACCORDANCE WITH PROCUREMENT SPECIFICATION. STEEL, CORROSION-RESISTANT, TYPES 410(UNS S41000) AND 420 (UNS S42000) IN ACCORDANCE WITH PROCUREMENT SPECIFICATION.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    400,
+    1207,
+    1548,
+    1321
+   ]
+  },
+  {
+   "key": "k91",
+   "text": "2. SURFACE ROUGHNESS: SURFACE ROUGHNESS SHALL BE IN ACCORDANCE WITH ANSI B46.1 BEFORE MEETING PROTECTIVE COATING AND SURFACE TREATMENT REQUIREMENT.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    400,
+    1330,
+    1510,
+    1382
+   ]
+  },
+  {
+   "key": "k92",
+   "text": "3. PROTECTIVE COATING AND SURFACE TREATMENT: CARBON STEEL-CADMIUM PLATED IN ACCORDANCE WITH QQ-P-416, TYPE II, CLASS 2. PHOSPHATE COATED IN ACCORDANCE WITH DOD-P-16232, TYPE Z, CLASS 2. CORROSION-RESISTANT STEEL-CLEANED, DESCALED AND PASSIVATED IN ACCORDANCE WITH ASTM A380.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    400,
+    1394,
+    1546,
+    1530
+   ]
+  },
+  {
+   "key": "k93",
+   "text": "4. HARDNESS: CARBON STEEL-46 TO 53 HRC. CORROSION-RESISTANT STEEL-43 TO 52 HRC.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    400,
+    1530,
+    1090,
+    1584
+   ]
+  },
+  {
+   "key": "k94",
+   "text": "PROCUREMENT SPECIFICATION MIL-P-10971",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    360,
+    1970,
+    600,
+    2003
+   ]
+  }
+ ]
+}

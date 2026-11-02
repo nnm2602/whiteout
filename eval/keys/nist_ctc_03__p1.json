@@ -1,0 +1,321 @@
+{
+ "id": "nist_ctc_03",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ctc/nist_ctc_03_asme1_rc.pdf",
+ "source": "official",
+ "drawing_number": "nist_ctc_03_asme1_rc",
+ "title": "PMI Complex Test Case 3",
+ "doubts": [
+  "STR2 'SWITCH MOUNTING LOCATIONS' under the 4X ⌀.625 callout only names the holes and does not change a requirement; excluded.",
+  "k22 STR1 '2 COPLANAR SURFACES' kept as a note item qualifying k21 T12; both take multiplier 2.",
+  "k1 D1 '4X .82 ±.06' has a dimension origin symbol on its dimension line; text written without it.",
+  "k18 T9 '⌖|.03|D|B|C' sits on dimension lines with no dimension value (unidirectional position); no separate dimension keyed.",
+  "Frames with an attached datum feature symbol (T5 with D, T12 with A, T7 with E, T6 with F): the rotated axis-aligned frame box overlaps part of the datum symbol.",
+  "Black commentary 'Datum Feature F not referenced - justifies placing MCS at center of large hole on flange' is explanation; excluded.",
+  "Excluded DF1 to DF6 datum feature symbols and CS1, CS2, CS3 coordinate systems."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "D1",
+   "text": "4X .82 ±.06",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    1515,
+    1295,
+    1655,
+    1365
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "D2",
+   "text": "(.750)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    628,
+    516,
+    730,
+    600
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "D3",
+   "text": "⌀2.00 ±.01",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1113,
+    453,
+    1222,
+    528
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "D4",
+   "text": "⌀.438 ±.005",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1735,
+    1176,
+    1849,
+    1289
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D5",
+   "text": "⌀.438 ±.005",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1741,
+    862,
+    1859,
+    946
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "D6",
+   "text": "⌀1.065 ±.003",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    608,
+    1081,
+    766,
+    1204
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "D7",
+   "text": "⌀1.500 ±.005",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1400,
+    1340,
+    1528,
+    1429
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "D8",
+   "text": "2X ⌀.438 ±.005",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    564,
+    193,
+    718,
+    293
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "D9",
+   "text": "4X ⌀.625 ±.005",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    408,
+    785,
+    555,
+    902
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T1",
+   "text": "∠|.04|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    661,
+    1214,
+    768,
+    1370
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "T2",
+   "text": "⌖|⌀.06|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1071,
+    446,
+    1252,
+    582
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "T3",
+   "text": "⊥|⌀.01|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1735,
+    1189,
+    1865,
+    1310
+   ]
+  },
+  {
+   "key": "k13",
+   "official_id": "T4",
+   "text": "⌖|⌀.02|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1741,
+    874,
+    1891,
+    1006
+   ]
+  },
+  {
+   "key": "k14",
+   "official_id": "T5",
+   "text": "⌓|.03|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    485,
+    667,
+    687,
+    787
+   ]
+  },
+  {
+   "key": "k15",
+   "official_id": "T6",
+   "text": "⊥|⌀.01|E",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    608,
+    1090,
+    766,
+    1211
+   ]
+  },
+  {
+   "key": "k16",
+   "official_id": "T7",
+   "text": "⌓|.06|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    778,
+    1266,
+    936,
+    1526
+   ]
+  },
+  {
+   "key": "k17",
+   "official_id": "T8",
+   "text": "⏥|.005/.25 X .25",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    661,
+    1261,
+    866,
+    1516
+   ]
+  },
+  {
+   "key": "k18",
+   "official_id": "T9",
+   "text": "⌖|.03|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1302,
+    1362,
+    1503,
+    1518
+   ]
+  },
+  {
+   "key": "k19",
+   "official_id": "T10",
+   "text": "⌖|⌀.08|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1367,
+    1358,
+    1575,
+    1518
+   ]
+  },
+  {
+   "key": "k20",
+   "official_id": "T11",
+   "text": "⌖|⌀.05Ⓜ|A|BⓂ|CⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    472,
+    160,
+    718,
+    337
+   ]
+  },
+  {
+   "key": "k21",
+   "official_id": "T12",
+   "text": "⌓|.01",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1764,
+    683,
+    1876,
+    756
+   ]
+  },
+  {
+   "key": "k22",
+   "official_id": "STR1",
+   "text": "2 COPLANAR SURFACES",
+   "kind": "note",
+   "multiplier": 2,
+   "box": [
+    1761,
+    731,
+    1926,
+    823
+   ]
+  },
+  {
+   "key": "k23",
+   "official_id": "T13",
+   "text": "⌖|⌀.05Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    407,
+    801,
+    610,
+    968
+   ]
+  }
+ ]
+}

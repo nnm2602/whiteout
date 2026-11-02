@@ -1,0 +1,197 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 1,
+ "true_missed_visible": 0,
+ "key": "apollo_b503_n0057__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 56,
+ "found": 83,
+ "first_read_hits": 54,
+ "final_hits": 54,
+ "hits_inside_larger_callout": 1,
+ "baseline_hits": 13,
+ "baseline_found": 25,
+ "exact_text": 32,
+ "multiplier_right": 53,
+ "audit_added": 3,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k6",
+   "text": "1.2100",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1513,
+    1331,
+    1674,
+    1369
+   ],
+   "table": true
+  },
+  {
+   "key": "k49",
+   "text": "ELECTRO ETCH PART NO. AND ACTUAL A DIA PER LSP-14-4706 ON TAB ONLY. USE BOTH SIDES IF NECESSARY.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1957,
+    2427,
+    2471,
+    2597
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "6",
+   "box": [
+    2312,
+    970,
+    2331,
+    1000
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "5",
+   "box": [
+    2821,
+    968,
+    2841,
+    998
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA \u00b1.0005",
+   "box": [
+    1477,
+    1040,
+    1699,
+    1080
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-27 1.2260",
+   "box": [
+    1395,
+    1656,
+    1678,
+    1695
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-23 1.2220",
+   "box": [
+    1395,
+    1576,
+    1678,
+    1616
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA C",
+   "box": [
+    3250,
+    2505,
+    3408,
+    2541
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-19 1.2180",
+   "box": [
+    1395,
+    1497,
+    1678,
+    1537
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "NAS 9-1100",
+   "box": [
+    4488,
+    3691,
+    4713,
+    3742
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "ES MARKED \u25b2 SEE DWG LDW270M10004 AND M10005 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    3860,
+    2891,
+    5004,
+    2961
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "FOR THIS PART IS SIMILAR 70M10003.",
+   "box": [
+    4072,
+    3033,
+    4650,
+    3138
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "3. TOOLING FOR THIS PART IS SIMILAR TO LDW270M10003.",
+   "box": [
+    3817,
+    3034,
+    4135,
+    3101
+   ],
+   "found_in": "audit-1",
+   "multiplier": 1
+  },
+  {
+   "text": "-15 1.2140",
+   "box": [
+    1422,
+    1426,
+    1459,
+    1454
+   ],
+   "found_in": "audit-2",
+   "multiplier": 1
+  },
+  {
+   "text": "-17 1.2160",
+   "box": [
+    1421,
+    1470,
+    1460,
+    1497
+   ],
+   "found_in": "audit-2",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 21.133066177368164,
+  "read": 866.0604820251465,
+  "audit": 1717.1760227680206,
+  "total": 2605.095767736435
+ }
+}

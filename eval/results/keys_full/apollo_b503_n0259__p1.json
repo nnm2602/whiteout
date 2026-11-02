@@ -1,0 +1,107 @@
+{
+ "key": "apollo_b503_n0259__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 38,
+ "found": 51,
+ "first_read_hits": 33,
+ "final_hits": 33,
+ "baseline_hits": 20,
+ "baseline_found": 31,
+ "exact_text": 27,
+ "multiplier_right": 33,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k13",
+   "text": "MINOR DIA .1560-.1641",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    1525,
+    1874,
+    1935,
+    1907
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "TAP 10-32 UNF-3B",
+   "kind": "thread",
+   "multiplier": 4,
+   "box": [
+    1525,
+    1908,
+    1855,
+    1942
+   ]
+  },
+  {
+   "key": "k34",
+   "text": "MINOR DIA 1.8700-1.8783",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1603,
+    2920,
+    2070,
+    2957
+   ]
+  },
+  {
+   "key": "k35",
+   "text": "1.9375-16 UN-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    1603,
+    2956,
+    1912,
+    2992
+   ]
+  },
+  {
+   "key": "k37",
+   "text": "CSK 90\u00b0\u00d71.982 DIA",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1603,
+    3023,
+    1990,
+    3060
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "SEE NOTE 1",
+   "box": [
+    3410,
+    1415,
+    3643,
+    1443
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "SAME AS -11 EXCEPT SHOWN",
+   "box": [
+    1091,
+    1532,
+    1489,
+    1563
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 23.59837007522583,
+  "read": 63.77666115760803,
+  "audit": 55.6532039642334,
+  "total": 143.39347100257874
+ }
+}

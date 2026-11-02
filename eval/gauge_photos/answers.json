@@ -1,0 +1,290 @@
+[
+ {
+  "file": "gauge_00.jpg",
+  "display": "32.736",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "micrometer",
+  "glare": false
+ },
+ {
+  "file": "gauge_01.jpg",
+  "display": "0.2198",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_02.jpg",
+  "display": "0.9995",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_03.jpg",
+  "display": "69.14",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "caliper",
+  "glare": true
+ },
+ {
+  "file": "gauge_04.jpg",
+  "display": "0.5393",
+  "negative": false,
+  "unit": "in",
+  "instrument": "micrometer",
+  "glare": false
+ },
+ {
+  "file": "gauge_05.jpg",
+  "display": "1.0542",
+  "negative": true,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_06.jpg",
+  "display": "44.18",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_07.jpg",
+  "display": "0.4344",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_08.jpg",
+  "display": "2.4967",
+  "negative": false,
+  "unit": "in",
+  "instrument": "micrometer",
+  "glare": false
+ },
+ {
+  "file": "gauge_09.jpg",
+  "display": "21.03",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "caliper",
+  "glare": true
+ },
+ {
+  "file": "gauge_10.jpg",
+  "display": "0.1465",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_11.jpg",
+  "display": "1.2983",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_12.jpg",
+  "display": "7.052",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "micrometer",
+  "glare": false
+ },
+ {
+  "file": "gauge_13.jpg",
+  "display": "2.7390",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_14.jpg",
+  "display": "3.4565",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_15.jpg",
+  "display": "27.65",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "caliper",
+  "glare": true
+ },
+ {
+  "file": "gauge_16.jpg",
+  "display": "0.0846",
+  "negative": true,
+  "unit": "in",
+  "instrument": "micrometer",
+  "glare": false
+ },
+ {
+  "file": "gauge_17.jpg",
+  "display": "2.8697",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_18.jpg",
+  "display": "2.40",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_19.jpg",
+  "display": "1.5131",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_20.jpg",
+  "display": "0.6169",
+  "negative": false,
+  "unit": "in",
+  "instrument": "micrometer",
+  "glare": false
+ },
+ {
+  "file": "gauge_21.jpg",
+  "display": "55.74",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "caliper",
+  "glare": true
+ },
+ {
+  "file": "gauge_22.jpg",
+  "display": "3.5545",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_23.jpg",
+  "display": "3.8741",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_24.jpg",
+  "display": "69.927",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "micrometer",
+  "glare": false
+ },
+ {
+  "file": "gauge_25.jpg",
+  "display": "0.2908",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_26.jpg",
+  "display": "0.8255",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_27.jpg",
+  "display": "50.06",
+  "negative": true,
+  "unit": "mm",
+  "instrument": "caliper",
+  "glare": true
+ },
+ {
+  "file": "gauge_28.jpg",
+  "display": "1.1112",
+  "negative": false,
+  "unit": "in",
+  "instrument": "micrometer",
+  "glare": false
+ },
+ {
+  "file": "gauge_29.jpg",
+  "display": "3.3421",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_30.jpg",
+  "display": "63.36",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_31.jpg",
+  "display": "1.6613",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_32.jpg",
+  "display": "3.7144",
+  "negative": false,
+  "unit": "in",
+  "instrument": "micrometer",
+  "glare": false
+ },
+ {
+  "file": "gauge_33.jpg",
+  "display": "19.69",
+  "negative": false,
+  "unit": "mm",
+  "instrument": "caliper",
+  "glare": true
+ },
+ {
+  "file": "gauge_34.jpg",
+  "display": "1.4795",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ },
+ {
+  "file": "gauge_35.jpg",
+  "display": "3.6075",
+  "negative": false,
+  "unit": "in",
+  "instrument": "caliper",
+  "glare": false
+ }
+]

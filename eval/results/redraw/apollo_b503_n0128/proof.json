@@ -1,0 +1,222 @@
+[
+ {
+  "box": [
+   1673,
+   1917,
+   1797,
+   1964
+  ],
+  "kind": "added",
+  "redraw": ".750 C",
+  "scan": ".750"
+ },
+ {
+  "box": [
+   1114,
+   1929,
+   1167,
+   1970
+  ],
+  "kind": "added",
+  "redraw": "c",
+  "scan": ""
+ },
+ {
+  "box": [
+   1726,
+   2152,
+   1847,
+   2190
+  ],
+  "kind": "added",
+  "redraw": ".062 62",
+  "scan": ".062"
+ },
+ {
+  "box": [
+   2179,
+   2152,
+   2294,
+   2193
+  ],
+  "kind": "added",
+  "redraw": "C .062",
+  "scan": ".062"
+ },
+ {
+  "box": [
+   2223,
+   2282,
+   2312,
+   2326
+  ],
+  "kind": "added",
+  "redraw": "IZ .125",
+  "scan": ".125"
+ },
+ {
+  "box": [
+   4808,
+   2311,
+   5075,
+   2346
+  ],
+  "kind": "wrong text",
+  "redraw": "FOR A OLES",
+  "scan": "FOR ALL HOLES"
+ },
+ {
+  "box": [
+   1682,
+   2475,
+   1797,
+   2505
+  ],
+  "kind": "added",
+  "redraw": ".500R",
+  "scan": ""
+ },
+ {
+  "box": [
+   4862,
+   2499,
+   4902,
+   2528
+  ],
+  "kind": "added",
+  "redraw": "\u2022",
+  "scan": ""
+ },
+ {
+  "box": [
+   1646,
+   2500,
+   1806,
+   2524
+  ],
+  "kind": "added",
+  "redraw": ".500R",
+  "scan": ""
+ },
+ {
+  "box": [
+   1132,
+   2628,
+   1194,
+   2663
+  ],
+  "kind": "added",
+  "redraw": "8",
+  "scan": ""
+ },
+ {
+  "box": [
+   2699,
+   2628,
+   2827,
+   2663
+  ],
+  "kind": "added",
+  "redraw": "4\u00b0 45\u00b0(2)",
+  "scan": "45\u00b0(2)"
+ },
+ {
+  "box": [
+   2658,
+   2637,
+   2720,
+   2674
+  ],
+  "kind": "added",
+  "redraw": "4\u00b0",
+  "scan": ""
+ },
+ {
+  "box": [
+   2920,
+   2671,
+   2974,
+   2714
+  ],
+  "kind": "added",
+  "redraw": "8",
+  "scan": ""
+ },
+ {
+  "box": [
+   5083,
+   2674,
+   5155,
+   3097
+  ],
+  "kind": "wrong text",
+  "redraw": "LDW270MIC031",
+  "scan": "LDW270M1C031"
+ },
+ {
+  "box": [
+   2672,
+   2680,
+   2736,
+   2727
+  ],
+  "kind": "added",
+  "redraw": "4\u00b0",
+  "scan": ""
+ },
+ {
+  "box": [
+   3025,
+   2848,
+   3073,
+   2886
+  ],
+  "kind": "added",
+  "redraw": "O",
+  "scan": ""
+ },
+ {
+  "box": [
+   1158,
+   3273,
+   1203,
+   3309
+  ],
+  "kind": "added",
+  "redraw": "A",
+  "scan": ""
+ },
+ {
+  "box": [
+   4693,
+   3438,
+   5030,
+   3509
+  ],
+  "kind": "wrong text",
+  "redraw": "LDW270MICC31",
+  "scan": "LDW270M1C031"
+ },
+ {
+  "box": [
+   4505,
+   3513,
+   4679,
+   3545
+  ],
+  "kind": "wrong text",
+  "redraw": "END ITEM",
+  "scan": "SCALE FULL"
+ },
+ {
+  "box": [
+   1176,
+   3565,
+   1353,
+   3591
+  ],
+  "kind": "wrong text",
+  "redraw": "BKG 73-3 6-6644",
+  "scan": "ENG 73-3 6-64"
+ }
+]

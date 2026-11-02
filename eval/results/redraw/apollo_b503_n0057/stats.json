@@ -1,0 +1,50 @@
+{
+ "sheet_px": [
+  6400,
+  4466
+ ],
+ "region": [
+  1003,
+  934,
+  5174,
+  3619
+ ],
+ "text": {
+  "tiles": 25,
+  "raw_items": 517,
+  "lines_read": 212,
+  "glyph_height_px": [
+   29,
+   29
+  ],
+  "joined_split": 0,
+  "order_fixed": 0,
+  "cut_to_one_row": 1,
+  "resnapped": 2,
+  "grown": 2,
+  "width_fixed": 1,
+  "dropped_copies_or_no_ink": 15,
+  "from_job": 56,
+  "placed": 196,
+  "placed_snapped": 191,
+  "rotated": 2,
+  "glyphs_not_in_font": 0
+ },
+ "lines": {
+  "line_width_px": 3.0,
+  "thin_px": 3.0,
+  "thick_px": 5.0,
+  "lines": 944,
+  "arcs": 40,
+  "circles": 8,
+  "polylines": 24,
+  "fills": 405
+ },
+ "faithfulness": {
+  "line_ink_covered": 0.9928,
+  "drawn_on_line_ink": 1.0,
+  "drawn_on_any_ink": 1.0,
+  "tolerance_px": 3
+ },
+ "usd": 0.0
+}

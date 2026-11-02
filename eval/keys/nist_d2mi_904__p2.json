@@ -1,0 +1,560 @@
+{
+ "id": "nist_d2mi_904",
+ "page": 2,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-904 rev c.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": "2.500",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    813,
+    65,
+    913,
+    96
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "2X .825",
+   "kind": "basic_dimension",
+   "multiplier": 2,
+   "box": [
+    651,
+    104,
+    778,
+    138
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "2X .250",
+   "kind": "basic_dimension",
+   "multiplier": 2,
+   "box": [
+    457,
+    155,
+    587,
+    189
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "2X ⌀.370 - .380",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    1203,
+    68,
+    1465,
+    94
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "⌖|⌀.005Ⓛ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1190,
+    96,
+    1467,
+    132
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "4X .050",
+   "kind": "basic_dimension",
+   "multiplier": 4,
+   "box": [
+    1155,
+    145,
+    1284,
+    179
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "⌀.182 - .192 ↧.250 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1603,
+    104,
+    2028,
+    132
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1618,
+    133,
+    1900,
+    167
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "⌴ ⌀.245 - .255 ↧.100 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1578,
+    165,
+    2050,
+    194
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1613,
+    196,
+    1900,
+    232
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "4X .050",
+   "kind": "basic_dimension",
+   "multiplier": 4,
+   "box": [
+    1438,
+    278,
+    1569,
+    312
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "5X .050",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    1768,
+    280,
+    1897,
+    314
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "2.738",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    233,
+    450,
+    332,
+    483
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "2X 1.750",
+   "kind": "basic_dimension",
+   "multiplier": 2,
+   "box": [
+    313,
+    536,
+    459,
+    570
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "2X 1.000",
+   "kind": "basic_dimension",
+   "multiplier": 2,
+   "box": [
+    466,
+    601,
+    610,
+    635
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "2.016",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1846,
+    513,
+    1946,
+    547
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "1.680",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1718,
+    543,
+    1817,
+    575
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "1.344",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1608,
+    571,
+    1707,
+    605
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "1.008",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1486,
+    601,
+    1587,
+    634
+   ]
+  },
+  {
+   "key": "k20",
+   "text": ".672",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1388,
+    630,
+    1470,
+    664
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "4X ⌀.188",
+   "kind": "basic_dimension",
+   "multiplier": 4,
+   "box": [
+    400,
+    755,
+    560,
+    794
+   ]
+  },
+  {
+   "key": "k22",
+   "text": "⌀.145 - .155 ↧.100 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1328,
+    759,
+    1747,
+    788
+   ]
+  },
+  {
+   "key": "k23",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1343,
+    794,
+    1630,
+    830
+   ]
+  },
+  {
+   "key": "k24",
+   "text": "⌴ ⌀.245 - .255 ↧.125 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1301,
+    833,
+    1770,
+    862
+   ]
+  },
+  {
+   "key": "k25",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1343,
+    863,
+    1630,
+    899
+   ]
+  },
+  {
+   "key": "k26",
+   "text": "2.375",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    803,
+    878,
+    900,
+    912
+   ]
+  },
+  {
+   "key": "k27",
+   "text": "4.037",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    948,
+    953,
+    1047,
+    987
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "5X 3.912",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    913,
+    1003,
+    1059,
+    1037
+   ]
+  },
+  {
+   "key": "k29",
+   "text": "5X 1.412",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    526,
+    1053,
+    670,
+    1087
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "5X 45°",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    910,
+    1086,
+    1024,
+    1119
+   ]
+  },
+  {
+   "key": "k31",
+   "text": "∠|.008|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    659,
+    1107,
+    820,
+    1142
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "5X .050",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    1386,
+    1078,
+    1515,
+    1112
+   ]
+  },
+  {
+   "key": "k33",
+   "text": "5X .050",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    1600,
+    1146,
+    1729,
+    1179
+   ]
+  },
+  {
+   "key": "k34",
+   "text": ".268",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    408,
+    1218,
+    490,
+    1252
+   ]
+  },
+  {
+   "key": "k35",
+   "text": "7X .518",
+   "kind": "basic_dimension",
+   "multiplier": 7,
+   "box": [
+    1385,
+    1271,
+    1514,
+    1305
+   ]
+  },
+  {
+   "key": "k36",
+   "text": "⊥|.010|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    183,
+    1392,
+    377,
+    1427
+   ]
+  },
+  {
+   "key": "k37",
+   "text": ".168",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    458,
+    1392,
+    542,
+    1425
+   ]
+  },
+  {
+   "key": "k38",
+   "text": "⌓|.016",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1705,
+    1372,
+    1838,
+    1406
+   ]
+  },
+  {
+   "key": "k39",
+   "text": "⏥|.005",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1705,
+    1402,
+    1838,
+    1436
+   ]
+  },
+  {
+   "key": "k40",
+   "text": "4X SR.094",
+   "kind": "basic_dimension",
+   "multiplier": 4,
+   "box": [
+    2478,
+    380,
+    2637,
+    412
+   ]
+  },
+  {
+   "key": "k41",
+   "text": "4X .768",
+   "kind": "basic_dimension",
+   "multiplier": 4,
+   "box": [
+    2964,
+    520,
+    3094,
+    554
+   ]
+  },
+  {
+   "key": "k42",
+   "text": ".134",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2831,
+    1251,
+    2914,
+    1282
+   ]
+  },
+  {
+   "key": "k43",
+   "text": ".138",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2108,
+    1391,
+    2190,
+    1424
+   ]
+  },
+  {
+   "key": "k44",
+   "text": "4 SURFACES",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2385,
+    1442,
+    2557,
+    1468
+   ]
+  },
+  {
+   "key": "k45",
+   "text": "4X R.032 ±.010",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    2413,
+    1735,
+    2639,
+    1763
+   ]
+  }
+ ],
+ "doubts": [
+  "All linear and angular values on this sheet are framed, so they are keyed basic_dimension, including 5X 45° (k30) and 4X SR.094 (k40) which could also be read as angle and radius",
+  "k4: 2X ⌀.370 - .380 is the outside diameter of the two bosses (external, LMC position), keyed dimension rather than hole_callout",
+  "k21: 4X ⌀.188 is a framed basic diameter for the four pins, keyed basic_dimension",
+  "k31: angularity frame ∠|.008|A has no count; it points to one fin chamfer face although five fins share the 5X 45° chamfer; multiplier 1",
+  "k38/k39: composite-looking stack ⌓|.016 over ⏥|.005 with no datums, attached to the datum A face; keyed as two separate frames",
+  "k44: 4 SURFACES is a datum A qualifier under the right view; included as a note per the when-in-doubt rule",
+  "Balloon 3 (flag note marker), datum letters A, B, C, section and view labels and SEE SHEET 3 are not keyed"
+ ]
+}

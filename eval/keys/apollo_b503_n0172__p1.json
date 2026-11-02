@@ -1,0 +1,335 @@
+{
+ "id": "apollo_b503_n0172",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0172.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10041",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "items": [
+  {
+   "key": "k1",
+   "text": ".179 - .185 HOLE (4)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    2800,
+    1688,
+    3158,
+    1725
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "1.140/1.100",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3578,
+    1717,
+    3689,
+    1789
+   ]
+  },
+  {
+   "key": "k3",
+   "text": ".920/.880",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2389,
+    1808,
+    2491,
+    1879
+   ]
+  },
+  {
+   "key": "k4",
+   "text": ".580/.540",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3508,
+    1904,
+    3611,
+    1979
+   ]
+  },
+  {
+   "key": "k5",
+   "text": ".165",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2605,
+    1978,
+    2690,
+    2012
+   ]
+  },
+  {
+   "key": "k6",
+   "text": ".312 R (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    3636,
+    2021,
+    3800,
+    2062
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "2.000 R (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    3903,
+    2044,
+    4128,
+    2089
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "GROOVE PER GG11C-103H EXCEPT AS SHOWN *",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2867,
+    2050,
+    3146,
+    2196
+   ]
+  },
+  {
+   "key": "k9",
+   "text": ".530/.520 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2133,
+    2121,
+    2300,
+    2191
+   ]
+  },
+  {
+   "key": "k10",
+   "text": ".110",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3242,
+    2200,
+    3325,
+    2242
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "1.520/1.480",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4300,
+    2200,
+    4419,
+    2275
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".545/.535",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3858,
+    2203,
+    3956,
+    2277
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "1.085/1.075",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4000,
+    2304,
+    4125,
+    2381
+   ]
+  },
+  {
+   "key": "k14",
+   "text": ".770/.730",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3075,
+    2363,
+    3169,
+    2437
+   ]
+  },
+  {
+   "key": "k15",
+   "text": ".110",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3246,
+    2388,
+    3325,
+    2429
+   ]
+  },
+  {
+   "key": "k16",
+   "text": ".673/.667 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2767,
+    2404,
+    2936,
+    2483
+   ]
+  },
+  {
+   "key": "k17",
+   "text": ".630/.620 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1996,
+    2442,
+    2164,
+    2512
+   ]
+  },
+  {
+   "key": "k18",
+   "text": ".060",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3342,
+    2579,
+    3447,
+    2616
+   ]
+  },
+  {
+   "key": "k19",
+   "text": ".060",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3808,
+    2579,
+    3904,
+    2612
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "CHAMFER 45° × .125 (4)",
+   "kind": "chamfer",
+   "multiplier": 4,
+   "box": [
+    4058,
+    2596,
+    4500,
+    2642
+   ]
+  },
+  {
+   "key": "k21",
+   "text": ".082/.088 *",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2595,
+    2634,
+    2746,
+    2717
+   ]
+  },
+  {
+   "key": "k22",
+   "text": ".060 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2042,
+    2642,
+    2200,
+    2679
+   ]
+  },
+  {
+   "key": "k23",
+   "text": ".355/.345",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3789,
+    2663,
+    3881,
+    2733
+   ]
+  },
+  {
+   "key": "k24",
+   "text": "THIS SURFACE TO BE FLAT WITHIN .005",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2813,
+    2688,
+    3219,
+    2792
+   ]
+  },
+  {
+   "key": "k25",
+   "text": ".705/.695",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3596,
+    2796,
+    3692,
+    2867
+   ]
+  },
+  {
+   "key": "k26",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED (checked): FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030; 125 √ SURFACE ROUGHNESS PER MIL-STD-10; 200 √ FOR ALL HOLES; REMOVE ALL BURRS. BREAK ALL EDGES .015-.031",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4788,
+    1003,
+    5202,
+    2835
+   ]
+  }
+ ],
+ "doubts": [
+  "title: no part name in the title block; drawing number LDW270M10041 (revision cell blank), LM, scale NOTED",
+  "k24: the last digit of .005 looks overwritten and a handwritten '2' sits below it; the value may have been revised to .002",
+  "k21: printed '.082' over '.088' with an asterisk; lower value larger than upper, both read clearly, so the order is unusual (maybe .082 min/.088 max); the * ties it to the GROOVE PER GG11C-103H note",
+  "k8: GG11C-103H spec reading; first characters could be GG11C or GGIIC",
+  "k1: printed '.179-.185 HOLE (4)', limit dash spaced per format",
+  "Not keyed: GRAIN DIRECTION OPTIONAL; SCALE 2/1 and SCALE 1/1 labels; (-11) find number balloon; inset view at top left has no dimensions",
+  "k26: only fillet radii, 125 roughness, 200 for all holes and remove burrs lines carry check marks; the PART NUMBER line has an unreadable first word and no check; 200 line has a blacked-out word"
+ ]
+}

@@ -1,0 +1,494 @@
+{
+ "step": "data/raw/model_edits/nist_ftc_11_edited.stp",
+ "model_units": "mm",
+ "drawing_units": "mm",
+ "scale": 1.0,
+ "matched": [
+  {
+   "model": {
+    "id": "#113",
+    "type": "radius",
+    "text": "2X R0.1",
+    "count": 2,
+    "unit": "mm",
+    "name": "radius",
+    "nominal": 0.1,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c0",
+    "number": "1",
+    "text": "2X R0.1 MAX",
+    "box": [
+     391,
+     690,
+     586,
+     714
+    ],
+    "sheet": 1,
+    "zone": "",
+    "kind": "radius",
+    "requirement": 0,
+    "requirement_text": "2X R0.1 MAX",
+    "nominal": 0.1,
+    "lower": null,
+    "upper": null,
+    "count": 2,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#51",
+    "type": "location",
+    "text": "1.93 ±0.08",
+    "count": 1,
+    "unit": "mm",
+    "name": "linear distance",
+    "nominal": 1.925,
+    "lower": 1.845,
+    "upper": 2.005
+   },
+   "drawing": {
+    "id": "s1c3",
+    "number": "4",
+    "text": "1.93 ±0.08",
+    "box": [
+     1542,
+     750,
+     1727,
+     807
+    ],
+    "sheet": 1,
+    "zone": "",
+    "kind": "dimension",
+    "requirement": 0,
+    "requirement_text": "1.93 ±0.08",
+    "nominal": 1.93,
+    "lower": 1.8499999999999999,
+    "upper": 2.01,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#110",
+    "type": "reference",
+    "text": "2X (197.9)",
+    "count": 2,
+    "unit": "mm",
+    "name": "curve length",
+    "nominal": 197.920337176,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s0c6",
+    "number": "12",
+    "text": "(197.9)",
+    "box": [
+     1184,
+     1406,
+     1253,
+     1435
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "reference_dimension",
+    "requirement": 0,
+    "requirement_text": "(197.9)",
+    "nominal": 197.9,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 2,
+    "drawing": 1
+   }
+  },
+  {
+   "model": {
+    "id": "#72",
+    "type": "gdt",
+    "text": "↗|1.2Ⓕ|A|B",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "circular_runout",
+    "value": 1.2,
+    "datums": [
+     "A",
+     "B"
+    ],
+    "modifiers": [
+     "Ⓕ"
+    ]
+   },
+   "drawing": {
+    "id": "s0c11",
+    "number": "10",
+    "text": "runout | 1.2Ⓕ | A | B",
+    "box": [
+     457,
+     1108,
+     700,
+     1223
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "runout | 1.2Ⓕ | A | B",
+    "nominal": 1.2,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  }
+ ],
+ "differs": [
+  {
+   "model": {
+    "id": "#109",
+    "type": "size",
+    "text": "⌀32.0",
+    "count": 1,
+    "unit": "mm",
+    "name": "diameter",
+    "nominal": 32.0,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s0c4",
+    "number": "6",
+    "text": "Ø32 ±0.3 AVG (I.D.)",
+    "box": [
+     1109,
+     486,
+     1313,
+     622
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "dimension",
+    "requirement": 0,
+    "requirement_text": "Ø32 ±0.3 AVG (I.D.)",
+    "nominal": 32.0,
+    "lower": 31.7,
+    "upper": 32.3,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance",
+     "model": "none",
+     "drawing": "±0.3"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#112",
+    "type": "radius",
+    "text": "2X R1.5 ±0.08",
+    "count": 2,
+    "unit": "mm",
+    "name": "radius",
+    "nominal": 1.5,
+    "lower": 1.42,
+    "upper": 1.58
+   },
+   "drawing": {
+    "id": "s0c5",
+    "number": "11",
+    "text": "2X R1.5 ±0.04",
+    "box": [
+     1690,
+     1195,
+     1835,
+     1294
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "radius",
+    "requirement": 0,
+    "requirement_text": "2X R1.5 ±0.04",
+    "nominal": 1.5,
+    "lower": 1.46,
+    "upper": 1.54,
+    "count": 2,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance",
+     "model": "±0.08",
+     "drawing": "±0.04"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#111",
+    "type": "size",
+    "text": "⌀66.2 ±0.5",
+    "count": 1,
+    "unit": "mm",
+    "name": "diameter",
+    "nominal": 66.15,
+    "lower": 65.65,
+    "upper": 66.65
+   },
+   "drawing": {
+    "id": "s0c3",
+    "number": "3",
+    "text": "Ø63 ±0.5 AVG (O.D.)",
+    "box": [
+     1103,
+     377,
+     1319,
+     520
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "dimension",
+    "requirement": 0,
+    "requirement_text": "Ø63 ±0.5 AVG (O.D.)",
+    "nominal": 63.0,
+    "lower": 62.5,
+    "upper": 63.5,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "nominal",
+     "model": "66.2",
+     "drawing": "63.0"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#53",
+    "type": "gdt",
+    "text": "⌓|0.6Ⓕ|A|B",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "surface_profile",
+    "value": 0.6,
+    "datums": [
+     "A",
+     "B"
+    ],
+    "modifiers": [
+     "Ⓕ"
+    ]
+   },
+   "drawing": {
+    "id": "s1c1",
+    "number": "3",
+    "text": "⍍ 0.3Ⓕ A B",
+    "box": [
+     1097,
+     649,
+     1347,
+     705
+    ],
+    "sheet": 1,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⍍ 0.3Ⓕ A B",
+    "nominal": 0.3,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance value",
+     "model": "0.6",
+     "drawing": "0.3"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#52",
+    "type": "gdt",
+    "text": "⏥|0.3Ⓕ",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "flatness",
+    "value": 0.3,
+    "datums": [],
+    "modifiers": [
+     "Ⓕ"
+    ]
+   },
+   "drawing": {
+    "id": "s1c2",
+    "number": "5",
+    "text": "0.3 F",
+    "box": [
+     924,
+     936,
+     1081,
+     980
+    ],
+    "sheet": 1,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "0.3 F",
+    "nominal": 0.3,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "datums",
+     "model": "none",
+     "drawing": "F"
+    }
+   ]
+  }
+ ],
+ "model_only": [],
+ "drawing_only": [
+  {
+   "id": "s0c7",
+   "number": "7",
+   "text": "○ | 1.2Ⓕ",
+   "box": [
+    1209,
+    556,
+    1265,
+    604
+   ],
+   "sheet": 0,
+   "zone": "",
+   "kind": "gdt_frame",
+   "requirement": 0,
+   "requirement_text": "○ | 1.2Ⓕ",
+   "nominal": 1.2,
+   "lower": null,
+   "upper": null,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  },
+  {
+   "id": "s0c10",
+   "number": "8",
+   "text": "○ | 1.2Ⓕ",
+   "box": [
+    1369,
+    571,
+    1495,
+    662
+   ],
+   "sheet": 0,
+   "zone": "",
+   "kind": "gdt_frame",
+   "requirement": 0,
+   "requirement_text": "○ | 1.2Ⓕ",
+   "nominal": 1.2,
+   "lower": null,
+   "upper": null,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  },
+  {
+   "id": "s1c4",
+   "number": "2",
+   "text": "0.3 F A B",
+   "box": [
+    1042,
+    632,
+    1292,
+    677
+   ],
+   "sheet": 1,
+   "zone": "",
+   "kind": "gdt_frame",
+   "requirement": 0,
+   "requirement_text": "0.3 F A B",
+   "nominal": 0.3,
+   "lower": null,
+   "upper": null,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  }
+ ],
+ "repeats": {
+  "model": [],
+  "drawing": []
+ },
+ "warnings": [],
+ "model_without_value": [],
+ "not_compared": [
+  {
+   "id": "s0c0",
+   "kind": "note",
+   "text": "2. DIRECTLY-TOLERANCED DIMENSIONS AND BASIC DIMENSIONS DEFINED ON THE DRAWING TAKE PRECEDENCE OVER DIMENSIONAL DATA DEFINED BY THE MODEL. OBTAIN ALL OTHER DIMENSIONAL DATA FROM THE MODEL. THE MODEL REPRESENTS BASIC DIMENSIONAL DATA UNLESS OTHERWISE SPECIFIED.",
+   "sheet": 0
+  },
+  {
+   "id": "s0c1",
+   "kind": "note",
+   "text": "1. CAD MODEL __________ REV. __ IS REQUIRED TO COMPLETE PRODUCT DEFINITION.",
+   "sheet": 0
+  },
+  {
+   "id": "s0c2",
+   "kind": "note",
+   "text": "5. UNITS: MILLIMETERS",
+   "sheet": 0
+  },
+  {
+   "id": "s0c8",
+   "kind": "note",
+   "text": "3. APPLICABLE STANDARDS: ASME Y14.41-2003 APPLIES TO DATASET. ASME Y14.5M-1994 APPLIES TO DIMENSIONING AND TOLERANCING.",
+   "sheet": 0
+  },
+  {
+   "id": "s0c9",
+   "kind": "note",
+   "text": "4. NON-RIGID PART. DIRECTLY-TOLERANCED DIMENSIONS AND TOLERANCES APPLY IN FREE STATE.",
+   "sheet": 0
+  }
+ ],
+ "summary": {
+  "model_pmi": 9,
+  "drawing_requirements": 12,
+  "matched": 4,
+  "differs": 5,
+  "model_only": 0,
+  "drawing_only": 3,
+  "repeats_model": 0,
+  "repeats_drawing": 0,
+  "not_compared": 5
+ }
+}

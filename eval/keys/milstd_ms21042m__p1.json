@@ -1,0 +1,1810 @@
+{
+ "id": "milstd_ms21042m",
+ "page": 1,
+ "width": 1700,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/milstd/MS21042M.pdf",
+ "source": "hand",
+ "drawing_number": "MS21042M",
+ "title": "NUT, SELF-LOCKING, 450°F, REDUCED HEXAGON, REDUCED HEIGHT, RING BASE, NON-CORROSION RESISTANT STEEL",
+ "distribution_statement": "A. Approved for public release: distribution is unlimited",
+ "doubts": [
+  "Table cells are keyed as printed in this scan: most decimal points did not survive the scan (for example 167 is .167, thread 086-56UNJC-3B is .086-56UNJC-3B); the few visible points (.347, .252, .243) are kept.",
+  "Tables: SIZE DASH NO columns and the WEIGHT LB/100 MAX column excluded as part number and weight columns.",
+  "Tables: merged cells keyed once each (G 031/006 spans -06,-08,-3; G 042/008 spans -5,-6; H MAX 188 spans -08,-3; J 010 spans -02 to -06; J 015 spans -08,-3; X 003 spans -04 to -4; X 004 spans -5,-6).",
+  "Tables: X (bearing surface squareness from note b) cells keyed as dimension kind; AXIAL STRENGTH LB MIN and WRENCHING TORQUE TEST VALUES IN LB MIN cells keyed as table note items (test values, not dimensions); drop them if only dimension cells count.",
+  "Readings: AXIAL STRENGTH of -02 is blurred, read as 660 (could be 880; 660 fits a #2 thread at 180 ksi); A MAX of -6 read as 620; D MAX of -4/-5/-6 read as printed 386/482/575 although they equal the B MIN values.",
+  "Figure: letter-only dimensions (A, B, C, D, E, F, G, H, J, L, T, W) carry no values on the figure; values are in the tables, so no separate figure items. L has no value on page 1.",
+  "Figure: permissive callouts excluded (RADIUS OR CHAMFER; RADIUS, CHAMFER OR SQUARE; TOOL MARK OR DISTORTION PERMISSIBLE IN LOCKING AREA; CONCAVED OR CONICAL SURFACE BETWEEN TOP OF RING BASE WRENCHING CORNERS, AND AREA BETWEEN CORNERS).",
+  "Notes (d) MINIMUM LENGTH OF EACH WRENCHING CORNER and (e) MINIMUM DISTANCE FROM THE WASHER FACE ... are definitions of E and F and are excluded; (c) is kept because it sets that W is measured including the locking deformation.",
+  "k1: vertical left-margin acquisition statement naming MIL-N-25027 keyed as a spec note (the sheet's procurement specification); drop if margin text is out of scope. The '(M) DENOTES CHANGES' line, INCH-POUND box and title block fields are excluded."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "THE REQUIREMENTS FOR ACQUIRING THE PRODUCT(S) DESCRIBED HEREIN SHALL CONSIST OF THIS SPECIFICATION SHEET AND THE ISSUE OF THE FOLLOWING SPECIFICATION LISTED IN THAT ISSUE OF THE DODISS SPECIFIED IN THE SOLICITATION MIL-N-25027",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    99,
+    105,
+    163,
+    999
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "DESIGN OF WRENCHING PAD FACES BETWEEN WRENCHING CORNERS IS OPTIONAL IF THE WRENCHING CORNERS ARE WITHIN THE LIMITS OF E, W AND C BEFORE LUBRICATION AND THE LIMIT OF THE AREA BETWEEN THE CORNERS IS WITHIN THE MAXIMUM LIMIT OF W FOR THE E LENGTH WRENCHING CORNERS, BEFORE LUBRICATION",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    362,
+    241,
+    940,
+    319
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "COUNTERSINK COUNTER BORE OR RADIUS RELIEF TO THREAD T WITHIN LIMITS OF DIMENSIONS D AND G",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1258,
+    390,
+    1455,
+    470
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "MANUFACTURER'S IDENTIFICATION REQUIRED FOR SIZES 1640-32 AND LARGER SIZES 1380-32 AND SMALLER AT MANUFACTURER'S OPTION (POSITION OPTIONAL)",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    278,
+    643,
+    647,
+    711
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "086-56UNJC-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    487,
+    832,
+    627,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k6",
+   "text": "167",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    680,
+    832,
+    720,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k7",
+   "text": "137",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    755,
+    832,
+    792,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k8",
+   "text": "138",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    827,
+    832,
+    865,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k9",
+   "text": "106",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    901,
+    832,
+    938,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k10",
+   "text": "088",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    972,
+    832,
+    1010,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k11",
+   "text": "045",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1045,
+    832,
+    1083,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k12",
+   "text": "019",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1117,
+    832,
+    1156,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k13",
+   "text": "021",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1190,
+    832,
+    1229,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k14",
+   "text": "004",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1264,
+    832,
+    1303,
+    850
+   ],
+   "table": true
+  },
+  {
+   "key": "k15",
+   "text": "1120-40UNJC-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    487,
+    853,
+    638,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k16",
+   "text": "206",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    680,
+    853,
+    720,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k17",
+   "text": "176",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    755,
+    853,
+    792,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k18",
+   "text": "171",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    827,
+    853,
+    865,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k19",
+   "text": "142",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    901,
+    853,
+    938,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k20",
+   "text": "112",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    972,
+    853,
+    1010,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k21",
+   "text": "050",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1045,
+    853,
+    1083,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k22",
+   "text": "028",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1117,
+    853,
+    1156,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k23",
+   "text": "027",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1190,
+    853,
+    1229,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k24",
+   "text": "005",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1264,
+    853,
+    1303,
+    872
+   ],
+   "table": true
+  },
+  {
+   "key": "k25",
+   "text": "1380-32UNJC-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    487,
+    875,
+    638,
+    895
+   ],
+   "table": true
+  },
+  {
+   "key": "k26",
+   "text": "244",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    680,
+    875,
+    720,
+    895
+   ],
+   "table": true
+  },
+  {
+   "key": "k27",
+   "text": "214",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    755,
+    875,
+    792,
+    895
+   ],
+   "table": true
+  },
+  {
+   "key": "k28",
+   "text": "207",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    827,
+    875,
+    865,
+    895
+   ],
+   "table": true
+  },
+  {
+   "key": "k29",
+   "text": "168",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    901,
+    875,
+    938,
+    895
+   ],
+   "table": true
+  },
+  {
+   "key": "k30",
+   "text": "138",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    972,
+    875,
+    1010,
+    895
+   ],
+   "table": true
+  },
+  {
+   "key": "k31",
+   "text": "055",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1045,
+    875,
+    1083,
+    895
+   ],
+   "table": true
+  },
+  {
+   "key": "k32",
+   "text": "039",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1117,
+    875,
+    1156,
+    895
+   ],
+   "table": true
+  },
+  {
+   "key": "k33",
+   "text": "1640-32UNJC-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    487,
+    898,
+    638,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k34",
+   "text": "290",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    680,
+    898,
+    720,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k35",
+   "text": "260",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    755,
+    898,
+    792,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k36",
+   "text": "244",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    827,
+    898,
+    865,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k37",
+   "text": "194",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    901,
+    898,
+    938,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k38",
+   "text": "164",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    972,
+    898,
+    1010,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k39",
+   "text": "060",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1045,
+    898,
+    1083,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k40",
+   "text": "041",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1117,
+    898,
+    1156,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k41",
+   "text": "031",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1190,
+    897,
+    1229,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k42",
+   "text": "006",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1264,
+    897,
+    1303,
+    917
+   ],
+   "table": true
+  },
+  {
+   "key": "k43",
+   "text": "1900-32UNJF-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    487,
+    919,
+    638,
+    938
+   ],
+   "table": true
+  },
+  {
+   "key": "k44",
+   "text": "330",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    680,
+    919,
+    720,
+    938
+   ],
+   "table": true
+  },
+  {
+   "key": "k45",
+   "text": "290",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    755,
+    919,
+    792,
+    938
+   ],
+   "table": true
+  },
+  {
+   "key": "k46",
+   "text": "277",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    827,
+    919,
+    865,
+    938
+   ],
+   "table": true
+  },
+  {
+   "key": "k47",
+   "text": "220",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    901,
+    919,
+    938,
+    938
+   ],
+   "table": true
+  },
+  {
+   "key": "k48",
+   "text": "190",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    972,
+    919,
+    1010,
+    938
+   ],
+   "table": true
+  },
+  {
+   "key": "k49",
+   "text": "065",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1045,
+    919,
+    1083,
+    938
+   ],
+   "table": true
+  },
+  {
+   "key": "k50",
+   "text": "043",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1117,
+    919,
+    1156,
+    938
+   ],
+   "table": true
+  },
+  {
+   "key": "k51",
+   "text": "2500-28UNJF-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    487,
+    940,
+    638,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k52",
+   "text": "420",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    680,
+    940,
+    720,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k53",
+   "text": "386",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    755,
+    940,
+    792,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k54",
+   "text": ".347",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    827,
+    940,
+    865,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k55",
+   "text": "386",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    901,
+    940,
+    938,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k56",
+   "text": "250",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    972,
+    940,
+    1010,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k57",
+   "text": "090",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1045,
+    940,
+    1083,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k58",
+   "text": "057",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1117,
+    940,
+    1156,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k59",
+   "text": "036",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1190,
+    940,
+    1229,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k60",
+   "text": "007",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1264,
+    940,
+    1303,
+    960
+   ],
+   "table": true
+  },
+  {
+   "key": "k61",
+   "text": "3125-24UNJF-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    487,
+    961,
+    638,
+    980
+   ],
+   "table": true
+  },
+  {
+   "key": "k62",
+   "text": "520",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    680,
+    961,
+    720,
+    980
+   ],
+   "table": true
+  },
+  {
+   "key": "k63",
+   "text": "482",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    755,
+    961,
+    792,
+    980
+   ],
+   "table": true
+  },
+  {
+   "key": "k64",
+   "text": "419",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    827,
+    961,
+    865,
+    980
+   ],
+   "table": true
+  },
+  {
+   "key": "k65",
+   "text": "482",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    901,
+    961,
+    938,
+    980
+   ],
+   "table": true
+  },
+  {
+   "key": "k66",
+   "text": "312",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    972,
+    961,
+    1010,
+    980
+   ],
+   "table": true
+  },
+  {
+   "key": "k67",
+   "text": "120",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1045,
+    961,
+    1083,
+    980
+   ],
+   "table": true
+  },
+  {
+   "key": "k68",
+   "text": "077",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1117,
+    961,
+    1156,
+    980
+   ],
+   "table": true
+  },
+  {
+   "key": "k69",
+   "text": "042",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1190,
+    970,
+    1229,
+    990
+   ],
+   "table": true
+  },
+  {
+   "key": "k70",
+   "text": "008",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1264,
+    970,
+    1303,
+    990
+   ],
+   "table": true
+  },
+  {
+   "key": "k71",
+   "text": "3750-24UNJF-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    487,
+    983,
+    638,
+    1002
+   ],
+   "table": true
+  },
+  {
+   "key": "k72",
+   "text": "620",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    680,
+    983,
+    720,
+    1002
+   ],
+   "table": true
+  },
+  {
+   "key": "k73",
+   "text": "575",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    755,
+    983,
+    792,
+    1002
+   ],
+   "table": true
+  },
+  {
+   "key": "k74",
+   "text": "491",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    827,
+    983,
+    865,
+    1002
+   ],
+   "table": true
+  },
+  {
+   "key": "k75",
+   "text": "575",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    901,
+    983,
+    938,
+    1002
+   ],
+   "table": true
+  },
+  {
+   "key": "k76",
+   "text": "375",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    972,
+    983,
+    1010,
+    1002
+   ],
+   "table": true
+  },
+  {
+   "key": "k77",
+   "text": "125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1045,
+    983,
+    1083,
+    1002
+   ],
+   "table": true
+  },
+  {
+   "key": "k78",
+   "text": "089",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1117,
+    983,
+    1156,
+    1002
+   ],
+   "table": true
+  },
+  {
+   "key": "k79",
+   "text": "100",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    501,
+    1099,
+    539,
+    1119
+   ],
+   "table": true
+  },
+  {
+   "key": "k80",
+   "text": "080",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    573,
+    1099,
+    612,
+    1119
+   ],
+   "table": true
+  },
+  {
+   "key": "k81",
+   "text": "010",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    645,
+    1121,
+    685,
+    1142
+   ],
+   "table": true
+  },
+  {
+   "key": "k82",
+   "text": "127",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    717,
+    1099,
+    758,
+    1119
+   ],
+   "table": true
+  },
+  {
+   "key": "k83",
+   "text": "122",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    792,
+    1099,
+    832,
+    1119
+   ],
+   "table": true
+  },
+  {
+   "key": "k84",
+   "text": "0025",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    866,
+    1099,
+    912,
+    1120
+   ],
+   "table": true
+  },
+  {
+   "key": "k85",
+   "text": "660",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    974,
+    1099,
+    1011,
+    1119
+   ],
+   "table": true
+  },
+  {
+   "key": "k86",
+   "text": "5",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1229,
+    1099,
+    1246,
+    1119
+   ],
+   "table": true
+  },
+  {
+   "key": "k87",
+   "text": "125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    501,
+    1122,
+    539,
+    1144
+   ],
+   "table": true
+  },
+  {
+   "key": "k88",
+   "text": "103",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    573,
+    1122,
+    612,
+    1144
+   ],
+   "table": true
+  },
+  {
+   "key": "k89",
+   "text": "158",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    717,
+    1122,
+    758,
+    1144
+   ],
+   "table": true
+  },
+  {
+   "key": "k90",
+   "text": "150",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    792,
+    1122,
+    832,
+    1144
+   ],
+   "table": true
+  },
+  {
+   "key": "k91",
+   "text": "003",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    865,
+    1165,
+    903,
+    1187
+   ],
+   "table": true
+  },
+  {
+   "key": "k92",
+   "text": "1,110",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    955,
+    1122,
+    1011,
+    1144
+   ],
+   "table": true
+  },
+  {
+   "key": "k93",
+   "text": "10",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1219,
+    1122,
+    1250,
+    1144
+   ],
+   "table": true
+  },
+  {
+   "key": "k94",
+   "text": "141",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    501,
+    1145,
+    539,
+    1166
+   ],
+   "table": true
+  },
+  {
+   "key": "k95",
+   "text": "115",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    573,
+    1145,
+    612,
+    1166
+   ],
+   "table": true
+  },
+  {
+   "key": "k96",
+   "text": "190",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    717,
+    1145,
+    758,
+    1166
+   ],
+   "table": true
+  },
+  {
+   "key": "k97",
+   "text": "181",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    792,
+    1145,
+    832,
+    1166
+   ],
+   "table": true
+  },
+  {
+   "key": "k98",
+   "text": "1,670",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    955,
+    1145,
+    1011,
+    1166
+   ],
+   "table": true
+  },
+  {
+   "key": "k99",
+   "text": "20",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1219,
+    1145,
+    1250,
+    1166
+   ],
+   "table": true
+  },
+  {
+   "key": "k100",
+   "text": "188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    506,
+    1178,
+    538,
+    1197
+   ],
+   "table": true
+  },
+  {
+   "key": "k101",
+   "text": "125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    573,
+    1167,
+    612,
+    1188
+   ],
+   "table": true
+  },
+  {
+   "key": "k102",
+   "text": "015",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    645,
+    1175,
+    685,
+    1197
+   ],
+   "table": true
+  },
+  {
+   "key": "k103",
+   "text": "221",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    717,
+    1167,
+    758,
+    1188
+   ],
+   "table": true
+  },
+  {
+   "key": "k104",
+   "text": "213",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    792,
+    1167,
+    832,
+    1188
+   ],
+   "table": true
+  },
+  {
+   "key": "k105",
+   "text": "2,490",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    955,
+    1167,
+    1011,
+    1188
+   ],
+   "table": true
+  },
+  {
+   "key": "k106",
+   "text": "30",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1219,
+    1167,
+    1250,
+    1188
+   ],
+   "table": true
+  },
+  {
+   "key": "k107",
+   "text": "154",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    573,
+    1188,
+    612,
+    1209
+   ],
+   "table": true
+  },
+  {
+   "key": "k108",
+   "text": ".252",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    717,
+    1188,
+    758,
+    1209
+   ],
+   "table": true
+  },
+  {
+   "key": "k109",
+   "text": ".243",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    792,
+    1188,
+    832,
+    1209
+   ],
+   "table": true
+  },
+  {
+   "key": "k110",
+   "text": "3,470",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    955,
+    1188,
+    1011,
+    1209
+   ],
+   "table": true
+  },
+  {
+   "key": "k111",
+   "text": "60",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1219,
+    1188,
+    1250,
+    1209
+   ],
+   "table": true
+  },
+  {
+   "key": "k112",
+   "text": "219",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    501,
+    1209,
+    539,
+    1231
+   ],
+   "table": true
+  },
+  {
+   "key": "k113",
+   "text": "204",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    573,
+    1209,
+    612,
+    1231
+   ],
+   "table": true
+  },
+  {
+   "key": "k114",
+   "text": "019",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    645,
+    1209,
+    686,
+    1231
+   ],
+   "table": true
+  },
+  {
+   "key": "k115",
+   "text": "316",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    717,
+    1209,
+    758,
+    1231
+   ],
+   "table": true
+  },
+  {
+   "key": "k116",
+   "text": "304",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    792,
+    1209,
+    832,
+    1231
+   ],
+   "table": true
+  },
+  {
+   "key": "k117",
+   "text": "6,200",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    955,
+    1209,
+    1011,
+    1231
+   ],
+   "table": true
+  },
+  {
+   "key": "k118",
+   "text": "150",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1212,
+    1209,
+    1256,
+    1231
+   ],
+   "table": true
+  },
+  {
+   "key": "k119",
+   "text": "266",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    501,
+    1231,
+    539,
+    1253
+   ],
+   "table": true
+  },
+  {
+   "key": "k120",
+   "text": "251",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    573,
+    1231,
+    612,
+    1253
+   ],
+   "table": true
+  },
+  {
+   "key": "k121",
+   "text": "023",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    645,
+    1231,
+    686,
+    1253
+   ],
+   "table": true
+  },
+  {
+   "key": "k122",
+   "text": "378",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    717,
+    1231,
+    758,
+    1253
+   ],
+   "table": true
+  },
+  {
+   "key": "k123",
+   "text": "367",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    792,
+    1231,
+    832,
+    1253
+   ],
+   "table": true
+  },
+  {
+   "key": "k124",
+   "text": "004",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    865,
+    1239,
+    903,
+    1261
+   ],
+   "table": true
+  },
+  {
+   "key": "k125",
+   "text": "9,820",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    955,
+    1231,
+    1011,
+    1253
+   ],
+   "table": true
+  },
+  {
+   "key": "k126",
+   "text": "330",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1212,
+    1231,
+    1256,
+    1253
+   ],
+   "table": true
+  },
+  {
+   "key": "k127",
+   "text": "282",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    501,
+    1253,
+    539,
+    1275
+   ],
+   "table": true
+  },
+  {
+   "key": "k128",
+   "text": "267",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    573,
+    1253,
+    612,
+    1275
+   ],
+   "table": true
+  },
+  {
+   "key": "k129",
+   "text": "030",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    645,
+    1253,
+    686,
+    1275
+   ],
+   "table": true
+  },
+  {
+   "key": "k130",
+   "text": "440",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    717,
+    1253,
+    758,
+    1275
+   ],
+   "table": true
+  },
+  {
+   "key": "k131",
+   "text": "430",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    792,
+    1253,
+    832,
+    1275
+   ],
+   "table": true
+  },
+  {
+   "key": "k132",
+   "text": "15,200",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    955,
+    1253,
+    1011,
+    1275
+   ],
+   "table": true
+  },
+  {
+   "key": "k133",
+   "text": "530",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1212,
+    1253,
+    1256,
+    1275
+   ],
+   "table": true
+  },
+  {
+   "key": "k134",
+   "text": "(a) THREADS BEFORE LUBRICATION PER MIL-S-8879",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    279,
+    1327,
+    725,
+    1348
+   ]
+  },
+  {
+   "key": "k135",
+   "text": "(b) BEARING SURFACE SHALL BE SQUARE WITH PITCH DIA WITHIN X WHEN MEASURED IN ACCORDANCE WITH MIL-N-25027",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    279,
+    1354,
+    1288,
+    1376
+   ]
+  },
+  {
+   "key": "k136",
+   "text": "(c) DIMENSION ACROSS FLATS INCLUDES DEFORMATION OF SELF LOCKING DEVICE",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    279,
+    1380,
+    950,
+    1401
+   ]
+  },
+  {
+   "key": "k137",
+   "text": "(f) NUT SHALL BE TESTED FOR WRENCHING TORQUE BY THE USE OF A BOX OR SOCKET WRENCH",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    279,
+    1469,
+    1093,
+    1492
+   ]
+  },
+  {
+   "key": "k138",
+   "text": "(g) TEST BOLTS SHALL BE 180,000 PSI MIN",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    279,
+    1494,
+    658,
+    1516
+   ]
+  }
+ ]
+}

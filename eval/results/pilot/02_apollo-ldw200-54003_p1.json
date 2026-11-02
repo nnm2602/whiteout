@@ -1,0 +1,159 @@
+{
+ "name": "02_apollo-ldw200-54003_p1",
+ "source": {
+  "file": "data/raw/apollo-ldw200-54003.jpg",
+  "page": 1
+ },
+ "glyph_h": 24,
+ "items": [
+  {
+   "text": "R.125",
+   "kind": "radius",
+   "condition": "plain",
+   "box": [
+    4348,
+    787,
+    4434,
+    809
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "R.125"
+  },
+  {
+   "text": "2X .188",
+   "kind": "dimension",
+   "condition": "small",
+   "box": [
+    3950,
+    2356,
+    4025,
+    2372
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "2X .188"
+  },
+  {
+   "text": ".094",
+   "kind": "dimension",
+   "condition": "rotated",
+   "box": [
+    5160,
+    932,
+    5182,
+    998
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".094"
+  },
+  {
+   "text": "MARK PART NO PER MIL-STD-130",
+   "kind": "note",
+   "condition": "on_line",
+   "box": [
+    2434,
+    1227,
+    2934,
+    1249
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "MARK PART NO PER MIL-STD-130"
+  },
+  {
+   "text": "2X .188",
+   "kind": "dimension",
+   "condition": "plain",
+   "box": [
+    4680,
+    2637,
+    4794,
+    2659
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "2X .188"
+  },
+  {
+   "text": "DEBURR ALL EDGES",
+   "kind": "note",
+   "condition": "small",
+   "box": [
+    1652,
+    2715,
+    1854,
+    2731
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DEBURR ALL EDGES"
+  },
+  {
+   "text": "DIA .4375-.4385",
+   "kind": "hole_callout",
+   "condition": "rotated",
+   "box": [
+    945,
+    2296,
+    967,
+    2542
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DIA .4375-.4385"
+  },
+  {
+   "text": "ALL FILLETS R.030",
+   "kind": "note",
+   "condition": "on_line",
+   "box": [
+    2281,
+    3889,
+    2563,
+    3911
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "ALL FILLETS R.030"
+  },
+  {
+   "text": "3.375",
+   "kind": "dimension",
+   "condition": "plain",
+   "box": [
+    5131,
+    643,
+    5217,
+    665
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "3.375"
+  },
+  {
+   "text": "2X .188",
+   "kind": "dimension",
+   "condition": "small",
+   "box": [
+    2333,
+    308,
+    2408,
+    324
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "2X .188"
+  }
+ ],
+ "chars": 66,
+ "audit_new_not_planted": [],
+ "passes": 1,
+ "timings": {
+  "overview": 13.833016157150269,
+  "read": 40.23363208770752,
+  "audit": 42.31996178627014,
+  "total": 96.6512200832367
+ }
+}

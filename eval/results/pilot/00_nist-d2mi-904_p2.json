@@ -1,0 +1,159 @@
+{
+ "name": "00_nist-d2mi-904_p2",
+ "source": {
+  "file": "data/raw/nist-d2mi-904.pdf",
+  "page": 2
+ },
+ "glyph_h": 25,
+ "items": [
+  {
+   "text": "4X .312",
+   "kind": "dimension",
+   "condition": "plain",
+   "box": [
+    2394,
+    1027,
+    2515,
+    1051
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "4X .312"
+  },
+  {
+   "text": ".094",
+   "kind": "dimension",
+   "condition": "small",
+   "box": [
+    1112,
+    1506,
+    1162,
+    1523
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".094"
+  },
+  {
+   "text": ".750 +.002 -.000",
+   "kind": "dimension",
+   "condition": "rotated",
+   "box": [
+    1695,
+    1523,
+    1719,
+    1787
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".750 +.002 -.000"
+  },
+  {
+   "text": ".030 X 45 DEG",
+   "kind": "chamfer",
+   "condition": "on_line",
+   "box": [
+    878,
+    434,
+    1101,
+    458
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".030 X 45 DEG"
+  },
+  {
+   "text": "30 DEG",
+   "kind": "angle",
+   "condition": "plain",
+   "box": [
+    1906,
+    1548,
+    2020,
+    1572
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "30 DEG"
+  },
+  {
+   "text": "1.500 +/-.005",
+   "kind": "dimension",
+   "condition": "small",
+   "box": [
+    299,
+    1698,
+    456,
+    1719
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "1.500 +/-.005"
+  },
+  {
+   "text": "4X #10-32 UNF-2B",
+   "kind": "thread",
+   "condition": "rotated",
+   "box": [
+    2122,
+    1599,
+    2146,
+    1902
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "4X #10-32 UNF-2B"
+  },
+  {
+   "text": "R.125",
+   "kind": "radius",
+   "condition": "on_line",
+   "box": [
+    862,
+    376,
+    953,
+    400
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  },
+  {
+   "text": "2X R.062",
+   "kind": "radius",
+   "condition": "plain",
+   "box": [
+    1765,
+    786,
+    1907,
+    810
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "2X R.062"
+  },
+  {
+   "text": "DIA .257-.261",
+   "kind": "hole_callout",
+   "condition": "small",
+   "box": [
+    2741,
+    1126,
+    2896,
+    1143
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DIA .257-.261"
+  }
+ ],
+ "chars": 57,
+ "audit_new_not_planted": [],
+ "passes": 1,
+ "timings": {
+  "overview": 50.58651113510132,
+  "read": 27.836623907089233,
+  "audit": 46.472797870635986,
+  "total": 124.96762800216675
+ }
+}

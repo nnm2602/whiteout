@@ -1,0 +1,255 @@
+[
+ {
+  "box": [
+   1841,
+   1043,
+   1885,
+   1088
+  ],
+  "kind": "added",
+  "redraw": "extra symbol before 'A DIA'",
+  "scan": "no symbol, just 'A DIA +.0005'"
+ },
+ {
+  "box": [
+   3793,
+   1558,
+   3894,
+   1593
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": ".037"
+ },
+ {
+  "box": [
+   3802,
+   1587,
+   3882,
+   1628
+  ],
+  "kind": "wrong text",
+  "redraw": ".032",
+  "scan": ".037"
+ },
+ {
+  "box": [
+   3804,
+   1631,
+   3864,
+   1668
+  ],
+  "kind": "wrong text",
+  "redraw": "16",
+  "scan": ".032"
+ },
+ {
+  "box": [
+   5181,
+   1807,
+   5226,
+   1842
+  ],
+  "kind": "wrong text",
+  "redraw": "\u00b7",
+  "scan": "\u20ac centerline symbol"
+ },
+ {
+  "box": [
+   4090,
+   2136,
+   4134,
+   2183
+  ],
+  "kind": "wrong text",
+  "redraw": "\u00b7",
+  "scan": "\u20ac centerline symbol"
+ },
+ {
+  "box": [
+   5030,
+   2220,
+   5089,
+   2273
+  ],
+  "kind": "wrong text",
+  "redraw": "garbled - '125' not legible",
+  "scan": "125"
+ },
+ {
+  "box": [
+   3770,
+   2287,
+   3868,
+   2319
+  ],
+  "kind": "added",
+  "redraw": "2.506",
+  "scan": ""
+ },
+ {
+  "box": [
+   4595,
+   2315,
+   4862,
+   2367
+  ],
+  "kind": "moved",
+  "redraw": ".002 MAX BREAK EDGE",
+  "scan": "BREAK EDGE .002 MAX"
+ },
+ {
+  "box": [
+   3713,
+   2367,
+   3809,
+   2405
+  ],
+  "kind": "wrong text",
+  "redraw": "2 506",
+  "scan": "2.506"
+ },
+ {
+  "box": [
+   4622,
+   2371,
+   4817,
+   2412
+  ],
+  "kind": "added",
+  "redraw": "garbled illegible marks",
+  "scan": ""
+ },
+ {
+  "box": [
+   5140,
+   2555,
+   5178,
+   2582
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "machining surface symbol between SYMBOL and DENOTES"
+ },
+ {
+  "box": [
+   2341,
+   2635,
+   2829,
+   2694
+  ],
+  "kind": "wrong text",
+  "redraw": "garbled overlapping text containing ELECTRO ETCH PART NO. and AND ACTUAL A DIA PER",
+  "scan": "ELECTRO ETCH PART NO. AND ACTUAL A DIA PER"
+ },
+ {
+  "box": [
+   2590,
+   2661,
+   2812,
+   2696
+  ],
+  "kind": "added",
+  "redraw": "ELECTRO ETCH",
+  "scan": ""
+ },
+ {
+  "box": [
+   1853,
+   2667,
+   2087,
+   2709
+  ],
+  "kind": "wrong text",
+  "redraw": "1.2820",
+  "scan": "1.2850"
+ },
+ {
+  "box": [
+   2323,
+   2672,
+   2821,
+   2743
+  ],
+  "kind": "wrong text",
+  "redraw": "garbled overlapping text reading AND ACTUAL A DIA with ELECTRO ETCH PART NO.",
+  "scan": "ELECTRO ETCH PART NO. AND ACTUAL A DIA PER"
+ },
+ {
+  "box": [
+   2572,
+   2690,
+   2764,
+   2755
+  ],
+  "kind": "wrong text",
+  "redraw": "A DIA FOR [garbled overlapping]",
+  "scan": "A DIA PER"
+ },
+ {
+  "box": [
+   1853,
+   2695,
+   2016,
+   2742
+  ],
+  "kind": "wrong text",
+  "redraw": "1.2820",
+  "scan": "1.2850"
+ },
+ {
+  "box": [
+   3655,
+   2896,
+   3836,
+   2943
+  ],
+  "kind": "wrong text",
+  "redraw": "A DIA CL",
+  "scan": "A DIA [centerline symbol]"
+ },
+ {
+  "box": [
+   5297,
+   2991,
+   5368,
+   3028
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "AND"
+ },
+ {
+  "box": [
+   5146,
+   3025,
+   5359,
+   3066
+  ],
+  "kind": "wrong text",
+  "redraw": "PAT PATTERN.",
+  "scan": "PATTERN."
+ },
+ {
+  "box": [
+   4777,
+   3383,
+   4851,
+   3422
+  ],
+  "kind": "moved",
+  "redraw": "SIZE",
+  "scan": ""
+ },
+ {
+  "box": [
+   4796,
+   3527,
+   4965,
+   3568
+  ],
+  "kind": "missing",
+  "redraw": "FULL",
+  "scan": "SCALE FULL"
+ }
+]

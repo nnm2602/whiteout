@@ -1,0 +1,86 @@
+{
+ "id": "nist_ctc_02",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ctc/nist_ctc_02_asme1_rc.pdf",
+ "source": "official",
+ "drawing_number": "nist_ctc_02_asme1_rc",
+ "title": "PMI Complex Test Case 2 - View 1 (of 3)",
+ "doubts": [
+  "Notes block (STR2) excluded: note 1 'OBTAIN DIMENSIONS FOR ALL UNDIMENSIONED FEATURES FROM THE MODEL. ALL DIMENSIONS OBTAINED FROM THE MODEL ARE BASIC UNLESS OTHERWISE SPECIFIED.' is a model-definition note like 'CAD MODEL IS REQUIRED'; notes 2 and 3 only name applicable standards (ASME Y14.41-2003, ASME Y14.5M-1994).",
+  "Black commentary text 'These notes shall be placed on a static annotation plane...' is test-case explanation, not a requirement; excluded.",
+  "k4 T2 is printed '⌖|⌀1Ⓛ|A|B|C' (NIST spreadsheet lists ⌀1.2Ⓛ); keyed as printed.",
+  "k2 T1 and k4 T2 take multiplier 2 from the 2X size callouts they are attached to.",
+  "Excluded DT1 to DT8 datum target symbols, RLE1 represented line element, CS1 coordinate system.",
+  "Rotated annotations: boxes are axis-aligned and the size callout box overlaps its frame box."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "D1",
+   "text": "2X ⌀100 ±0.15",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    841,
+    1008,
+    1003,
+    1125
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T1",
+   "text": "⌖|⌀1.5Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    841,
+    1028,
+    1078,
+    1206
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "D2",
+   "text": "2X ⌀52 ±0.15",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    1537,
+    1308,
+    1689,
+    1414
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T2",
+   "text": "⌖|⌀1Ⓛ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1537,
+    1289,
+    1791,
+    1494
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "T3",
+   "text": "⌒|0.25|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1636,
+    1281,
+    1884,
+    1481
+   ]
+  }
+ ]
+}

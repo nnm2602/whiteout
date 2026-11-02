@@ -1,0 +1,62 @@
+{
+ "id": "nist_d2mi_908",
+ "page": 3,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-908.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": "4X ⌀.123 - .133",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    925,
+    1357,
+    1186,
+    1381
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    924,
+    1393,
+    1213,
+    1428
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "4X ⌀.215 - .225",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    2087,
+    1402,
+    2347,
+    1424
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "⌖|⌀.005Ⓛ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    2087,
+    1434,
+    2383,
+    1471
+   ]
+  }
+ ],
+ "doubts": [
+  "k3: 4X ⌀.215 - .225 points at the outer circle of the bottom bosses (a boss OD, LMC frame), keyed as hole_callout because it is a ⌀ size callout; could also be read as dimension"
+ ]
+}

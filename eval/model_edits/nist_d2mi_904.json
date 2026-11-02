@@ -1,0 +1,80 @@
+{
+ "case": "nist_d2mi_904",
+ "source": "data/raw/nist_d2mi/827-9999-904 rev c.stp",
+ "edited": "data/raw/model_edits/nist_d2mi_904_edited.stp",
+ "pmi_after": 66,
+ "edits": [
+  {
+   "edit": "tolerance",
+   "target": "#62851",
+   "before": "⌀0.250 ±0.005",
+   "expect": "differs",
+   "field": "tolerance",
+   "factor": 2.0,
+   "drawing": {
+    "id": "s1c1",
+    "text": "⊔ Ø.245 - .255 ↧.100 ± .010",
+    "requirement_text": "⊔ Ø.245 - .255",
+    "sheet": 1
+   },
+   "after": "bounds 0.01 / -0.01"
+  },
+  {
+   "edit": "nominal",
+   "target": "#38471",
+   "before": "4X ⌀0.375 ±0.005",
+   "expect": "differs",
+   "field": "nominal",
+   "factor": 1.05,
+   "drawing": {
+    "id": "s1c32",
+    "text": "2X Ø.370 - .380",
+    "requirement_text": "2X Ø.370 - .380",
+    "sheet": 1
+   },
+   "after": "nominal 0.39375 (was 0.375)"
+  },
+  {
+   "edit": "gdt_value",
+   "target": "#65241",
+   "before": "⌖|⌀0.005Ⓜ|A|B|C",
+   "expect": "differs",
+   "field": "tolerance value",
+   "factor": 2.0,
+   "drawing": {
+    "id": "s1c5",
+    "text": "⊕ | Ø.005Ⓜ | A | B | C",
+    "requirement_text": "⊕ | Ø.005Ⓜ | A | B | C",
+    "sheet": 1
+   },
+   "after": "value 0.01 (was 0.005)"
+  },
+  {
+   "edit": "no_tolerance",
+   "target": "#70551",
+   "before": "⌀0.150 ±0.005",
+   "expect": "differs",
+   "field": "tolerance",
+   "drawing": {
+    "id": "s1c2",
+    "text": "Ø.145 - .155 ↧.100 ± .010",
+    "requirement_text": "Ø.145 - .155",
+    "sheet": 1
+   },
+   "after": "plus/minus tolerance #70576 deleted"
+  },
+  {
+   "edit": "removed_gdt",
+   "target": "#23951",
+   "before": "⏥|0.005",
+   "expect": "drawing_only",
+   "drawing": {
+    "id": "s1c35",
+    "text": "▱ .005",
+    "requirement_text": "▱ .005",
+    "sheet": 1
+   },
+   "after": "geometric tolerance #23951 deleted"
+  }
+ ]
+}

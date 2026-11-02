@@ -1,0 +1,222 @@
+[
+ {
+  "box": [
+   4816,
+   1119,
+   4958,
+   1150
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "RUBBER"
+ },
+ {
+  "box": [
+   1796,
+   1264,
+   1894,
+   1299
+  ],
+  "kind": "added",
+  "redraw": "FIT",
+  "scan": ""
+ },
+ {
+  "box": [
+   3335,
+   1558,
+   3527,
+   1596
+  ],
+  "kind": "added",
+  "redraw": "1 4 1.440",
+  "scan": "1.440"
+ },
+ {
+  "box": [
+   1867,
+   1587,
+   1929,
+   1634
+  ],
+  "kind": "added",
+  "redraw": "A",
+  "scan": ""
+ },
+ {
+  "box": [
+   2071,
+   1718,
+   2169,
+   1818
+  ],
+  "kind": "wrong text",
+  "redraw": "2.100",
+  "scan": "2.101\n2.100"
+ },
+ {
+  "box": [
+   4418,
+   1749,
+   4649,
+   1815
+  ],
+  "kind": "wrong text",
+  "redraw": "2 0.010 DIA.",
+  "scan": "2.010 DIA"
+ },
+ {
+  "box": [
+   4812,
+   1763,
+   5137,
+   1857
+  ],
+  "kind": "wrong text",
+  "redraw": "garbled overlapping text",
+  "scan": "MUST BE CONCENTRIC WITHIN"
+ },
+ {
+  "box": [
+   4445,
+   1831,
+   4496,
+   1877
+  ],
+  "kind": "added",
+  "redraw": "A1",
+  "scan": ""
+ },
+ {
+  "box": [
+   4354,
+   2026,
+   4400,
+   2063
+  ],
+  "kind": "added",
+  "redraw": "R",
+  "scan": ""
+ },
+ {
+  "box": [
+   4803,
+   2206,
+   4866,
+   2265
+  ],
+  "kind": "wrong text",
+  "redraw": "25",
+  "scan": "125"
+ },
+ {
+  "box": [
+   2767,
+   2218,
+   3302,
+   2282
+  ],
+  "kind": "missing",
+  "redraw": "2.750 DIA (BASIC)",
+  "scan": "2.750 DIA CL-symbol (BASIC)"
+ },
+ {
+  "box": [
+   2785,
+   2506,
+   3321,
+   2582
+  ],
+  "kind": "missing",
+  "redraw": "2.357 DIA",
+  "scan": "2.381 2.357 DIA - 2.381 on top"
+ },
+ {
+  "box": [
+   4818,
+   2531,
+   5091,
+   2604
+  ],
+  "kind": "wrong text",
+  "redraw": "TO RF MACHINED",
+  "scan": "SYMBOL DENOTES SURFACE"
+ },
+ {
+  "box": [
+   2954,
+   2542,
+   3229,
+   2601
+  ],
+  "kind": "missing",
+  "redraw": "2.357 DIA",
+  "scan": "2.381 2.357 DIA"
+ },
+ {
+  "box": [
+   4812,
+   2571,
+   5158,
+   2654
+  ],
+  "kind": "wrong text",
+  "redraw": "TO RF MACHINED TO BE MACHINED",
+  "scan": "SYMBOL DENOTES SURFACE TO RF MACHINED"
+ },
+ {
+  "box": [
+   2414,
+   2649,
+   2495,
+   2685
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": ".116"
+ },
+ {
+  "box": [
+   2421,
+   2658,
+   2670,
+   2729
+  ],
+  "kind": "missing",
+  "redraw": ".110 (CONST)",
+  "scan": ".116 .110 (CONST) - .116 on top"
+ },
+ {
+  "box": [
+   2552,
+   2771,
+   2625,
+   2806
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "16"
+ },
+ {
+  "box": [
+   2821,
+   2788,
+   3175,
+   2855
+  ],
+  "kind": "missing",
+  "redraw": "1.947 DIA CL",
+  "scan": "1.950 1.947 DIA CL-symbol - 1.950 on top"
+ },
+ {
+  "box": [
+   2563,
+   2795,
+   2687,
+   2865
+  ],
+  "kind": "missing",
+  "redraw": "FULL R",
+  "scan": "FULL R 16"
+ }
+]

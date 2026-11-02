@@ -1,0 +1,957 @@
+{
+ "name": "09_part_0002_iso_p1",
+ "source": {
+  "file": "data/raw/cadsy/part_0002_iso.png",
+  "page": 1
+ },
+ "glyph_h": 10,
+ "items": [
+  {
+   "text": "2X .188",
+   "kind": "dimension",
+   "condition": "plain",
+   "box": [
+    2288,
+    1084,
+    2329,
+    1093
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "2X.188",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "4X .312",
+   "kind": "dimension",
+   "condition": "small",
+   "box": [
+    2208,
+    592,
+    2242,
+    600
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "4X.312",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "1.500 +/-.005",
+   "kind": "dimension",
+   "condition": "rotated",
+   "box": [
+    1274,
+    285,
+    1285,
+    361
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "1.500 +/- .005",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": ".030 X 45 DEG",
+   "kind": "chamfer",
+   "condition": "on_line",
+   "box": [
+    1179,
+    473,
+    1256,
+    482
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".030 X 45 DEG",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "R.250 MAX",
+   "kind": "radius",
+   "condition": "faint",
+   "box": [
+    2047,
+    135,
+    2107,
+    144
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "R.250 MAX",
+   "visible_on_erased_page": true
+  },
+  {
+   "text": ".250-20 UNC-2B",
+   "kind": "thread",
+   "condition": "tiny",
+   "box": [
+    698,
+    1324,
+    763,
+    1331
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "250-20 UNC-2B",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "DIA .257-.261",
+   "kind": "hole_callout",
+   "condition": "plain",
+   "box": [
+    713,
+    392,
+    788,
+    401
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DIA .257-.261",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "ALL FILLETS R.030",
+   "kind": "note",
+   "condition": "small",
+   "box": [
+    2020,
+    548,
+    2108,
+    556
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "ALL FILLETS R.030",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "DIA .4375-.4385",
+   "kind": "hole_callout",
+   "condition": "rotated",
+   "box": [
+    212,
+    456,
+    221,
+    545
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DIA .4375-.4385",
+   "visible_on_erased_page": true
+  },
+  {
+   "text": "DIA .4375-.4385",
+   "kind": "hole_callout",
+   "condition": "on_line",
+   "box": [
+    917,
+    947,
+    1006,
+    956
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DIA.4375-.4385",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "R.250 MAX",
+   "kind": "radius",
+   "condition": "faint",
+   "box": [
+    1536,
+    173,
+    1596,
+    182
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "R.250 MAX",
+   "visible_on_erased_page": true
+  },
+  {
+   "text": "R.250 MAX",
+   "kind": "radius",
+   "condition": "tiny",
+   "box": [
+    418,
+    126,
+    461,
+    133
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "R.250 MAX",
+   "visible_on_erased_page": false
+  }
+ ],
+ "chars": 26,
+ "audit_new_not_planted": [],
+ "passes": 1,
+ "timings": {
+  "overview": 0.019583940505981445,
+  "read": 3.805060863494873,
+  "audit": 0.307323694229126,
+  "total": 4.156703948974609
+ },
+ "audit_finds": [
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Identification number",
+   "box": [
+    1491,
+    1605,
+    1664,
+    1621
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "General tolerance",
+   "box": [
+    927,
+    1539,
+    1070,
+    1555
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Synthetic data",
+   "box": [
+    1131,
+    1575,
+    1269,
+    1599
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field content - synthetic placeholder",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Legal owner",
+   "box": [
+    927,
+    1668,
+    1024,
+    1688
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "DIA .4375",
+   "box": [
+    213,
+    463,
+    221,
+    484
+   ],
+   "verdict": "duplicate",
+   "reason": "",
+   "char_id": "s0c1"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "R.250 MAX",
+   "box": [
+    1531,
+    163,
+    1596,
+    183
+   ],
+   "verdict": "duplicate",
+   "reason": "",
+   "char_id": "s0c7"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "R.250 MAX",
+   "box": [
+    2027,
+    128,
+    2097,
+    143
+   ],
+   "verdict": "duplicate",
+   "reason": "complete maximum radius callout still legible",
+   "char_id": "s0c8"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "cadsy.se",
+   "box": [
+    1095,
+    1642,
+    1180,
+    1666
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field content",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "cadsy.se",
+   "box": [
+    1452,
+    1642,
+    1537,
+    1666
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field value, creator",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Creator",
+   "box": [
+    1366,
+    1673,
+    1424,
+    1688
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Scale",
+   "box": [
+    927,
+    1472,
+    970,
+    1488
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Title",
+   "box": [
+    927,
+    1605,
+    961,
+    1621
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": ". 5",
+   "box": [
+    1276,
+    285,
+    1284,
+    305
+   ],
+   "verdict": "fragment",
+   "reason": "",
+   "char_id": "s0c5"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "3:1",
+   "box": [
+    1658,
+    1444,
+    1682,
+    1463
+   ],
+   "verdict": "not_requirement",
+   "reason": "scale value in title block, not a part requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "1",
+   "box": [
+    260,
+    21,
+    265,
+    39
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "2",
+   "box": [
+    546,
+    20,
+    555,
+    39
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "3",
+   "box": [
+    834,
+    20,
+    843,
+    39
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "4",
+   "box": [
+    1121,
+    20,
+    1131,
+    39
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "A",
+   "box": [
+    54,
+    186,
+    66,
+    204
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B",
+   "box": [
+    55,
+    459,
+    64,
+    477
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "C",
+   "box": [
+    54,
+    731,
+    65,
+    750
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "5",
+   "box": [
+    1410,
+    20,
+    1419,
+    39
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "6",
+   "box": [
+    1698,
+    20,
+    1706,
+    39
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "D",
+   "box": [
+    55,
+    1004,
+    65,
+    1023
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker D",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "C",
+   "box": [
+    2446,
+    731,
+    2457,
+    750
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "D",
+   "box": [
+    2446,
+    1004,
+    2456,
+    1022
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "E",
+   "box": [
+    55,
+    1277,
+    64,
+    1295
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "F",
+   "box": [
+    55,
+    1550,
+    64,
+    1568
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "1",
+   "box": [
+    260,
+    1715,
+    265,
+    1733
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "2",
+   "box": [
+    546,
+    1715,
+    555,
+    1734
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "3",
+   "box": [
+    834,
+    1715,
+    843,
+    1734
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "4",
+   "box": [
+    1121,
+    1715,
+    1131,
+    1733
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "5",
+   "box": [
+    1410,
+    1715,
+    1419,
+    1734
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "6",
+   "box": [
+    1698,
+    1715,
+    1706,
+    1734
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    199,
+    639,
+    282,
+    661
+   ],
+   "verdict": "not_requirement",
+   "reason": "empty feature control frame, no text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1191,
+    885,
+    1294,
+    1087
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader arrow line with erased text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Approval person",
+   "box": [
+    1641,
+    1668,
+    1773,
+    1688
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label, empty value",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Issue date",
+   "box": [
+    1742,
+    1605,
+    1824,
+    1621
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    185,
+    601,
+    305,
+    648
+   ],
+   "verdict": "not_requirement",
+   "reason": "empty feature control frame",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "feature control frame",
+   "box": [
+    1694,
+    383,
+    1841,
+    443
+   ],
+   "verdict": "not_requirement",
+   "reason": "empty frame",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "2026-09-01",
+   "box": [
+    1806,
+    1578,
+    1911,
+    1597
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field value, issue date",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1816,
+    485,
+    2143,
+    589
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader arrow line with erased text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B",
+   "box": [
+    2447,
+    459,
+    2456,
+    477
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "E",
+   "box": [
+    2447,
+    1277,
+    2456,
+    1295
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1768,
+    456,
+    1788,
+    556
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader arrow line",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "7",
+   "box": [
+    1985,
+    20,
+    1995,
+    39
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "7",
+   "box": [
+    1985,
+    1715,
+    1995,
+    1733
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    840,
+    946,
+    1006,
+    1310
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader arrow line with erased text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1740,
+    418,
+    1823,
+    440
+   ],
+   "verdict": "not_requirement",
+   "reason": "empty feature control frame with no text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1703,
+    371,
+    1866,
+    425
+   ],
+   "verdict": "not_requirement",
+   "reason": "empty feature control frame outline with no readable text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Sheet",
+   "box": [
+    1992,
+    1605,
+    2036,
+    1621
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Document type",
+   "box": [
+    1917,
+    1669,
+    2037,
+    1688
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field label, empty value",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "1",
+   "box": [
+    2075,
+    1578,
+    2080,
+    1596
+   ],
+   "verdict": "not_requirement",
+   "reason": "sheet number in title block",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "/",
+   "box": [
+    1692,
+    391,
+    1775,
+    456
+   ],
+   "verdict": "fragment",
+   "reason": "",
+   "char_id": "s0c24"
+  }
+ ]
+}

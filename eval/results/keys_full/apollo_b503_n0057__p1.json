@@ -1,0 +1,183 @@
+{
+ "key": "apollo_b503_n0057__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 56,
+ "found": 82,
+ "first_read_hits": 54,
+ "final_hits": 54,
+ "baseline_hits": 14,
+ "baseline_found": 26,
+ "exact_text": 47,
+ "multiplier_right": 54,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k17",
+   "text": "1.2320",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1513,
+    1824,
+    1674,
+    1862
+   ],
+   "table": true
+  },
+  {
+   "key": "k21",
+   "text": "1.2400",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1513,
+    2001,
+    1674,
+    2039
+   ],
+   "table": true
+  }
+ ],
+ "extra": [
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    2721,
+    2991,
+    3423,
+    3025
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.2400",
+   "box": [
+    1484,
+    2091,
+    1706,
+    2143
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.2430",
+   "box": [
+    1484,
+    2147,
+    1706,
+    2198
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.2460",
+   "box": [
+    1484,
+    2202,
+    1706,
+    2253
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.2490",
+   "box": [
+    1484,
+    2257,
+    1706,
+    2309
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.2520",
+   "box": [
+    1484,
+    2312,
+    1706,
+    2364
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.2610",
+   "box": [
+    1484,
+    2478,
+    1706,
+    2530
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.2640",
+   "box": [
+    1484,
+    2533,
+    1706,
+    2585
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M10004 AND LDW270M10005 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    3763,
+    2858,
+    5004,
+    2960
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.2670",
+   "box": [
+    1484,
+    2588,
+    1706,
+    2640
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.2700",
+   "box": [
+    1484,
+    2644,
+    1706,
+    2695
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA \u2104",
+   "box": [
+    3250,
+    2505,
+    3408,
+    2541
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 17.507224082946777,
+  "read": 56.22494196891785,
+  "audit": 89.53268814086914,
+  "total": 163.5534589290619
+ }
+}

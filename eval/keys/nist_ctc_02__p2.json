@@ -1,0 +1,97 @@
+{
+ "id": "nist_ctc_02",
+ "page": 2,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ctc/nist_ctc_02_asme1_rc.pdf",
+ "source": "official",
+ "drawing_number": "nist_ctc_02_asme1_rc",
+ "title": "PMI Complex Test Case 2 - View 2 (of 3)",
+ "doubts": [
+  "Black commentary 'Optional: This perpendicularity tolerance is included to legitimize specifying datum target K1.' is explanation, not a requirement; excluded.",
+  "DT9 datum target symbol with area size ⌀85 K1 excluded (datum target), as were DT1 to DT8.",
+  "Excluded CH1, SG1 (supplemental geometry markers) and CS1, CS2 coordinate systems.",
+  "k1 T5, k2 T6, k3 T7 unequally disposed profile frames written with Ⓤ between the total tolerance and the outward value."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T5",
+   "text": "⌓|2.5Ⓤ0.5|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    599,
+    188,
+    854,
+    371
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T6",
+   "text": "⌓|2.5Ⓤ2.5|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1205,
+    306,
+    1455,
+    491
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T7",
+   "text": "⌓|2.5Ⓤ0|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1646,
+    887,
+    1895,
+    1095
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T4",
+   "text": "⌓|0.75|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1646,
+    995,
+    1876,
+    1159
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D3",
+   "text": "⌀40 ±0.15",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1300,
+    1338,
+    1426,
+    1429
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T8",
+   "text": "⊥|⌀0.25|K",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1300,
+    1331,
+    1463,
+    1470
+   ]
+  }
+ ]
+}

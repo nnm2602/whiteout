@@ -1,0 +1,613 @@
+{
+ "step": "data/raw/model_edits/nist_ctc_05_edited.stp",
+ "model_units": "in",
+ "drawing_units": "in",
+ "scale": 1.0,
+ "matched": [
+  {
+   "model": {
+    "id": "#942",
+    "type": "basic",
+    "text": "[1.250]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.25,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s0c6",
+    "number": "6",
+    "text": "1.250",
+    "box": [
+     1652,
+     1084,
+     1722,
+     1122
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.250",
+    "nominal": 1.25,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#943",
+    "type": "basic",
+    "text": "[1.250]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.25,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c2",
+    "number": "4",
+    "text": "1.250",
+    "box": [
+     1526,
+     996,
+     1569,
+     1032
+    ],
+    "sheet": 1,
+    "zone": "",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.250",
+    "nominal": 1.25,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#944",
+    "type": "basic",
+    "text": "[2.000]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.0,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s0c5",
+    "number": "7",
+    "text": "2.000",
+    "box": [
+     1700,
+     993,
+     1744,
+     1031
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2.000",
+    "nominal": 2.0,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#945",
+    "type": "basic",
+    "text": "[2.000]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.0,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c4",
+    "number": "5",
+    "text": "2.000",
+    "box": [
+     1547,
+     903,
+     1591,
+     942
+    ],
+    "sheet": 1,
+    "zone": "",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2.000",
+    "nominal": 2.0,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#946",
+    "type": "gdt",
+    "text": "↗|0.035|A-B",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "circular_runout",
+    "value": 0.035,
+    "datums": [
+     "A-B"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s0c3",
+    "number": "9",
+    "text": "↗ .035 A-B",
+    "box": [
+     1083,
+     1267,
+     1191,
+     1346
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "↗ .035 A-B",
+    "nominal": 0.035,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#947",
+    "type": "gdt",
+    "text": "↗|0.025|A-B",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "circular_runout",
+    "value": 0.025,
+    "datums": [
+     "A-B"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s0c1",
+    "number": "1",
+    "text": "↗ .025 A-B",
+    "box": [
+     1022,
+     254,
+     1098,
+     307
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "↗ .025 A-B",
+    "nominal": 0.025,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#948",
+    "type": "gdt",
+    "text": "↗|0.025|A-B",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "circular_runout",
+    "value": 0.025,
+    "datums": [
+     "A-B"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s0c4",
+    "number": "11",
+    "text": "↗ .025 A-B",
+    "box": [
+     1644,
+     1256,
+     1811,
+     1376
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "↗ .025 A-B",
+    "nominal": 0.025,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#956",
+    "type": "gdt",
+    "text": "⊥|0.01|D",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "perpendicularity",
+    "value": 0.01,
+    "datums": [
+     "D"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s0c10",
+    "number": "2",
+    "text": "⊥ .010 D",
+    "box": [
+     700,
+     616,
+     837,
+     676
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊥ .010 D",
+    "nominal": 0.01,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#957",
+    "type": "gdt",
+    "text": "⏤|0.005",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "straightness",
+    "value": 0.005,
+    "datums": [],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s0c9",
+    "number": "5",
+    "text": "\u2014 .005",
+    "box": [
+     731,
+     862,
+     873,
+     959
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "\u2014 .005",
+    "nominal": 0.005,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#961",
+    "type": "gdt",
+    "text": "○|0.002",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "roundness",
+    "value": 0.002,
+    "datums": [],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s0c8",
+    "number": "8",
+    "text": "○ .002",
+    "box": [
+     871,
+     1275,
+     937,
+     1328
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "○ .002",
+    "nominal": 0.002,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#962",
+    "type": "gdt",
+    "text": "⌰|0.002|A",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "total_runout",
+    "value": 0.002,
+    "datums": [
+     "A"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s1c3",
+    "number": "3",
+    "text": "↗ .002 A",
+    "box": [
+     659,
+     902,
+     763,
+     978
+    ],
+    "sheet": 1,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "↗ .002 A",
+    "nominal": 0.002,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#963",
+    "type": "gdt",
+    "text": "⌰|0.015|B",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "total_runout",
+    "value": 0.015,
+    "datums": [
+     "B"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s1c1",
+    "number": "1",
+    "text": ".015 B",
+    "box": [
+     593,
+     688,
+     696,
+     765
+    ],
+    "sheet": 1,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": ".015 B",
+    "nominal": 0.015,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  }
+ ],
+ "differs": [
+  {
+   "model": {
+    "id": "#941",
+    "type": "location",
+    "text": "5.000 ±0.016",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 5.0,
+    "lower": 4.984,
+    "upper": 5.016
+   },
+   "drawing": {
+    "id": "s0c0",
+    "number": "3",
+    "text": "5.000 ±.008 ST",
+    "box": [
+     720,
+     692,
+     885,
+     796
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "dimension",
+    "requirement": 0,
+    "requirement_text": "5.000 ±.008 ST",
+    "nominal": 5.0,
+    "lower": 4.992,
+    "upper": 5.008,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance",
+     "model": "±0.016",
+     "drawing": "±0.008"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#888",
+    "type": "size",
+    "text": "⌀10.500 ±0.001",
+    "count": 1,
+    "unit": "in",
+    "name": "diameter",
+    "nominal": 10.5,
+    "lower": 10.499,
+    "upper": 10.501
+   },
+   "drawing": {
+    "id": "s1c0",
+    "number": "2",
+    "text": "Ø10.000 ±.001",
+    "box": [
+     573,
+     1033,
+     689,
+     1115
+    ],
+    "sheet": 1,
+    "zone": "",
+    "kind": "dimension",
+    "requirement": 0,
+    "requirement_text": "Ø10.000 ±.001",
+    "nominal": 10.0,
+    "lower": 9.999,
+    "upper": 10.001,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "nominal",
+     "model": "10.500",
+     "drawing": "10.000"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#960",
+    "type": "gdt",
+    "text": "◎|⌀0.06|A",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "concentricity",
+    "value": 0.06,
+    "datums": [
+     "A"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s0c2",
+    "number": "4",
+    "text": "◎ Ø.030 A",
+    "box": [
+     1520,
+     505,
+     1602,
+     566
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "◎ Ø.030 A",
+    "nominal": 0.03,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance value",
+     "model": "0.060",
+     "drawing": "0.030"
+    }
+   ]
+  }
+ ],
+ "model_only": [],
+ "drawing_only": [
+  {
+   "id": "s0c7",
+   "number": "10",
+   "text": "⊥ .010 C",
+   "box": [
+    1588,
+    1339,
+    1747,
+    1417
+   ],
+   "sheet": 0,
+   "zone": "",
+   "kind": "gdt_frame",
+   "requirement": 0,
+   "requirement_text": "⊥ .010 C",
+   "nominal": 0.01,
+   "lower": null,
+   "upper": null,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  }
+ ],
+ "repeats": {
+  "model": [],
+  "drawing": []
+ },
+ "warnings": [],
+ "model_without_value": [],
+ "not_compared": [],
+ "summary": {
+  "model_pmi": 15,
+  "drawing_requirements": 16,
+  "matched": 12,
+  "differs": 3,
+  "model_only": 0,
+  "drawing_only": 1,
+  "repeats_model": 0,
+  "repeats_drawing": 0,
+  "not_compared": 0
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "id": "nist_ftc_07",
+ "page": 3,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_07_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_07_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 7 - View C",
+ "doubts": [
+  "Boxes are axis-aligned boxes around rotated isometric annotations, so they overlap each other.",
+  "Composite frames T18 and T5 give one item per row with their own boxes.",
+  "STR7 and STR4 'SIM REQT' and STR3 '4 COPLANAR SURFACES' kept as note items (simultaneous requirement and feature count qualifiers); STR3 multiplier 4, frame rows keep 1.",
+  "T15 takes multiplier 2 from D16 '2X'.",
+  "Excluded: DF5 datum feature symbol E, coordinate system CS1."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "D16",
+   "text": "2X ⌀.594 +.012/-.002",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    323,
+    371,
+    547,
+    519
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T15",
+   "text": "⌖|⌀.040Ⓜ|⌀.045 MAX|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    143,
+    313,
+    550,
+    597
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T18",
+   "text": "⌓|.070|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1420,
+    242,
+    1672,
+    436
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T18",
+   "text": "⌓|.015|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1421,
+    318,
+    1623,
+    481
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "STR7",
+   "text": "SIM REQT",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1423,
+    423,
+    1545,
+    511
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T5",
+   "text": "⌓|.070|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1686,
+    398,
+    1937,
+    592
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "T5",
+   "text": "⌓|.015|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1687,
+    475,
+    1887,
+    637
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "STR3",
+   "text": "4 COPLANAR SURFACES",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    1726,
+    441,
+    2052,
+    632
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "STR4",
+   "text": "SIM REQT",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1746,
+    581,
+    1868,
+    670
+   ]
+  }
+ ]
+}

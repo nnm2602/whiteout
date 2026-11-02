@@ -1,0 +1,130 @@
+{
+ "key": "apollo_b503_n0024__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 57,
+ "found": 78,
+ "first_read_hits": 54,
+ "final_hits": 54,
+ "baseline_hits": 10,
+ "baseline_found": 23,
+ "exact_text": 32,
+ "multiplier_right": 54,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k2",
+   "text": ".5720",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    1812,
+    2028,
+    1852
+   ],
+   "table": true
+  },
+  {
+   "key": "k22",
+   "text": ".6491",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2705,
+    2028,
+    2745
+   ],
+   "table": true
+  },
+  {
+   "key": "k24",
+   "text": ".6507",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2795,
+    2028,
+    2835
+   ],
+   "table": true
+  }
+ ],
+ "extra": [
+  {
+   "text": ".6555",
+   "box": [
+    1884,
+    3185,
+    2047,
+    3232
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".5772",
+   "box": [
+    1839,
+    2411,
+    1999,
+    2451
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".6563",
+   "box": [
+    1884,
+    3238,
+    2047,
+    3285
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    3062,
+    3266,
+    3612,
+    3295
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2. TOOLING FOR THIS PART IS SIMILAR TO LDW270M10015,",
+   "box": [
+    4278,
+    3037,
+    5081,
+    3072
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA \u2104",
+   "box": [
+    2724,
+    2108,
+    2933,
+    2158
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 21.4406099319458,
+  "read": 79.74715399742126,
+  "audit": 70.44363903999329,
+  "total": 171.86328601837158
+ }
+}

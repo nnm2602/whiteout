@@ -1,0 +1,131 @@
+{
+ "missed_visible_on_erased_page": 2,
+ "true_missed": 2,
+ "true_missed_visible": 1,
+ "key": "apollo_b503_n0032__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 35,
+ "found": 54,
+ "first_read_hits": 30,
+ "final_hits": 32,
+ "hits_inside_larger_callout": 1,
+ "baseline_hits": 10,
+ "baseline_found": 23,
+ "exact_text": 26,
+ "multiplier_right": 31,
+ "audit_added": 2,
+ "audit_added_correct": 1,
+ "missed": [
+  {
+   "key": "k11",
+   "text": "1.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2878,
+    1666,
+    2986,
+    1704
+   ]
+  },
+  {
+   "key": "k26",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3184,
+    2456,
+    3264,
+    2526
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2777,
+    2701,
+    2849,
+    2764
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "16",
+   "box": [
+    3916,
+    1223,
+    4033,
+    1307
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    3144,
+    2335,
+    3694,
+    2364
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.260 1.240 DIA",
+   "box": [
+    4365,
+    1650,
+    4485,
+    1710
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.000",
+   "box": [
+    2919,
+    1713,
+    2936,
+    1754
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "16",
+   "box": [
+    3260,
+    2484,
+    3356,
+    2548
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M10009 & LDW270M10007 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    4699,
+    2995,
+    5321,
+    3025
+   ],
+   "found_in": "audit-1",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.06006979942321777,
+  "read": 4.900602102279663,
+  "audit": 9.515262842178345,
+  "total": 14.708707809448242
+ }
+}

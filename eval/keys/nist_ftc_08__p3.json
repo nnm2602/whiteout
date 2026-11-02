@@ -1,0 +1,98 @@
+{
+ "id": "nist_ftc_08",
+ "page": 3,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_08_asme1_rc.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_08_asme1_rc",
+ "title": "PMI Fully-Toleranced Test Case 8 - View C",
+ "doubts": [
+  "Annotation text is drawn as vector paths; boxes from blue annotation pixels inside hand-placed regions, checked on overlays. Boxes are axis-aligned around rotated annotations and overlap.",
+  "T24 and T25 have the all-around circle on their leaders; not keyed separately and not inside the frame boxes.",
+  "D10 (□1.100) is a reference dimension in parentheses with the square symbol; kind reference_dimension.",
+  "T8 takes multiplier 2 from D4 '2X'.",
+  "Excluded: datum feature symbol DF7 G; coordinate systems CS2, CS4."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T25",
+   "text": "⌓|.040|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1698,
+    496,
+    1927,
+    628
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T25",
+   "text": "⌓|.005|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1729,
+    515,
+    1958,
+    647
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T24",
+   "text": "⌓|.015|D|GⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    472,
+    1103,
+    700,
+    1234
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "D10",
+   "text": "(□1.100)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    1460,
+    1229,
+    1563,
+    1288
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D4",
+   "text": "2X ⌀.250 +.006/-.001",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    823,
+    1300,
+    996,
+    1405
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T8",
+   "text": "⌖|⌀.03|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    828,
+    1326,
+    1054,
+    1458
+   ]
+  }
+ ]
+}

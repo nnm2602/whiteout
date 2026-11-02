@@ -1,0 +1,653 @@
+{
+ "id": "apollo_b503_n0319",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0319.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10083",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "doubts": [
+  "k1: Grumman SUPPLEMENTARY DATA block. Checked rows: marking (hand-written RUBBER STAMP over the first words, partly illegible), remove burrs and break edges, surface roughness per MIL-STD-10 (row partly faded), 125 for all surfaces, 200 for all holes, diameters marked ℄ concentric within .002 FIR (faint check). A dark tick on the outer border beside the MIL-STD-8 row was read as not a check",
+  "k2, k8, k51: flatness and parallelism written as leader notes, keyed as notes (could be read as flatness/parallelism controls). k8 and k51 are the same requirement printed in section A-A and detail B",
+  "k3, k6, k43, k47, k52: surface finish symbols; boxes are drawn by hand to avoid the part edge lines they sit on",
+  "k18: '.010 MAX (3 PLACES)' kind unclear (looks like a max fillet or gap at three places); keyed as dimension, multiplier 3",
+  "k22, k23: the Grumman concentricity marker (C with bar) after DIA is written as ℄, as in other keys",
+  "k29: MINOR DIA .1300-.1389 X .180 DEEP spans two lines, keyed as one hole_callout; TAP line (k32) as thread, CSK line (k35) as hole_callout. No hole count printed, multiplier 1",
+  "k37, k39: '.200-.206 HOLE (4) ▲ EQUALLY SPACED WITHIN .005 OF TRUE POSITION (SEE NOTE 1)' split into the hole size (hole_callout) and the position requirement (note), both multiplier 4",
+  "k33, k38, k42, k44: values marked REF keyed as reference_dimension (k33 is an angle 90° REF)",
+  "k48: BREAK EDGE .005-.010R(2) keyed as note, multiplier 2",
+  "k17, k26: 45° BASIC and 1.375 DIA (BASIC) keyed as basic_dimension (printed BASIC, not boxed)",
+  "Not keyed: note 1 (FOR HOLES MARKED ▲ SEE DWG LDW270M1008x FOR CORRESPONDING HOLE PATTERN, a cross reference; last digit overstruck); SEE NOTE 2 and SEE NOTE 3 leaders (notes keyed as k40, k41); SEE DETAIL B; GRAIN DIRECTION OPTIONAL; -11 balloon; marking-region box symbols; SCALE 1/1 thumbnail view",
+  "limit callouts printed with tight hyphens rewritten with spaced hyphen per limit format",
+  "title block has no part name cell; title left empty"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "SUPPLEMENTARY DATA UNLESS OTHERWISE SPECIFIED NOTES CHECKED APPLY TO THIS DWG (checked): RUBBER STAMP PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED. USE BOTH SIDES IF NECESSARY; REMOVE ALL BURRS. BREAK ALL EDGES .015-.031; SURFACE ROUGHNESS IN ACCORDANCE WITH MIL-STD-10; 125 FOR ALL SURFACES; 200 FOR ALL HOLES; DIAMETERS MARKED ℄ MUST BE CONCENTRIC WITHIN .002 FULL INDICATOR READING",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1232,
+    1012,
+    1625,
+    2512
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "THIS SURFACE TO BE FLAT WITHIN .002",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2697,
+    1410,
+    3091,
+    1482
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "32",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2538,
+    1448,
+    2612,
+    1508
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "2.020/1.980",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2201,
+    1537,
+    2344,
+    1608
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "1.938 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3528,
+    1561,
+    3702,
+    1600
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2446,
+    1600,
+    2500,
+    1658
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "1.500",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3536,
+    1646,
+    3655,
+    1683
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "SURFACES TO BE PARALLEL WITHIN .002",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2731,
+    1702,
+    3069,
+    1786
+   ]
+  },
+  {
+   "key": "k9",
+   "text": ".170",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2351,
+    1717,
+    2426,
+    1755
+   ]
+  },
+  {
+   "key": "k10",
+   "text": ".750",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3475,
+    1718,
+    3572,
+    1754
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".090/.088",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2588,
+    1792,
+    2684,
+    1864
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".125 R(TYP)",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2072,
+    1828,
+    2296,
+    1879
+   ]
+  },
+  {
+   "key": "k13",
+   "text": ".010/.005 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2755,
+    1875,
+    2904,
+    1944
+   ]
+  },
+  {
+   "key": "k14",
+   "text": ".438",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2583,
+    1888,
+    2661,
+    1923
+   ]
+  },
+  {
+   "key": "k15",
+   "text": ".950",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2068,
+    1902,
+    2150,
+    1939
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "45°(2)",
+   "kind": "angle",
+   "multiplier": 2,
+   "box": [
+    3973,
+    1928,
+    4083,
+    1983
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "45° BASIC",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    3195,
+    1948,
+    3365,
+    2002
+   ]
+  },
+  {
+   "key": "k18",
+   "text": ".010 MAX (3 PLACES)",
+   "kind": "dimension",
+   "multiplier": 3,
+   "box": [
+    2168,
+    1961,
+    2357,
+    2046
+   ]
+  },
+  {
+   "key": "k19",
+   "text": ".750",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3894,
+    1987,
+    3977,
+    2023
+   ]
+  },
+  {
+   "key": "k20",
+   "text": ".194/.191 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1632,
+    1986,
+    1809,
+    2044
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "1.500",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3084,
+    2030,
+    3182,
+    2073
+   ]
+  },
+  {
+   "key": "k22",
+   "text": ".628/.625 DIA ℄",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2636,
+    2049,
+    2830,
+    2144
+   ]
+  },
+  {
+   "key": "k23",
+   "text": "1.005/.995 DIA ℄",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2855,
+    2049,
+    3040,
+    2142
+   ]
+  },
+  {
+   "key": "k24",
+   "text": ".480",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2287,
+    2161,
+    2368,
+    2201
+   ]
+  },
+  {
+   "key": "k25",
+   "text": "45°",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    2615,
+    2182,
+    2691,
+    2227
+   ]
+  },
+  {
+   "key": "k26",
+   "text": "1.375 DIA (BASIC)",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    3932,
+    2175,
+    4268,
+    2223
+   ]
+  },
+  {
+   "key": "k27",
+   "text": ".253/.250 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1763,
+    2223,
+    1935,
+    2292
+   ]
+  },
+  {
+   "key": "k28",
+   "text": ".024 - .029 HOLE X .160 DEEP",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2627,
+    2243,
+    3069,
+    2281
+   ]
+  },
+  {
+   "key": "k29",
+   "text": "MINOR DIA .1300 - .1389 X .180 DEEP",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1712,
+    2298,
+    2146,
+    2370
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "30°",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    2462,
+    2324,
+    2535,
+    2365
+   ]
+  },
+  {
+   "key": "k31",
+   "text": ".190",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3690,
+    2334,
+    3771,
+    2370
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "TAP #8-32 UNC-3B X .135 DEEP",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    1714,
+    2371,
+    2254,
+    2406
+   ]
+  },
+  {
+   "key": "k33",
+   "text": "90°(REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    2620,
+    2371,
+    2774,
+    2423
+   ]
+  },
+  {
+   "key": "k34",
+   "text": ".320",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2356,
+    2384,
+    2443,
+    2424
+   ]
+  },
+  {
+   "key": "k35",
+   "text": "CSK 90° X .195 DIA",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1718,
+    2406,
+    2064,
+    2440
+   ]
+  },
+  {
+   "key": "k36",
+   "text": ".380",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3583,
+    2427,
+    3661,
+    2463
+   ]
+  },
+  {
+   "key": "k37",
+   "text": ".200 - .206 HOLE (4) ▲",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    3444,
+    2476,
+    3867,
+    2522
+   ]
+  },
+  {
+   "key": "k38",
+   "text": ".090/.088 (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    2187,
+    2538,
+    2373,
+    2607
+   ]
+  },
+  {
+   "key": "k39",
+   "text": "EQUALLY SPACED WITHIN .005 OF TRUE POSITION (SEE NOTE 1)",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    3453,
+    2518,
+    3868,
+    2630
+   ]
+  },
+  {
+   "key": "k40",
+   "text": "2. THIS SURFACE TO BE FREE FROM SPIRAL AND LONGITUDINAL TOOL MARKS. ANNULAR TOOL MARKS ONLY WILL BE ALLOWED.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4081,
+    2674,
+    5090,
+    2784
+   ]
+  },
+  {
+   "key": "k41",
+   "text": "3. PREPARE END FOR BRAZING PER LSP-14-7062 MINIMUM LENGTH .750",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4077,
+    2783,
+    5078,
+    2859
+   ]
+  },
+  {
+   "key": "k42",
+   "text": ".024 - .029 HOLE (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    1893,
+    2837,
+    2283,
+    2885
+   ]
+  },
+  {
+   "key": "k43",
+   "text": "32",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2610,
+    2833,
+    2682,
+    2890
+   ]
+  },
+  {
+   "key": "k44",
+   "text": "1.005/.995 DIA (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    2862,
+    2871,
+    3133,
+    2952
+   ]
+  },
+  {
+   "key": "k45",
+   "text": ".123/.117",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2671,
+    2944,
+    2753,
+    3022
+   ]
+  },
+  {
+   "key": "k46",
+   "text": ".015/.005 R(2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    2028,
+    3011,
+    2233,
+    3077
+   ]
+  },
+  {
+   "key": "k47",
+   "text": "32",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2605,
+    3083,
+    2680,
+    3136
+   ]
+  },
+  {
+   "key": "k48",
+   "text": "BREAK EDGE .005-.010R(2)",
+   "kind": "note",
+   "multiplier": 2,
+   "box": [
+    1864,
+    3090,
+    2367,
+    3137
+   ]
+  },
+  {
+   "key": "k49",
+   "text": "0°-5° (2)",
+   "kind": "angle",
+   "multiplier": 2,
+   "box": [
+    2726,
+    3123,
+    2889,
+    3177
+   ]
+  },
+  {
+   "key": "k50",
+   "text": ".080/.074",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2315,
+    3168,
+    2417,
+    3238
+   ]
+  },
+  {
+   "key": "k51",
+   "text": "SURFACES TO BE PARALLEL WITHIN .002",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2880,
+    3187,
+    3396,
+    3259
+   ]
+  },
+  {
+   "key": "k52",
+   "text": "32",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2462,
+    3252,
+    2535,
+    3305
+   ]
+  }
+ ]
+}

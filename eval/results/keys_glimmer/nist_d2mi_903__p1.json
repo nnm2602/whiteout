@@ -1,0 +1,115 @@
+{
+ "key": "nist_d2mi_903__p1.json",
+ "kind": "nist_d2mi",
+ "source": "hand",
+ "items": 19,
+ "found": 26,
+ "first_read_hits": 18,
+ "final_hits": 18,
+ "baseline_hits": 0,
+ "baseline_found": 0,
+ "exact_text": 18,
+ "multiplier_right": 18,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k17",
+   "text": "\u2300.156 - .166",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2459,
+    1869,
+    2668,
+    1898
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "4. INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY.",
+   "box": [
+    158,
+    257,
+    1146,
+    273
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "SEE PDM FOR DEFINING DATA",
+   "box": [
+    1502,
+    2105,
+    1904,
+    2121
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "\u00d8 .139 - .142",
+   "box": [
+    2231,
+    614,
+    2355,
+    621
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "\u00d8 .156 - .166",
+   "box": [
+    2406,
+    1812,
+    2637,
+    1847
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "R .005 MAX",
+   "box": [
+    2075,
+    736,
+    2112,
+    747
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".075 \u00b1 .015",
+   "box": [
+    2179,
+    866,
+    2220,
+    915
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "\u00d8 .164 - .167",
+   "box": [
+    2219,
+    525,
+    2366,
+    532
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 42.82218098640442,
+  "read": 546.1782970428467,
+  "audit": 790.2034621238708,
+  "text_layer_unmatched": 0,
+  "total": 1379.2815718650818
+ }
+}

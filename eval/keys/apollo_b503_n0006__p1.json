@@ -1,0 +1,717 @@
+{
+ "id": "apollo_b503_n0006",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0006.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10003",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "items": [
+  {
+   "key": "k1",
+   "text": "1.9950",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1862,
+    1112,
+    2018,
+    1146
+   ],
+   "table": true
+  },
+  {
+   "key": "k2",
+   "text": "1.1600",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    1603,
+    2015,
+    1643
+   ],
+   "table": true
+  },
+  {
+   "key": "k3",
+   "text": "1.1620",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    1653,
+    2015,
+    1693
+   ],
+   "table": true
+  },
+  {
+   "key": "k4",
+   "text": "1.1640",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    1697,
+    2015,
+    1737
+   ],
+   "table": true
+  },
+  {
+   "key": "k5",
+   "text": "1.1660",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    1740,
+    2015,
+    1780
+   ],
+   "table": true
+  },
+  {
+   "key": "k6",
+   "text": "1.1680",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    1783,
+    2015,
+    1823
+   ],
+   "table": true
+  },
+  {
+   "key": "k7",
+   "text": "1.1700",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    1828,
+    2015,
+    1868
+   ],
+   "table": true
+  },
+  {
+   "key": "k8",
+   "text": "1.1720",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    1873,
+    2015,
+    1913
+   ],
+   "table": true
+  },
+  {
+   "key": "k9",
+   "text": "1.1740",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    1918,
+    2015,
+    1958
+   ],
+   "table": true
+  },
+  {
+   "key": "k10",
+   "text": "1.1760",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    1965,
+    2015,
+    2005
+   ],
+   "table": true
+  },
+  {
+   "key": "k11",
+   "text": "1.1780",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2010,
+    2015,
+    2050
+   ],
+   "table": true
+  },
+  {
+   "key": "k12",
+   "text": "1.1800",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2057,
+    2015,
+    2097
+   ],
+   "table": true
+  },
+  {
+   "key": "k13",
+   "text": "1.1820",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2100,
+    2015,
+    2140
+   ],
+   "table": true
+  },
+  {
+   "key": "k14",
+   "text": "1.1840",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2147,
+    2015,
+    2187
+   ],
+   "table": true
+  },
+  {
+   "key": "k15",
+   "text": "1.1860",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2192,
+    2015,
+    2232
+   ],
+   "table": true
+  },
+  {
+   "key": "k16",
+   "text": "1.1880",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2235,
+    2015,
+    2275
+   ],
+   "table": true
+  },
+  {
+   "key": "k17",
+   "text": "1.1900",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2285,
+    2015,
+    2325
+   ],
+   "table": true
+  },
+  {
+   "key": "k18",
+   "text": "1.1920",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2330,
+    2015,
+    2370
+   ],
+   "table": true
+  },
+  {
+   "key": "k19",
+   "text": "1.1940",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2375,
+    2015,
+    2415
+   ],
+   "table": true
+  },
+  {
+   "key": "k20",
+   "text": "1.1960",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2420,
+    2015,
+    2460
+   ],
+   "table": true
+  },
+  {
+   "key": "k21",
+   "text": "1.1980",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2465,
+    2015,
+    2505
+   ],
+   "table": true
+  },
+  {
+   "key": "k22",
+   "text": "1.2730",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2510,
+    2015,
+    2550
+   ],
+   "table": true
+  },
+  {
+   "key": "k23",
+   "text": "1.2760",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2555,
+    2015,
+    2595
+   ],
+   "table": true
+  },
+  {
+   "key": "k24",
+   "text": "1.2790",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2600,
+    2015,
+    2640
+   ],
+   "table": true
+  },
+  {
+   "key": "k25",
+   "text": "1.2820",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2645,
+    2015,
+    2685
+   ],
+   "table": true
+  },
+  {
+   "key": "k26",
+   "text": "1.2850",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2690,
+    2015,
+    2730
+   ],
+   "table": true
+  },
+  {
+   "key": "k27",
+   "text": "1.2880",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2735,
+    2015,
+    2775
+   ],
+   "table": true
+  },
+  {
+   "key": "k28",
+   "text": "1.2910",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2780,
+    2015,
+    2820
+   ],
+   "table": true
+  },
+  {
+   "key": "k29",
+   "text": "1.2940",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2825,
+    2015,
+    2865
+   ],
+   "table": true
+  },
+  {
+   "key": "k30",
+   "text": "1.2970",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2870,
+    2015,
+    2910
+   ],
+   "table": true
+  },
+  {
+   "key": "k31",
+   "text": "1.3000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    2913,
+    2015,
+    2953
+   ],
+   "table": true
+  },
+  {
+   "key": "k32",
+   "text": ".037/.032",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3796,
+    1586,
+    3880,
+    1658
+   ]
+  },
+  {
+   "key": "k33",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3622,
+    1660,
+    3708,
+    1712
+   ]
+  },
+  {
+   "key": "k34",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3866,
+    1662,
+    3958,
+    1718
+   ]
+  },
+  {
+   "key": "k35",
+   "text": "3.375",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3290,
+    1814,
+    3396,
+    1848
+   ]
+  },
+  {
+   "key": "k36",
+   "text": ".066 - .067 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2746,
+    1934,
+    3036,
+    1968
+   ]
+  },
+  {
+   "key": "k37",
+   "text": "2.506",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3324,
+    1934,
+    3438,
+    1968
+   ]
+  },
+  {
+   "key": "k38",
+   "text": ".256 - .263 HOLE (3)",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    3876,
+    2042,
+    4258,
+    2078
+   ]
+  },
+  {
+   "key": "k39",
+   "text": "1.253",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3572,
+    2052,
+    3665,
+    2085
+   ]
+  },
+  {
+   "key": "k40",
+   "text": "CHAMFER 45° X .156 (3)",
+   "kind": "chamfer",
+   "multiplier": 3,
+   "box": [
+    2672,
+    2136,
+    3065,
+    2176
+   ]
+  },
+  {
+   "key": "k41",
+   "text": "2.750 DIA ℄ (BASIC)",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    3842,
+    2160,
+    4218,
+    2204
+   ]
+  },
+  {
+   "key": "k42",
+   "text": "4 HOLES EQUALLY SPACED WITHIN .001 OF TRUE LOCATION ▲ SEE NOTE 1",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    2346,
+    2200,
+    2784,
+    2308
+   ]
+  },
+  {
+   "key": "k43",
+   "text": ".125 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2968,
+    2356,
+    3072,
+    2390
+   ]
+  },
+  {
+   "key": "k44",
+   "text": "BREAK EDGE .002 MAX",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4594,
+    2340,
+    4826,
+    2408
+   ]
+  },
+  {
+   "key": "k45",
+   "text": "2.506",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3734,
+    2366,
+    3848,
+    2403
+   ]
+  },
+  {
+   "key": "k46",
+   "text": "2.101/2.100",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2854,
+    2384,
+    2952,
+    2448
+   ]
+  },
+  {
+   "key": "k47",
+   "text": ".750",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3024,
+    2443,
+    3114,
+    2481
+   ]
+  },
+  {
+   "key": "k48",
+   "text": "1.253",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3616,
+    2514,
+    3708,
+    2552
+   ]
+  },
+  {
+   "key": "k49",
+   "text": "ELECTRO ETCH PART NO. AND ACTUAL A DIA PER LSP-14-4706 ON TAB ONLY. USE BOTH SIDES IF NECESSARY",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2320,
+    2674,
+    2784,
+    2854
+   ]
+  },
+  {
+   "key": "k50",
+   "text": ".2522 - .2532 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    3742,
+    2715,
+    4124,
+    2754
+   ]
+  },
+  {
+   "key": "k51",
+   "text": ".125 R (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    2798,
+    2750,
+    2968,
+    2794
+   ]
+  },
+  {
+   "key": "k52",
+   "text": "1.671/1.670",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3189,
+    2811,
+    3284,
+    2882
+   ]
+  },
+  {
+   "key": "k53",
+   "text": "45° (BASIC)",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    3156,
+    2910,
+    3294,
+    2984
+   ]
+  },
+  {
+   "key": "k54",
+   "text": "2. PARTS SHALL BE CLEANED PER LSP-14-7072.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4324,
+    3054,
+    5094,
+    3092
+   ]
+  },
+  {
+   "key": "k55",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED (checked): ELECTRO ETCH PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED; FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030; DIAMETERS MARKED ℄ MUST BE CONCENTRIC WITHIN .002 FULL INDICATOR READING; 125 √ SURFACE ROUGHNESS PER MIL-STD-10; 200 √ FOR ALL HOLES; REMOVE ALL BURRS. BREAK ALL EDGES .015-.031",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    5010,
+    1016,
+    5422,
+    2852
+   ]
+  }
+ ],
+ "doubts": [
+  "title: the title block has no part name field filled in; only drawing number LDW270M10003 rev B, LEM, scale FULL",
+  "k1-k31: A DIA column header carries the tolerance ±.0005 for every tabulated value; text holds the value only. Rows -3 to -21 are blank (arrow down from -1)",
+  "the letter-dimension callouts 'A DIA ℄' (plan view) and 'A DIA REF' (section B-B) were not keyed; their values are the table cells",
+  "k41, k55: '℄' stands for the Grumman concentricity marker (C with bar) that the standard block defines",
+  "k53, k41: 45° BASIC and 2.750 DIA BASIC keyed as basic_dimension (printed with (BASIC), not boxed)",
+  "k42 (4 HOLES EQUALLY SPACED WITHIN .001 OF TRUE LOCATION): a position requirement written as a local note; keyed as note with multiplier 4",
+  "k36, k38, k50: '.066-.067 HOLE', '.256-.263 HOLE(3)' and '.2522-.2532 HOLE' rewritten with spaced hyphen per limit format",
+  "Not keyed: GRAIN DIRECTION OPTIONAL (imposes nothing); note 1 (refers to LDW270M10004/10005 only); note 3 (tooling similar to LDW270M10014, informational)",
+  "k55 (Grumman block): the 200 √ line reads 'FOR ALL [blacked out] HOLES'; the blacked-out word is unreadable",
+  "k33, k34: the two 16 √ finish symbols sit on the top edge line of the plan view; meaning (both faces) assumed"
+ ]
+}

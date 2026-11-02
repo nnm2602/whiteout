@@ -1,0 +1,160 @@
+{
+ "id": "cadsy_part_0023_asme",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0023_asme.png",
+ "source": "official",
+ "standard": "ASME",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "⌭|0.05",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    805,
+    149,
+    924,
+    200
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "⌀20",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1013,
+    165,
+    1075,
+    184
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "14",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2329,
+    417,
+    2347,
+    439
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "⌀4.5 THRU",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    215,
+    515,
+    349,
+    535
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "⌭|0.1",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1239,
+    523,
+    1341,
+    574
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "45.57",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    766,
+    1032,
+    821,
+    1050
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "45.57 ±0.2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1790,
+    1070,
+    1894,
+    1089
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "17",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1400,
+    1249,
+    1418,
+    1271
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "13",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1218,
+    1285,
+    1236,
+    1306
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "4",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    352,
+    1369,
+    369,
+    1380
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "22.78",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    565,
+    1431,
+    619,
+    1449
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "22.78",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1614,
+    1431,
+    1667,
+    1449
+   ]
+  }
+ ]
+}

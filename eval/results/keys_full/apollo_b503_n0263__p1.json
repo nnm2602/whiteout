@@ -1,0 +1,107 @@
+{
+ "key": "apollo_b503_n0263__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 49,
+ "found": 64,
+ "first_read_hits": 44,
+ "final_hits": 44,
+ "baseline_hits": 0,
+ "baseline_found": 0,
+ "exact_text": 40,
+ "multiplier_right": 44,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k4",
+   "text": "MINOR DIA .1560-.1641",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    3005,
+    1618,
+    3437,
+    1656
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "CSK 90\u00b0 X .221 DIA EQUALLY SPACED (4 PLACES)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    3005,
+    1697,
+    3468,
+    1810
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "MINOR DIA 1.6270-1.6355",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1518,
+    1944,
+    1992,
+    1978
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "PITCH DIA 1.6514-1.6563",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1514,
+    1977,
+    1992,
+    2010
+   ]
+  },
+  {
+   "key": "k22",
+   "text": "COUNTERSINK 90\u00b0 X 1.718 DIA",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1518,
+    2046,
+    2019,
+    2081
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "(SEE NOTE 1)",
+   "box": [
+    2153,
+    1412,
+    2547,
+    1446
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".263 .256 (TYP)",
+   "box": [
+    3804,
+    2712,
+    4064,
+    2838
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 16.721359968185425,
+  "read": 42.89109396934509,
+  "audit": 60.334115743637085,
+  "total": 120.25180387496948
+ }
+}

@@ -1,0 +1,204 @@
+{
+ "id": "nist_ftc_09",
+ "page": 2,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_09_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_09_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 9 - View B",
+ "doubts": [
+  "All annotations are drawn in isometric planes (about 30 degrees); every box is the axis-aligned box enclosing the rotated text or frame, so boxes of stacked items overlap.",
+  "Feature control frames printed under an nX size callout carry that callout's multiplier (same convention as the d2mi hand keys); frames with their own printed nX use it.",
+  "STR1, STR2, STR3 (BOUNDARY under the slot position frames) keyed as separate note items per the brief; they change the meaning of T16, T17, T18 (position of a slot boundary).",
+  "D14 (4X R) and D16 (2X R) are radius callouts with no value (radius set by the slot width); keyed as radius.",
+  "D15 (.375 ±.008 X 1.500 ±.012) is width and length of one slot in a single callout; keyed as one dimension item as the FSI does.",
+  "T15 and T18 have an all-around circle on the leader (FSI: All Around); symbol not included in the text.",
+  "Excluded: DF6 datum feature symbol, CS1, CS3, VSI1 view identifier C."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "2X 1.00 ±.02",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    854,
+    339,
+    999,
+    426
+   ],
+   "official_id": "D13"
+  },
+  {
+   "key": "k2",
+   "text": "⌖|.06Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    872,
+    309,
+    1113,
+    451
+   ],
+   "official_id": "T17"
+  },
+  {
+   "key": "k3",
+   "text": "BOUNDARY",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    911,
+    377,
+    1053,
+    466
+   ],
+   "official_id": "STR2"
+  },
+  {
+   "key": "k4",
+   "text": "2X .25 ±.01",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    1152,
+    340,
+    1282,
+    419
+   ],
+   "official_id": "D12"
+  },
+  {
+   "key": "k5",
+   "text": "⌖|.02Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1169,
+    303,
+    1409,
+    458
+   ],
+   "official_id": "T16"
+  },
+  {
+   "key": "k6",
+   "text": "BOUNDARY",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1208,
+    371,
+    1350,
+    471
+   ],
+   "official_id": "STR1"
+  },
+  {
+   "key": "k7",
+   "text": ".375 ±.008 X 1.500 ±.012",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1401,
+    442,
+    1666,
+    602
+   ],
+   "official_id": "D15"
+  },
+  {
+   "key": "k8",
+   "text": "⌖|.030Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1459,
+    494,
+    1712,
+    643
+   ],
+   "official_id": "T18"
+  },
+  {
+   "key": "k9",
+   "text": "BOUNDARY",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1497,
+    568,
+    1640,
+    657
+   ],
+   "official_id": "STR3"
+  },
+  {
+   "key": "k10",
+   "text": "2X R",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    1320,
+    499,
+    1389,
+    542
+   ],
+   "official_id": "D16"
+  },
+  {
+   "key": "k11",
+   "text": "4X R",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    701,
+    541,
+    766,
+    581
+   ],
+   "official_id": "D14"
+  },
+  {
+   "key": "k12",
+   "text": "4X ⌀.250 ±.008",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    219,
+    805,
+    389,
+    908
+   ],
+   "official_id": "D5"
+  },
+  {
+   "key": "k13",
+   "text": "⌖|⌀.030|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    229,
+    791,
+    476,
+    943
+   ],
+   "official_id": "T7"
+  },
+  {
+   "key": "k14",
+   "text": "⌓|.02|A|FⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    545,
+    1041,
+    762,
+    1169
+   ],
+   "official_id": "T15"
+  }
+ ]
+}

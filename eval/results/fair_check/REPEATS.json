@@ -1,0 +1,102 @@
+{
+ "what": "the same xlsx test repeated with 10 other random draws of measured values and planted errors (no PDFs)",
+ "command": "uv run python eval/make_supplier_reports.py --seed SEED --no-pdf --out DIR; uv run python eval/run_fair_check.py --no-model --reports DIR --out RESULTS",
+ "runs": [
+  {
+   "seed": "s0",
+   "planted": 96,
+   "found": 96,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 0,
+   "missed": []
+  },
+  {
+   "seed": "s1",
+   "planted": 96,
+   "found": 96,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 0,
+   "missed": []
+  },
+  {
+   "seed": "s2",
+   "planted": 96,
+   "found": 95,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 1,
+   "missed": [
+    {
+     "file": "nist_seeded1_A.xlsx",
+     "kind": "missing_row",
+     "row_id": "19",
+     "char_no": "19",
+     "detail": "row for '\u2295 \u00d80.005(M) A B C' left out"
+    }
+   ]
+  },
+  {
+   "seed": "s3",
+   "planted": 94,
+   "found": 94,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 0,
+   "missed": []
+  },
+  {
+   "seed": "s4",
+   "planted": 96,
+   "found": 96,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 0,
+   "missed": []
+  },
+  {
+   "seed": "s5",
+   "planted": 96,
+   "found": 96,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 0,
+   "missed": []
+  },
+  {
+   "seed": "s6",
+   "planted": 96,
+   "found": 96,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 0,
+   "missed": []
+  },
+  {
+   "seed": "s7",
+   "planted": 96,
+   "found": 96,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 0,
+   "missed": []
+  },
+  {
+   "seed": "s8",
+   "planted": 96,
+   "found": 96,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 0,
+   "missed": []
+  },
+  {
+   "seed": "s9",
+   "planted": 96,
+   "found": 96,
+   "false_findings_on_clean_reports": 0,
+   "unexplained_findings_on_seeded_reports": 0,
+   "missed": []
+  }
+ ],
+ "total": {
+  "planted": 958,
+  "found": 957,
+  "found_rate": 0.999,
+  "false_findings_on_clean_reports": 0,
+  "clean_reports": 60,
+  "unexplained_findings_on_seeded_reports": 1
+ }
+}

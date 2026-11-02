@@ -1,0 +1,215 @@
+{
+ "id": "nist_ctc_01",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ctc/nist_ctc_01_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ctc_01_asme1_rd",
+ "title": "PMI Complex Test Case 1",
+ "doubts": [
+  "All annotations are rotated in the isometric view, so boxes are axis-aligned boxes around rotated text and overlap part edges and each other (k15 STR1 sits inside the left end of k14 T6).",
+  "k9 T1 has the all-around symbol (circle) on its leader, not a separate STR element; kept inside the frame item and its box, text written without it.",
+  "k15 STR1 'A↔B' between indicator kept as a note item. LDN1 'A' and LDN2 'B' only label the two ends of the between zone; excluded.",
+  "k11 T4 and k12 T5 frames sit on dimension lines with no dimension value; the dimension lines are not keyed separately.",
+  "Excluded DF1 A, DF2 B, DF3 C datum feature symbols and CS1 coordinate system."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "D8",
+   "text": "⌀35.2/34.8",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    951,
+    169,
+    1010,
+    233
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "D7",
+   "text": "⌀34.8 - 35.2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1844,
+    664,
+    1958,
+    748
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "D1",
+   "text": "⌀25 ±0.15",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1625,
+    733,
+    1730,
+    801
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "D2",
+   "text": "⌀20 +0.05/-0.10",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    664,
+    897,
+    762,
+    980
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D4",
+   "text": "⌀35 0/-0.2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    470,
+    961,
+    552,
+    1036
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "D3",
+   "text": "⌀20 +0.10/-0.05",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    694,
+    997,
+    792,
+    1080
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "D6",
+   "text": "60° ±0.5°",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    987,
+    1019,
+    1087,
+    1096
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "D5",
+   "text": "⌀35 +0.2/0",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1363,
+    1451,
+    1439,
+    1521
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "T1",
+   "text": "⌓|0.5|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1491,
+    639,
+    1640,
+    734
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T2",
+   "text": "⏥|0.2",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    394,
+    344,
+    483,
+    431
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "T4",
+   "text": "⌖|0.75|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1096,
+    406,
+    1335,
+    523
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "T5",
+   "text": "⌖|0.75|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1605,
+    1209,
+    1812,
+    1332
+   ]
+  },
+  {
+   "key": "k13",
+   "official_id": "T3",
+   "text": "⊥|1.5|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1945,
+    997,
+    2059,
+    1097
+   ]
+  },
+  {
+   "key": "k14",
+   "official_id": "T6",
+   "text": "⌓|1.25|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    903,
+    1243,
+    1127,
+    1366
+   ]
+  },
+  {
+   "key": "k15",
+   "official_id": "STR1",
+   "text": "A↔B",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    884,
+    1243,
+    1006,
+    1310
+   ]
+  }
+ ]
+}

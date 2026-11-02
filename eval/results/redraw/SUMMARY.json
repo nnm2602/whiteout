@@ -1,0 +1,452 @@
+{
+ "what": "Apollo LM scans (1967) redrawn as vector sheets: line work traced in code, every text line read by Muse Spark 1.3 (effort low) and re-typeset. Word counts are plain Tesseract words near each answer-key requirement: one whole-sheet pass (sparse text mode, as geometry.ocr_words), and one pass per key item crop. Faithfulness is within 3 px.",
+ "overall": {
+  "sheets": 6,
+  "key_words": 1059,
+  "original_word_recall": 0.5713,
+  "redraw_word_recall": 0.6789,
+  "crop_original_word_recall": 0.6837,
+  "crop_redraw_word_recall": 0.7602,
+  "key_items": 290,
+  "crop_original_items_all_words": 0.3069,
+  "crop_redraw_items_all_words": 0.4621,
+  "original_items_all_words": 0.1862,
+  "redraw_items_all_words": 0.3552,
+  "key_text_typeset_exact": 0.8034,
+  "key_text_typeset_close_90": 0.8448,
+  "line_ink_covered_mean": 0.9846,
+  "drawn_on_line_ink_mean": 0.9998,
+  "text_lines_read": 1153,
+  "text_placed": 1065,
+  "text_placed_on_ink": 1034,
+  "usd": 1.8924
+ },
+ "sheets": [
+  {
+   "sheet": "apollo_b503_n0006",
+   "job": "sample job",
+   "seconds": 9.1,
+   "usd_this_run": 0.0,
+   "usd": 0.3105,
+   "legibility": {
+    "key_words": 162,
+    "original_words": 91,
+    "redraw_words": 126,
+    "original_word_recall": 0.5617,
+    "redraw_word_recall": 0.7778,
+    "key_items": 55,
+    "original_items_all_words": 8,
+    "redraw_items_all_words": 31,
+    "crop_original_words": 124,
+    "crop_redraw_words": 131,
+    "crop_original_word_recall": 0.7654,
+    "crop_redraw_word_recall": 0.8086,
+    "crop_original_items_all_words": 27,
+    "crop_redraw_items_all_words": 37
+   },
+   "key_text_typeset": {
+    "key_items": 55,
+    "exact": 49,
+    "close_90": 49
+   },
+   "faithfulness": {
+    "line_ink_covered": 0.9852,
+    "drawn_on_line_ink": 1.0,
+    "drawn_on_any_ink": 1.0,
+    "tolerance_px": 3
+   },
+   "text": {
+    "tiles": 25,
+    "raw_items": 399,
+    "lines_read": 214,
+    "glyph_height_px": [
+     18,
+     25
+    ],
+    "joined_split": 0,
+    "order_fixed": 1,
+    "cut_to_one_row": 2,
+    "resnapped": 2,
+    "grown": 3,
+    "width_fixed": 1,
+    "dropped_copies_or_no_ink": 5,
+    "from_job": 61,
+    "placed": 207,
+    "placed_snapped": 203,
+    "rotated": 2,
+    "glyphs_not_in_font": 0
+   },
+   "lines": {
+    "line_width_px": 3.0,
+    "thin_px": 3.0,
+    "thick_px": 5.0,
+    "lines": 1014,
+    "arcs": 38,
+    "circles": 1,
+    "polylines": 7,
+    "fills": 438
+   },
+   "region": [
+    1365,
+    935,
+    5554,
+    3630
+   ]
+  },
+  {
+   "sheet": "apollo_b503_n0013",
+   "job": "cached first read",
+   "seconds": 7.2,
+   "usd_this_run": 0.0,
+   "usd": 0.3096,
+   "legibility": {
+    "key_words": 143,
+    "original_words": 96,
+    "redraw_words": 96,
+    "original_word_recall": 0.6713,
+    "redraw_word_recall": 0.6713,
+    "key_items": 34,
+    "original_items_all_words": 18,
+    "redraw_items_all_words": 10,
+    "crop_original_words": 95,
+    "crop_redraw_words": 104,
+    "crop_original_word_recall": 0.6643,
+    "crop_redraw_word_recall": 0.7273,
+    "crop_original_items_all_words": 11,
+    "crop_redraw_items_all_words": 14
+   },
+   "key_text_typeset": {
+    "key_items": 34,
+    "exact": 28,
+    "close_90": 32
+   },
+   "faithfulness": {
+    "line_ink_covered": 0.9854,
+    "drawn_on_line_ink": 1.0,
+    "drawn_on_any_ink": 1.0,
+    "tolerance_px": 3
+   },
+   "text": {
+    "tiles": 25,
+    "raw_items": 386,
+    "lines_read": 158,
+    "glyph_height_px": [
+     18,
+     25
+    ],
+    "joined_split": 0,
+    "order_fixed": 0,
+    "cut_to_one_row": 1,
+    "resnapped": 2,
+    "grown": 1,
+    "width_fixed": 3,
+    "dropped_copies_or_no_ink": 8,
+    "from_job": 48,
+    "placed": 148,
+    "placed_snapped": 143,
+    "rotated": 2,
+    "glyphs_not_in_font": 0
+   },
+   "lines": {
+    "line_width_px": 3.39,
+    "thin_px": 3.0,
+    "thick_px": 5.0,
+    "lines": 867,
+    "arcs": 42,
+    "circles": 4,
+    "polylines": 5,
+    "fills": 425
+   },
+   "region": [
+    1166,
+    929,
+    5327,
+    3623
+   ]
+  },
+  {
+   "sheet": "apollo_b502_n0014",
+   "job": "cached first read",
+   "seconds": 7.5,
+   "usd_this_run": 0.0,
+   "usd": 0.2937,
+   "legibility": {
+    "key_words": 284,
+    "original_words": 157,
+    "redraw_words": 196,
+    "original_word_recall": 0.5528,
+    "redraw_word_recall": 0.6901,
+    "key_items": 42,
+    "original_items_all_words": 7,
+    "redraw_items_all_words": 10,
+    "crop_original_words": 204,
+    "crop_redraw_words": 233,
+    "crop_original_word_recall": 0.7183,
+    "crop_redraw_word_recall": 0.8204,
+    "crop_original_items_all_words": 12,
+    "crop_redraw_items_all_words": 19
+   },
+   "key_text_typeset": {
+    "key_items": 42,
+    "exact": 36,
+    "close_90": 38
+   },
+   "faithfulness": {
+    "line_ink_covered": 0.9661,
+    "drawn_on_line_ink": 0.9999,
+    "drawn_on_any_ink": 1.0,
+    "tolerance_px": 3
+   },
+   "text": {
+    "tiles": 25,
+    "raw_items": 390,
+    "lines_read": 162,
+    "glyph_height_px": [
+     28,
+     29
+    ],
+    "joined_split": 0,
+    "order_fixed": 1,
+    "cut_to_one_row": 0,
+    "resnapped": 0,
+    "grown": 3,
+    "width_fixed": 5,
+    "dropped_copies_or_no_ink": 13,
+    "from_job": 71,
+    "placed": 149,
+    "placed_snapped": 142,
+    "rotated": 3,
+    "glyphs_not_in_font": 0
+   },
+   "lines": {
+    "line_width_px": 5.0,
+    "thin_px": 3.25,
+    "thick_px": 7.0,
+    "lines": 991,
+    "arcs": 34,
+    "circles": 2,
+    "polylines": 30,
+    "fills": 128
+   },
+   "region": [
+    1207,
+    888,
+    5358,
+    3575
+   ]
+  },
+  {
+   "sheet": "apollo_b503_n0024",
+   "job": "cached first read",
+   "seconds": 8.2,
+   "usd_this_run": 0.0,
+   "usd": 0.3261,
+   "legibility": {
+    "key_words": 172,
+    "original_words": 105,
+    "redraw_words": 113,
+    "original_word_recall": 0.6105,
+    "redraw_word_recall": 0.657,
+    "key_items": 57,
+    "original_items_all_words": 9,
+    "redraw_items_all_words": 15,
+    "crop_original_words": 110,
+    "crop_redraw_words": 121,
+    "crop_original_word_recall": 0.6395,
+    "crop_redraw_word_recall": 0.7035,
+    "crop_original_items_all_words": 11,
+    "crop_redraw_items_all_words": 16
+   },
+   "key_text_typeset": {
+    "key_items": 57,
+    "exact": 37,
+    "close_90": 38
+   },
+   "faithfulness": {
+    "line_ink_covered": 0.9832,
+    "drawn_on_line_ink": 1.0,
+    "drawn_on_any_ink": 1.0,
+    "tolerance_px": 3
+   },
+   "text": {
+    "tiles": 25,
+    "raw_items": 484,
+    "lines_read": 245,
+    "glyph_height_px": [
+     27,
+     28
+    ],
+    "joined_split": 0,
+    "order_fixed": 1,
+    "cut_to_one_row": 0,
+    "resnapped": 1,
+    "grown": 4,
+    "width_fixed": 1,
+    "dropped_copies_or_no_ink": 31,
+    "from_job": 69,
+    "placed": 213,
+    "placed_snapped": 205,
+    "rotated": 2,
+    "glyphs_not_in_font": 0
+   },
+   "lines": {
+    "line_width_px": 3.0,
+    "thin_px": 3.0,
+    "thick_px": 5.0,
+    "lines": 1059,
+    "arcs": 33,
+    "circles": 5,
+    "polylines": 8,
+    "fills": 416
+   },
+   "region": [
+    1286,
+    940,
+    5497,
+    3635
+   ]
+  },
+  {
+   "sheet": "apollo_b503_n0057",
+   "job": "cached first read",
+   "seconds": 7.3,
+   "usd_this_run": 0.0,
+   "usd": 0.3439,
+   "legibility": {
+    "key_words": 170,
+    "original_words": 102,
+    "redraw_words": 118,
+    "original_word_recall": 0.6,
+    "redraw_word_recall": 0.6941,
+    "key_items": 56,
+    "original_items_all_words": 9,
+    "redraw_items_all_words": 27,
+    "crop_original_words": 126,
+    "crop_redraw_words": 130,
+    "crop_original_word_recall": 0.7412,
+    "crop_redraw_word_recall": 0.7647,
+    "crop_original_items_all_words": 24,
+    "crop_redraw_items_all_words": 32
+   },
+   "key_text_typeset": {
+    "key_items": 56,
+    "exact": 41,
+    "close_90": 44
+   },
+   "faithfulness": {
+    "line_ink_covered": 0.9928,
+    "drawn_on_line_ink": 1.0,
+    "drawn_on_any_ink": 1.0,
+    "tolerance_px": 3
+   },
+   "text": {
+    "tiles": 25,
+    "raw_items": 517,
+    "lines_read": 212,
+    "glyph_height_px": [
+     29,
+     29
+    ],
+    "joined_split": 0,
+    "order_fixed": 0,
+    "cut_to_one_row": 1,
+    "resnapped": 2,
+    "grown": 2,
+    "width_fixed": 1,
+    "dropped_copies_or_no_ink": 15,
+    "from_job": 56,
+    "placed": 196,
+    "placed_snapped": 191,
+    "rotated": 2,
+    "glyphs_not_in_font": 0
+   },
+   "lines": {
+    "line_width_px": 3.0,
+    "thin_px": 3.0,
+    "thick_px": 5.0,
+    "lines": 944,
+    "arcs": 40,
+    "circles": 8,
+    "polylines": 24,
+    "fills": 405
+   },
+   "region": [
+    1003,
+    934,
+    5174,
+    3619
+   ]
+  },
+  {
+   "sheet": "apollo_b503_n0128",
+   "job": "cached first read",
+   "seconds": 5.8,
+   "usd_this_run": 0.0,
+   "usd": 0.3086,
+   "legibility": {
+    "key_words": 128,
+    "original_words": 54,
+    "redraw_words": 70,
+    "original_word_recall": 0.4219,
+    "redraw_word_recall": 0.5469,
+    "key_items": 46,
+    "original_items_all_words": 3,
+    "redraw_items_all_words": 10,
+    "crop_original_words": 65,
+    "crop_redraw_words": 86,
+    "crop_original_word_recall": 0.5078,
+    "crop_redraw_word_recall": 0.6719,
+    "crop_original_items_all_words": 4,
+    "crop_redraw_items_all_words": 16
+   },
+   "key_text_typeset": {
+    "key_items": 46,
+    "exact": 42,
+    "close_90": 44
+   },
+   "faithfulness": {
+    "line_ink_covered": 0.9952,
+    "drawn_on_line_ink": 0.9987,
+    "drawn_on_any_ink": 0.9987,
+    "tolerance_px": 3
+   },
+   "text": {
+    "tiles": 25,
+    "raw_items": 389,
+    "lines_read": 162,
+    "glyph_height_px": [
+     17,
+     21
+    ],
+    "joined_split": 0,
+    "order_fixed": 1,
+    "cut_to_one_row": 0,
+    "resnapped": 1,
+    "grown": 0,
+    "width_fixed": 8,
+    "dropped_copies_or_no_ink": 8,
+    "from_job": 49,
+    "placed": 152,
+    "placed_snapped": 150,
+    "rotated": 3,
+    "glyphs_not_in_font": 0
+   },
+   "lines": {
+    "line_width_px": 5.0,
+    "thin_px": 5.0,
+    "thick_px": 9.0,
+    "lines": 811,
+    "arcs": 22,
+    "circles": 5,
+    "polylines": 11,
+    "fills": 61
+   },
+   "region": [
+    1105,
+    936,
+    5190,
+    3626
+   ]
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "id": "nist_d2mi_908",
+ "page": 2,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-908.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": "⊥|.010|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    465,
+    171,
+    659,
+    205
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "2X ⌀.370 - .380",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    746,
+    110,
+    1008,
+    134
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "⌖|⌀.005Ⓛ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    746,
+    147,
+    1033,
+    181
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "⌀.182 - .192 ↧.250 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1377,
+    126,
+    1778,
+    151
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "⌴⌀.245 - .255 ↧.100 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1360,
+    163,
+    1790,
+    189
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1432,
+    189,
+    1717,
+    223
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "⊥|.010|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1585,
+    841,
+    1749,
+    877
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "⌀.145 - .155 ↧.250 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1080,
+    964,
+    1486,
+    990
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "⌴⌀.245 - .255 ↧.125 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1076,
+    1001,
+    1504,
+    1028
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1076,
+    1027,
+    1363,
+    1061
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "∠|.008|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    716,
+    1250,
+    879,
+    1285
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "5X 45°",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    1098,
+    1279,
+    1212,
+    1315
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "⌓|.016",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    879,
+    1605,
+    1009,
+    1638
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "⏥|.005",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    879,
+    1637,
+    1009,
+    1669
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "4X R.032 ± .010",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    2972,
+    1487,
+    3200,
+    1515
+   ]
+  }
+ ],
+ "doubts": [
+  "k12: boxed 5X 45° on the fin chamfers, keyed as basic_dimension (could also be read as angle)",
+  "k13, k14: profile and flatness frame sits on the 4X A datum feature symbol (4 coplanar boss faces); multiplier 4 taken from that 4X, could be 1 if the frame is treated as one requirement on the coplanar set",
+  "k15: a small circle sits on the leader just before 4X R.032 ±.010; read as a leader mark, not as all-around, and left out of the text",
+  "k4, k8: printed as ↧.250± .010 with an extra space; written in the standard ↧.250 ± .010 form"
+ ]
+}

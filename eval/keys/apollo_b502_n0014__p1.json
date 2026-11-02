@@ -1,0 +1,527 @@
+{
+ "id": "apollo_b502_n0014",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b502_n0014.jpg",
+ "source": "hand",
+ "stamp_not_for_photo_reproduction": false,
+ "drawing_number": "LDW200M10001",
+ "title": "",
+ "doubts": [
+  "k18: radius callout marked (TYP) and (REF); classed reference_dimension because of REF, could be radius",
+  "k24: '.094 CHAMFER RUNOUT R (TRUE)' read as a radius requirement",
+  "k40: Grumman MANUFACTURING OPERATIONS block kept as ONE note item; checked entries are rubber stamp marking, fillet radii tolerances, 125 surface roughness, 200 for drilled holes and break edges; part of the 125 and 200 lines is blacked out on the scan and the flanges tolerance line is half cut, text given from the standard Grumman wording",
+  "k42: interchangeability classification note, included per the when-in-doubt rule",
+  "Notes 2 (THIS DWG AFFECTED BY LFM-4), 4 (-11 & -12 MAY BE USED ON LM-4(34) THRU LM-15(45)) and 5 ((4) MODULE QUANTITIES REQUIRED PER LFM-4) left out: effectivity and quantity only",
+  ".688, .3272/.3252 carry the ▲ interchangeability flag; text written without the triangle",
+  "Title block has no part-name field filled (sheet 3) and no TOLERANCE UNLESS SPECIFIED cells; title left empty. -11 SHOWN / -12 OPPOSITE balloons are not items. No NOT FOR PHOTO REPRODUCTION stamp seen on this sheet"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": ".127-.133 HOLE (4)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    2898,
+    1155,
+    3225,
+    1197
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".750",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2593,
+    1255,
+    2690,
+    1298
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "1.062",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2922,
+    1530,
+    3042,
+    1575
+   ]
+  },
+  {
+   "key": "k4",
+   "text": ".500",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2800,
+    1630,
+    2900,
+    1675
+   ]
+  },
+  {
+   "key": "k5",
+   "text": ".500",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2705,
+    1772,
+    2820,
+    1815
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "2.438",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2410,
+    1925,
+    2536,
+    1975
+   ]
+  },
+  {
+   "key": "k7",
+   "text": ".094R (4)",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    3294,
+    2135,
+    3437,
+    2176
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "1.125 (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    3748,
+    2165,
+    3852,
+    2244
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "CHAMFER 45°x.125",
+   "kind": "chamfer",
+   "multiplier": 1,
+   "box": [
+    4169,
+    2196,
+    4536,
+    2236
+   ]
+  },
+  {
+   "key": "k10",
+   "text": ".078/.047",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2090,
+    2193,
+    2186,
+    2273
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2827,
+    2217,
+    2919,
+    2256
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".438/.406",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3373,
+    2246,
+    3470,
+    2323
+   ]
+  },
+  {
+   "key": "k13",
+   "text": ".864",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3170,
+    2265,
+    3264,
+    2304
+   ]
+  },
+  {
+   "key": "k14",
+   "text": ".438",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2946,
+    2370,
+    3037,
+    2408
+   ]
+  },
+  {
+   "key": "k15",
+   "text": ".438",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4133,
+    2363,
+    4229,
+    2400
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "1.781",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3113,
+    2441,
+    3197,
+    2480
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "1.281/1.250",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4044,
+    2455,
+    4142,
+    2530
+   ]
+  },
+  {
+   "key": "k18",
+   "text": ".125 R (TYP) (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    3834,
+    2475,
+    3994,
+    2540
+   ]
+  },
+  {
+   "key": "k19",
+   "text": ".625/.594",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1891,
+    2603,
+    1990,
+    2678
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "CHAMFER 45°x.125",
+   "kind": "chamfer",
+   "multiplier": 1,
+   "box": [
+    2763,
+    2617,
+    3094,
+    2659
+   ]
+  },
+  {
+   "key": "k21",
+   "text": ".688",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3220,
+    2641,
+    3366,
+    2683
+   ]
+  },
+  {
+   "key": "k22",
+   "text": ".188 (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    3801,
+    2643,
+    3956,
+    2692
+   ]
+  },
+  {
+   "key": "k23",
+   "text": ".188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2482,
+    2694,
+    2571,
+    2735
+   ]
+  },
+  {
+   "key": "k24",
+   "text": ".094 CHAMFER RUNOUT R (TRUE)",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    4054,
+    2692,
+    4662,
+    2733
+   ]
+  },
+  {
+   "key": "k25",
+   "text": ".125 R (TYP)",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2772,
+    2713,
+    2990,
+    2754
+   ]
+  },
+  {
+   "key": "k26",
+   "text": "CHAMFER 45°x.312",
+   "kind": "chamfer",
+   "multiplier": 1,
+   "box": [
+    1667,
+    2732,
+    2052,
+    2773
+   ]
+  },
+  {
+   "key": "k27",
+   "text": ".375",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3806,
+    2765,
+    3894,
+    2806
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "1.094",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2126,
+    2775,
+    2221,
+    2811
+   ]
+  },
+  {
+   "key": "k29",
+   "text": "1.875",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2444,
+    2775,
+    2547,
+    2811
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "CHAMFER .125x.125",
+   "kind": "chamfer",
+   "multiplier": 1,
+   "box": [
+    3082,
+    2798,
+    3409,
+    2840
+   ]
+  },
+  {
+   "key": "k31",
+   "text": "CHAMFER 45°x.312 (2)",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    2720,
+    2846,
+    3128,
+    2892
+   ]
+  },
+  {
+   "key": "k32",
+   "text": ".3272/.3252",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3391,
+    2879,
+    3575,
+    2954
+   ]
+  },
+  {
+   "key": "k33",
+   "text": "CHAMFER 45°x.125 (2)",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    1867,
+    2894,
+    2223,
+    2940
+   ]
+  },
+  {
+   "key": "k34",
+   "text": ".125 R (TYP)",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2486,
+    2903,
+    2618,
+    2944
+   ]
+  },
+  {
+   "key": "k35",
+   "text": ".812",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3534,
+    3013,
+    3618,
+    3054
+   ]
+  },
+  {
+   "key": "k36",
+   "text": "1.125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1996,
+    3046,
+    2090,
+    3087
+   ]
+  },
+  {
+   "key": "k37",
+   "text": "2.062",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1834,
+    3103,
+    1971,
+    3144
+   ]
+  },
+  {
+   "key": "k38",
+   "text": ".188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2056,
+    3176,
+    2139,
+    3219
+   ]
+  },
+  {
+   "key": "k39",
+   "text": "CHAMFER 45°x.094",
+   "kind": "chamfer",
+   "multiplier": 1,
+   "box": [
+    2732,
+    3305,
+    3113,
+    3345
+   ]
+  },
+  {
+   "key": "k40",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED ✓ APPLY TO THIS DWG. RUBBER STAMP PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED. USE BOTH SIDES IF NECESSARY. ✓ FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030. ✓ DEPTH SHOWN FOR TAPPED HOLES IS FULL THDS. 2-3 IMP. THDS. BEYOND PERMISSIBLE. EXTERNAL THREAD LENGTH SHOWN INCLUDES 2 IMPERFECT THREADS MAX. DO NOT CADMIUM PLATE & PAINT HOLES OR SURFACES MARKED WITH DOUBLE ASTERISK. MISMATCH STEP OF ±.005 PERMISSIBLE DUE TO CHANGE OF CUTTERS AT INSIDE INTERSECTING SURFACES. DIAMETERS MARKED MUST BE CONCENTRIC WITHIN FULL INDICATOR READING. HOLES MUST BE KEPT FREE OF CHROME PLATING SOLUTION. ALL DIMENSIONS SHOWN TO BE MET AFTER CADMIUM PLATING. THICKNESS OF PLATE .0003 MIN TO .0005 MAX. MIN THICKNESS TO BE .0002 ON THREADED AREAS. NO ALLOWANCES FOR PLATING IN HOLES. 125 SURFACE ROUGHNESS PER MIL-STD-10 ✓. 200 FOR ALL HOLES ✓. REMOVE ALL BURRS. BREAK ALL EDGES .015-.031 ✓. INSPECTION INFORMATION MINIMUM PERMISSIBLE AVERAGE EDGE DISTANCE MARKED IS. SYMBOL ✓ DENOTES SURFACE TO BE MACHINED. UNLESS OTHERWISE SPECIFIED TOLERANCE ON FLANGES IS ±1/32. LENGTHS OF AN, NAS & MS AL ALY RIVETS SHORTER THAN 1 INCH ARE NOT SPECIFIED. TOLERANCE ON LOFTED DELINEATIONS IS",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4822,
+    968,
+    5240,
+    2792
+   ]
+  },
+  {
+   "key": "k41",
+   "text": "1. MATERIAL SHALL MEET THE ULTRASONIC REQUIREMENTS OF LSP-14-16100, TABLE II.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4258,
+    2833,
+    5116,
+    2916
+   ]
+  },
+  {
+   "key": "k42",
+   "text": "3. DIMENSIONS MARKED ▲ FORMS PART OF AN INTERCHANGEABLE INTERFACE AS SHOWN ON LDW200-54003.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4265,
+    2990,
+    5166,
+    3104
+   ]
+  }
+ ]
+}

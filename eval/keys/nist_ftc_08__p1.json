@@ -1,0 +1,177 @@
+{
+ "id": "nist_ftc_08",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_08_asme1_rc.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_08_asme1_rc",
+ "title": "PMI Fully-Toleranced Test Case 8 - View A",
+ "doubts": [
+  "Annotation text on this file is drawn as vector paths (no text layer except the notes); boxes were set from the blue annotation pixels inside hand-placed regions and checked on overlays. Boxes are axis-aligned around rotated annotations and overlap.",
+  "Ⓕ (free state) and Ⓜ modifiers written in the cell as printed, e.g. ⌖|⌀.023ⓂⒻ|A|B|C.",
+  "T1 (⏥|.03Ⓕ) and T2 (⏥|.015) are two stacked single frames on datum feature A; T14 and T15 likewise stacked on one leader.",
+  "Hole sizes D1, D2, D9 keyed as hole_callout; T13 takes multiplier 2 from D9 '2X'.",
+  "Note 4 (frame T28 inline) keyed with official_id 'note 4'. Note 5 (restraint for inspection, part of STR6) kept as one note item with official_id 'note 5', since it sets how every restrained requirement is inspected.",
+  "Excluded: notes 1 (CAD model required), 2 (precedence), 3 (applicable standards), 6 (UNITS: INCHES); datum feature symbols DF1 A, DF2 B, DF3 C; coordinate systems CS1, CS2."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "D9",
+   "text": "2X ⌀.238 +.005/-.001",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    1331,
+    306,
+    1516,
+    413
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T13",
+   "text": "⌖|⌀.023ⓂⒻ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1364,
+    271,
+    1666,
+    446
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T1",
+   "text": "⏥|.03Ⓕ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1601,
+    442,
+    1723,
+    551
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T2",
+   "text": "⏥|.015",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1602,
+    482,
+    1717,
+    587
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "T14",
+   "text": "∥|.02|D",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1831,
+    583,
+    1952,
+    692
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T15",
+   "text": "⌓|.06|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1832,
+    580,
+    2020,
+    726
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "D2",
+   "text": "⌀.238 +.005/-.001",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    621,
+    955,
+    768,
+    1038
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "T4",
+   "text": "⌖|⌀.020ⓂⒻ|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    543,
+    981,
+    810,
+    1134
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "D1",
+   "text": "⌀.238 +.005/-.001",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1135,
+    1285,
+    1281,
+    1371
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T3",
+   "text": "⊥|⌀.015ⓂⒻ|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1087,
+    1312,
+    1325,
+    1449
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "note 4",
+   "text": "4. ⌓|.06|A|B|C APPLIES TO ALL UNTOLERANCED SURFACES.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    123,
+    677,
+    571,
+    739
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "note 5",
+   "text": "5. DIMENSIONING AND TOLERANCING APPLY WITH PART RESTRAINED AS FOLLOWS, EXCEPT AS INDICATED. PLACE DATUM FEATURE A AGAINST DATUM FEATURE SIMULATOR A. ENGAGE DATUM FEATURES B AND C WITH DATUM FEATURE SIMULATORS B AND C RESPECTIVELY. APPLY LOAD TO PART TO RESTRAIN DATUM FEATURE A AGAINST ITS SIMULATOR. DETAILED INSPECTION PLAN NEEDED TO COMPLETELY DEFINE RESTRAINT.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    122,
+    780,
+    601,
+    1291
+   ]
+  }
+ ]
+}

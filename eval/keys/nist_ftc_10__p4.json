@@ -1,0 +1,123 @@
+{
+ "id": "nist_ftc_10",
+ "page": 4,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_10_asme1_rb.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_10_asme1_rb",
+ "title": "PMI Fully-Toleranced Test Case 10 - View D",
+ "doubts": [
+  "Frames and depth lines stacked under an nX callout carry that callout's multiplier (same convention as the d2mi hand keys).",
+  "T11 is a two-row profile frame sharing one symbol cell; one item per row, row boxes split at the row line (the shared symbol cell is cut between them).",
+  "Thread callouts printed M3x0.5-6g without spaces (FSI writes M3 x 0.5 - 6g); kept as printed.",
+  "Excluded: datum targets K1, K2 (DT1, DT2), movable datum targets L1, L2 (MDT1, MDT2), supplemental geometry SG1, SG2, DF8, CS1, CS2, CS4-CS6."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "2X M3x0.5-6g",
+   "kind": "thread",
+   "multiplier": 2,
+   "box": [
+    1478,
+    684,
+    1679,
+    709
+   ],
+   "official_id": "D23"
+  },
+  {
+   "key": "k2",
+   "text": "⌖|⌀0.8Ⓟ3.2|D|E|B",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1477,
+    712,
+    1841,
+    750
+   ],
+   "official_id": "T32"
+  },
+  {
+   "key": "k3",
+   "text": "2X M3x0.5-6g",
+   "kind": "thread",
+   "multiplier": 2,
+   "box": [
+    1478,
+    770,
+    1679,
+    795
+   ],
+   "official_id": "D24"
+  },
+  {
+   "key": "k4",
+   "text": "⌖|⌀0.8Ⓟ3.2|D|F|B",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1477,
+    795,
+    1841,
+    833
+   ],
+   "official_id": "T33"
+  },
+  {
+   "key": "k5",
+   "text": "2X M3x0.5-6g",
+   "kind": "thread",
+   "multiplier": 2,
+   "box": [
+    1478,
+    855,
+    1679,
+    880
+   ],
+   "official_id": "D25"
+  },
+  {
+   "key": "k6",
+   "text": "⌖|⌀0.8Ⓟ3.2|D|G|B",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1477,
+    878,
+    1841,
+    916
+   ],
+   "official_id": "T34"
+  },
+  {
+   "key": "k7",
+   "text": "⌓|1.2|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    393,
+    858,
+    657,
+    896
+   ],
+   "official_id": "T11"
+  },
+  {
+   "key": "k8",
+   "text": "⌓|0.15|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    393,
+    892,
+    598,
+    928
+   ],
+   "official_id": "T11"
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "id": "nist_ftc_09",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_09_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_09_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 9 - View A",
+ "doubts": [
+  "All annotations are drawn in isometric planes (about 30 degrees); every box is the axis-aligned box enclosing the rotated text or frame, so boxes of stacked items overlap.",
+  "Feature control frames printed under an nX size callout carry that callout's multiplier (same convention as the d2mi hand keys); frames with their own printed nX use it.",
+  "T13 and T14 are composite position frames: one item per row, the shared position symbol written on both rows. Both rows of each are keyed with the 3X of the size callout.",
+  "D10 and D11 print 3X although the FSI lists four holes per pattern (F20-F23, F24-F27); keyed as printed (3X).",
+  "D8 (4X .03 ±.01 X .03 ±.01) keyed as chamfer (FSI: chamfers, cones).",
+  "T29 has an all-around circle on its leader (FSI: Profile .05|A|B|C All Around); the symbol is on the leader, not text, so the frame text omits it.",
+  "Notes block (STR6): note 5 MATERIAL kept as a requirement. Excluded: note 1 (CAD MODEL REV IS REQUIRED), note 2 (precedence), note 3 (applicable standards), note 6 (UNITS: INCHES), and note 4 (values in square brackets are millimeters), which is a units convention like note 6.",
+  "Excluded per brief: DF1-DF3 datum feature symbols, CS1 coordinate system, title and header text."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "3X ⌀.250 +.003/-.000",
+   "kind": "dimension",
+   "multiplier": 3,
+   "box": [
+    983,
+    471,
+    1166,
+    582
+   ],
+   "official_id": "D10"
+  },
+  {
+   "key": "k2",
+   "text": "⌖|⌀.050Ⓟ.260|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    1013,
+    437,
+    1324,
+    620
+   ],
+   "official_id": "T13"
+  },
+  {
+   "key": "k3",
+   "text": "⌖|⌀.010Ⓟ.260|A",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    1047,
+    492,
+    1296,
+    639
+   ],
+   "official_id": "T13"
+  },
+  {
+   "key": "k4",
+   "text": "2X ⌀.234 ±.008",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    1411,
+    420,
+    1574,
+    534
+   ],
+   "official_id": "D9"
+  },
+  {
+   "key": "k5",
+   "text": "⌖|⌀.016Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1412,
+    403,
+    1653,
+    582
+   ],
+   "official_id": "T12"
+  },
+  {
+   "key": "k6",
+   "text": "4X .03 ±.01 X .03 ±.01",
+   "kind": "chamfer",
+   "multiplier": 4,
+   "box": [
+    1506,
+    508,
+    1741,
+    649
+   ],
+   "official_id": "D8"
+  },
+  {
+   "key": "k7",
+   "text": "5. MATERIAL: (.1195 THICK) 11 GA 304 SST SHT, ASTM A240.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    119,
+    774,
+    585,
+    836
+   ],
+   "official_id": "STR6 note 5"
+  },
+  {
+   "key": "k8",
+   "text": "⌀.234 ±.008",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    684,
+    799,
+    814,
+    892
+   ],
+   "official_id": "D2"
+  },
+  {
+   "key": "k9",
+   "text": "⌖|⌀.016|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    635,
+    827,
+    819,
+    972
+   ],
+   "official_id": "T3"
+  },
+  {
+   "key": "k10",
+   "text": "⏥|.01",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    807,
+    994,
+    914,
+    1090
+   ],
+   "official_id": "T1"
+  },
+  {
+   "key": "k11",
+   "text": "3X ⌀.250 +.003/-.000",
+   "kind": "dimension",
+   "multiplier": 3,
+   "box": [
+    871,
+    1171,
+    1050,
+    1280
+   ],
+   "official_id": "D11"
+  },
+  {
+   "key": "k12",
+   "text": "⌖|⌀.050Ⓟ.260|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    865,
+    1155,
+    1176,
+    1336
+   ],
+   "official_id": "T14"
+  },
+  {
+   "key": "k13",
+   "text": "⌖|⌀.010Ⓟ.260|A",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    896,
+    1197,
+    1148,
+    1356
+   ],
+   "official_id": "T14"
+  },
+  {
+   "key": "k14",
+   "text": "⌀.234 ±.008",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1233,
+    1242,
+    1362,
+    1336
+   ],
+   "official_id": "D1"
+  },
+  {
+   "key": "k15",
+   "text": "⊥|⌀.016|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1201,
+    1268,
+    1365,
+    1402
+   ],
+   "official_id": "T2"
+  },
+  {
+   "key": "k16",
+   "text": "⌓|.05|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1783,
+    1268,
+    2005,
+    1399
+   ],
+   "official_id": "T29"
+  }
+ ]
+}

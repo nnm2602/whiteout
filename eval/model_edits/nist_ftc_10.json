@@ -1,0 +1,80 @@
+{
+ "case": "nist_ftc_10",
+ "source": "data/raw/nist_pmi_step/nist_ftc_10_asme1_ap242-e2.stp",
+ "edited": "data/raw/model_edits/nist_ftc_10_edited.stp",
+ "pmi_after": 65,
+ "edits": [
+  {
+   "edit": "tolerance",
+   "target": "#19998",
+   "before": "10.00 ±0.2",
+   "expect": "differs",
+   "field": "tolerance",
+   "factor": 2.0,
+   "drawing": {
+    "id": "s1c0",
+    "text": "4X · Ø10 ±0.25 ↧10 ±0.2",
+    "requirement_text": "↧ 10 ±0.2",
+    "sheet": 1
+   },
+   "after": "bounds -0.4 / 0.4"
+  },
+  {
+   "edit": "nominal",
+   "target": "#20251",
+   "before": "2.00 ±0.15",
+   "expect": "differs",
+   "field": "nominal",
+   "factor": 1.05,
+   "drawing": {
+    "id": "s1c20",
+    "text": "⋈2 ±0.15",
+    "requirement_text": "⋈2 ±0.15",
+    "sheet": 1
+   },
+   "after": "nominal 2.1 (was 2)"
+  },
+  {
+   "edit": "gdt_value",
+   "target": "#18511",
+   "before": "⌓|1.5|A|B|C",
+   "expect": "differs",
+   "field": "tolerance value",
+   "factor": 2.0,
+   "drawing": {
+    "id": "s1c18",
+    "text": "⌒ 1.5 A B C",
+    "requirement_text": "1.5 A B C",
+    "sheet": 1
+   },
+   "after": "value 3 (was 1.5)"
+  },
+  {
+   "edit": "no_tolerance",
+   "target": "#20442",
+   "before": "⌀5.50 ±0.08",
+   "expect": "differs",
+   "field": "tolerance",
+   "drawing": {
+    "id": "s2c10",
+    "text": "Ø5.5 ±0.2 ↓ 27.5 ±1 Ø5.5 ±0.08 INDICATED AREA",
+    "requirement_text": "Ø5.5 ±0.08 INDICATED AREA",
+    "sheet": 2
+   },
+   "after": "plus/minus tolerance #20447 deleted"
+  },
+  {
+   "edit": "removed_gdt",
+   "target": "#18546",
+   "before": "⊥|⌀0.25|A",
+   "expect": "drawing_only",
+   "drawing": {
+    "id": "s0c12",
+    "text": "⊥ Ø0.25 A",
+    "requirement_text": "⊥ Ø0.25 A",
+    "sheet": 0
+   },
+   "after": "geometric tolerance #18546 deleted"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 0,
+ "true_missed_visible": 0,
+ "key": "nist_ftc_09__p1.json",
+ "kind": "nist_ftc",
+ "source": "official",
+ "items": 16,
+ "found": 22,
+ "first_read_hits": 16,
+ "final_hits": 16,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 1,
+ "baseline_found": 3,
+ "exact_text": 15,
+ "multiplier_right": 12,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [
+  {
+   "text": "2. DIRECTLY-TOLERANCED DIMENSIONS AND BASIC DIMENSIONS DEFINED ON THE DRAWING TAKE PRECEDENCE OVER DIMENSIONAL DATA DEFINED BY THE MODEL. OBTAIN ALL OTHER DIMENSIONAL DATA FROM THE MODEL. THE MODEL REPRESENTS BASIC DIMENSIONAL DATA UNLESS OTHERWISE SPECIFIED.",
+   "box": [
+    123,
+    297,
+    817,
+    466
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "3. APPLICABLE STANDARDS: ASME Y14.41-2003 APPLIES TO DATASET. ASME Y14.5M-1994 APPLIES TO DIMENSIONING AND TOLERANCING.",
+   "box": [
+    123,
+    508,
+    790,
+    617
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "4. DIMENSION AND TOLERANCE VALUES SHOWN IN SQUARE BRACKETS [XXX] ARE MILLIMETERS.",
+   "box": [
+    124,
+    660,
+    644,
+    743
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1. CAD MODEL __________ REV. __ IS REQUIRED TO COMPLETE PRODUCT DEFINITION.",
+   "box": [
+    123,
+    206,
+    775,
+    254
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "6. UNITS: INCHES",
+   "box": [
+    124,
+    949,
+    394,
+    983
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "6. UNITS: INCHES",
+   "box": [
+    123,
+    871,
+    338,
+    889
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.02537989616394043,
+  "read": 1.6358489990234375,
+  "audit": 1.1276884078979492,
+  "text_layer_unmatched": 14,
+  "total": 2.8094170093536377
+ }
+}

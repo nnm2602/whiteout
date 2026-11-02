@@ -1,0 +1,8 @@
+.venv
+.cache
+.jobs
+out
+data
+eval/results
+web/node_modules
+**/__pycache__

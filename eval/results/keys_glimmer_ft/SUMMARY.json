@@ -1,0 +1,79 @@
+{
+ "overall": {
+  "sheets": 6,
+  "key_items": 240,
+  "first_read_recall": 0.9667,
+  "final_recall": 0.9667,
+  "final_recall_ci95": [
+   0.9356,
+   0.983
+  ],
+  "precision": 0.6864,
+  "exact_text_of_matched": 0.7802,
+  "multiplier_right_of_matched": 0.9784,
+  "baseline_recall": 0.2542,
+  "baseline_precision": 0.6354,
+  "audit_added": 3,
+  "missed": 8,
+  "missed_visible_on_erased_page": 0,
+  "true_missed": 7,
+  "true_missed_visible": 0,
+  "hits_inside_larger_callout": 2,
+  "audit_added_correct": 0
+ },
+ "by_source": {
+  "apollo": {
+   "sheets": 3,
+   "key_items": 155,
+   "first_read_recall": 0.9548,
+   "final_recall": 0.9548,
+   "final_recall_ci95": [
+    0.9097,
+    0.978
+   ],
+   "precision": 0.5896,
+   "exact_text_of_matched": 0.6892,
+   "multiplier_right_of_matched": 0.9865,
+   "baseline_recall": 0.2258,
+   "baseline_precision": 0.5469,
+   "audit_added": 3,
+   "missed": 7,
+   "missed_visible_on_erased_page": 0,
+   "true_missed": 6,
+   "true_missed_visible": 0,
+   "hits_inside_larger_callout": 2,
+   "audit_added_correct": 0
+  },
+  "nist_d2mi": {
+   "sheets": 3,
+   "key_items": 85,
+   "first_read_recall": 0.9882,
+   "final_recall": 0.9882,
+   "final_recall_ci95": [
+    0.9363,
+    0.9979
+   ],
+   "precision": 0.9655,
+   "exact_text_of_matched": 0.9405,
+   "multiplier_right_of_matched": 0.9643,
+   "baseline_recall": 0.3059,
+   "baseline_precision": 0.8125,
+   "audit_added": 0,
+   "missed": 1,
+   "missed_visible_on_erased_page": 0,
+   "true_missed": 1,
+   "true_missed_visible": 0,
+   "hits_inside_larger_callout": 0,
+   "audit_added_correct": 0
+  }
+ },
+ "usage": {
+  "calls": 780,
+  "cached": 36,
+  "input_tokens": 1667837,
+  "output_tokens": 87182,
+  "reasoning_tokens": 0,
+  "seconds": 15940.7833,
+  "usd": 0.0
+ }
+}

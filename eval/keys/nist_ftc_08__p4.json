@@ -1,0 +1,254 @@
+{
+ "id": "nist_ftc_08",
+ "page": 4,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_08_asme1_rc.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_08_asme1_rc",
+ "title": "PMI Fully-Toleranced Test Case 8 - View D",
+ "doubts": [
+  "Annotation text is drawn as vector paths; boxes from blue annotation pixels inside hand-placed regions, checked on overlays. Boxes are axis-aligned around rotated annotations and overlap (each hole size callout sits partly over its frame).",
+  "T26 and T27 have the all-around circle on their leaders; not keyed separately.",
+  "Composite frames T9, T10, T11, T12 give one item per row.",
+  "STR1/STR2 'SIM REQT 1' and STR3/STR4 'SIM REQT 2' kept as note items (they group the lower-segment position zones of H with J and K with L).",
+  "Excluded: datum feature symbols DF8 H, DF9 J, DF10 K, DF11 L; coordinate systems CS2, CS5, CS6."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T26",
+   "text": "⌓|.015|D|HⓂ-JⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    531,
+    337,
+    790,
+    486
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "D5",
+   "text": "⌀.228 +.005/-.001",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    470,
+    509,
+    619,
+    590
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T9",
+   "text": "⌖|⌀.050Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    301,
+    461,
+    568,
+    615
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T9",
+   "text": "⌖|⌀.020Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    269,
+    479,
+    537,
+    634
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "STR1",
+   "text": "SIM REQT 1",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    356,
+    568,
+    493,
+    647
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "D6",
+   "text": "⌀.242 +.005/-.001",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    352,
+    882,
+    495,
+    963
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "T10",
+   "text": "⌖|⌀.050Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    179,
+    841,
+    445,
+    995
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "T10",
+   "text": "⌖|⌀.020Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    147,
+    859,
+    415,
+    1013
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "STR2",
+   "text": "SIM REQT 1",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    233,
+    948,
+    370,
+    1027
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "D7",
+   "text": "⌀.228 +.005/-.001",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    892,
+    1207,
+    1034,
+    1285
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "T11",
+   "text": "⌖|⌀.050Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    830,
+    1232,
+    1096,
+    1387
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "T11",
+   "text": "⌖|⌀.020Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    798,
+    1250,
+    1064,
+    1405
+   ]
+  },
+  {
+   "key": "k13",
+   "official_id": "STR3",
+   "text": "SIM REQT 2",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    778,
+    1278,
+    915,
+    1359
+   ]
+  },
+  {
+   "key": "k14",
+   "official_id": "D8",
+   "text": "⌀.242 +.005/-.001",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1557,
+    1137,
+    1703,
+    1217
+   ]
+  },
+  {
+   "key": "k15",
+   "official_id": "T12",
+   "text": "⌖|⌀.050Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1509,
+    1158,
+    1777,
+    1313
+   ]
+  },
+  {
+   "key": "k16",
+   "official_id": "T12",
+   "text": "⌖|⌀.020Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1478,
+    1177,
+    1744,
+    1332
+   ]
+  },
+  {
+   "key": "k17",
+   "official_id": "STR4",
+   "text": "SIM REQT 2",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1458,
+    1204,
+    1594,
+    1285
+   ]
+  },
+  {
+   "key": "k18",
+   "official_id": "T27",
+   "text": "⌓|.015|D|KⓂ|LⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1722,
+    1024,
+    1987,
+    1178
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "sheets": 3,
+ "planted": 30,
+ "first_read": 29,
+ "first_read_rate": 0.9666666666666667,
+ "first_read_ci95": [
+  0.8332924860304112,
+  0.9940915620051425
+ ],
+ "after_whiteout": 29,
+ "after_whiteout_rate": 0.9666666666666667,
+ "after_whiteout_ci95": [
+  0.8332924860304112,
+  0.9940915620051425
+ ],
+ "caught_by_whiteout": 0,
+ "still_missed": [
+  {
+   "sheet": "00_nist-d2mi-904_p2",
+   "text": "R.125",
+   "kind": "radius",
+   "condition": "on_line",
+   "box": [
+    862,
+    376,
+    953,
+    400
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  }
+ ],
+ "by_condition": {
+  "on_line": {
+   "n": 6,
+   "first_read": 5,
+   "after_whiteout": 5
+  },
+  "plain": {
+   "n": 9,
+   "first_read": 9,
+   "after_whiteout": 9
+  },
+  "rotated": {
+   "n": 6,
+   "first_read": 6,
+   "after_whiteout": 6
+  },
+  "small": {
+   "n": 9,
+   "first_read": 9,
+   "after_whiteout": 9
+  }
+ },
+ "audit_new_not_planted": [],
+ "usage": {
+  "calls": 103,
+  "cached": 15,
+  "input_tokens": 316078,
+  "output_tokens": 275888,
+  "reasoning_tokens": 204762,
+  "seconds": 1122.2168,
+  "usd": 1.5676
+ }
+}

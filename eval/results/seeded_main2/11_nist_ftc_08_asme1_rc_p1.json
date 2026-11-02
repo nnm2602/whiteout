@@ -1,0 +1,649 @@
+{
+ "name": "11_nist_ftc_08_asme1_rc_p1",
+ "source": {
+  "file": "data/raw/nist_ftc/nist_ftc_08_asme1_rc.pdf",
+  "page": 1
+ },
+ "glyph_h": 18,
+ "items": [
+  {
+   "text": "DIA .257-.261",
+   "kind": "hole_callout",
+   "condition": "plain",
+   "box": [
+    651,
+    165,
+    806,
+    182
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DIA .257-.261",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "DIA .4375-.4385",
+   "kind": "hole_callout",
+   "condition": "small",
+   "box": [
+    495,
+    1453,
+    620,
+    1465
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DIA .4375-.4385",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "MASK BEFORE ANODIZE",
+   "kind": "note",
+   "condition": "rotated",
+   "box": [
+    909,
+    333,
+    926,
+    597
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "MASK BEFORE ANODIZE",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "DIA .257-.261",
+   "kind": "hole_callout",
+   "condition": "on_line",
+   "box": [
+    1318,
+    106,
+    1473,
+    123
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "DIA .257-.261",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "2X .188",
+   "kind": "dimension",
+   "condition": "faint",
+   "box": [
+    1012,
+    1267,
+    1097,
+    1284
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "2X .188",
+   "visible_on_erased_page": true
+  },
+  {
+   "text": ".030 X 45 DEG",
+   "kind": "chamfer",
+   "condition": "tiny",
+   "box": [
+    1850,
+    422,
+    1924,
+    430
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".030 X 45 DEG",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": ".094",
+   "kind": "dimension",
+   "condition": "plain",
+   "box": [
+    1149,
+    288,
+    1199,
+    305
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".094",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": ".094",
+   "kind": "dimension",
+   "condition": "small",
+   "box": [
+    973,
+    510,
+    1006,
+    522
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".094",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "R.125",
+   "kind": "radius",
+   "condition": "rotated",
+   "box": [
+    769,
+    485,
+    786,
+    549
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "R.125",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": "4X .312",
+   "kind": "dimension",
+   "condition": "on_line",
+   "box": [
+    974,
+    106,
+    1060,
+    123
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "4X.312",
+   "visible_on_erased_page": false
+  },
+  {
+   "text": ".250-20 UNC-2B",
+   "kind": "thread",
+   "condition": "faint",
+   "box": [
+    661,
+    1260,
+    847,
+    1277
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".250-20 UNC-2B",
+   "visible_on_erased_page": true
+  },
+  {
+   "text": "R.125",
+   "kind": "radius",
+   "condition": "tiny",
+   "box": [
+    1054,
+    241,
+    1083,
+    249
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "R125",
+   "visible_on_erased_page": false
+  }
+ ],
+ "chars": 32,
+ "audit_new_not_planted": [],
+ "passes": 1,
+ "timings": {
+  "overview": 0.03271484375,
+  "read": 1.0109057426452637,
+  "audit": 0.33960509300231934,
+  "total": 1.3997018337249756
+ },
+ "audit_finds": [
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "PMI Fully-Toleranced Test Case 8 - View A Includes Atomic Test Cases - 66, 90",
+   "box": [
+    783,
+    1554,
+    1420,
+    1625
+   ],
+   "verdict": "not_requirement",
+   "reason": "view title label, not inspectable",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Feature and Specification Index nist_ftc_08_asme1_rc_fsi.pdf",
+   "box": [
+    1687,
+    140,
+    2074,
+    201
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block / index reference field, not a part requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "faint partial feature control frame",
+   "box": [
+    1080,
+    1328,
+    1325,
+    1461
+   ],
+   "verdict": "fragment",
+   "reason": "faint incomplete rotated frame next to white patch",
+   "char_id": "s0c13"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "NOTES (UNLESS OTHERWISE SPECIFIED):",
+   "box": [
+    123,
+    146,
+    632,
+    169
+   ],
+   "verdict": "not_requirement",
+   "reason": "notes header label with no requirement text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "erased dimension line fragment",
+   "box": [
+    274,
+    679,
+    571,
+    712
+   ],
+   "verdict": "fragment",
+   "reason": "stray line fragment next to white erased area",
+   "char_id": "s0c3"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "feature control frame fragment",
+   "box": [
+    540,
+    991,
+    785,
+    1167
+   ],
+   "verdict": "fragment",
+   "reason": "faint partial feature control frame, incomplete and unreadable next to white erased area",
+   "char_id": "s0c7"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "horizontal line fragment",
+   "box": [
+    159,
+    206,
+    305,
+    224
+   ],
+   "verdict": "fragment",
+   "reason": "stray line next to white patch",
+   "char_id": "s0c2"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "NIST PMI Test Models - 2014",
+   "box": [
+    132,
+    68,
+    860,
+    110
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing title, not an inspectable requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "nist_ftc_08_asme1_rc",
+   "box": [
+    2085,
+    1365,
+    2120,
+    1645
+   ],
+   "verdict": "not_requirement",
+   "reason": "file / part identifier",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": ".250-20 UNC-2B",
+   "box": [
+    639,
+    1251,
+    882,
+    1283
+   ],
+   "verdict": "duplicate",
+   "reason": "",
+   "char_id": "s0c23"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "2X .188",
+   "box": [
+    1012,
+    1253,
+    1097,
+    1283
+   ],
+   "verdict": "duplicate",
+   "reason": "",
+   "char_id": "s0c16"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "Rev C",
+   "box": [
+    2011,
+    1609,
+    2083,
+    1631
+   ],
+   "verdict": "not_requirement",
+   "reason": "revision identifier",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B C",
+   "box": [
+    1827,
+    579,
+    2047,
+    726
+   ],
+   "verdict": "not_requirement",
+   "reason": "feature control frame with only datum letters B C visible, tolerance values erased",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "A",
+   "box": [
+    1604,
+    463,
+    1730,
+    589
+   ],
+   "verdict": "not_requirement",
+   "reason": "datum feature symbol with leader, tolerance content erased",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1302,
+    384,
+    1366,
+    501
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader and arrow",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1431,
+    306,
+    1576,
+    346
+   ],
+   "verdict": "not_requirement",
+   "reason": "empty feature control frame, tolerance values erased",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1552,
+    581,
+    1568,
+    616
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader and arrow",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    160,
+    630,
+    403,
+    648
+   ],
+   "verdict": "not_requirement",
+   "reason": "center mark fragment, view geometry not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    600,
+    1025,
+    722,
+    1103
+   ],
+   "verdict": "not_requirement",
+   "reason": "empty faint feature control frame, no readable value",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    683,
+    932,
+    809,
+    1011
+   ],
+   "verdict": "fragment",
+   "reason": "faint frame outline with contents erased, incomplete",
+   "char_id": "s0c7"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    750,
+    799,
+    798,
+    953
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader and arrow",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "X Y Z",
+   "box": [
+    1455,
+    1132,
+    1521,
+    1231
+   ],
+   "verdict": "not_requirement",
+   "reason": "coordinate triad axis labels",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1569,
+    442,
+    1722,
+    580
+   ],
+   "verdict": "fragment",
+   "reason": "faint frame outline with contents erased, incomplete",
+   "char_id": "s0c12"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1678,
+    652,
+    1794,
+    953
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader and arrow",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "---",
+   "box": [
+    159,
+    720,
+    511,
+    738
+   ],
+   "verdict": "fragment",
+   "reason": "faint incomplete symbol lines, cut off and unreadable",
+   "char_id": "s0c3"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "empty feature control frame outline",
+   "box": [
+    1319,
+    240,
+    1644,
+    415
+   ],
+   "verdict": "not_requirement",
+   "reason": "empty frame with no text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1335,
+    341,
+    1543,
+    415
+   ],
+   "verdict": "not_requirement",
+   "reason": "empty feature control frame with no text or symbols",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "X Z",
+   "box": [
+    1448,
+    1314,
+    1484,
+    1399
+   ],
+   "verdict": "not_requirement",
+   "reason": "coordinate triad axis labels",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1198,
+    1277,
+    1301,
+    1324
+   ],
+   "verdict": "not_requirement",
+   "reason": "faint rotated empty feature control frame, no readable value",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "partial feature control frame with B",
+   "box": [
+    1835,
+    633,
+    1950,
+    678
+   ],
+   "verdict": "fragment",
+   "reason": "partial cropped frame edge next to image border",
+   "char_id": "s0c15"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    160,
+    679,
+    254,
+    712
+   ],
+   "verdict": "not_requirement",
+   "reason": "center line fragment",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1150,
+    1343,
+    1272,
+    1416
+   ],
+   "verdict": "fragment",
+   "reason": "faint frame outline with contents erased, incomplete",
+   "char_id": "s0c13"
+  }
+ ]
+}

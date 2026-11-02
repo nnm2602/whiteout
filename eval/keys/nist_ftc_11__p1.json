@@ -1,0 +1,110 @@
+{
+ "id": "nist_ftc_11",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_11_asme1_rb.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_11_asme1_rb",
+ "title": "PMI Fully-Toleranced Test Case 11 - View A",
+ "doubts": [
+  "Annotations in view A are drawn in isometric planes (about 30 degrees); boxes are the axis-aligned box enclosing the rotated text or frame, so boxes of stacked items overlap.",
+  "D3 is an arc-length reference dimension: (197.9) with the arc symbol printed above the number; written ⌒(197.9), kind reference_dimension.",
+  "D1 and D2 are AVG (average) diameters of the torus I.D. and O.D.; kept as printed, kind dimension.",
+  "Note 4 (non-rigid part, free state) kept as a requirement note. Excluded: notes 1, 2, 3 and note 5 (UNITS: MILLIMETERS), DF2, CS1, VSI1 section identifier B."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "⌀63 ±0.5 AVG (O.D.)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1100,
+    375,
+    1321,
+    522
+   ],
+   "official_id": "D2"
+  },
+  {
+   "key": "k2",
+   "text": "⌀32 ±0.3 AVG (I.D.)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1106,
+    484,
+    1315,
+    624
+   ],
+   "official_id": "D1"
+  },
+  {
+   "key": "k3",
+   "text": "○|1.2Ⓕ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1148,
+    540,
+    1273,
+    651
+   ],
+   "official_id": "T2"
+  },
+  {
+   "key": "k4",
+   "text": "4. NON-RIGID PART. DIRECTLY-TOLERANCED DIMENSIONS AND TOLERANCES APPLY IN FREE STATE.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    119,
+    804,
+    618,
+    897
+   ],
+   "official_id": "STR1 note 4"
+  },
+  {
+   "key": "k5",
+   "text": "↗|1.2Ⓕ|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    456,
+    1076,
+    675,
+    1209
+   ],
+   "official_id": "T3"
+  },
+  {
+   "key": "k6",
+   "text": "2X R1.5 ±0.04",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    1687,
+    1192,
+    1837,
+    1296
+   ],
+   "official_id": "D4"
+  },
+  {
+   "key": "k7",
+   "text": "⌒(197.9)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    1180,
+    1404,
+    1269,
+    1457
+   ],
+   "official_id": "D3"
+  }
+ ]
+}

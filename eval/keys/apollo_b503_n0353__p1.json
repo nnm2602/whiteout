@@ -1,0 +1,406 @@
+{
+ "id": "apollo_b503_n0353",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0353.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10092",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "items": [
+  {
+   "key": "k1",
+   "text": "SUPPLEMENTARY DATA UNLESS OTHERWISE SPECIFIED NOTES CHECKED APPLY TO THIS DWG: REMOVE ALL BURRS. BREAK ALL EDGES .015-.031; SURFACE ROUGHNESS IN ACCORDANCE WITH MIL-STD-10; 125 FOR ALL SURFACES; 200 FOR ALL HOLES; GEOMETRIC CHARACTERISTIC SYMBOLS IN ACCORDANCE WITH MIL-STD-8",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1280,
+    962,
+    1680,
+    2342
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".160R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2722,
+    1205,
+    2823,
+    1238
+   ]
+  },
+  {
+   "key": "k3",
+   "text": ".650",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1807,
+    1377,
+    1895,
+    1413
+   ]
+  },
+  {
+   "key": "k4",
+   "text": ".450",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1952,
+    1402,
+    2028,
+    1438
+   ]
+  },
+  {
+   "key": "k5",
+   "text": ".220",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2075,
+    1425,
+    2153,
+    1461
+   ]
+  },
+  {
+   "key": "k6",
+   "text": ".203 - .207 HOLE (2)",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    1752,
+    1617,
+    2103,
+    1653
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "2.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2439,
+    1647,
+    2551,
+    1681
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "1.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2322,
+    1722,
+    2411,
+    1755
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "1.565/1.555",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2435,
+    1817,
+    2531,
+    1888
+   ]
+  },
+  {
+   "key": "k10",
+   "text": ".780",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2352,
+    1949,
+    2431,
+    1981
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".203 - .207 HOLE(2) (-13 ONLY)",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    1857,
+    1977,
+    2188,
+    2048
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".925/.915",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2455,
+    2025,
+    2533,
+    2098
+   ]
+  },
+  {
+   "key": "k13",
+   "text": ".460",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2400,
+    2137,
+    2475,
+    2171
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "STRAIGHTNESS|.002",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    2016,
+    2320,
+    2156,
+    2360
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "1.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1817,
+    2387,
+    1908,
+    2423
+   ]
+  },
+  {
+   "key": "k16",
+   "text": ".500",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2045,
+    2445,
+    2131,
+    2478
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "MINOR DIA .1560 - .1641",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    1797,
+    2757,
+    2153,
+    2795
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "CSK 90° x .221 DIA (FAR SIDE)",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    1797,
+    2797,
+    2271,
+    2835
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "TAP 10-32 UNF-3B 2 PLACES (-11 ONLY)",
+   "kind": "thread",
+   "multiplier": 2,
+   "box": [
+    1797,
+    2837,
+    2192,
+    2908
+   ]
+  },
+  {
+   "key": "k20",
+   "text": ".050/.030 R(4) (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 4,
+   "box": [
+    2825,
+    2745,
+    3096,
+    2812
+   ]
+  },
+  {
+   "key": "k21",
+   "text": ".050/.030 R 4 PLACES AT PARTING LINE",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    3077,
+    2212,
+    3423,
+    2298
+   ]
+  },
+  {
+   "key": "k22",
+   "text": ".180R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    3347,
+    2327,
+    3450,
+    2361
+   ]
+  },
+  {
+   "key": "k23",
+   "text": "7°30'",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    3435,
+    2542,
+    3521,
+    2578
+   ]
+  },
+  {
+   "key": "k24",
+   "text": ".030/.015 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    3557,
+    2552,
+    3663,
+    2623
+   ]
+  },
+  {
+   "key": "k25",
+   "text": ".255/.245",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3767,
+    2135,
+    3848,
+    2205
+   ]
+  },
+  {
+   "key": "k26",
+   "text": "◎|A|.002 TIR",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    4065,
+    2187,
+    4291,
+    2228
+   ]
+  },
+  {
+   "key": "k27",
+   "text": ".475/.470 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3792,
+    2362,
+    3891,
+    2428
+   ]
+  },
+  {
+   "key": "k28",
+   "text": ".645/.635 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3957,
+    2362,
+    4085,
+    2428
+   ]
+  },
+  {
+   "key": "k29",
+   "text": ".780 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4142,
+    2382,
+    4261,
+    2413
+   ]
+  },
+  {
+   "key": "k30",
+   "text": ".031R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    3870,
+    2552,
+    3975,
+    2585
+   ]
+  },
+  {
+   "key": "k31",
+   "text": ".005/.000 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    3850,
+    2625,
+    3975,
+    2693
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "1. PARTS SHALL BE CLAMPED, DRILLED AND WIRED TOGETHER AS MATCHED SET.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4027,
+    1187,
+    4898,
+    1261
+   ]
+  }
+ ],
+ "doubts": [
+  "k1: same Grumman supplementary data block as the mating part; the checked rows are burrs/edges, MIL-STD-10, 125, 200, MIL-STD-8",
+  "k14: boxed '- .002' with a leader to the parting line face, read as an old style straightness frame (could be flatness)",
+  "k17, k18, k19: one tapped hole stack for 2 places on the -11 part; the MINOR DIA line is keyed as hole_callout, the TAP line as thread",
+  "k20: .050/.030 R(4) marked REF on the plan view, keyed as reference_dimension; it repeats k21 in section A-A",
+  "k23: angle reads 7°30'",
+  "title block has no part name cell; title left empty. LDW270M10092-1 (MATCHED SET) is a part identifier, not keyed"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 0,
+ "true_missed_visible": 0,
+ "key": "nist_d2mi_908__p3.json",
+ "kind": "nist_d2mi",
+ "source": "hand",
+ "items": 4,
+ "found": 4,
+ "first_read_hits": 4,
+ "final_hits": 4,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 0,
+ "baseline_found": 0,
+ "exact_text": 4,
+ "multiplier_right": 3,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [],
+ "timings": {
+  "overview": 0.020260095596313477,
+  "read": 2.4085400104522705,
+  "audit": 0.3211550712585449,
+  "text_layer_unmatched": 4,
+  "total": 2.798607110977173
+ }
+}

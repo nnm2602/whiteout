@@ -1,0 +1,887 @@
+{
+ "source": "data/raw/nist_ftc/nist_ftc_11_asme1_rb.pdf",
+ "passes": 0,
+ "sheets": [
+  {
+   "info": {
+    "index": 0,
+    "width": 2200,
+    "height": 1700,
+    "dpi": 200.0,
+    "part_number": "",
+    "part_name": "PMI Fully-Toleranced Test Case 11 - View A",
+    "drawing_number": "",
+    "revision": "",
+    "units": "mm",
+    "material": "",
+    "finish": "",
+    "general_tolerances": [],
+    "zone_columns": [],
+    "zone_rows": [],
+    "border_box": [
+     97,
+     122,
+     2138,
+     1646
+    ],
+    "title_block_box": [
+     763,
+     1549,
+     1472,
+     1627
+    ],
+    "has_text_layer": true
+   },
+   "chars": [
+    {
+     "id": "s0c0",
+     "number": "2",
+     "kind": "note",
+     "text": "2. DIRECTLY-TOLERANCED DIMENSIONS AND BASIC DIMENSIONS DEFINED ON THE DRAWING TAKE PRECEDENCE OVER DIMENSIONAL DATA DEFINED BY THE MODEL. OBTAIN ALL OTHER DIMENSIONAL DATA FROM THE MODEL. THE MODEL REPRESENTS BASIC DIMENSIONAL DATA UNLESS OTHERWISE SPECIFIED.",
+     "multiplier": 1,
+     "box": [
+      159,
+      477,
+      640,
+      497
+     ],
+     "raw_box": [
+      114,
+      348,
+      678,
+      603
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "note",
+       "label": "NOTE 2",
+       "text": "2. DIRECTLY-TOLERANCED DIMENSIONS AND BASIC DIMENSIONS DEFINED ON THE DRAWING TAKE PRECEDENCE OVER DIMENSIONAL DATA DEFINED BY THE MODEL. OBTAIN ALL OTHER DIMENSIONAL DATA FROM THE MODEL. THE MODEL REPRESENTS BASIC DIMENSIONAL DATA UNLESS OTHERWISE SPECIFIED.",
+       "nominal": null,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": true,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      131,
+      487
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c1",
+     "number": "1",
+     "kind": "note",
+     "text": "1. CAD MODEL __________ REV. __ IS REQUIRED TO COMPLETE PRODUCT DEFINITION.",
+     "multiplier": 1,
+     "box": [
+      123,
+      205,
+      604,
+      286
+     ],
+     "raw_box": [
+      108,
+      200,
+      648,
+      309
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "note",
+       "label": "NOTE 1",
+       "text": "1. CAD MODEL __________ REV. __ IS REQUIRED TO COMPLETE PRODUCT DEFINITION.",
+       "nominal": null,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": true,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      632,
+      245
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c2",
+     "number": "9",
+     "kind": "note",
+     "text": "5. UNITS: MILLIMETERS",
+     "multiplier": 1,
+     "box": [
+      123,
+      931,
+      411,
+      951
+     ],
+     "raw_box": [
+      119,
+      934,
+      433,
+      966
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "note",
+       "label": "",
+       "text": "5. UNITS: MILLIMETERS",
+       "nominal": null,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": true,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      439,
+      941
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c3",
+     "number": "3",
+     "kind": "dimension",
+     "text": "\u00d863 \u00b10.5 AVG (O.D.)",
+     "multiplier": 1,
+     "box": [
+      1103,
+      377,
+      1319,
+      520
+     ],
+     "raw_box": [
+      1088,
+      335,
+      1365,
+      519
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "\u00d863 \u00b10.5 AVG (O.D.)",
+       "nominal": 63.0,
+       "lower": 62.5,
+       "upper": 63.5,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [
+        "AVG"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1075,
+      448
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c4",
+     "number": "6",
+     "kind": "dimension",
+     "text": "\u00d832 \u00b10.3 AVG (I.D.)",
+     "multiplier": 1,
+     "box": [
+      1109,
+      486,
+      1313,
+      622
+     ],
+     "raw_box": [
+      1088,
+      478,
+      1303,
+      606
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "\u00d832 \u00b10.3 AVG (I.D.)",
+       "nominal": 32.0,
+       "lower": 31.7,
+       "upper": 32.3,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [
+        "AVG"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1081,
+      554
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c5",
+     "number": "11",
+     "kind": "radius",
+     "text": "2X R1.5 \u00b10.04",
+     "multiplier": 2,
+     "box": [
+      1690,
+      1195,
+      1835,
+      1294
+     ],
+     "raw_box": [
+      1710,
+      1216,
+      1907,
+      1316
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "radius",
+       "label": "",
+       "text": "2X R1.5 \u00b10.04",
+       "nominal": 1.5,
+       "lower": 1.46,
+       "upper": 1.54,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1662,
+      1244
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c6",
+     "number": "12",
+     "kind": "reference_dimension",
+     "text": "(197.9)",
+     "multiplier": 1,
+     "box": [
+      1184,
+      1406,
+      1253,
+      1435
+     ],
+     "raw_box": [
+      1147,
+      1423,
+      1242,
+      1498
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "reference",
+       "label": "",
+       "text": "(197.9)",
+       "nominal": 197.9,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1156,
+      1420
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c7",
+     "number": "7",
+     "kind": "gdt_frame",
+     "text": "\u25cb | 1.2\u24bb",
+     "multiplier": 1,
+     "box": [
+      1209,
+      556,
+      1265,
+      604
+     ],
+     "raw_box": [
+      1143,
+      544,
+      1296,
+      618
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u25cb | 1.2\u24bb",
+       "nominal": 1.2,
+       "lower": 0.0,
+       "upper": 1.2,
+       "unit": "",
+       "gdt_symbol": "circularity",
+       "datums": [],
+       "modifiers": [
+        "F"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1237,
+      665
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c8",
+     "number": "4",
+     "kind": "note",
+     "text": "3. APPLICABLE STANDARDS: ASME Y14.41-2003 APPLIES TO DATASET. ASME Y14.5M-1994 APPLIES TO DIMENSIONING AND TOLERANCING.",
+     "multiplier": 1,
+     "box": [
+      123,
+      629,
+      659,
+      770
+     ],
+     "raw_box": [
+      110,
+      639,
+      666,
+      785
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "note",
+       "label": "NOTE 3",
+       "text": "3. APPLICABLE STANDARDS: ASME Y14.41-2003 APPLIES TO DATASET. ASME Y14.5M-1994 APPLIES TO DIMENSIONING AND TOLERANCING.",
+       "nominal": null,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": true,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      391,
+      601
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c9",
+     "number": "5",
+     "kind": "note",
+     "text": "4. NON-RIGID PART. DIRECTLY-TOLERANCED DIMENSIONS AND TOLERANCES APPLY IN FREE STATE.",
+     "multiplier": 1,
+     "box": [
+      124,
+      810,
+      612,
+      891
+     ],
+     "raw_box": [
+      115,
+      809,
+      621,
+      916
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "note",
+       "label": "",
+       "text": "4. NON-RIGID PART. DIRECTLY-TOLERANCED DIMENSIONS AND TOLERANCES APPLY IN FREE STATE.",
+       "nominal": null,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": true,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      640,
+      850
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c10",
+     "number": "8",
+     "kind": "gdt_frame",
+     "text": "\u25cb | 1.2\u24bb",
+     "multiplier": 1,
+     "box": [
+      1369,
+      571,
+      1495,
+      662
+     ],
+     "raw_box": [
+      1369,
+      571,
+      1495,
+      662
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u25cb | 1.2\u24bb",
+       "nominal": 1.2,
+       "lower": 0.0,
+       "upper": 1.2,
+       "unit": "",
+       "gdt_symbol": "circularity",
+       "datums": [],
+       "modifiers": [
+        "F"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1341,
+      616
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c11",
+     "number": "10",
+     "kind": "gdt_frame",
+     "text": "runout | 1.2\u24bb | A | B",
+     "multiplier": 1,
+     "box": [
+      457,
+      1108,
+      700,
+      1223
+     ],
+     "raw_box": [
+      457,
+      1108,
+      700,
+      1223
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "runout | 1.2\u24bb | A | B",
+       "nominal": 1.2,
+       "lower": 0.0,
+       "upper": 1.2,
+       "unit": "",
+       "gdt_symbol": "circular runout",
+       "datums": [
+        "A",
+        "B"
+       ],
+       "modifiers": [
+        "F"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      429,
+      1165
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    }
+   ]
+  },
+  {
+   "info": {
+    "index": 1,
+    "width": 2200,
+    "height": 1700,
+    "dpi": 200.0,
+    "part_number": "",
+    "part_name": "",
+    "drawing_number": "",
+    "revision": "",
+    "units": "in",
+    "material": "",
+    "finish": "",
+    "general_tolerances": [],
+    "zone_columns": [],
+    "zone_rows": [],
+    "border_box": [
+     97,
+     121,
+     2103,
+     1646
+    ],
+    "title_block_box": null,
+    "has_text_layer": true
+   },
+   "chars": [
+    {
+     "id": "s1c0",
+     "number": "1",
+     "kind": "radius",
+     "text": "2X R0.1 MAX",
+     "multiplier": 2,
+     "box": [
+      391,
+      690,
+      586,
+      714
+     ],
+     "raw_box": [
+      385,
+      696,
+      600,
+      733
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "radius",
+       "label": "",
+       "text": "2X R0.1 MAX",
+       "nominal": 0.1,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [
+        "MAX"
+       ],
+       "attribute": false,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      363,
+      702
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s1c1",
+     "number": "3",
+     "kind": "gdt_frame",
+     "text": "\u234d 0.3\u24bb A B",
+     "multiplier": 1,
+     "box": [
+      1097,
+      649,
+      1347,
+      705
+     ],
+     "raw_box": [
+      1097,
+      649,
+      1347,
+      705
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u234d 0.3\u24bb A B",
+       "nominal": 0.3,
+       "lower": 0.0,
+       "upper": 0.3,
+       "unit": "",
+       "gdt_symbol": "profile of a surface",
+       "datums": [
+        "A",
+        "B"
+       ],
+       "modifiers": [
+        "F"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1375,
+      621
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s1c2",
+     "number": "5",
+     "kind": "gdt_frame",
+     "text": "0.3 F",
+     "multiplier": 1,
+     "box": [
+      924,
+      936,
+      1081,
+      980
+     ],
+     "raw_box": [
+      893,
+      932,
+      1088,
+      982
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "0.3 F",
+       "nominal": 0.3,
+       "lower": 0.0,
+       "upper": 0.3,
+       "unit": "",
+       "gdt_symbol": "flatness",
+       "datums": [],
+       "modifiers": [
+        "F"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      896,
+      908
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s1c3",
+     "number": "4",
+     "kind": "dimension",
+     "text": "1.93 \u00b10.08",
+     "multiplier": 1,
+     "box": [
+      1542,
+      750,
+      1727,
+      807
+     ],
+     "raw_box": [
+      1575,
+      794,
+      1731,
+      825
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "1.93 \u00b10.08",
+       "nominal": 1.93,
+       "lower": 1.8499999999999999,
+       "upper": 2.01,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1514,
+      778
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s1c4",
+     "number": "2",
+     "kind": "gdt_frame",
+     "text": "0.3 F A B",
+     "multiplier": 1,
+     "box": [
+      1042,
+      632,
+      1292,
+      677
+     ],
+     "raw_box": [
+      1056,
+      627,
+      1358,
+      680
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "0.3 F A B",
+       "nominal": 0.3,
+       "lower": 0.0,
+       "upper": 0.3,
+       "unit": "",
+       "gdt_symbol": "profile of a surface",
+       "datums": [
+        "A",
+        "B"
+       ],
+       "modifiers": [
+        "F"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1014,
+      654
+     ],
+     "flags": [],
+     "ignored": false
+    }
+   ]
+  }
+ ],
+ "usage": {
+  "calls": 5,
+  "cached": 6,
+  "usd": 0.0778
+ }
+}

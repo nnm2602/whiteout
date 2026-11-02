@@ -1,0 +1,482 @@
+{
+ "id": "apollo_b503_n0041",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0041.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10009",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "items": [
+  {
+   "key": "k1",
+   "text": "1.003/1.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2065,
+    1155,
+    2180,
+    1222
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".124-.129DIA×.120 DEEP (DRILL POINT PERMISSIBLE)",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2622,
+    1160,
+    3148,
+    1240
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "2.000DIA ℄ (BASIC)",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2700,
+    1274,
+    3050,
+    1315
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "45°(BASIC)",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2065,
+    1305,
+    2242,
+    1350
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "CHAMFER 45°×.156(4)",
+   "kind": "chamfer",
+   "multiplier": 4,
+   "box": [
+    2723,
+    1382,
+    3130,
+    1422
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "1.188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2955,
+    1485,
+    3050,
+    1522
+   ]
+  },
+  {
+   "key": "k7",
+   "text": ".256-.263HOLE (3)",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    1447,
+    1498,
+    1795,
+    1538
+   ]
+  },
+  {
+   "key": "k8",
+   "text": ".188R(6)",
+   "kind": "radius",
+   "multiplier": 6,
+   "box": [
+    1985,
+    1662,
+    2150,
+    1696
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "1.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2778,
+    1662,
+    2876,
+    1699
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "1.561/1.558",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1620,
+    1697,
+    1711,
+    1761
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".281R(3)",
+   "kind": "radius",
+   "multiplier": 3,
+   "box": [
+    1940,
+    1770,
+    2112,
+    1808
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "2.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2666,
+    1770,
+    2776,
+    1807
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "2.375",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3020,
+    1778,
+    3126,
+    1815
+   ]
+  },
+  {
+   "key": "k14",
+   "text": ".2522-.2532 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1597,
+    1989,
+    1945,
+    2030
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "125",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    1950,
+    1962,
+    2050,
+    2035
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "1.188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2024,
+    2070,
+    2111,
+    2103
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "4 HOLES EQUALLY SPACED WITHIN .001 OF TRUE LOCATION ▲ SEE NOTE 1.",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    2693,
+    2109,
+    3411,
+    2180
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "1.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2024,
+    2161,
+    2126,
+    2195
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "MINOR DIA .2113-.2190",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    2666,
+    2235,
+    3057,
+    2268
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "2.000",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2293,
+    2270,
+    2395,
+    2303
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "TAP .250-28UNF-3B",
+   "kind": "thread",
+   "multiplier": 3,
+   "box": [
+    2666,
+    2272,
+    3034,
+    2307
+   ]
+  },
+  {
+   "key": "k22",
+   "text": "CSK 90°×.281 DIA (FAR SIDE)",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    2662,
+    2305,
+    3172,
+    2345
+   ]
+  },
+  {
+   "key": "k23",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3666,
+    1239,
+    3749,
+    1315
+   ]
+  },
+  {
+   "key": "k24",
+   "text": ".375",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3962,
+    1292,
+    4053,
+    1330
+   ]
+  },
+  {
+   "key": "k25",
+   "text": "1.260/1.240 DIA ℄",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4235,
+    1524,
+    4449,
+    1591
+   ]
+  },
+  {
+   "key": "k26",
+   "text": ".062R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    4016,
+    2012,
+    4130,
+    2045
+   ]
+  },
+  {
+   "key": "k27",
+   "text": ".250",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3901,
+    2105,
+    3984,
+    2141
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "1.630/1.614 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3043,
+    2412,
+    3225,
+    2484
+   ]
+  },
+  {
+   "key": "k29",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3222,
+    2408,
+    3302,
+    2476
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2609,
+    2505,
+    2691,
+    2572
+   ]
+  },
+  {
+   "key": "k31",
+   "text": ".116/.110 (CONST)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2282,
+    2530,
+    2526,
+    2599
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "FULL R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2262,
+    2638,
+    2407,
+    2672
+   ]
+  },
+  {
+   "key": "k33",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2424,
+    2620,
+    2507,
+    2688
+   ]
+  },
+  {
+   "key": "k34",
+   "text": "1.152/1.142 DIA ℄",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2682,
+    2639,
+    2858,
+    2734
+   ]
+  },
+  {
+   "key": "k35",
+   "text": ".092/.087",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2070,
+    2728,
+    2172,
+    2795
+   ]
+  },
+  {
+   "key": "k36",
+   "text": ".060",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3159,
+    2943,
+    3253,
+    2980
+   ]
+  },
+  {
+   "key": "k37",
+   "text": ".010R MAX (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    2151,
+    3060,
+    2418,
+    3099
+   ]
+  },
+  {
+   "key": "k38",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED APPLY TO THIS DWG. (checked: RUBBER STAMP PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED USE BOTH SIDES IF NECESSARY; FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030; DIAMETERS MARKED ℄ MUST BE CONCENTRIC WITHIN .002 FULL INDICATOR READING; 125 SURFACE ROUGHNESS PER MIL-STD-10; 200 FOR ALL HOLES; REMOVE ALL BURRS. BREAK ALL EDGES .015-.031)",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4682,
+    1027,
+    5093,
+    2855
+   ]
+  }
+ ],
+ "doubts": [
+  "title: no part name printed in the title block (GRUMMAN header, LEM, size D, code 26512, LDW270M10009 rev A, scale FULL)",
+  "k2: second line (DRILL POINT PERMISSIBLE) kept in the same item; no count printed, multiplier 1",
+  "k3, k4: (BASIC) values keyed as basic_dimension; k4 is an angle",
+  "k17: 4 HOLES EQUALLY SPACED positional note keyed as note with multiplier 4",
+  "k19, k21, k22: tapped hole stack 3 PLACES; minor dia line keyed as hole_callout, TAP line as thread, CSK line as hole_callout",
+  "k31: .116/.110 (CONST) keyed as dimension, the parenthesis holds CONST not REF",
+  "k32: FULL R keyed as radius with no value",
+  "note 1 (FOR HOLES MARKED ▲ SEE DWG LDW270M10008 & LDW270M10007 FOR CORRESPONDING HOLE PATTERN) left out as reference only",
+  "GRAIN DIRECTION OPTIONAL left out as imposing nothing",
+  "standard block DIAMETERS MARKED ℄ concentricity value .002 is hand filled; 'FOR ALL ____ HOLES' word blacked out on the scan"
+ ]
+}

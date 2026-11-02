@@ -1,0 +1,8 @@
+.cache/
+out/
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+eval/results/**/*.png
+.jobs/

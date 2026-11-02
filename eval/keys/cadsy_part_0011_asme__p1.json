@@ -1,0 +1,148 @@
+{
+ "id": "cadsy_part_0011_asme",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0011_asme.png",
+ "source": "official",
+ "standard": "ASME",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "60",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    597,
+    502,
+    619,
+    521
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "⊥|⌀0.2|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    371,
+    580,
+    555,
+    630
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "⌭|0.2",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    371,
+    630,
+    555,
+    681
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "⌀46 THRU ⌴⌀50 ↧10",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    620,
+    662,
+    903,
+    681
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "⌀60 ±0.2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    953,
+    662,
+    1063,
+    681
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "15",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1335,
+    662,
+    1357,
+    681
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "∥|0.2|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1060,
+    1028,
+    1216,
+    1079
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "60",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    983,
+    1044,
+    1001,
+    1066
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "30",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    215,
+    1221,
+    233,
+    1244
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "30",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    420,
+    1430,
+    442,
+    1448
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "15",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1335,
+    1430,
+    1357,
+    1448
+   ]
+  }
+ ]
+}

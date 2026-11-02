@@ -1,0 +1,536 @@
+{
+ "id": "nist_d2mi_906",
+ "page": 2,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-906.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": ".250",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    510,
+    181,
+    594,
+    216
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".825",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    703,
+    138,
+    788,
+    174
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "2.500",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    908,
+    88,
+    1008,
+    124
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "2X ⌀.370 - .380",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    1340,
+    76,
+    1602,
+    104
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "⌖|⌀.005Ⓛ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1342,
+    114,
+    1628,
+    148
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "⌀.182 - .192 ↧.250 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1728,
+    146,
+    2170,
+    177
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "⌴⌀.245 - .255 ↧.100 ±.010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1720,
+    183,
+    2170,
+    213
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1801,
+    211,
+    2092,
+    249
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "5X .050",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    1724,
+    314,
+    1858,
+    352
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "2.738",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    226,
+    401,
+    328,
+    435
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "1.750",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    342,
+    543,
+    444,
+    578
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "1.000",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    435,
+    671,
+    535,
+    707
+   ]
+  },
+  {
+   "key": "k13",
+   "text": ".250",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    530,
+    746,
+    613,
+    782
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "2.488",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2105,
+    396,
+    2205,
+    430
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "2.016",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1993,
+    496,
+    2092,
+    532
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "1.680",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1873,
+    566,
+    1974,
+    600
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "1.344",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1763,
+    618,
+    1862,
+    652
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "1.008",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1648,
+    661,
+    1747,
+    698
+   ]
+  },
+  {
+   "key": "k19",
+   "text": ".672",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1555,
+    706,
+    1637,
+    740
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "⊥|.010|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    2190,
+    786,
+    2352,
+    822
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "3",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    980,
+    823,
+    1040,
+    875
+   ]
+  },
+  {
+   "key": "k22",
+   "text": "⌀.145 - .155 ↧.250 ± .010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1281,
+    835,
+    1717,
+    864
+   ]
+  },
+  {
+   "key": "k23",
+   "text": "⌴⌀.245 - .255 ↧.125 ±.010",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1273,
+    873,
+    1720,
+    900
+   ]
+  },
+  {
+   "key": "k24",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1353,
+    898,
+    1640,
+    934
+   ]
+  },
+  {
+   "key": "k25",
+   "text": "2.375",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    851,
+    895,
+    950,
+    929
+   ]
+  },
+  {
+   "key": "k26",
+   "text": "⊥|.010|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    473,
+    941,
+    665,
+    977
+   ]
+  },
+  {
+   "key": "k27",
+   "text": "4.037",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1170,
+    1033,
+    1269,
+    1067
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "5X 3.912",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    980,
+    1074,
+    1127,
+    1108
+   ]
+  },
+  {
+   "key": "k29",
+   "text": "5X 1.412",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    731,
+    1124,
+    874,
+    1160
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "5X 45°",
+   "kind": "basic_dimension",
+   "multiplier": 5,
+   "box": [
+    988,
+    1153,
+    1102,
+    1187
+   ]
+  },
+  {
+   "key": "k31",
+   "text": "∠|.008|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    702,
+    1223,
+    864,
+    1259
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "5X .050 X .050",
+   "kind": "chamfer",
+   "multiplier": 5,
+   "box": [
+    1586,
+    1238,
+    1820,
+    1272
+   ]
+  },
+  {
+   "key": "k33",
+   "text": "7X .518",
+   "kind": "basic_dimension",
+   "multiplier": 7,
+   "box": [
+    1600,
+    1394,
+    1730,
+    1429
+   ]
+  },
+  {
+   "key": "k34",
+   "text": ".268",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    318,
+    1420,
+    400,
+    1454
+   ]
+  },
+  {
+   "key": "k35",
+   "text": ".168",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    370,
+    1520,
+    452,
+    1554
+   ]
+  },
+  {
+   "key": "k36",
+   "text": "⌓|.016",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    901,
+    1560,
+    1030,
+    1593
+   ]
+  },
+  {
+   "key": "k37",
+   "text": "⏥|.005",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    901,
+    1591,
+    1030,
+    1624
+   ]
+  },
+  {
+   "key": "k38",
+   "text": "4 SURFACES",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    996,
+    1671,
+    1162,
+    1699
+   ]
+  },
+  {
+   "key": "k39",
+   "text": "4X SR",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    2401,
+    1237,
+    2502,
+    1269
+   ]
+  },
+  {
+   "key": "k40",
+   "text": "4X .768",
+   "kind": "basic_dimension",
+   "multiplier": 4,
+   "box": [
+    2721,
+    1370,
+    2852,
+    1404
+   ]
+  },
+  {
+   "key": "k41",
+   "text": ".134",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2262,
+    1531,
+    2345,
+    1565
+   ]
+  },
+  {
+   "key": "k42",
+   "text": ".138",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2443,
+    1508,
+    2525,
+    1542
+   ]
+  },
+  {
+   "key": "k43",
+   "text": "4X R.032 ±.010",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    2818,
+    1516,
+    3049,
+    1549
+   ]
+  }
+ ],
+ "doubts": [
+  "k21: flag note 3 hexagon (identification marking location) included as a note item with text 3; it only points to note 3 on sheet 1, so it may be read as a duplicate of that note",
+  "k36, k37: composite-style profile .016 / flatness .005 frame on datum feature A carries the qualifier 4 SURFACES (k38); frames kept at multiplier 1 (one common zone), could be argued as 4",
+  "k38: 4 SURFACES qualifier listed as a standalone note per the coplanar-surfaces rule",
+  "k39: 4X SR is boxed (basic) with no value printed; size comes from the model under note 4 profile; kind radius",
+  "k30: 5X 45° is a boxed basic angle; kind basic_dimension rather than angle",
+  "k32: 5X .050 X .050 is a two-distance chamfer, not boxed",
+  "k43: small circle at the leader end before 4X R.032 ±.010 not treated as part of the text"
+ ]
+}

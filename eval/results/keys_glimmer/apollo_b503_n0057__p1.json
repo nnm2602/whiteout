@@ -1,0 +1,115 @@
+{
+ "key": "apollo_b503_n0057__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 56,
+ "found": 82,
+ "first_read_hits": 55,
+ "final_hits": 55,
+ "baseline_hits": 14,
+ "baseline_found": 26,
+ "exact_text": 42,
+ "multiplier_right": 54,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k31",
+   "text": "1.2700",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1513,
+    2450,
+    1674,
+    2488
+   ],
+   "table": true
+  }
+ ],
+ "extra": [
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    2721,
+    2991,
+    3423,
+    3025
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".750",
+   "box": [
+    2417,
+    2183,
+    2514,
+    2212
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "3. TOOLING FOR THIS PART IS SIMILAR TO LDW270M10003.",
+   "box": [
+    3817,
+    3033,
+    4650,
+    3101
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M10004 AND LDW270M10005 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    3815,
+    2891,
+    5004,
+    2927
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA \u00b1.0005",
+   "box": [
+    1477,
+    1040,
+    1699,
+    1080
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-39 1.2380",
+   "box": [
+    1369,
+    1928,
+    1671,
+    1969
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-41 1.2400",
+   "box": [
+    1369,
+    1969,
+    1671,
+    2010
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 47.132354974746704,
+  "read": 1692.0758118629456,
+  "audit": 1528.17737698555,
+  "total": 3267.671931743622
+ }
+}

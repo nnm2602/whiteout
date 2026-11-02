@@ -1,0 +1,81 @@
+{
+ "overall": {
+  "sheets": 3,
+  "key_items": 107,
+  "first_read_recall": 0.9813,
+  "final_recall": 0.9813,
+  "final_recall_ci95": [
+   0.9344,
+   0.9949
+  ],
+  "precision": 0.7955,
+  "exact_text_of_matched": 0.7429,
+  "multiplier_right_of_matched": 0.981,
+  "baseline_recall": 0.3458,
+  "baseline_precision": 0.6852,
+  "audit_added": 1,
+  "audit_added_correct": 0
+ },
+ "by_source": {
+  "apollo": {
+   "sheets": 1,
+   "key_items": 55,
+   "first_read_recall": 0.9818,
+   "final_recall": 0.9818,
+   "final_recall_ci95": [
+    0.9039,
+    0.9968
+   ],
+   "precision": 0.7013,
+   "exact_text_of_matched": 0.5185,
+   "multiplier_right_of_matched": 0.9815,
+   "baseline_recall": 0.2727,
+   "baseline_precision": 0.6,
+   "audit_added": 1,
+   "audit_added_correct": 0
+  },
+  "milstd": {
+   "sheets": 1,
+   "key_items": 7,
+   "first_read_recall": 0.8571,
+   "final_recall": 0.8571,
+   "final_recall_ci95": [
+    0.4869,
+    0.9743
+   ],
+   "precision": 0.6,
+   "exact_text_of_matched": 0.8333,
+   "multiplier_right_of_matched": 1.0,
+   "baseline_recall": 0.5714,
+   "baseline_precision": 0.8,
+   "audit_added": 0,
+   "audit_added_correct": 0
+  },
+  "nist_d2mi": {
+   "sheets": 1,
+   "key_items": 45,
+   "first_read_recall": 1.0,
+   "final_recall": 1.0,
+   "final_recall_ci95": [
+    0.9213,
+    1.0
+   ],
+   "precision": 1.0,
+   "exact_text_of_matched": 1.0,
+   "multiplier_right_of_matched": 0.9778,
+   "baseline_recall": 0.4,
+   "baseline_precision": 0.75,
+   "audit_added": 0,
+   "audit_added_correct": 0
+  }
+ },
+ "usage": {
+  "calls": 50,
+  "cached": 77,
+  "input_tokens": 153435,
+  "output_tokens": 96988,
+  "reasoning_tokens": 72815,
+  "seconds": 445.6978,
+  "usd": 0.604
+ }
+}

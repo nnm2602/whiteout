@@ -1,0 +1,24 @@
+{
+ "key": "nist_d2mi_904__p2.json",
+ "kind": "nist_d2mi",
+ "source": "hand",
+ "items": 45,
+ "found": 45,
+ "first_read_hits": 45,
+ "final_hits": 45,
+ "baseline_hits": 18,
+ "baseline_found": 24,
+ "exact_text": 45,
+ "multiplier_right": 44,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [],
+ "timings": {
+  "overview": 0.02360391616821289,
+  "read": 1.4536499977111816,
+  "audit": 31.40924596786499,
+  "text_layer_unmatched": 0,
+  "total": 32.92818999290466
+ }
+}

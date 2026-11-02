@@ -1,0 +1,372 @@
+{
+ "id": "apollo_b503_n0178",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0178.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10042",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "doubts": [
+  "k1: Grumman block, the marking row has ELECTRO ETCH replaced by hand with RUBBER STAMP; checked rows are marking, fillet radii tolerances, 125 surface roughness, 200 holes (a word before HOLES is blacked out), burrs and edges",
+  "k3: 'SURFACE TO BE FLAT WITHIN .002' is a flatness requirement written as a leader note, keyed as note (could be read as a flatness control)",
+  "k5, k8: one dimension line carries two values for the -11 and -13 dash numbers; keyed as two items",
+  "k23: the groove width reads '.082' over '.088' with a star (smaller value on top); the top digit could be a badly drawn 9 (.092); text kept as printed. The star ties it to k25 'EXCEPT AS SHOWN *'",
+  "k25: GROOVE PER GG11C-103H EXCEPT AS SHOWN keyed as a note since it imposes a groove spec",
+  "k26: printed '.179-.185 HOLE(4)', rewritten with spaced hyphen per the limit format",
+  "Not keyed: GRAIN DIRECTION OPTIONAL (imposes nothing); SEE NOTE 1 leader (note 1 is k29); -11 and -13 balloons; the SCALE 1/1 thumbnail view has no dimensions",
+  "title block has no part name cell; title left empty"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED APPLY TO THIS DWG. (checked): RUBBER STAMP PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED. USE BOTH SIDES IF NECESSARY; FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030; 125 √ SURFACE ROUGHNESS PER MIL-STD-10; 200 √ FOR ALL HOLES; REMOVE ALL BURRS. BREAK ALL EDGES .015-.031",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4872,
+    1008,
+    5296,
+    2842
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "1.260/1.220",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3741,
+    1653,
+    3851,
+    1725
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "SURFACE TO BE FLAT WITHIN .002",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    3186,
+    1750,
+    3528,
+    1821
+   ]
+  },
+  {
+   "key": "k4",
+   "text": ".640/.600",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3678,
+    1770,
+    3772,
+    1841
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "2.500 ±.020 FOR -11",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2315,
+    1822,
+    2819,
+    1864
+   ]
+  },
+  {
+   "key": "k6",
+   "text": ".080",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4011,
+    1854,
+    4098,
+    1889
+   ]
+  },
+  {
+   "key": "k7",
+   "text": ".080",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3523,
+    1882,
+    3603,
+    1919
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "1.540 ±.020 FOR -13",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2306,
+    1862,
+    2829,
+    1905
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "CHAMFER 45° x .090(4)",
+   "kind": "chamfer",
+   "multiplier": 4,
+   "box": [
+    4106,
+    1882,
+    4537,
+    1926
+   ]
+  },
+  {
+   "key": "k10",
+   "text": ".165",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2792,
+    1966,
+    2874,
+    2002
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".100",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3406,
+    1986,
+    3482,
+    2021
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".255/.245",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4121,
+    1979,
+    4220,
+    2050
+   ]
+  },
+  {
+   "key": "k13",
+   "text": ".360/.354 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3076,
+    1992,
+    3243,
+    2064
+   ]
+  },
+  {
+   "key": "k14",
+   "text": ".950",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2326,
+    2049,
+    2411,
+    2084
+   ]
+  },
+  {
+   "key": "k15",
+   "text": ".253/.250 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1771,
+    2091,
+    1940,
+    2162
+   ]
+  },
+  {
+   "key": "k16",
+   "text": ".470/.430",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3286,
+    2132,
+    3379,
+    2203
+   ]
+  },
+  {
+   "key": "k17",
+   "text": ".920/.880",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3134,
+    2171,
+    3229,
+    2252
+   ]
+  },
+  {
+   "key": "k18",
+   "text": ".505/.495",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    4206,
+    2187,
+    4300,
+    2257
+   ]
+  },
+  {
+   "key": "k19",
+   "text": ".100",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3444,
+    2248,
+    3518,
+    2282
+   ]
+  },
+  {
+   "key": "k20",
+   "text": ".031/.028 WALL",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1865,
+    2324,
+    2049,
+    2398
+   ]
+  },
+  {
+   "key": "k21",
+   "text": ".062 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2682,
+    2346,
+    2812,
+    2381
+   ]
+  },
+  {
+   "key": "k22",
+   "text": ".188/.125 R (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    4273,
+    2379,
+    4463,
+    2449
+   ]
+  },
+  {
+   "key": "k23",
+   "text": ".082/.088",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2783,
+    2388,
+    2924,
+    2456
+   ]
+  },
+  {
+   "key": "k24",
+   "text": ".425/.415",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3816,
+    2428,
+    3900,
+    2499
+   ]
+  },
+  {
+   "key": "k25",
+   "text": "GROOVE PER GG11C-103H EXCEPT AS SHOWN *",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2741,
+    2484,
+    3030,
+    2633
+   ]
+  },
+  {
+   "key": "k26",
+   "text": ".179 - .185 HOLE (4)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    3232,
+    2488,
+    3544,
+    2532
+   ]
+  },
+  {
+   "key": "k27",
+   "text": ".845/.835",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3746,
+    2512,
+    3842,
+    2582
+   ]
+  },
+  {
+   "key": "k28",
+   "text": ".594/.531 R (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    3576,
+    2631,
+    3771,
+    2712
+   ]
+  },
+  {
+   "key": "k29",
+   "text": "1. PREPARE END FOR BRAZING PER LSP-14-7062 MINIMUM LENGTH .750",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    3916,
+    2896,
+    4845,
+    2978
+   ]
+  }
+ ]
+}

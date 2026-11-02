@@ -1,0 +1,266 @@
+[
+ {
+  "box": [
+   4838,
+   1081,
+   4955,
+   1139
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "RUBBER STAMP"
+ },
+ {
+  "box": [
+   4144,
+   1914,
+   4231,
+   1984
+  ],
+  "kind": "wrong text",
+  "redraw": "OP",
+  "scan": "-12"
+ },
+ {
+  "box": [
+   4135,
+   1965,
+   4234,
+   2016
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "-12"
+ },
+ {
+  "box": [
+   4856,
+   2150,
+   4912,
+   2195
+  ],
+  "kind": "wrong text",
+  "redraw": "HOLES",
+  "scan": "125"
+ },
+ {
+  "box": [
+   4854,
+   2229,
+   4911,
+   2256
+  ],
+  "kind": "moved",
+  "redraw": "125",
+  "scan": ""
+ },
+ {
+  "box": [
+   2970,
+   2271,
+   3025,
+   2296
+  ],
+  "kind": "added",
+  "redraw": "438",
+  "scan": ""
+ },
+ {
+  "box": [
+   2945,
+   2331,
+   3052,
+   2372
+  ],
+  "kind": "wrong text",
+  "redraw": "438 D",
+  "scan": "438"
+ },
+ {
+  "box": [
+   5017,
+   2421,
+   5046,
+   2442
+  ],
+  "kind": "added",
+  "redraw": "\u2022",
+  "scan": ""
+ },
+ {
+  "box": [
+   3895,
+   2553,
+   3959,
+   2578
+  ],
+  "kind": "added",
+  "redraw": ".188(REF)",
+  "scan": ""
+ },
+ {
+  "box": [
+   3868,
+   2578,
+   3939,
+   2604
+  ],
+  "kind": "added",
+  "redraw": ".188(REF)",
+  "scan": ""
+ },
+ {
+  "box": [
+   3881,
+   2592,
+   3947,
+   2614
+  ],
+  "kind": "added",
+  "redraw": ".188(REF)",
+  "scan": ""
+ },
+ {
+  "box": [
+   3240,
+   2610,
+   3345,
+   2654
+  ],
+  "kind": "wrong text",
+  "redraw": "688",
+  "scan": ".688"
+ },
+ {
+  "box": [
+   2409,
+   2684,
+   2565,
+   2738
+  ],
+  "kind": "wrong text",
+  "redraw": ".T88",
+  "scan": ".188"
+ },
+ {
+  "box": [
+   3846,
+   2740,
+   3952,
+   2779
+  ],
+  "kind": "wrong text",
+  "redraw": ": .375",
+  "scan": ".375"
+ },
+ {
+  "box": [
+   2395,
+   2758,
+   2670,
+   2805
+  ],
+  "kind": "wrong text",
+  "redraw": ".875 375",
+  "scan": "1.875"
+ },
+ {
+  "box": [
+   3078,
+   2774,
+   3487,
+   2823
+  ],
+  "kind": "wrong text",
+  "redraw": "CHAMFER.125x.1256",
+  "scan": "CHAMFER.125x.125"
+ },
+ {
+  "box": [
+   1873,
+   2856,
+   2219,
+   2905
+  ],
+  "kind": "wrong text",
+  "redraw": "CHAMFER 45\u00b0x.125(2)2)",
+  "scan": "CHAMFER 45\u00b0x.125(2)"
+ },
+ {
+  "box": [
+   3362,
+   2872,
+   3549,
+   2978
+  ],
+  "kind": "wrong text",
+  "redraw": ".32722 .3252",
+  "scan": ".3272 .3252"
+ },
+ {
+  "box": [
+   4273,
+   3054,
+   5166,
+   3133
+  ],
+  "kind": "wrong text",
+  "redraw": "LDW200-54003. NGEOBLE INTERFACE AS SHOWN ON with dashed underline",
+  "scan": "INTERCHANGEABLE INTERFACE AS SHOWN ON LDW200-54003."
+ },
+ {
+  "box": [
+   2073,
+   3117,
+   2169,
+   3166
+  ],
+  "kind": "wrong text",
+  "redraw": "188",
+  "scan": ".188"
+ },
+ {
+  "box": [
+   2742,
+   3219,
+   2982,
+   3264
+  ],
+  "kind": "wrong text",
+  "redraw": "CCHAMFER 4",
+  "scan": "CHAMFER 45"
+ },
+ {
+  "box": [
+   2729,
+   3299,
+   3132,
+   3346
+  ],
+  "kind": "wrong text",
+  "redraw": "CCHAMFER 45\u00b0x.094",
+  "scan": "CHAMFER 45\u00b0x.094"
+ },
+ {
+  "box": [
+   4602,
+   3398,
+   4673,
+   3440
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "D"
+ },
+ {
+  "box": [
+   4639,
+   3442,
+   4808,
+   3500
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "26512"
+ }
+]

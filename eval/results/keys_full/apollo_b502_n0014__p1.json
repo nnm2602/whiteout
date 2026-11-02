@@ -1,0 +1,79 @@
+{
+ "key": "apollo_b502_n0014__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 42,
+ "found": 65,
+ "first_read_hits": 42,
+ "final_hits": 42,
+ "baseline_hits": 12,
+ "baseline_found": 17,
+ "exact_text": 40,
+ "multiplier_right": 42,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [
+  {
+   "text": "2. THIS DWG AFFECTED BY LFM-4.",
+   "box": [
+    4245,
+    2934,
+    4930,
+    2974
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".188(REF)",
+   "box": [
+    3887,
+    2567,
+    3949,
+    2600
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "5. (4) MODULE QUANTITIES REQUIRED PER LFM-4.",
+   "box": [
+    4262,
+    3131,
+    5220,
+    3188
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "4. -11 & -12 MAY BE USED ON LM-4(34) THRU LM-15(45).",
+   "box": [
+    4241,
+    3133,
+    5137,
+    3173
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "8",
+   "box": [
+    1500,
+    933,
+    1521,
+    967
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 46.21077299118042,
+  "read": 28.785409927368164,
+  "audit": 28.57108497619629,
+  "total": 103.88240814208984
+ }
+}

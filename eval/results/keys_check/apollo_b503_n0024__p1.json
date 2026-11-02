@@ -1,0 +1,169 @@
+{
+ "missed_visible_on_erased_page": 1,
+ "true_missed": 3,
+ "true_missed_visible": 1,
+ "key": "apollo_b503_n0024__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 57,
+ "found": 80,
+ "first_read_hits": 53,
+ "final_hits": 53,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 10,
+ "baseline_found": 23,
+ "exact_text": 34,
+ "multiplier_right": 53,
+ "audit_added": 2,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k3",
+   "text": ".5724",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    1857,
+    2028,
+    1897
+   ],
+   "table": true
+  },
+  {
+   "key": "k10",
+   "text": ".5752",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2168,
+    2028,
+    2208
+   ],
+   "table": true
+  },
+  {
+   "key": "k22",
+   "text": ".6491",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2705,
+    2028,
+    2745
+   ],
+   "table": true
+  },
+  {
+   "key": "k24",
+   "text": ".6507",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2795,
+    2028,
+    2835
+   ],
+   "table": true
+  }
+ ],
+ "extra": [
+  {
+   "text": ".5744",
+   "box": [
+    1839,
+    2114,
+    1999,
+    2154
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".6555",
+   "box": [
+    1884,
+    3185,
+    2047,
+    3232
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".5772",
+   "box": [
+    1839,
+    2411,
+    1999,
+    2451
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".6563",
+   "box": [
+    1884,
+    3238,
+    2047,
+    3285
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    3061,
+    3266,
+    3612,
+    3295
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2. TOOLING FOR THIS PART IS SIMILAR TO LDW270M10015,",
+   "box": [
+    4278,
+    3037,
+    5081,
+    3072
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA \u2104",
+   "box": [
+    2724,
+    2108,
+    2933,
+    2158
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M1000B & LDW270M10009 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    4324,
+    2932,
+    5278,
+    2964
+   ],
+   "found_in": "audit-1",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.05568981170654297,
+  "read": 5.565070867538452,
+  "audit": 128.02594208717346,
+  "total": 133.93356800079346
+ }
+}

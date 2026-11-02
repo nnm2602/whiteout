@@ -1,0 +1,103 @@
+{
+ "key": "apollo_b503_n0006__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 55,
+ "found": 77,
+ "first_read_hits": 54,
+ "final_hits": 54,
+ "baseline_hits": 15,
+ "baseline_found": 25,
+ "exact_text": 28,
+ "multiplier_right": 53,
+ "audit_added": 1,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k43",
+   "text": ".125 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2968,
+    2356,
+    3072,
+    2390
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": ".125 R",
+   "box": [
+    2935,
+    2323,
+    3058,
+    2363
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    3224,
+    3065,
+    3754,
+    3097
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "3. TOOLING FOR THIS PART IS SIMILAR TO LDW270M10014.",
+   "box": [
+    4319,
+    3133,
+    5043,
+    3202
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA REF",
+   "box": [
+    4246,
+    2430,
+    4361,
+    2471
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "16",
+   "box": [
+    4000,
+    1667,
+    4073,
+    1728
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M10004 AND LDW270M10005 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    4437,
+    3020,
+    5355,
+    3049
+   ],
+   "found_in": "audit-1",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.0620269775390625,
+  "read": 6.7781760692596436,
+  "audit": 52.01587510108948,
+  "total": 59.20349311828613
+ }
+}

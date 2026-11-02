@@ -1,0 +1,163 @@
+{
+ "id": "nist_ctc_05",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ctc/nist_ctc_05_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ctc_05_asme1_rd",
+ "title": "PMI Complex Test Case 5 - View 1 (of 2)",
+ "doubts": [
+  "k2 T6 concentricity frame is printed with datum A ('◎|⌀.030|A'); the NIST spreadsheet lists datum B. Keyed as printed.",
+  "k6 D2 '2.000' and k7 D3 '1.250' are boxed basic dimensions that locate and size the datum target area C1 (DT1); kept as basic_dimension items although the datum target itself is excluded.",
+  "k5 D1 statistical tolerance symbol written as <ST>.",
+  "Text block 'Notes Datum feature B and Datum target D1 defined in View 2 (of 2).' is a cross reference, not a requirement; excluded.",
+  "Excluded DF1 datum feature symbol, DT1 datum target symbol, RLE1 represented line element, CS1 coordinate system, SG1 and CH1 supplemental geometry markers."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T4",
+   "text": "↗|.025|A-B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    979,
+    216,
+    1109,
+    324
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T6",
+   "text": "◎|⌀.030|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1510,
+    490,
+    1638,
+    598
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T8",
+   "text": "⊥|.010|D",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    699,
+    613,
+    844,
+    700
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T1",
+   "text": "⏤|.005",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    744,
+    877,
+    845,
+    965
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D1",
+   "text": "5.000 ±.008 <ST>",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    715,
+    681,
+    857,
+    788
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "D2",
+   "text": "2.000",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1653,
+    962,
+    1755,
+    1050
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "D3",
+   "text": "1.250",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1656,
+    1070,
+    1733,
+    1139
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "T2",
+   "text": "○|.002",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    861,
+    1260,
+    948,
+    1344
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "T3",
+   "text": "↗|.035|A-B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1073,
+    1250,
+    1204,
+    1358
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T5",
+   "text": "↗|.025|A-B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1649,
+    1258,
+    1820,
+    1398
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "T7",
+   "text": "⊥|.010|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1615,
+    1310,
+    1761,
+    1394
+   ]
+  }
+ ]
+}

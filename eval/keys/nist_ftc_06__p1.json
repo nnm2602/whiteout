@@ -1,0 +1,347 @@
+{
+ "id": "nist_ftc_06",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_06_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_06_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 6 - View A",
+ "doubts": [
+  "k1 note 4 general profile frame is FSI element T23; keyed as a note with the frame written inline and official_id T23.",
+  "Notes 1 (CAD model required), 2 (precedence of drawing dimensions over model data), 3 (applicable standards) and 5 (UNITS: INCHES) excluded per the brief.",
+  "Stacked hole callouts split by sub ID: D9-1 '⌴⌀.625 ±.020' and D9-2 '↧.50 ±.02' under 4X ⌀.415 (D8); D11-1 '2X ⌴⌀.812 ±.020' and D11-2 '↧.56 ±.02'; D12-1 '⌴⌀.40 ±.01' and D12-2 '↧.31 ±.02'. Each sub item keeps the count of its callout.",
+  "D12-1, D12-2, T15 and STR4 take multiplier 4 from '4X INDIVIDUALLY' (STR4); D2, T8, STR1 take 4 from 4X ⌀.281.",
+  "STR1 and STR4 '4X INDIVIDUALLY' kept as note items (they make the datum F and position requirements apply per hole).",
+  "T4 and T5 are two separate frames stacked on datum feature D (profile over flatness); T5 box shares the left part of the T4 box.",
+  "Excluded DF1 to DF6 datum feature symbols and CS1 to CS7 coordinate systems."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T23",
+   "text": "4. ⌓|.05|A|B|C APPLIES TO ALL UNTOLERANCED SURFACES.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    118,
+    668,
+    574,
+    743
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "D15",
+   "text": "2X CR.50 ±.02",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    1400,
+    282,
+    1556,
+    409
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "D13",
+   "text": "24X R.125 ±.020",
+   "kind": "radius",
+   "multiplier": 24,
+   "box": [
+    1434,
+    304,
+    1615,
+    437
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "D14",
+   "text": "(SR.500)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    882,
+    443,
+    981,
+    523
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D7",
+   "text": "2X S⌀1.250 ±.008",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    1528,
+    397,
+    1726,
+    538
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T11",
+   "text": "⌖|S⌀.025|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1528,
+    397,
+    1762,
+    578
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "T4",
+   "text": "⌓|.02|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1660,
+    500,
+    1854,
+    659
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "T5",
+   "text": "⏥|.01",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1660,
+    590,
+    1765,
+    691
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "D10",
+   "text": "2X ⌀.562 ±.008",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    452,
+    812,
+    619,
+    944
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T13",
+   "text": "⌖|⌀.015|C|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    401,
+    841,
+    619,
+    1022
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "D11-1",
+   "text": "2X ⌴⌀.812 ±.020",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    302,
+    960,
+    517,
+    1115
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "D11-2",
+   "text": "↧.56 ±.02",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    498,
+    898,
+    619,
+    988
+   ]
+  },
+  {
+   "key": "k13",
+   "official_id": "T14",
+   "text": "⌖|⌀.025Ⓜ|C|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    374,
+    928,
+    619,
+    1122
+   ]
+  },
+  {
+   "key": "k14",
+   "official_id": "D8",
+   "text": "4X ⌀.415 ±.008",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    490,
+    1109,
+    677,
+    1222
+   ]
+  },
+  {
+   "key": "k15",
+   "official_id": "D9-1",
+   "text": "⌴⌀.625 ±.020",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    407,
+    1153,
+    592,
+    1294
+   ]
+  },
+  {
+   "key": "k16",
+   "official_id": "D9-2",
+   "text": "↧.50 ±.02",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    569,
+    1125,
+    703,
+    1202
+   ]
+  },
+  {
+   "key": "k17",
+   "official_id": "T12",
+   "text": "⌖|⌀.025Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    469,
+    1125,
+    752,
+    1294
+   ]
+  },
+  {
+   "key": "k18",
+   "official_id": "D12-1",
+   "text": "⌴⌀.40 ±.01",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1758,
+    896,
+    1910,
+    1014
+   ]
+  },
+  {
+   "key": "k19",
+   "official_id": "D12-2",
+   "text": "↧.31 ±.02",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1913,
+    830,
+    2021,
+    910
+   ]
+  },
+  {
+   "key": "k20",
+   "official_id": "T15",
+   "text": "⌖|⌀.02Ⓜ|F",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    1758,
+    903,
+    1935,
+    1062
+   ]
+  },
+  {
+   "key": "k21",
+   "official_id": "STR4",
+   "text": "4X INDIVIDUALLY",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    1758,
+    941,
+    1963,
+    1082
+   ]
+  },
+  {
+   "key": "k22",
+   "official_id": "STR1",
+   "text": "4X INDIVIDUALLY",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    1381,
+    1151,
+    1580,
+    1283
+   ]
+  },
+  {
+   "key": "k23",
+   "official_id": "T1",
+   "text": "⏥|.01",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    856,
+    1301,
+    959,
+    1400
+   ]
+  },
+  {
+   "key": "k24",
+   "official_id": "D2",
+   "text": "4X ⌀.281 ±.008",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    1062,
+    1294,
+    1242,
+    1409
+   ]
+  },
+  {
+   "key": "k25",
+   "official_id": "T8",
+   "text": "⌖|⌀.015|E|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    1062,
+    1294,
+    1279,
+    1461
+   ]
+  }
+ ]
+}

@@ -1,0 +1,423 @@
+{
+ "id": "apollo_b502_n0040",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b502_n0040.jpg",
+ "source": "hand",
+ "stamp_not_for_photo_reproduction": true,
+ "drawing_number": "LDW200-54003",
+ "title": "",
+ "doubts": [
+  "k4: depth read as '×1 DEEP' (x 1 inch deep); the ▲ interchangeability flag sits before the size; TYP 4 PLACES gives multiplier 4",
+  "k6, k7, k18, k19: each #11 drill callout serves a bolt pattern with hardware quantity (4) listed under it, but the callout itself prints no count, so multiplier 1",
+  "k20, k21, k22: hole pattern carries NAS1304-15(4) hardware below it; no count printed on the hole line, multiplier 1",
+  "k5 and the other Y/Z station values (REF) are loft station coordinates on leaders; kept as reference_dimension, they could also be read as non-items",
+  "k25, k26: bare .002 values between the datum line B/C extension lines and the centerline; read as dimensions",
+  "k29: Grumman MANUFACTURING OPERATIONS standard block kept as ONE note item; only the rubber stamp entry carries a visible check mark; the block's other entries are printed standard text",
+  "k30: interchangeability classification note, included per the when-in-doubt rule",
+  "k32: permissive weight-reduction note (2 1/2 DIA holes, 3 max) kept as a requirement note",
+  "Notes 1 (THIS DRAWING AFFECTED BY LFM-4), 2 (-1 INSTL MAY BE USED FOR REWORK ON LM-4 THRU LM-15) and 3 ((4) MODULE QUANTITIES OF -1 REQUIRED PER LFM-4) left out: effectivity and quantity, nothing to inspect on the part",
+  "Title: this is sheet 3 and the title block has no part-name field; views are labelled LDW200-54003-1 INSTL and LDW200-54003-5 ASSY, so title left empty",
+  "Title block has no TOLERANCE UNLESS SPECIFIED cells and no material entry; part-number leaders (LDW..., MS..., AN..., NAS...), SEE NOTE flags, DATUM LINE labels and A/B/C hole location circles are not items"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": ".650±.002",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    198,
+    630,
+    402,
+    697
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".650±.002",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    828,
+    630,
+    1035,
+    697
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "18.900±.002",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1730,
+    535,
+    1970,
+    597
+   ]
+  },
+  {
+   "key": "k4",
+   "text": ".3910/.3895 DIA HOLE ×1 DEEP ON -3 & -5 ASSY (TYP 4 PLACES)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    2625,
+    330,
+    3095,
+    482
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "Z59.371 (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    3618,
+    448,
+    3920,
+    490
+   ]
+  },
+  {
+   "key": "k6",
+   "text": ".190-.196 (#11 DRILL)",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1385,
+    912,
+    1772,
+    957
+   ]
+  },
+  {
+   "key": "k7",
+   "text": ".190-.196 (#11 DRILL)",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2758,
+    918,
+    3110,
+    962
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "21/32",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    333,
+    1013,
+    382,
+    1090
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "21/32",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    818,
+    1010,
+    870,
+    1086
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "3.637 (TYP.)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    220,
+    1145,
+    424,
+    1210
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "3.637 (TYP)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    860,
+    1140,
+    1068,
+    1194
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "Y27.000 (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    4123,
+    1413,
+    4427,
+    1470
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "17.926 (TYP)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2118,
+    1486,
+    2360,
+    1550
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "2 9/16",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3468,
+    2198,
+    3542,
+    2270
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "3 3/4 (TYP)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3568,
+    2622,
+    3724,
+    2685
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "Z81.000 (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    4148,
+    2828,
+    4442,
+    2875
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "3 1/16",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3573,
+    3118,
+    3652,
+    3170
+   ]
+  },
+  {
+   "key": "k18",
+   "text": ".190-.196 (#11 DRILL)",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1388,
+    3138,
+    1767,
+    3185
+   ]
+  },
+  {
+   "key": "k19",
+   "text": ".190-.196 (#11 DRILL)",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2748,
+    3168,
+    3092,
+    3214
+   ]
+  },
+  {
+   "key": "k20",
+   "text": ".250-.254 DIA HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    193,
+    3208,
+    510,
+    3252
+   ]
+  },
+  {
+   "key": "k21",
+   "text": ".250-.254 DIA HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    778,
+    3213,
+    1100,
+    3254
+   ]
+  },
+  {
+   "key": "k22",
+   "text": ".250-.254 DIA HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    3418,
+    3163,
+    3748,
+    3210
+   ]
+  },
+  {
+   "key": "k23",
+   "text": "5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2503,
+    3348,
+    2542,
+    3394
+   ]
+  },
+  {
+   "key": "k24",
+   "text": "Y41.683 (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    4248,
+    3543,
+    4557,
+    3587
+   ]
+  },
+  {
+   "key": "k25",
+   "text": ".002",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    403,
+    3728,
+    487,
+    3765
+   ]
+  },
+  {
+   "key": "k26",
+   "text": ".002",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    768,
+    3728,
+    862,
+    3765
+   ]
+  },
+  {
+   "key": "k27",
+   "text": ".3910/.3895 DIA HOLE IN LDW200M10001-11 & -12 ON -3 & -5 ASSY (TYP 4 PLACES)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    3973,
+    3718,
+    4742,
+    3833
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "26.140±.002",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1818,
+    3870,
+    2114,
+    3930
+   ]
+  },
+  {
+   "key": "k29",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED ✓ APPLY TO THIS DWG. RUBBER STAMP PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED. FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030. DEPTH SHOWN FOR TAPPED HOLES IS FULL THDS. 2-3 IMP THDS. BEYOND PERMISSIBLE. EXTERNAL THREAD LENGTH SHOWN INCLUDES 2 IMPERFECT THREADS MAX. DO NOT CADMIUM PLATE & PAINT HOLES OR SURFACES MARKED WITH DOUBLE ASTERISK. MISMATCH STEP OF ±.005 PERMISSIBLE DUE TO CHANGE OF CUTTERS AT INSIDE INTERSECTING SURFACES. DIAMETERS MARKED MUST BE CONCENTRIC WITHIN FULL INDICATOR READING. HOLES MUST BE KEPT FREE OF CHROME PLATING SOLUTION. ALL DIMENSIONS SHOWN TO BE MET AFTER CADMIUM PLATING. THICKNESS OF PLATE .0003 MIN. TO .0005 MAX. MIN. THICKNESS TO BE .0002 ON THREADED AREAS. NO ALLOWANCE FOR PLATING IN HOLES. 125 SURFACE ROUGHNESS INCLUDING REAMED HOLES PER MIL-STD-10. 200 FOR ALL DRILLED HOLES. REMOVE ALL BURRS. BREAK ALL EDGES .015-.031. INSPECTION INFORMATION MINIMUM PERMISSIBLE AVERAGE EDGE DISTANCE MARKED IS. SYMBOL √ DENOTES SURFACE TO BE MACHINED. UNLESS OTHERWISE SPECIFIED TOLERANCE ON FLANGES IS ±1/32. LENGTHS OF AN, NAS & MS AL ALY RIVETS SHORTER THAN 1 INCH ARE NOT SPECIFIED. TOLERANCE ON LOFTED DELINEATIONS IS",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    5485,
+    200,
+    5905,
+    2030
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "4. HOLES & DIMENSIONS MARKED ▲ FORM PART OF AN INTERCHANGEABLE INTERFACE AS SHOWN ON LDW280-54576",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    5020,
+    2465,
+    5885,
+    2583
+   ]
+  },
+  {
+   "key": "k31",
+   "text": "5. WEIGHT OF -3 & 5 ASSY TO BE 25.5 LBS ±.5 LBS EACH",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    5025,
+    2580,
+    5898,
+    2653
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "6. WEIGHT OF -3 & -5 ASSY MAYBE DECREASED BY DRILLING 2 1/2 DIA HOLES AS REQD IN THE AREA INDICATED. (3) HOLES MAX PER ASSY STARTING AT \"A\"",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    5025,
+    2655,
+    5900,
+    2803
+   ]
+  },
+  {
+   "key": "k33",
+   "text": "7. WEIGHT OF EACH ASSY TO BE STEEL STAMP IN AREA INDICATED",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    5025,
+    2800,
+    5912,
+    2886
+   ]
+  }
+ ]
+}

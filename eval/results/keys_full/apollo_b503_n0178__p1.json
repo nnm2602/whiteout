@@ -1,0 +1,35 @@
+{
+ "key": "apollo_b503_n0178__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 29,
+ "found": 47,
+ "first_read_hits": 29,
+ "final_hits": 29,
+ "baseline_hits": 4,
+ "baseline_found": 11,
+ "exact_text": 28,
+ "multiplier_right": 29,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [
+  {
+   "text": "SEE NOTE1",
+   "box": [
+    2325,
+    2435,
+    2501,
+    2463
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 20.145032167434692,
+  "read": 60.333451986312866,
+  "audit": 76.57442784309387,
+  "total": 157.39302706718445
+ }
+}

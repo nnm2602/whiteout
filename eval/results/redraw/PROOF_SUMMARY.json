@@ -1,0 +1,60 @@
+{
+ "sheets": [
+  {
+   "sheet": "apollo_b503_n0006",
+   "differences": 23,
+   "key_items_wrong_on_redraw": 7,
+   "of_those_marked": 6,
+   "key_items_right": 48,
+   "right_but_marked": 5
+  },
+  {
+   "sheet": "apollo_b503_n0013",
+   "differences": 20,
+   "key_items_wrong_on_redraw": 7,
+   "of_those_marked": 7,
+   "key_items_right": 27,
+   "right_but_marked": 6
+  },
+  {
+   "sheet": "apollo_b502_n0014",
+   "differences": 24,
+   "key_items_wrong_on_redraw": 6,
+   "of_those_marked": 6,
+   "key_items_right": 36,
+   "right_but_marked": 6
+  },
+  {
+   "sheet": "apollo_b503_n0024",
+   "differences": 40,
+   "key_items_wrong_on_redraw": 21,
+   "of_those_marked": 20,
+   "key_items_right": 36,
+   "right_but_marked": 13
+  },
+  {
+   "sheet": "apollo_b503_n0057",
+   "differences": 36,
+   "key_items_wrong_on_redraw": 16,
+   "of_those_marked": 15,
+   "key_items_right": 40,
+   "right_but_marked": 13
+  },
+  {
+   "sheet": "apollo_b503_n0128",
+   "differences": 20,
+   "key_items_wrong_on_redraw": 3,
+   "of_those_marked": 1,
+   "key_items_right": 43,
+   "right_but_marked": 8
+  }
+ ],
+ "total": {
+  "differences": 163,
+  "key_items_wrong_on_redraw": 60,
+  "of_those_marked": 55,
+  "key_items_right": 230,
+  "right_but_marked": 51
+ },
+ "usd": 1.0027
+}

@@ -1,0 +1,160 @@
+{
+ "id": "cadsy_part_0021_asme",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0021_asme.png",
+ "source": "official",
+ "standard": "ASME",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "92",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    514,
+    444,
+    536,
+    462
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "36",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    215,
+    684,
+    233,
+    706
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "14",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    390,
+    928,
+    412,
+    946
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "10X ⌀6.5 THRU (2X5)",
+   "kind": "hole_callout",
+   "multiplier": 10,
+   "box": [
+    826,
+    924,
+    1069,
+    950
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "⌭|0.2",
+   "kind": "gdt_frame",
+   "multiplier": 10,
+   "box": [
+    826,
+    951,
+    932,
+    1002
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "8X R1.5",
+   "kind": "radius",
+   "multiplier": 8,
+   "box": [
+    838,
+    1153,
+    924,
+    1171
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "72",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1184,
+    1203,
+    1207,
+    1221
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    215,
+    1252,
+    233,
+    1261
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "18",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    296,
+    1292,
+    317,
+    1310
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "18",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1025,
+    1292,
+    1047,
+    1310
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "R1.5 ±0.05",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    1157,
+    1292,
+    1269,
+    1310
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "7X R1.5",
+   "kind": "radius",
+   "multiplier": 7,
+   "box": [
+    1465,
+    1292,
+    1551,
+    1310
+   ]
+  }
+ ]
+}

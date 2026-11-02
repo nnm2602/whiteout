@@ -1,0 +1,173 @@
+{
+ "id": "cadsy_part_0020_iso",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0020_iso.png",
+ "source": "official",
+ "standard": "ISO",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "90",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    438,
+    394,
+    460,
+    412
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "45",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    935,
+    394,
+    958,
+    412
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "∥|0,5|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1121,
+    392,
+    1275,
+    443
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "10 ±0,05",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    774,
+    467,
+    795,
+    548
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "30",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1366,
+    551,
+    1384,
+    573
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "45",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    304,
+    713,
+    327,
+    731
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "⌀90",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1350,
+    741,
+    1411,
+    761
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "6×⌀8,5 EQUALLY SPACED ON ⌀60 PCD",
+   "kind": "hole_callout",
+   "multiplier": 6,
+   "box": [
+    1375,
+    798,
+    1821,
+    820
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "⊥|⌀0,2|B",
+   "kind": "gdt_frame",
+   "multiplier": 6,
+   "box": [
+    1375,
+    821,
+    1557,
+    871
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "⌭|0,2",
+   "kind": "gdt_frame",
+   "multiplier": 6,
+   "box": [
+    1375,
+    871,
+    1557,
+    922
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "⌭|0,5",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1375,
+    946,
+    1479,
+    997
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "90",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1069,
+    1343,
+    1091,
+    1362
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "General tolerance ISO 2768-f",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1619,
+    1511,
+    1720,
+    1530
+   ],
+   "title_block": true
+  }
+ ]
+}

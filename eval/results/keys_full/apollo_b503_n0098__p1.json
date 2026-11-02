@@ -1,0 +1,101 @@
+{
+ "key": "apollo_b503_n0098__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 32,
+ "found": 57,
+ "first_read_hits": 32,
+ "final_hits": 32,
+ "baseline_hits": 12,
+ "baseline_found": 21,
+ "exact_text": 29,
+ "multiplier_right": 31,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [
+  {
+   "text": ".256-.263 HOLE",
+   "box": [
+    2903,
+    1513,
+    3242,
+    1566
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "\u24b6\u2082 +.000 -.020 .250",
+   "box": [
+    2089,
+    2528,
+    2229,
+    2567
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "NOTE: 1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M10024 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    2932,
+    2818,
+    3809,
+    2901
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    2680,
+    2622,
+    3373,
+    2660
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "NAS 9-1100",
+   "box": [
+    4039,
+    3413,
+    4260,
+    3454
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "TO BE FLAT .005 TIR",
+   "box": [
+    2319,
+    2945,
+    2562,
+    3037
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "+.000 -.010 A2 2.656 DIA.",
+   "box": [
+    3673,
+    1927,
+    3957,
+    1998
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 20.883424043655396,
+  "read": 80.9950659275055,
+  "audit": 73.64382100105286,
+  "total": 175.75609278678894
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "overall": {
+  "sheets": 67,
+  "key_items": 1679,
+  "first_read_recall": 0.9678,
+  "final_recall": 0.969,
+  "final_recall_ci95": [
+   0.9596,
+   0.9763
+  ],
+  "precision": 0.7436,
+  "exact_text_of_matched": 0.8937,
+  "multiplier_right_of_matched": 0.949,
+  "baseline_recall": 0.1656,
+  "baseline_precision": 0.6192,
+  "audit_added": 3,
+  "missed": 52,
+  "missed_visible_on_erased_page": 20,
+  "true_missed": 41,
+  "true_missed_visible": 18,
+  "hits_inside_larger_callout": 18,
+  "audit_added_correct": 1
+ },
+ "by_source": {
+  "apollo": {
+   "sheets": 15,
+   "key_items": 589,
+   "first_read_recall": 0.9711,
+   "final_recall": 0.9745,
+   "final_recall_ci95": [
+    0.9584,
+    0.9845
+   ],
+   "precision": 0.6523,
+   "exact_text_of_matched": 0.8606,
+   "multiplier_right_of_matched": 0.9756,
+   "baseline_recall": 0.2428,
+   "baseline_precision": 0.5316,
+   "audit_added": 3,
+   "missed": 15,
+   "missed_visible_on_erased_page": 9,
+   "true_missed": 11,
+   "true_missed_visible": 7,
+   "hits_inside_larger_callout": 9,
+   "audit_added_correct": 1
+  },
+  "cadsy": {
+   "sheets": 25,
+   "key_items": 371,
+   "first_read_recall": 0.9515,
+   "final_recall": 0.9515,
+   "final_recall_ci95": [
+    0.9246,
+    0.9691
+   ],
+   "precision": 0.9489,
+   "exact_text_of_matched": 0.9122,
+   "multiplier_right_of_matched": 0.9603,
+   "baseline_recall": 0.1536,
+   "baseline_precision": 0.9344,
+   "audit_added": 0,
+   "missed": 18,
+   "missed_visible_on_erased_page": 7,
+   "true_missed": 14,
+   "true_missed_visible": 7,
+   "hits_inside_larger_callout": 1,
+   "audit_added_correct": 0
+  },
+  "milstd": {
+   "sheets": 4,
+   "key_items": 335,
+   "first_read_recall": 0.9642,
+   "final_recall": 0.9642,
+   "final_recall_ci95": [
+    0.9384,
+    0.9794
+   ],
+   "precision": 0.6321,
+   "exact_text_of_matched": 0.8947,
+   "multiplier_right_of_matched": 0.9319,
+   "baseline_recall": 0.0418,
+   "baseline_precision": 0.5833,
+   "audit_added": 0,
+   "missed": 12,
+   "missed_visible_on_erased_page": 4,
+   "true_missed": 12,
+   "true_missed_visible": 4,
+   "hits_inside_larger_callout": 1,
+   "audit_added_correct": 0
+  },
+  "nist_ctc": {
+   "sheets": 5,
+   "key_items": 69,
+   "first_read_recall": 0.971,
+   "final_recall": 0.971,
+   "final_recall_ci95": [
+    0.9003,
+    0.992
+   ],
+   "precision": 0.9178,
+   "exact_text_of_matched": 0.9254,
+   "multiplier_right_of_matched": 0.9552,
+   "baseline_recall": 0.0145,
+   "baseline_precision": 0.25,
+   "audit_added": 0,
+   "missed": 2,
+   "missed_visible_on_erased_page": 0,
+   "true_missed": 1,
+   "true_missed_visible": 0,
+   "hits_inside_larger_callout": 1,
+   "audit_added_correct": 0
+  },
+  "nist_d2mi": {
+   "sheets": 12,
+   "key_items": 226,
+   "first_read_recall": 0.9912,
+   "final_recall": 0.9912,
+   "final_recall_ci95": [
+    0.9683,
+    0.9976
+   ],
+   "precision": 0.9256,
+   "exact_text_of_matched": 0.9777,
+   "multiplier_right_of_matched": 0.9598,
+   "baseline_recall": 0.2699,
+   "baseline_precision": 0.7922,
+   "audit_added": 0,
+   "missed": 2,
+   "missed_visible_on_erased_page": 0,
+   "true_missed": 2,
+   "true_missed_visible": 0,
+   "hits_inside_larger_callout": 0,
+   "audit_added_correct": 0
+  },
+  "nist_ftc": {
+   "sheets": 6,
+   "key_items": 89,
+   "first_read_recall": 0.9663,
+   "final_recall": 0.9663,
+   "final_recall_ci95": [
+    0.9055,
+    0.9885
+   ],
+   "precision": 0.7818,
+   "exact_text_of_matched": 0.7907,
+   "multiplier_right_of_matched": 0.7558,
+   "baseline_recall": 0.0225,
+   "baseline_precision": 0.1429,
+   "audit_added": 0,
+   "missed": 3,
+   "missed_visible_on_erased_page": 0,
+   "true_missed": 1,
+   "true_missed_visible": 0,
+   "hits_inside_larger_callout": 6,
+   "audit_added_correct": 0
+  }
+ },
+ "usage": {
+  "calls": 0,
+  "cached": 1911,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "reasoning_tokens": 0,
+  "seconds": 0.0,
+  "usd": 0.0
+ }
+}

@@ -1,0 +1,541 @@
+{
+ "ok": true,
+ "verdict": "No problems found: all 84 drawing requirements have a matching row and every recorded result is within the drawing limits. 1 row is rejected with a nonconformance record.",
+ "summary": {
+  "missing_row": 0,
+  "requirement_mismatch": 0,
+  "accepted_out_of_tolerance": 0,
+  "missing_result": 0,
+  "duplicate_number": 0,
+  "extra_row": 0,
+  "number_mismatch": 0
+ },
+ "findings": [],
+ "numbering": "drawing",
+ "rows_read": 84,
+ "drawing_lines": 84,
+ "matched": 84,
+ "rejected_rows": 1,
+ "layout": {
+  "source": "xlsx",
+  "sheet": "FAIR Characteristics",
+  "header_row": 6,
+  "columns": {
+   "requirement": "Drawing Requirement",
+   "nominal": "Nominal",
+   "plus": "+",
+   "minus": "-",
+   "result": "Measured Value",
+   "number": "Item",
+   "nc": "Nonconformance Report No."
+  }
+ },
+ "matches": [
+  {
+   "supplier_index": 0,
+   "char_no": "1",
+   "row_id": "1",
+   "how": "number"
+  },
+  {
+   "supplier_index": 1,
+   "char_no": "2",
+   "row_id": "2",
+   "how": "number"
+  },
+  {
+   "supplier_index": 2,
+   "char_no": "3",
+   "row_id": "3",
+   "how": "number"
+  },
+  {
+   "supplier_index": 3,
+   "char_no": "4",
+   "row_id": "4",
+   "how": "number"
+  },
+  {
+   "supplier_index": 4,
+   "char_no": "5.1",
+   "row_id": "5.1",
+   "how": "number"
+  },
+  {
+   "supplier_index": 5,
+   "char_no": "5.2",
+   "row_id": "5.2",
+   "how": "number"
+  },
+  {
+   "supplier_index": 6,
+   "char_no": "5.3",
+   "row_id": "5.3",
+   "how": "number"
+  },
+  {
+   "supplier_index": 7,
+   "char_no": "6",
+   "row_id": "6",
+   "how": "number"
+  },
+  {
+   "supplier_index": 8,
+   "char_no": "7",
+   "row_id": "7",
+   "how": "number"
+  },
+  {
+   "supplier_index": 9,
+   "char_no": "8",
+   "row_id": "8",
+   "how": "number"
+  },
+  {
+   "supplier_index": 10,
+   "char_no": "9",
+   "row_id": "9",
+   "how": "number"
+  },
+  {
+   "supplier_index": 11,
+   "char_no": "10",
+   "row_id": "10",
+   "how": "number"
+  },
+  {
+   "supplier_index": 12,
+   "char_no": "11",
+   "row_id": "11",
+   "how": "number"
+  },
+  {
+   "supplier_index": 13,
+   "char_no": "12",
+   "row_id": "12",
+   "how": "number"
+  },
+  {
+   "supplier_index": 14,
+   "char_no": "13",
+   "row_id": "13",
+   "how": "number"
+  },
+  {
+   "supplier_index": 15,
+   "char_no": "14",
+   "row_id": "14",
+   "how": "number"
+  },
+  {
+   "supplier_index": 16,
+   "char_no": "15",
+   "row_id": "15",
+   "how": "number"
+  },
+  {
+   "supplier_index": 17,
+   "char_no": "16",
+   "row_id": "16",
+   "how": "number"
+  },
+  {
+   "supplier_index": 18,
+   "char_no": "17",
+   "row_id": "17",
+   "how": "number"
+  },
+  {
+   "supplier_index": 19,
+   "char_no": "18",
+   "row_id": "18",
+   "how": "number"
+  },
+  {
+   "supplier_index": 20,
+   "char_no": "19",
+   "row_id": "19",
+   "how": "number"
+  },
+  {
+   "supplier_index": 21,
+   "char_no": "20",
+   "row_id": "20",
+   "how": "number"
+  },
+  {
+   "supplier_index": 22,
+   "char_no": "21",
+   "row_id": "21",
+   "how": "number"
+  },
+  {
+   "supplier_index": 23,
+   "char_no": "22",
+   "row_id": "22",
+   "how": "number"
+  },
+  {
+   "supplier_index": 24,
+   "char_no": "23",
+   "row_id": "23",
+   "how": "number"
+  },
+  {
+   "supplier_index": 25,
+   "char_no": "24",
+   "row_id": "24",
+   "how": "number"
+  },
+  {
+   "supplier_index": 26,
+   "char_no": "25",
+   "row_id": "25",
+   "how": "number"
+  },
+  {
+   "supplier_index": 27,
+   "char_no": "26",
+   "row_id": "26",
+   "how": "number"
+  },
+  {
+   "supplier_index": 28,
+   "char_no": "27",
+   "row_id": "27",
+   "how": "number"
+  },
+  {
+   "supplier_index": 29,
+   "char_no": "28",
+   "row_id": "28",
+   "how": "number"
+  },
+  {
+   "supplier_index": 30,
+   "char_no": "29",
+   "row_id": "29",
+   "how": "number"
+  },
+  {
+   "supplier_index": 31,
+   "char_no": "30",
+   "row_id": "30",
+   "how": "number"
+  },
+  {
+   "supplier_index": 32,
+   "char_no": "31.1",
+   "row_id": "31-1",
+   "how": "number"
+  },
+  {
+   "supplier_index": 33,
+   "char_no": "31.2",
+   "row_id": "31-2",
+   "how": "number"
+  },
+  {
+   "supplier_index": 34,
+   "char_no": "31.3",
+   "row_id": "31-3",
+   "how": "number"
+  },
+  {
+   "supplier_index": 35,
+   "char_no": "32",
+   "row_id": "32",
+   "how": "number"
+  },
+  {
+   "supplier_index": 36,
+   "char_no": "33",
+   "row_id": "33",
+   "how": "number"
+  },
+  {
+   "supplier_index": 37,
+   "char_no": "34",
+   "row_id": "34",
+   "how": "number"
+  },
+  {
+   "supplier_index": 38,
+   "char_no": "35",
+   "row_id": "35",
+   "how": "number"
+  },
+  {
+   "supplier_index": 39,
+   "char_no": "36.1",
+   "row_id": "36-1",
+   "how": "number"
+  },
+  {
+   "supplier_index": 40,
+   "char_no": "36.2",
+   "row_id": "36-2",
+   "how": "number"
+  },
+  {
+   "supplier_index": 41,
+   "char_no": "36.3",
+   "row_id": "36-3",
+   "how": "number"
+  },
+  {
+   "supplier_index": 42,
+   "char_no": "37",
+   "row_id": "37",
+   "how": "number"
+  },
+  {
+   "supplier_index": 43,
+   "char_no": "38",
+   "row_id": "38",
+   "how": "number"
+  },
+  {
+   "supplier_index": 44,
+   "char_no": "39",
+   "row_id": "39",
+   "how": "number"
+  },
+  {
+   "supplier_index": 45,
+   "char_no": "40",
+   "row_id": "40",
+   "how": "number"
+  },
+  {
+   "supplier_index": 46,
+   "char_no": "41",
+   "row_id": "41",
+   "how": "number"
+  },
+  {
+   "supplier_index": 47,
+   "char_no": "42",
+   "row_id": "42",
+   "how": "number"
+  },
+  {
+   "supplier_index": 48,
+   "char_no": "43",
+   "row_id": "43",
+   "how": "number"
+  },
+  {
+   "supplier_index": 49,
+   "char_no": "44",
+   "row_id": "44",
+   "how": "number"
+  },
+  {
+   "supplier_index": 50,
+   "char_no": "45",
+   "row_id": "45",
+   "how": "number"
+  },
+  {
+   "supplier_index": 51,
+   "char_no": "46",
+   "row_id": "46",
+   "how": "number"
+  },
+  {
+   "supplier_index": 52,
+   "char_no": "47",
+   "row_id": "47",
+   "how": "number"
+  },
+  {
+   "supplier_index": 53,
+   "char_no": "48",
+   "row_id": "48",
+   "how": "number"
+  },
+  {
+   "supplier_index": 54,
+   "char_no": "49",
+   "row_id": "49",
+   "how": "number"
+  },
+  {
+   "supplier_index": 55,
+   "char_no": "50",
+   "row_id": "50",
+   "how": "number"
+  },
+  {
+   "supplier_index": 56,
+   "char_no": "51",
+   "row_id": "51",
+   "how": "number"
+  },
+  {
+   "supplier_index": 57,
+   "char_no": "52",
+   "row_id": "52",
+   "how": "number"
+  },
+  {
+   "supplier_index": 58,
+   "char_no": "53",
+   "row_id": "53",
+   "how": "number"
+  },
+  {
+   "supplier_index": 59,
+   "char_no": "54",
+   "row_id": "54",
+   "how": "number"
+  },
+  {
+   "supplier_index": 60,
+   "char_no": "55",
+   "row_id": "55",
+   "how": "number"
+  },
+  {
+   "supplier_index": 61,
+   "char_no": "56",
+   "row_id": "56",
+   "how": "number"
+  },
+  {
+   "supplier_index": 62,
+   "char_no": "57",
+   "row_id": "57",
+   "how": "number"
+  },
+  {
+   "supplier_index": 63,
+   "char_no": "58",
+   "row_id": "58",
+   "how": "number"
+  },
+  {
+   "supplier_index": 64,
+   "char_no": "59",
+   "row_id": "59",
+   "how": "number"
+  },
+  {
+   "supplier_index": 65,
+   "char_no": "60",
+   "row_id": "60",
+   "how": "number"
+  },
+  {
+   "supplier_index": 66,
+   "char_no": "61",
+   "row_id": "61",
+   "how": "number"
+  },
+  {
+   "supplier_index": 67,
+   "char_no": "62",
+   "row_id": "62",
+   "how": "number"
+  },
+  {
+   "supplier_index": 68,
+   "char_no": "63",
+   "row_id": "63",
+   "how": "number"
+  },
+  {
+   "supplier_index": 69,
+   "char_no": "64",
+   "row_id": "64",
+   "how": "number"
+  },
+  {
+   "supplier_index": 70,
+   "char_no": "65",
+   "row_id": "65",
+   "how": "number"
+  },
+  {
+   "supplier_index": 71,
+   "char_no": "66",
+   "row_id": "66",
+   "how": "number"
+  },
+  {
+   "supplier_index": 72,
+   "char_no": "67.1",
+   "row_id": "67-1",
+   "how": "number"
+  },
+  {
+   "supplier_index": 73,
+   "char_no": "67.2",
+   "row_id": "67-2",
+   "how": "number"
+  },
+  {
+   "supplier_index": 74,
+   "char_no": "68",
+   "row_id": "68",
+   "how": "number"
+  },
+  {
+   "supplier_index": 75,
+   "char_no": "69",
+   "row_id": "69",
+   "how": "number"
+  },
+  {
+   "supplier_index": 76,
+   "char_no": "70",
+   "row_id": "70",
+   "how": "number"
+  },
+  {
+   "supplier_index": 77,
+   "char_no": "71",
+   "row_id": "71",
+   "how": "number"
+  },
+  {
+   "supplier_index": 78,
+   "char_no": "72",
+   "row_id": "72",
+   "how": "number"
+  },
+  {
+   "supplier_index": 79,
+   "char_no": "73",
+   "row_id": "73",
+   "how": "number"
+  },
+  {
+   "supplier_index": 80,
+   "char_no": "74",
+   "row_id": "74",
+   "how": "number"
+  },
+  {
+   "supplier_index": 81,
+   "char_no": "75",
+   "row_id": "75",
+   "how": "number"
+  },
+  {
+   "supplier_index": 82,
+   "char_no": "76",
+   "row_id": "76",
+   "how": "number"
+  },
+  {
+   "supplier_index": 83,
+   "char_no": "77",
+   "row_id": "77",
+   "how": "number"
+  }
+ ],
+ "report": "apollo_clean_B.xlsx",
+ "usage": {}
+}

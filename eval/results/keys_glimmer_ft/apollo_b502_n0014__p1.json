@@ -1,0 +1,138 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 0,
+ "true_missed_visible": 0,
+ "key": "apollo_b502_n0014__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 42,
+ "found": 69,
+ "first_read_hits": 42,
+ "final_hits": 42,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 12,
+ "baseline_found": 16,
+ "exact_text": 38,
+ "multiplier_right": 42,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [
+  {
+   "text": ".438 .406",
+   "box": [
+    3370,
+    2061,
+    3478,
+    2142
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "8",
+   "box": [
+    1500,
+    933,
+    1521,
+    967
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "7",
+   "box": [
+    2004,
+    931,
+    2023,
+    964
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "6",
+   "box": [
+    2509,
+    929,
+    2530,
+    962
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "5",
+   "box": [
+    3009,
+    928,
+    3028,
+    961
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".625",
+   "box": [
+    1898,
+    2607,
+    2018,
+    2642
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".864",
+   "box": [
+    3168,
+    2061,
+    3276,
+    2101
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "5. (4) MODULE QUANTITIES REQUIRED PER LFM-4.",
+   "box": [
+    4262,
+    3131,
+    5220,
+    3188
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "4. -11 & -12 MAY BE USED ON LM-4(34) THRU LM-15 (45).",
+   "box": [
+    4257,
+    3089,
+    5149,
+    3144
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2. THIS DWG AFFECTED BY LFM-4.",
+   "box": [
+    4260,
+    2917,
+    4905,
+    2949
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 20.40471386909485,
+  "read": 899.4510841369629,
+  "audit": 777.9668951034546,
+  "total": 1699.2100446224213
+ }
+}

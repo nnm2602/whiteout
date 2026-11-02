@@ -1,0 +1,103 @@
+{
+ "id": "milstd_ms21919e",
+ "page": 1,
+ "width": 1700,
+ "height": 2195,
+ "dpi": 200,
+ "file": "data/raw/milstd/MS21919E.pdf",
+ "source": "hand",
+ "drawing_number": "MS21919E",
+ "title": "CLAMP, LOOP TYPE, CUSHIONED, SUPPORT",
+ "distribution_statement": "",
+ "doubts": [
+  "k6: procurement specification MIL-C-8603 in the title block counted as a spec note; drop if title block procurement specs are not items",
+  "k4: local joggle note counted as a note since it sets a .010 flushness requirement",
+  "Lettered dimensions (W, D Dia, R, T, G, E, X, S Typ, B Rad Min) are placeholders whose values are tabulated on sheet 2; not keyed on this sheet. Flag note triangles 1, 3, 5 refer to notes on sheet 3; not keyed"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": ".390/.360 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    917,
+    440,
+    983,
+    480
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".199/.209 Dia 2 holes in line",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    697,
+    659,
+    918,
+    699
+   ]
+  },
+  {
+   "key": "k3",
+   "text": ".045 Min",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1031,
+    703,
+    1078,
+    742
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "Joggle to provide flush surfaces within .010",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    626,
+    1129,
+    873,
+    1169
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "Joggle .06 Radius Typ",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    1097,
+    1320,
+    1293,
+    1342
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "PROCUREMENT SPECIFICATION MIL-C-8603",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    303,
+    1906,
+    527,
+    1940
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "110°/85°",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    1203,
+    1503,
+    1249,
+    1538
+   ]
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "id": "cadsy_part_0014_iso",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0014_iso.png",
+ "source": "official",
+ "standard": "ISO",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "45",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1087,
+    508,
+    1110,
+    526
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "⏥|0,2",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1388,
+    506,
+    1492,
+    557
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "2×R1",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    1807,
+    489,
+    1868,
+    507
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "7,5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    332,
+    547,
+    359,
+    569
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "∥|0,2|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    649,
+    553,
+    803,
+    604
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "35",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1028,
+    549,
+    1050,
+    567
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "4",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1798,
+    606,
+    1816,
+    617
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "7,5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    332,
+    654,
+    359,
+    675
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "16",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    916,
+    655,
+    938,
+    673
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "28",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    987,
+    697,
+    1009,
+    715
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "52",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1129,
+    738,
+    1151,
+    756
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "64",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1199,
+    779,
+    1222,
+    797
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "⊥|⌀0,05|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    608,
+    875,
+    803,
+    926
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "80",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1294,
+    891,
+    1316,
+    910
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "⌭|0,05",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    608,
+    926,
+    803,
+    976
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "20 ±0,1",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1796,
+    1015,
+    1818,
+    1081
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "15",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    794,
+    1067,
+    812,
+    1089
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "40",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1057,
+    1187,
+    1080,
+    1205
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "⌀6",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1388,
+    1175,
+    1436,
+    1195
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "4×⌀2",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    1671,
+    1175,
+    1754,
+    1195
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "General tolerance ISO 2768-f",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1619,
+    1511,
+    1720,
+    1530
+   ],
+   "title_block": true
+  }
+ ]
+}

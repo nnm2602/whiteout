@@ -1,0 +1,52 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 0,
+ "true_missed_visible": 0,
+ "key": "cadsy_part_0008_iso__p1.json",
+ "kind": "cadsy",
+ "source": "official",
+ "items": 16,
+ "found": 16,
+ "first_read_hits": 15,
+ "final_hits": 15,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 1,
+ "baseline_found": 1,
+ "exact_text": 13,
+ "multiplier_right": 15,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k1",
+   "text": "6,5 \u00b10,05",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    765,
+    384,
+    786,
+    471
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "6,5 \u00b10,05",
+   "box": [
+    740,
+    367,
+    770,
+    503
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.019917011260986328,
+  "read": 1.2682991027832031,
+  "audit": 0.7574520111083984,
+  "total": 2.069683313369751
+ }
+}

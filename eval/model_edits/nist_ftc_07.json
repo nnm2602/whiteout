@@ -1,0 +1,80 @@
+{
+ "case": "nist_ftc_07",
+ "source": "data/raw/nist_pmi_step/nist_ftc_07_asme1_ap242-e2.stp",
+ "edited": "data/raw/model_edits/nist_ftc_07_edited.stp",
+ "pmi_after": 43,
+ "edits": [
+  {
+   "edit": "tolerance",
+   "target": "#15939",
+   "before": "0.30 ±0.02",
+   "expect": "differs",
+   "field": "tolerance",
+   "factor": 2.0,
+   "drawing": {
+    "id": "s0c5",
+    "text": "Ø.250 +.003 -.000 ↓ .30 ±.02",
+    "requirement_text": "↓ .30 ±.02",
+    "sheet": 0
+   },
+   "after": "bounds -0.04 / 0.04"
+  },
+  {
+   "edit": "nominal",
+   "target": "#15653",
+   "before": "3X ⌀0.875 ±0.01",
+   "expect": "differs",
+   "field": "nominal",
+   "factor": 1.05,
+   "drawing": {
+    "id": "s1c5",
+    "text": "3X Ø.875 ±.010",
+    "requirement_text": "Ø.875 ±.010",
+    "sheet": 1
+   },
+   "after": "nominal 0.91875 (was 0.875)"
+  },
+  {
+   "edit": "gdt_value",
+   "target": "#14623",
+   "before": "⌓|0.015|A",
+   "expect": "differs",
+   "field": "tolerance value",
+   "factor": 2.0,
+   "drawing": {
+    "id": "s0c3",
+    "text": "⌭ .015 A 2 SURFACES F1.1 AND F1.2",
+    "requirement_text": "⌭ .015 A 2 SURFACES F1.1 AND F1.2",
+    "sheet": 0
+   },
+   "after": "value 0.03 (was 0.015)"
+  },
+  {
+   "edit": "no_tolerance",
+   "target": "#15545",
+   "before": "4X 0.30 ±0.02",
+   "expect": "differs",
+   "field": "tolerance",
+   "drawing": {
+    "id": "s0c4",
+    "text": "4X Ø.250 +.003 -.001 ↓ .30 ±.02",
+    "requirement_text": "↓ .30 ±.02",
+    "sheet": 0
+   },
+   "after": "plus/minus tolerance #15550 deleted"
+  },
+  {
+   "edit": "removed_gdt",
+   "target": "#14257",
+   "before": "⏥|0.01/1",
+   "expect": "drawing_only",
+   "drawing": {
+    "id": "s1c10",
+    "text": "▱ .01 / Ø1.00",
+    "requirement_text": "▱ .01 / Ø1.00",
+    "sheet": 1
+   },
+   "after": "geometric tolerance #14257 deleted"
+  }
+ ]
+}

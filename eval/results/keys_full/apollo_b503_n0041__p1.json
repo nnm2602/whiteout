@@ -1,0 +1,94 @@
+{
+ "key": "apollo_b503_n0041__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 38,
+ "found": 55,
+ "first_read_hits": 35,
+ "final_hits": 35,
+ "baseline_hits": 0,
+ "baseline_found": 0,
+ "exact_text": 29,
+ "multiplier_right": 35,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k19",
+   "text": "MINOR DIA .2113-.2190",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    2666,
+    2235,
+    3057,
+    2268
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "TAP .250-28UNF-3B",
+   "kind": "thread",
+   "multiplier": 3,
+   "box": [
+    2666,
+    2272,
+    3034,
+    2307
+   ]
+  },
+  {
+   "key": "k33",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2424,
+    2620,
+    2507,
+    2688
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M10008 & LDW270M10007 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    3865,
+    2945,
+    4844,
+    2982
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.152 / 1.142 DIA",
+   "box": [
+    2633,
+    2682,
+    2824,
+    2728
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    3553,
+    2320,
+    4092,
+    2349
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 14.837512969970703,
+  "read": 35.406774044036865,
+  "audit": 131.03922986984253,
+  "total": 181.51564383506775
+ }
+}

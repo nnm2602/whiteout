@@ -1,0 +1,260 @@
+{
+ "id": "nist_d2mi_905",
+ "page": 1,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-905.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": "1. MATERIAL: ALUMINUM, ROUND, 6061-T6, IN ACCORDANCE WITH ASTM B211.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    94,
+    1270,
+    120
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "2. FINISH: CHROMATE CONVERSION COATING IN ACCORDANCE WITH MIL-DTL-5541, CLASS 1A, TYPE II.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    140,
+    1622,
+    167
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "3. SPACE OR USAGE PRECLUDES IDENTIFICATION MARKING, MARK CONTAINER OR TAG IN ACCORDANCE WITH MIL-STD-130.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    184,
+    1580,
+    232
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "5. UNLESS OTHERWISE SPECIFIED, DIMENSIONS AND TOLERANCES ARE EXPRESSED IN INCHES AND SHALL BE INTERPRETED IN ACCORDANCE WITH ASME Y14.5-2009.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    297,
+    1678,
+    345
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "6 DRILL POINT OPTIONAL, BREAKTHROUGH PROHIBITED.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    135,
+    365,
+    955,
+    412
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "⌀.164 - .167",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1095,
+    1063,
+    1305,
+    1091
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "⌖|⌀.002|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1091,
+    1101,
+    1317,
+    1135
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "⌀.214 - .224",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    997,
+    1290,
+    1205,
+    1318
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "⌭|.005|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1018,
+    1330,
+    1180,
+    1364
+   ]
+  },
+  {
+   "key": "k10",
+   "text": ".085",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1503,
+    751,
+    1587,
+    785
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".910",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2141,
+    751,
+    2223,
+    785
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".075 ±.015",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1862,
+    850,
+    2025,
+    879
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "R.005 MAX",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    1430,
+    922,
+    1578,
+    951
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "⌀.139 - .142",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1392,
+    1061,
+    1601,
+    1090
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "⌖|⌀.002|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1386,
+    1101,
+    1612,
+    1135
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "⌰|.002|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1726,
+    1358,
+    1904,
+    1392
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "⌓|.010|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1451,
+    1401,
+    1645,
+    1435
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "⌀.156 - .166",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2795,
+    1062,
+    3005,
+    1091
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "⌖|⌀.008|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    2790,
+    1101,
+    3014,
+    1135
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "⌓|.006|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    2636,
+    1320,
+    2829,
+    1355
+   ]
+  }
+ ],
+ "doubts": [
+  "Note 4 (INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY) left out as it imposes nothing; no parenthesized dimensions appear on the sheet",
+  "k4: note 5 is units plus ASME Y14.5-2009 interpretation; kept as a note because it names the governing standard, could be read as imposing nothing",
+  "k5: flag note 6 (hexagon flag) applies to the ⌀.156 - .166 bore",
+  "k9: cylindricity frame printed with a datum A reference cell (as printed, nonstandard); datum feature A is also attached below it",
+  "k16: runout frame drawn with two arrows, read as total runout (⌰); no ⌀ in the tolerance cell here",
+  "k6, k8, k14, k18: diameter limit dimensions given kind dimension; k18 could be hole_callout since it is the drilled bore of note 6",
+  "No UNLESS OTHERWISE SPECIFIED tolerance block in the title block; every size is toleranced, limit, or basic"
+ ]
+}

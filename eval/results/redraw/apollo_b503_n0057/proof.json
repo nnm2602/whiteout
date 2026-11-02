@@ -1,0 +1,398 @@
+[
+ {
+  "box": [
+   4668,
+   968,
+   5053,
+   993
+  ],
+  "kind": "added",
+  "redraw": "MANUFACTURING OPERATIONS",
+  "scan": ""
+ },
+ {
+  "box": [
+   1505,
+   1101,
+   1695,
+   1153
+  ],
+  "kind": "wrong text",
+  "redraw": "1 2000",
+  "scan": "1.2000"
+ },
+ {
+  "box": [
+   4659,
+   1146,
+   5005,
+   1249
+  ],
+  "kind": "missing",
+  "redraw": "ELECTRO ETCH PART NUMBER IN REGION MARKED USE BOTH SIDES IF NECESSARY.",
+  "scan": "ELECTRO ETCH PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED [symbol] USE BOTH SIDES IF NECESSARY."
+ },
+ {
+  "box": [
+   1505,
+   1375,
+   1695,
+   1417
+  ],
+  "kind": "wrong text",
+  "redraw": "1 2120",
+  "scan": "1.2120"
+ },
+ {
+  "box": [
+   1505,
+   1599,
+   1695,
+   1643
+  ],
+  "kind": "wrong text",
+  "redraw": "1 2220",
+  "scan": "1.2220"
+ },
+ {
+  "box": [
+   1276,
+   1688,
+   1493,
+   1740
+  ],
+  "kind": "wrong text",
+  "redraw": "-27 -29",
+  "scan": "-27"
+ },
+ {
+  "box": [
+   1505,
+   1688,
+   1695,
+   1735
+  ],
+  "kind": "wrong text",
+  "redraw": "1.2260",
+  "scan": "1.2260"
+ },
+ {
+  "box": [
+   1276,
+   1739,
+   1493,
+   1780
+  ],
+  "kind": "wrong text",
+  "redraw": "-31",
+  "scan": "-29"
+ },
+ {
+  "box": [
+   1509,
+   1742,
+   1704,
+   1789
+  ],
+  "kind": "moved",
+  "redraw": "1.2280",
+  "scan": "1.2300"
+ },
+ {
+  "box": [
+   4650,
+   1749,
+   5014,
+   1933
+  ],
+  "kind": "wrong text",
+  "redraw": "DIAMETERS MARKED . MUST BE CONCENTFULL INDICATOR READING",
+  "scan": "DIAMETERS MARKED [centerline symbol] MUST BE CONCENTRIC WITHIN .002 FULL INDICATOR READING"
+ },
+ {
+  "box": [
+   1276,
+   1782,
+   1493,
+   1825
+  ],
+  "kind": "wrong text",
+  "redraw": "31",
+  "scan": "-31"
+ },
+ {
+  "box": [
+   1505,
+   1782,
+   1695,
+   1826
+  ],
+  "kind": "wrong text",
+  "redraw": "1 2300",
+  "scan": "1.2300"
+ },
+ {
+  "box": [
+   5004,
+   1786,
+   5053,
+   1939
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "\u2713"
+ },
+ {
+  "box": [
+   1505,
+   1870,
+   1695,
+   1912
+  ],
+  "kind": "wrong text",
+  "redraw": "1 2340",
+  "scan": "1.2340"
+ },
+ {
+  "box": [
+   1505,
+   1913,
+   1695,
+   1956
+  ],
+  "kind": "wrong text",
+  "redraw": "1.2340",
+  "scan": "1.2360"
+ },
+ {
+  "box": [
+   2281,
+   1918,
+   2698,
+   1965
+  ],
+  "kind": "wrong text",
+  "redraw": "CHAMFER .156x45\u00b0(3))",
+  "scan": "CHAMFER .156x45\u00b0(3)"
+ },
+ {
+  "box": [
+   3399,
+   1935,
+   3821,
+   1998
+  ],
+  "kind": "wrong text",
+  "redraw": "-2.750 DIA CL (BASIC)",
+  "scan": "-2.750 DIA [centerline symbol] (BASIC)"
+ },
+ {
+  "box": [
+   1500,
+   1936,
+   1704,
+   1980
+  ],
+  "kind": "wrong text",
+  "redraw": "1.2340",
+  "scan": "1.2360"
+ },
+ {
+  "box": [
+   1505,
+   2006,
+   1695,
+   2049
+  ],
+  "kind": "wrong text",
+  "redraw": "1 2400",
+  "scan": "1.2400"
+ },
+ {
+  "box": [
+   2400,
+   2141,
+   2524,
+   2340
+  ],
+  "kind": "wrong text",
+  "redraw": "garbled - illegible, not 2.100",
+  "scan": "2.100"
+ },
+ {
+  "box": [
+   2405,
+   2183,
+   2503,
+   2235
+  ],
+  "kind": "wrong text",
+  "redraw": "2 100",
+  "scan": "2.100"
+ },
+ {
+  "box": [
+   4649,
+   2202,
+   4718,
+   2282
+  ],
+  "kind": "wrong text",
+  "redraw": "25",
+  "scan": "125"
+ },
+ {
+  "box": [
+   1500,
+   2288,
+   1704,
+   2333
+  ],
+  "kind": "moved",
+  "redraw": "1.2610",
+  "scan": "1.2580"
+ },
+ {
+  "box": [
+   2432,
+   2294,
+   2467,
+   2323
+  ],
+  "kind": "added",
+  "redraw": "2100",
+  "scan": ""
+ },
+ {
+  "box": [
+   1500,
+   2335,
+   1704,
+   2376
+  ],
+  "kind": "wrong text",
+  "redraw": "1 2610",
+  "scan": "1.2610"
+ },
+ {
+  "box": [
+   1500,
+   2376,
+   1704,
+   2417
+  ],
+  "kind": "wrong text",
+  "redraw": "1 ?640",
+  "scan": "1.2640"
+ },
+ {
+  "box": [
+   1961,
+   2406,
+   2254,
+   2447
+  ],
+  "kind": "added",
+  "redraw": "ELECTRO CTRU",
+  "scan": ""
+ },
+ {
+  "box": [
+   1509,
+   2417,
+   1704,
+   2459
+  ],
+  "kind": "moved",
+  "redraw": "1.2700",
+  "scan": "1.2670"
+ },
+ {
+  "box": [
+   1482,
+   2450,
+   1722,
+   2503
+  ],
+  "kind": "wrong text",
+  "redraw": "1 27\u221e",
+  "scan": "1.2700"
+ },
+ {
+  "box": [
+   2334,
+   2450,
+   2450,
+   2488
+  ],
+  "kind": "added",
+  "redraw": "VEX",
+  "scan": ""
+ },
+ {
+  "box": [
+   4657,
+   2516,
+   4975,
+   2547
+  ],
+  "kind": "missing",
+  "redraw": "SYMBOL DENOTES SURFACE",
+  "scan": "SYMBOL [machined-surface symbol] DENOTES SURFACE"
+ },
+ {
+  "box": [
+   2920,
+   2521,
+   3113,
+   2602
+  ],
+  "kind": "missing",
+  "redraw": "1.670",
+  "scan": "1.671\n1.670"
+ },
+ {
+  "box": [
+   3222,
+   2544,
+   3443,
+   2608
+  ],
+  "kind": "wrong text",
+  "redraw": "A DIA CL",
+  "scan": "A DIA [centerline symbol]"
+ },
+ {
+  "box": [
+   4677,
+   2580,
+   4840,
+   2611
+  ],
+  "kind": "added",
+  "redraw": "o ~",
+  "scan": ""
+ },
+ {
+  "box": [
+   4668,
+   2620,
+   4837,
+   2650
+  ],
+  "kind": "added",
+  "redraw": "o ~ ~",
+  "scan": ""
+ },
+ {
+  "box": [
+   4436,
+   3504,
+   4588,
+   3534
+  ],
+  "kind": "missing",
+  "redraw": "FULL",
+  "scan": "SCALE FULL"
+ }
+]

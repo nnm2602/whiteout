@@ -1,0 +1,834 @@
+{
+ "source": "data/raw/nist_ctc/nist_ctc_05_asme1_rd.pdf",
+ "passes": 0,
+ "sheets": [
+  {
+   "info": {
+    "index": 0,
+    "width": 2200,
+    "height": 1700,
+    "dpi": 200.0,
+    "part_number": "",
+    "part_name": "",
+    "drawing_number": "",
+    "revision": "",
+    "units": "in",
+    "material": "",
+    "finish": "",
+    "general_tolerances": [],
+    "zone_columns": [],
+    "zone_rows": [],
+    "border_box": [
+     97,
+     117,
+     2125,
+     1678
+    ],
+    "title_block_box": null,
+    "has_text_layer": true
+   },
+   "chars": [
+    {
+     "id": "s0c0",
+     "number": "3",
+     "kind": "dimension",
+     "text": "5.000 \u00b1.008 ST",
+     "multiplier": 1,
+     "box": [
+      720,
+      692,
+      885,
+      796
+     ],
+     "raw_box": [
+      692,
+      689,
+      848,
+      765
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "5.000 \u00b1.008 ST",
+       "nominal": 5.0,
+       "lower": 4.992,
+       "upper": 5.008,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      692,
+      744
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c1",
+     "number": "1",
+     "kind": "gdt_frame",
+     "text": "\u2197 .025 A-B",
+     "multiplier": 1,
+     "box": [
+      1022,
+      254,
+      1098,
+      307
+     ],
+     "raw_box": [
+      981,
+      226,
+      1114,
+      308
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2197 .025 A-B",
+       "nominal": 0.025,
+       "lower": 0.0,
+       "upper": 0.025,
+       "unit": "",
+       "gdt_symbol": "circular runout",
+       "datums": [
+        "A-B"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1060,
+      226
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c2",
+     "number": "4",
+     "kind": "gdt_frame",
+     "text": "\u25ce \u00d8.030 A",
+     "multiplier": 1,
+     "box": [
+      1520,
+      505,
+      1602,
+      566
+     ],
+     "raw_box": [
+      1513,
+      490,
+      1637,
+      588
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u25ce \u00d8.030 A",
+       "nominal": 0.03,
+       "lower": 0.0,
+       "upper": 0.03,
+       "unit": "",
+       "gdt_symbol": "concentricity",
+       "datums": [
+        "A"
+       ],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1561,
+      477
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c3",
+     "number": "9",
+     "kind": "gdt_frame",
+     "text": "\u2197 .035 A-B",
+     "multiplier": 1,
+     "box": [
+      1083,
+      1267,
+      1191,
+      1346
+     ],
+     "raw_box": [
+      1083,
+      1238,
+      1248,
+      1351
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2197 .035 A-B",
+       "nominal": 0.035,
+       "lower": 0.0,
+       "upper": 0.035,
+       "unit": "",
+       "gdt_symbol": "total runout",
+       "datums": [
+        "A-B"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1055,
+      1306
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c4",
+     "number": "11",
+     "kind": "gdt_frame",
+     "text": "\u2197 .025 A-B",
+     "multiplier": 1,
+     "box": [
+      1644,
+      1256,
+      1811,
+      1376
+     ],
+     "raw_box": [
+      1644,
+      1256,
+      1811,
+      1376
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2197 .025 A-B",
+       "nominal": 0.025,
+       "lower": 0.0,
+       "upper": 0.025,
+       "unit": "",
+       "gdt_symbol": "total runout",
+       "datums": [
+        "A-B"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1727,
+      1228
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c5",
+     "number": "7",
+     "kind": "basic_dimension",
+     "text": "2.000",
+     "multiplier": 1,
+     "box": [
+      1700,
+      993,
+      1744,
+      1031
+     ],
+     "raw_box": [
+      1682,
+      986,
+      1728,
+      1067
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "basic",
+       "label": "",
+       "text": "2.000",
+       "nominal": 2.0,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1772,
+      965
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c6",
+     "number": "6",
+     "kind": "basic_dimension",
+     "text": "1.250",
+     "multiplier": 1,
+     "box": [
+      1652,
+      1084,
+      1722,
+      1122
+     ],
+     "raw_box": [
+      1644,
+      1089,
+      1699,
+      1171
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "basic",
+       "label": "",
+       "text": "1.250",
+       "nominal": 1.25,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1750,
+      1103
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c7",
+     "number": "10",
+     "kind": "gdt_frame",
+     "text": "\u22a5 .010 C",
+     "multiplier": 1,
+     "box": [
+      1588,
+      1339,
+      1747,
+      1417
+     ],
+     "raw_box": [
+      1588,
+      1339,
+      1747,
+      1417
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u22a5 .010 C",
+       "nominal": 0.01,
+       "lower": 0.0,
+       "upper": 0.01,
+       "unit": "",
+       "gdt_symbol": "perpendicularity",
+       "datums": [
+        "C"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1560,
+      1378
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c8",
+     "number": "8",
+     "kind": "gdt_frame",
+     "text": "\u25cb .002",
+     "multiplier": 1,
+     "box": [
+      871,
+      1275,
+      937,
+      1328
+     ],
+     "raw_box": [
+      840,
+      1237,
+      978,
+      1345
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u25cb .002",
+       "nominal": 0.002,
+       "lower": 0.0,
+       "upper": 0.002,
+       "unit": "",
+       "gdt_symbol": "circularity",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      904,
+      1247
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c9",
+     "number": "5",
+     "kind": "gdt_frame",
+     "text": "\u2014 .005",
+     "multiplier": 1,
+     "box": [
+      731,
+      862,
+      873,
+      959
+     ],
+     "raw_box": [
+      731,
+      862,
+      873,
+      959
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2014 .005",
+       "nominal": 0.005,
+       "lower": 0.0,
+       "upper": 0.005,
+       "unit": "",
+       "gdt_symbol": "flatness",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      703,
+      910
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c10",
+     "number": "2",
+     "kind": "gdt_frame",
+     "text": "\u22a5 .010 D",
+     "multiplier": 1,
+     "box": [
+      700,
+      616,
+      837,
+      676
+     ],
+     "raw_box": [
+      700,
+      616,
+      837,
+      676
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u22a5 .010 D",
+       "nominal": 0.01,
+       "lower": 0.0,
+       "upper": 0.01,
+       "unit": "",
+       "gdt_symbol": "perpendicularity",
+       "datums": [
+        "D"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      672,
+      646
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    }
+   ]
+  },
+  {
+   "info": {
+    "index": 1,
+    "width": 2200,
+    "height": 1700,
+    "dpi": 200.0,
+    "part_number": "",
+    "part_name": "",
+    "drawing_number": "",
+    "revision": "D",
+    "units": "in",
+    "material": "",
+    "finish": "",
+    "general_tolerances": [],
+    "zone_columns": [],
+    "zone_rows": [],
+    "border_box": [
+     97,
+     121,
+     2136,
+     1647
+    ],
+    "title_block_box": [
+     794,
+     1552,
+     2112,
+     1640
+    ],
+    "has_text_layer": true
+   },
+   "chars": [
+    {
+     "id": "s1c0",
+     "number": "2",
+     "kind": "dimension",
+     "text": "\u00d810.000 \u00b1.001",
+     "multiplier": 1,
+     "box": [
+      573,
+      1033,
+      689,
+      1115
+     ],
+     "raw_box": [
+      561,
+      1028,
+      710,
+      1117
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "\u00d810.000 \u00b1.001",
+       "nominal": 10.0,
+       "lower": 9.999,
+       "upper": 10.001,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      545,
+      1074
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s1c1",
+     "number": "1",
+     "kind": "gdt_frame",
+     "text": ".015 B",
+     "multiplier": 1,
+     "box": [
+      593,
+      688,
+      696,
+      765
+     ],
+     "raw_box": [
+      572,
+      666,
+      710,
+      767
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": ".015 B",
+       "nominal": 0.015,
+       "lower": 0.0,
+       "upper": 0.015,
+       "unit": "",
+       "gdt_symbol": "total runout",
+       "datums": [
+        "B"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      565,
+      660
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s1c2",
+     "number": "4",
+     "kind": "basic_dimension",
+     "text": "1.250",
+     "multiplier": 1,
+     "box": [
+      1526,
+      996,
+      1569,
+      1032
+     ],
+     "raw_box": [
+      1543,
+      976,
+      1605,
+      1030
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "basic",
+       "label": "",
+       "text": "1.250",
+       "nominal": 1.25,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1597,
+      1014
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s1c3",
+     "number": "3",
+     "kind": "gdt_frame",
+     "text": "\u2197 .002 A",
+     "multiplier": 1,
+     "box": [
+      659,
+      902,
+      763,
+      978
+     ],
+     "raw_box": [
+      625,
+      887,
+      802,
+      987
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2197 .002 A",
+       "nominal": 0.002,
+       "lower": 0.0,
+       "upper": 0.002,
+       "unit": "",
+       "gdt_symbol": "total runout",
+       "datums": [
+        "A"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      711,
+      874
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s1c4",
+     "number": "5",
+     "kind": "basic_dimension",
+     "text": "2.000",
+     "multiplier": 1,
+     "box": [
+      1547,
+      903,
+      1591,
+      942
+     ],
+     "raw_box": [
+      1565,
+      887,
+      1630,
+      944
+     ],
+     "sheet": 1,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "basic",
+       "label": "",
+       "text": "2.000",
+       "nominal": 2.0,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1619,
+      875
+     ],
+     "flags": [],
+     "ignored": false
+    }
+   ]
+  }
+ ],
+ "usage": {
+  "calls": 6,
+  "cached": 6,
+  "usd": 0.096
+ }
+}

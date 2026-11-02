@@ -1,0 +1,402 @@
+{
+ "id": "nist_ftc_10",
+ "page": 2,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_10_asme1_rb.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_10_asme1_rb",
+ "title": "PMI Fully-Toleranced Test Case 10 - View B",
+ "doubts": [
+  "Annotations in views A, B, C are drawn in isometric planes (about 30 degrees); boxes are the axis-aligned box enclosing the rotated text or frame, so boxes of stacked items overlap.",
+  "Frames and depth lines stacked under an nX callout carry that callout's multiplier (same convention as the d2mi hand keys).",
+  "T4 is a two-row profile frame sharing one symbol cell (1.2|A|B|C over 0.2|A); one item per row, symbol repeated. STR1 3 COPLANAR SURFACES keyed as a note with multiplier 3, and T4 rows given multiplier 3 to match.",
+  "D11, D12 (depth ↧35 ±1), D13 and STR3 INDICATED AREA form one stacked callout for the cross-drilled hole; each element keyed separately as the FSI lists them. D13 applies to a limited length shown by STR3.",
+  "D10 and D15 are the counterbore depths under 4X ⌴ callouts (depth symbol written ↧).",
+  "LDN1 (4X R0.2 MAX) and LDN2 (4X R0.15 MAX) are leader-directed notes that state radius limits; keyed as radius items with their LDN ids. LDN3 (F65, a feature label used by STR4) is excluded.",
+  "STR4 AT SURFACE F65, STR5 AT BOTTOM OF COUNTERBORES and STR6 EACH LINE ELEMENT keyed as note items (they change where T19, T20, T24 apply).",
+  "T22 straightness is a per-unit tolerance printed 0.2 / 15, written ⏤|0.2/15.",
+  "T23 and T24 have an all-around circle on the leader (FSI: All Around); not in the frame text.",
+  "Excluded: DF2, DF4, DF9 symbols, RLE1, RLE2, CS1-CS4."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "⌓|1.75|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1251,
+    308,
+    1458,
+    463
+   ],
+   "official_id": "T21"
+  },
+  {
+   "key": "k2",
+   "text": "⏤|0.2/15",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1332,
+    390,
+    1485,
+    513
+   ],
+   "official_id": "T22"
+  },
+  {
+   "key": "k3",
+   "text": "⌓|1.2|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    1484,
+    369,
+    1686,
+    525
+   ],
+   "official_id": "T4"
+  },
+  {
+   "key": "k4",
+   "text": "⌓|0.2|A",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    1497,
+    442,
+    1628,
+    551
+   ],
+   "official_id": "T4"
+  },
+  {
+   "key": "k5",
+   "text": "3 COPLANAR SURFACES",
+   "kind": "note",
+   "multiplier": 3,
+   "box": [
+    1532,
+    454,
+    1693,
+    581
+   ],
+   "official_id": "STR1"
+  },
+  {
+   "key": "k6",
+   "text": "⌀5.5 ±0.2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1603,
+    553,
+    1713,
+    630
+   ],
+   "official_id": "D11"
+  },
+  {
+   "key": "k7",
+   "text": "↧35 ±1",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1618,
+    595,
+    1692,
+    655
+   ],
+   "official_id": "D12"
+  },
+  {
+   "key": "k8",
+   "text": "⌀5.5 ±0.08",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1618,
+    606,
+    1732,
+    691
+   ],
+   "official_id": "D13"
+  },
+  {
+   "key": "k9",
+   "text": "INDICATED AREA",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1618,
+    594,
+    1810,
+    722
+   ],
+   "official_id": "STR3"
+  },
+  {
+   "key": "k10",
+   "text": "⌖|⌀0.8|D|EⓂ-FⓂ-GⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1617,
+    568,
+    1905,
+    773
+   ],
+   "official_id": "T18"
+  },
+  {
+   "key": "k11",
+   "text": "4X ⌴⌀10 ±0.25",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1686,
+    753,
+    1871,
+    865
+   ],
+   "official_id": "D9"
+  },
+  {
+   "key": "k12",
+   "text": "↧2 ±0.15",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    1702,
+    818,
+    1810,
+    881
+   ],
+   "official_id": "D10"
+  },
+  {
+   "key": "k13",
+   "text": "⌖|⌀1Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    1724,
+    768,
+    1965,
+    910
+   ],
+   "official_id": "T17"
+  },
+  {
+   "key": "k14",
+   "text": "4X ⌴⌀10 ±0.25",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    256,
+    581,
+    435,
+    699
+   ],
+   "official_id": "D14"
+  },
+  {
+   "key": "k15",
+   "text": "↧10 ±0.2",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    257,
+    610,
+    353,
+    686
+   ],
+   "official_id": "D15"
+  },
+  {
+   "key": "k16",
+   "text": "⌖|⌀0.8|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    251,
+    637,
+    452,
+    793
+   ],
+   "official_id": "T19"
+  },
+  {
+   "key": "k17",
+   "text": "AT SURFACE F65",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    257,
+    695,
+    449,
+    822
+   ],
+   "official_id": "STR4"
+  },
+  {
+   "key": "k18",
+   "text": "⌖|⌀1.2|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    251,
+    727,
+    452,
+    882
+   ],
+   "official_id": "T20"
+  },
+  {
+   "key": "k19",
+   "text": "AT BOTTOM OF COUNTERBORES",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    257,
+    785,
+    451,
+    943
+   ],
+   "official_id": "STR5"
+  },
+  {
+   "key": "k20",
+   "text": "⊥|0.25|H",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    621,
+    817,
+    787,
+    920
+   ],
+   "official_id": "T24"
+  },
+  {
+   "key": "k21",
+   "text": "EACH LINE ELEMENT",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    573,
+    840,
+    737,
+    927
+   ],
+   "official_id": "STR6"
+  },
+  {
+   "key": "k22",
+   "text": "⌓|1.5|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    505,
+    895,
+    724,
+    1025
+   ],
+   "official_id": "T23"
+  },
+  {
+   "key": "k23",
+   "text": "4X R0.2 MAX",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    1369,
+    1007,
+    1454,
+    1084
+   ],
+   "official_id": "LDN1"
+  },
+  {
+   "key": "k24",
+   "text": "5 ±0.2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    960,
+    1087,
+    1025,
+    1143
+   ],
+   "official_id": "D16"
+  },
+  {
+   "key": "k25",
+   "text": "⌯|0.5|A|J",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    877,
+    1064,
+    1026,
+    1189
+   ],
+   "official_id": "T25"
+  },
+  {
+   "key": "k26",
+   "text": "4X R0.15 MAX",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    1188,
+    1127,
+    1350,
+    1223
+   ],
+   "official_id": "LDN2"
+  },
+  {
+   "key": "k27",
+   "text": "15 ±0.2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1147,
+    1263,
+    1223,
+    1324
+   ],
+   "official_id": "D6"
+  },
+  {
+   "key": "k28",
+   "text": "⌖|1|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1144,
+    1287,
+    1303,
+    1417
+   ],
+   "official_id": "T12"
+  },
+  {
+   "key": "k29",
+   "text": "⊥|0.1|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1144,
+    1327,
+    1273,
+    1439
+   ],
+   "official_id": "T13"
+  }
+ ]
+}

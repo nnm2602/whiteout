@@ -1,0 +1,932 @@
+{
+ "source": "data/raw/nist_ctc/nist_ctc_04_asme1_rd.pdf",
+ "passes": 0,
+ "sheets": [
+  {
+   "info": {
+    "index": 0,
+    "width": 2200,
+    "height": 1700,
+    "dpi": 200.0,
+    "part_number": "",
+    "part_name": "",
+    "drawing_number": "",
+    "revision": "",
+    "units": "in",
+    "material": "",
+    "finish": "",
+    "general_tolerances": [],
+    "zone_columns": [],
+    "zone_rows": [],
+    "border_box": [
+     97,
+     122,
+     2103,
+     1680
+    ],
+    "title_block_box": null,
+    "has_text_layer": true
+   },
+   "chars": [
+    {
+     "id": "s0c0",
+     "number": "10",
+     "kind": "thread",
+     "text": "4X M12 x 1.75 - 6H \u21a7 25 \u00b10.25",
+     "multiplier": 4,
+     "box": [
+      1624,
+      466,
+      1901,
+      641
+     ],
+     "raw_box": [
+      1623,
+      465,
+      1953,
+      615
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "thread",
+       "label": "",
+       "text": "4X M12 x 1.75 - 6H \u21a7 25 \u00b10.25",
+       "nominal": null,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": true,
+       "tolerance_source": "none",
+       "flags": []
+      },
+      {
+       "type": "depth",
+       "label": "",
+       "text": "4X M12 x 1.75 - 6H \u21a7 25 \u00b10.25",
+       "nominal": 25.0,
+       "lower": 24.75,
+       "upper": 25.25,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1596,
+      553
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c1",
+     "number": "17",
+     "kind": "hole_callout",
+     "text": "30X \u2228 \u00d820 \u00b10.3 X 90\u00b0 \u00b11\u00b0",
+     "multiplier": 30,
+     "box": [
+      1778,
+      1049,
+      2047,
+      1213
+     ],
+     "raw_box": [
+      1721,
+      1063,
+      2063,
+      1245
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "\u00d820 \u00b10.3",
+       "nominal": 20.0,
+       "lower": 19.7,
+       "upper": 20.3,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      },
+      {
+       "type": "angle",
+       "label": "",
+       "text": "90\u00b0 \u00b11\u00b0",
+       "nominal": 90.0,
+       "lower": 89.0,
+       "upper": 91.0,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "model",
+       "flags": [
+        "limits from the model, not printed: check"
+       ]
+      }
+     ],
+     "balloon_xy": [
+      2075,
+      1021
+     ],
+     "flags": [
+      "limits from the model, not printed: check"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c2",
+     "number": "6",
+     "kind": "hole_callout",
+     "text": "6X \u00d86.65 \u00b10.12",
+     "multiplier": 6,
+     "box": [
+      1236,
+      442,
+      1433,
+      511
+     ],
+     "raw_box": [
+      1236,
+      442,
+      1433,
+      511
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "6X \u00d86.65 \u00b10.12",
+       "nominal": 6.65,
+       "lower": 6.53,
+       "upper": 6.7700000000000005,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1208,
+      476
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c3",
+     "number": "15",
+     "kind": "gdt_frame",
+     "text": "\u2313 0.5 A B C",
+     "multiplier": 1,
+     "box": [
+      504,
+      1110,
+      558,
+      1153
+     ],
+     "raw_box": [
+      433,
+      1020,
+      628,
+      1105
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2313 0.5 A B C",
+       "nominal": 0.5,
+       "lower": 0.0,
+       "upper": 0.5,
+       "unit": "",
+       "gdt_symbol": "profile of a surface",
+       "datums": [
+        "A",
+        "B",
+        "C"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      476,
+      1082
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c4",
+     "number": "4",
+     "kind": "basic_dimension",
+     "text": "\u00d810",
+     "multiplier": 1,
+     "box": [
+      546,
+      408,
+      582,
+      441
+     ],
+     "raw_box": [
+      538,
+      417,
+      598,
+      463
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "basic",
+       "label": "",
+       "text": "\u00d810",
+       "nominal": 10.0,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      518,
+      469
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c5",
+     "number": "16",
+     "kind": "basic_dimension",
+     "text": "75",
+     "multiplier": 1,
+     "box": [
+      759,
+      1270,
+      790,
+      1289
+     ],
+     "raw_box": [
+      710,
+      1235,
+      776,
+      1286
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "basic",
+       "label": "",
+       "text": "75",
+       "nominal": 75.0,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      818,
+      1242
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c6",
+     "number": "14",
+     "kind": "gdt_frame",
+     "text": "\u2295 \u00d80.35 A B C",
+     "multiplier": 1,
+     "box": [
+      201,
+      893,
+      438,
+      1004
+     ],
+     "raw_box": [
+      201,
+      893,
+      438,
+      1004
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2295 \u00d80.35 A B C",
+       "nominal": 0.35,
+       "lower": 0.0,
+       "upper": 0.35,
+       "unit": "",
+       "gdt_symbol": "position",
+       "datums": [
+        "A",
+        "B",
+        "C"
+       ],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      173,
+      948
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c7",
+     "number": "8",
+     "kind": "gdt_frame",
+     "text": "\u2295 \u00d81.5 D E F",
+     "multiplier": 6,
+     "box": [
+      1267,
+      490,
+      1418,
+      558
+     ],
+     "raw_box": [
+      1267,
+      490,
+      1418,
+      558
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2295 \u00d81.5 D E F",
+       "nominal": 1.5,
+       "lower": 0.0,
+       "upper": 1.5,
+       "unit": "",
+       "gdt_symbol": "position",
+       "datums": [
+        "D",
+        "E",
+        "F"
+       ],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1446,
+      586
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c8",
+     "number": "9",
+     "kind": "gdt_frame",
+     "text": "\u2295 \u00d80.3 D E",
+     "multiplier": 6,
+     "box": [
+      1298,
+      506,
+      1396,
+      554
+     ],
+     "raw_box": [
+      1289,
+      524,
+      1422,
+      589
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2295 \u00d80.3 D E",
+       "nominal": 0.3,
+       "lower": 0.0,
+       "upper": 0.3,
+       "unit": "",
+       "gdt_symbol": "position",
+       "datums": [
+        "D",
+        "E"
+       ],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1270,
+      582
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c9",
+     "number": "7",
+     "kind": "hole_callout",
+     "text": "6X \u00d86.65 +0.12",
+     "multiplier": 6,
+     "box": [
+      1248,
+      462,
+      1375,
+      533
+     ],
+     "raw_box": [
+      1225,
+      461,
+      1438,
+      528
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "6X \u00d86.65 +0.12",
+       "nominal": 6.65,
+       "lower": 6.65,
+       "upper": 6.77,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "model",
+       "flags": [
+        "limits from the model, not printed: check"
+       ]
+      }
+     ],
+     "balloon_xy": [
+      1311,
+      400
+     ],
+     "flags": [
+      "limits from the model, not printed: check"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c10",
+     "number": "13",
+     "kind": "hole_callout",
+     "text": "30X \u00d814 \u00b10.1",
+     "multiplier": 30,
+     "box": [
+      1895,
+      747,
+      2048,
+      845
+     ],
+     "raw_box": [
+      1815,
+      751,
+      2035,
+      873
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "30X \u00d814 \u00b10.1",
+       "nominal": 14.0,
+       "lower": 13.9,
+       "upper": 14.1,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1971,
+      719
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c11",
+     "number": "11",
+     "kind": "hole_callout",
+     "text": "4X \u2334 \u00d820 \u00b10.2 \u21a7 20 \u00b10.2",
+     "multiplier": 4,
+     "box": [
+      1639,
+      563,
+      1813,
+      679
+     ],
+     "raw_box": [
+      1724,
+      614,
+      1982,
+      767
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "high",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "size",
+       "label": "",
+       "text": "\u00d820 \u00b10.2",
+       "nominal": 20.0,
+       "lower": 19.8,
+       "upper": 20.2,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [
+        "diameter"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      },
+      {
+       "type": "depth",
+       "label": "",
+       "text": "\u21a7 20 \u00b10.2",
+       "nominal": 20.0,
+       "lower": 19.8,
+       "upper": 20.2,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1611,
+      707
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c12",
+     "number": "12",
+     "kind": "gdt_frame",
+     "text": "\u2316 \u00d80.75\u24c5 50 A B C",
+     "multiplier": 4,
+     "box": [
+      1664,
+      613,
+      1945,
+      793
+     ],
+     "raw_box": [
+      1632,
+      565,
+      1884,
+      705
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "low",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2316 \u00d80.75\u24c5 50 A B C",
+       "nominal": 0.75,
+       "lower": 0.0,
+       "upper": 0.75,
+       "unit": "",
+       "gdt_symbol": "position",
+       "datums": [
+        "A",
+        "B",
+        "C"
+       ],
+       "modifiers": [
+        "diameter",
+        "projected"
+       ],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      1973,
+      585
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c13",
+     "number": "1",
+     "kind": "gdt_frame",
+     "text": "\u2312 2 D G H",
+     "multiplier": 2,
+     "box": [
+      531,
+      334,
+      656,
+      420
+     ],
+     "raw_box": [
+      538,
+      277,
+      706,
+      367
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "low",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2312 2 D G H",
+       "nominal": 2.0,
+       "lower": 0.0,
+       "upper": 2.0,
+       "unit": "",
+       "gdt_symbol": "profile of a surface",
+       "datums": [
+        "D",
+        "G",
+        "H"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      503,
+      377
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c14",
+     "number": "2",
+     "kind": "gdt_frame",
+     "text": "\u2312 0.2 D",
+     "multiplier": 2,
+     "box": [
+      540,
+      324,
+      641,
+      373
+     ],
+     "raw_box": [
+      556,
+      335,
+      644,
+      391
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "low",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u2312 0.2 D",
+       "nominal": 0.2,
+       "lower": 0.0,
+       "upper": 0.2,
+       "unit": "",
+       "gdt_symbol": "profile of a surface",
+       "datums": [
+        "D"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      512,
+      296
+     ],
+     "flags": [],
+     "ignored": false
+    },
+    {
+     "id": "s0c15",
+     "number": "5",
+     "kind": "surface_finish",
+     "text": "C",
+     "multiplier": 1,
+     "box": [
+      756,
+      370,
+      863,
+      437
+     ],
+     "raw_box": [
+      756,
+      370,
+      863,
+      437
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "low",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "surface_finish",
+       "label": "",
+       "text": "C",
+       "nominal": null,
+       "lower": null,
+       "upper": null,
+       "unit": "",
+       "gdt_symbol": "",
+       "datums": [],
+       "modifiers": [],
+       "attribute": true,
+       "tolerance_source": "none",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      728,
+      342
+     ],
+     "flags": [
+      "box not matched to ink"
+     ],
+     "ignored": false
+    },
+    {
+     "id": "s0c16",
+     "number": "3",
+     "kind": "gdt_frame",
+     "text": "\u23d3 2 D G H",
+     "multiplier": 2,
+     "box": [
+      545,
+      292,
+      678,
+      363
+     ],
+     "raw_box": [
+      553,
+      250,
+      771,
+      329
+     ],
+     "sheet": 0,
+     "zone": "",
+     "confidence": "low",
+     "found_in": "read",
+     "requirements": [
+      {
+       "type": "gdt",
+       "label": "",
+       "text": "\u23d3 2 D G H",
+       "nominal": 2.0,
+       "lower": 0.0,
+       "upper": 2.0,
+       "unit": "",
+       "gdt_symbol": "profile of a surface",
+       "datums": [
+        "D",
+        "G",
+        "H"
+       ],
+       "modifiers": [],
+       "attribute": false,
+       "tolerance_source": "printed",
+       "flags": []
+      }
+     ],
+     "balloon_xy": [
+      611,
+      264
+     ],
+     "flags": [],
+     "ignored": false
+    }
+   ]
+  }
+ ],
+ "usage": {
+  "calls": 0,
+  "cached": 5,
+  "usd": 0.0
+ }
+}

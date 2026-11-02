@@ -1,0 +1,301 @@
+{
+ "key": "apollo_b503_n0024__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 57,
+ "found": 76,
+ "first_read_hits": 44,
+ "final_hits": 45,
+ "baseline_hits": 10,
+ "baseline_found": 23,
+ "exact_text": 40,
+ "multiplier_right": 40,
+ "audit_added": 1,
+ "audit_added_correct": 1,
+ "missed": [
+  {
+   "key": "k4",
+   "text": ".5728",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    1900,
+    2028,
+    1940
+   ],
+   "table": true
+  },
+  {
+   "key": "k5",
+   "text": ".5732",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    1947,
+    2028,
+    1987
+   ],
+   "table": true
+  },
+  {
+   "key": "k22",
+   "text": ".6491",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2705,
+    2028,
+    2745
+   ],
+   "table": true
+  },
+  {
+   "key": "k24",
+   "text": ".6507",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2795,
+    2028,
+    2835
+   ],
+   "table": true
+  },
+  {
+   "key": "k25",
+   "text": ".6515",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2840,
+    2028,
+    2880
+   ],
+   "table": true
+  },
+  {
+   "key": "k26",
+   "text": ".6523",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2885,
+    2028,
+    2925
+   ],
+   "table": true
+  },
+  {
+   "key": "k27",
+   "text": ".6531",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2930,
+    2028,
+    2970
+   ],
+   "table": true
+  },
+  {
+   "key": "k28",
+   "text": ".6539",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2975,
+    2028,
+    3015
+   ],
+   "table": true
+  },
+  {
+   "key": "k29",
+   "text": ".6547",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    3020,
+    2028,
+    3060
+   ],
+   "table": true
+  },
+  {
+   "key": "k30",
+   "text": ".6555",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    3062,
+    2028,
+    3102
+   ],
+   "table": true
+  },
+  {
+   "key": "k31",
+   "text": ".6563",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    3112,
+    2028,
+    3152
+   ],
+   "table": true
+  },
+  {
+   "key": "k34",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2998,
+    1318,
+    3072,
+    1378
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "NOTES:",
+   "box": [
+    4198,
+    2845,
+    4387,
+    2930
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2. TOOLING FOR THIS PART IS SIMILAR TO LDW270M10015.",
+   "box": [
+    4278,
+    3038,
+    4895,
+    3072
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "LDW270M10007- 33 .5720",
+   "box": [
+    1404,
+    1751,
+    2044,
+    1798
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 37 .5728",
+   "box": [
+    1423,
+    1820,
+    1708,
+    1848
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA \u00b1.0001 1.1520",
+   "box": [
+    1404,
+    987,
+    2044,
+    1081
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".032",
+   "box": [
+    2861,
+    1255,
+    2957,
+    1286
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA \u23c0",
+   "box": [
+    2724,
+    2108,
+    2933,
+    2158
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    3062,
+    3266,
+    3612,
+    3295
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 73 .6491",
+   "box": [
+    1582,
+    2733,
+    1999,
+    2780
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M1000 & LDW270M10009 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    4285,
+    2932,
+    5278,
+    2964
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "LDW270M1007",
+   "box": [
+    3427,
+    974,
+    3805,
+    1016
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 51.391209840774536,
+  "read": 1376.9097509384155,
+  "audit": 2321.270766019821,
+  "total": 3749.8311507701874
+ }
+}

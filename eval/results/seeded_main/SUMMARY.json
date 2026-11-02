@@ -1,0 +1,166 @@
+{
+ "sheets": 12,
+ "planted": 144,
+ "first_read": 137,
+ "first_read_rate": 0.9513888888888888,
+ "first_read_ci95": [
+  0.9030631737106544,
+  0.9762563141736759
+ ],
+ "after_whiteout": 137,
+ "after_whiteout_rate": 0.9513888888888888,
+ "after_whiteout_ci95": [
+  0.9030631737106544,
+  0.9762563141736759
+ ],
+ "caught_by_whiteout": 0,
+ "still_missed": [
+  {
+   "sheet": "00_827-9999-903 rev c_p1",
+   "text": "4X #10-32 UNF-2B",
+   "kind": "thread",
+   "condition": "rotated",
+   "box": [
+    1995,
+    398,
+    2010,
+    586
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  },
+  {
+   "sheet": "00_827-9999-903 rev c_p1",
+   "text": "1.500 +/-.005",
+   "kind": "dimension",
+   "condition": "faint",
+   "box": [
+    1400,
+    912,
+    1536,
+    931
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  },
+  {
+   "sheet": "02_827-9999-906_p2",
+   "text": "30 DEG",
+   "kind": "angle",
+   "condition": "faint",
+   "box": [
+    2877,
+    1733,
+    2968,
+    1752
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  },
+  {
+   "sheet": "02_827-9999-906_p2",
+   "text": "1.250",
+   "kind": "dimension",
+   "condition": "rotated",
+   "box": [
+    596,
+    304,
+    615,
+    376
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  },
+  {
+   "sheet": "03_827-9999-907_p1",
+   "text": "R.250 MAX",
+   "kind": "radius",
+   "condition": "faint",
+   "box": [
+    1143,
+    1534,
+    1247,
+    1549
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  },
+  {
+   "sheet": "04_apollo_b503_n0024_p1",
+   "text": ".625",
+   "kind": "dimension",
+   "condition": "on_line",
+   "box": [
+    4679,
+    1002,
+    4731,
+    1020
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  },
+  {
+   "sheet": "06_apollo_b503_n0178_p1",
+   "text": "R.125",
+   "kind": "radius",
+   "condition": "rotated",
+   "box": [
+    2748,
+    3808,
+    2763,
+    3863
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  }
+ ],
+ "by_condition": {
+  "faint": {
+   "n": 24,
+   "first_read": 21,
+   "after_whiteout": 21
+  },
+  "on_line": {
+   "n": 24,
+   "first_read": 23,
+   "after_whiteout": 23
+  },
+  "plain": {
+   "n": 24,
+   "first_read": 24,
+   "after_whiteout": 24
+  },
+  "rotated": {
+   "n": 24,
+   "first_read": 21,
+   "after_whiteout": 21
+  },
+  "small": {
+   "n": 24,
+   "first_read": 24,
+   "after_whiteout": 24
+  },
+  "tiny": {
+   "n": 24,
+   "first_read": 24,
+   "after_whiteout": 24
+  }
+ },
+ "audit_new_not_planted": [],
+ "usage": {
+  "calls": 0,
+  "cached": 422,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "reasoning_tokens": 0,
+  "seconds": 0.0,
+  "usd": 0.0
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "id": "nist_ctc_04",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ctc/nist_ctc_04_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ctc_04_asme1_rd",
+ "title": "PMI Complex Test Case 4",
+ "doubts": [
+  "Composite frames T2 and T3: one item per row with the shared symbol written on both rows; rows take the official ID with -1/-2 suffix (T2-1, T2-2, T3-1, T3-2) since the elem_ids page labels the whole frame once. Row boxes overlap because the frames are rotated.",
+  "k4 STR1 '2 SURFACES' kept as a note item qualifying the T3 composite profile frame; it and both T3 rows take multiplier 2.",
+  "T2 rows take multiplier 6 and T4 takes multiplier 4 from the size or thread callouts they are attached to.",
+  "k14 T5 profile frame points to a limited circular area on the surface (circle not dimensioned); keyed as a plain frame.",
+  "Black commentary 'This tolerance applies to the top surfaces above datum features G and H. The string 2 SURFACES does not clarify which surfaces. Associativity will.' is explanation; excluded.",
+  "Excluded DF1 to DF8 datum feature symbols, CS1 to CS3 coordinate systems, CH1 and SG1 supplemental geometry markers."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T3-1",
+   "text": "⌓|2|D|G|H",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    526,
+    253,
+    689,
+    365
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T3-2",
+   "text": "⌓|0.2|D",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    526,
+    286,
+    660,
+    393
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "D5",
+   "text": "⌀10",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    534,
+    390,
+    593,
+    460
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "STR1",
+   "text": "2 SURFACES",
+   "kind": "note",
+   "multiplier": 2,
+   "box": [
+    526,
+    322,
+    664,
+    433
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D6",
+   "text": "6X ⌀6.65 ±0.12",
+   "kind": "dimension",
+   "multiplier": 6,
+   "box": [
+    1242,
+    442,
+    1407,
+    542
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T2-1",
+   "text": "⌖|⌀1.5|D|E|F",
+   "kind": "gdt_frame",
+   "multiplier": 6,
+   "box": [
+    1242,
+    439,
+    1466,
+    566
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "T2-2",
+   "text": "⌖|⌀0.3|D|E",
+   "kind": "gdt_frame",
+   "multiplier": 6,
+   "box": [
+    1242,
+    473,
+    1469,
+    578
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "D7",
+   "text": "4X M12 x 1.75 - 6H ↧25 ±0.25",
+   "kind": "thread",
+   "multiplier": 4,
+   "box": [
+    1619,
+    462,
+    1905,
+    663
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "T4",
+   "text": "⌖|⌀0.75Ⓟ50|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    1619,
+    502,
+    1884,
+    710
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "D2",
+   "text": "4X ⌴⌀20 ±0.2 ↧20 ±0.2",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1665,
+    604,
+    1950,
+    763
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "D1",
+   "text": "30X ⌀14 ±0.1",
+   "kind": "dimension",
+   "multiplier": 30,
+   "box": [
+    1923,
+    743,
+    2053,
+    836
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "D3",
+   "text": "30X ⌵⌀20 ±0.3 X 90° ±1°",
+   "kind": "hole_callout",
+   "multiplier": 30,
+   "box": [
+    1804,
+    1045,
+    2052,
+    1207
+   ]
+  },
+  {
+   "key": "k13",
+   "official_id": "T1",
+   "text": "⌖|⌀0.35|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    216,
+    901,
+    441,
+    1035
+   ]
+  },
+  {
+   "key": "k14",
+   "official_id": "T5",
+   "text": "⌓|0.5|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    448,
+    1060,
+    623,
+    1197
+   ]
+  },
+  {
+   "key": "k15",
+   "official_id": "D4",
+   "text": "75",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    736,
+    1257,
+    810,
+    1304
+   ]
+  }
+ ]
+}

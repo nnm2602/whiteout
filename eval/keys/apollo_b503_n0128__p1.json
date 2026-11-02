@@ -1,0 +1,576 @@
+{
+ "id": "apollo_b503_n0128",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0128.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10031",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "doubts": [
+  "title: the title block has no part name cell; drawing LDW270M10031 (title block print looks like LDW270M1CC31, read from the edge strip), LEM, scale FULL. Title left empty; the -11 balloon is not keyed. The sheet has no numbered notes",
+  "k46 (Grumman block): the RUBBER STAMP row carries a single light slash rather than a full check mark; read as checked. The DIAMETERS MARKED CONCENTRIC row is not checked and has no value filled in, so it is left out. Blacked-out words on the 125 and 200 lines omitted",
+  "k6, k28, k35, k44: printed '45°x.250' style; written 'CHAMFER 45° X .250 (2)' per the existing key format",
+  "k19: lower limit printed '1094' with the decimal point faint; read as 1.125/1.094",
+  "k29: '.3122-.3132 HOLE(2) IN LINE' keyed as one hole_callout with multiplier 2; IN LINE is part of the callout",
+  "k31: '.062 R (TYP)' has no stated count, multiplier 1",
+  "k38: '45°(2)' keyed as angle with multiplier 2",
+  "k10, k16, k17: three separate printed .125 values in the left view, each keyed"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "1.625",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1923,
+    1740,
+    2032,
+    1773
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".592",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2163,
+    1847,
+    2257,
+    1880
+   ]
+  },
+  {
+   "key": "k3",
+   "text": ".750",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1700,
+    1937,
+    1795,
+    1973
+   ]
+  },
+  {
+   "key": "k4",
+   "text": ".438",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2180,
+    1934,
+    2266,
+    1970
+   ]
+  },
+  {
+   "key": "k5",
+   "text": ".443/.439",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2166,
+    2034,
+    2280,
+    2098
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "CHAMFER 45° X .250 (2)",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    1214,
+    2154,
+    1616,
+    2204
+   ]
+  },
+  {
+   "key": "k7",
+   "text": ".062",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1737,
+    2170,
+    1830,
+    2206
+   ]
+  },
+  {
+   "key": "k8",
+   "text": ".062",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2150,
+    2170,
+    2246,
+    2204
+   ]
+  },
+  {
+   "key": "k9",
+   "text": ".127 - .133 HOLE (2)",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    2226,
+    2242,
+    2562,
+    2282
+   ]
+  },
+  {
+   "key": "k10",
+   "text": ".125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2203,
+    2294,
+    2276,
+    2328
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "1.750",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1514,
+    2377,
+    1610,
+    2413
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".250R (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    1646,
+    2396,
+    1828,
+    2438
+   ]
+  },
+  {
+   "key": "k13",
+   "text": ".875",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2140,
+    2440,
+    2233,
+    2476
+   ]
+  },
+  {
+   "key": "k14",
+   "text": ".500R (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    1660,
+    2457,
+    1843,
+    2496
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "3.938",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1386,
+    2604,
+    1524,
+    2640
+   ]
+  },
+  {
+   "key": "k16",
+   "text": ".125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1827,
+    2537,
+    1900,
+    2570
+   ]
+  },
+  {
+   "key": "k17",
+   "text": ".125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2094,
+    2550,
+    2170,
+    2584
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "1.750",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2240,
+    2544,
+    2340,
+    2580
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "1.125/1.094",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1654,
+    2547,
+    1746,
+    2606
+   ]
+  },
+  {
+   "key": "k20",
+   "text": ".125 R (4)",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    2203,
+    2729,
+    2381,
+    2767
+   ]
+  },
+  {
+   "key": "k21",
+   "text": ".250 R (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    1516,
+    2837,
+    1723,
+    2876
+   ]
+  },
+  {
+   "key": "k22",
+   "text": ".128",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2090,
+    2877,
+    2173,
+    2913
+   ]
+  },
+  {
+   "key": "k23",
+   "text": ".437/.432",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2094,
+    2977,
+    2190,
+    3043
+   ]
+  },
+  {
+   "key": "k24",
+   "text": "1.125",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3049,
+    1909,
+    3145,
+    1943
+   ]
+  },
+  {
+   "key": "k25",
+   "text": ".750",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3244,
+    2060,
+    3324,
+    2093
+   ]
+  },
+  {
+   "key": "k26",
+   "text": ".062 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2716,
+    2077,
+    2853,
+    2110
+   ]
+  },
+  {
+   "key": "k27",
+   "text": ".188",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3250,
+    2137,
+    3328,
+    2171
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "CHAMFER 45° X .281",
+   "kind": "chamfer",
+   "multiplier": 1,
+   "box": [
+    2470,
+    2154,
+    2813,
+    2204
+   ]
+  },
+  {
+   "key": "k29",
+   "text": ".3122 - .3132 HOLE (2) IN LINE",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    3417,
+    2254,
+    3823,
+    2326
+   ]
+  },
+  {
+   "key": "k30",
+   "text": "125",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3834,
+    2240,
+    3886,
+    2286
+   ]
+  },
+  {
+   "key": "k31",
+   "text": ".062 R (TYP)",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2640,
+    2284,
+    2873,
+    2320
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "1.375",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2354,
+    2414,
+    2463,
+    2450
+   ]
+  },
+  {
+   "key": "k33",
+   "text": ".562/.531",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2654,
+    2397,
+    2756,
+    2466
+   ]
+  },
+  {
+   "key": "k34",
+   "text": ".500 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    3437,
+    2410,
+    3576,
+    2446
+   ]
+  },
+  {
+   "key": "k35",
+   "text": "CHAMFER 45° X .125 (2)",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    3517,
+    2480,
+    3923,
+    2540
+   ]
+  },
+  {
+   "key": "k36",
+   "text": ".281/.250",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2914,
+    2574,
+    3003,
+    2636
+   ]
+  },
+  {
+   "key": "k37",
+   "text": "1.812",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2544,
+    2617,
+    2643,
+    2650
+   ]
+  },
+  {
+   "key": "k38",
+   "text": "45° (2)",
+   "kind": "angle",
+   "multiplier": 2,
+   "box": [
+    2704,
+    2614,
+    2823,
+    2670
+   ]
+  },
+  {
+   "key": "k39",
+   "text": ".750",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3464,
+    2710,
+    3553,
+    2744
+   ]
+  },
+  {
+   "key": "k40",
+   "text": ".500 R (2)",
+   "kind": "radius",
+   "multiplier": 2,
+   "box": [
+    2634,
+    2794,
+    2843,
+    2833
+   ]
+  },
+  {
+   "key": "k41",
+   "text": ".560",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3000,
+    2870,
+    3096,
+    2906
+   ]
+  },
+  {
+   "key": "k42",
+   "text": ".3122 - .3132 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    3587,
+    2890,
+    3923,
+    2926
+   ]
+  },
+  {
+   "key": "k43",
+   "text": "125",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3937,
+    2874,
+    3986,
+    2923
+   ]
+  },
+  {
+   "key": "k44",
+   "text": "CHAMFER 45° X .375",
+   "kind": "chamfer",
+   "multiplier": 1,
+   "box": [
+    2397,
+    2957,
+    2773,
+    3010
+   ]
+  },
+  {
+   "key": "k45",
+   "text": ".938",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3170,
+    2964,
+    3273,
+    3003
+   ]
+  },
+  {
+   "key": "k46",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED APPLY TO THIS DWG (checked): RUBBER STAMP PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED. USE BOTH SIDES IF NECESSARY; FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030; 125 √ SURFACE ROUGHNESS PER MIL-STD-10; 200 √ FOR ALL HOLES; REMOVE ALL BURRS. BREAK ALL EDGES .015-.031",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4704,
+    1020,
+    5108,
+    2843
+   ]
+  }
+ ]
+}

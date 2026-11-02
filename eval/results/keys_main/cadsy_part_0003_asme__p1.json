@@ -1,0 +1,52 @@
+{
+ "missed_visible_on_erased_page": 1,
+ "true_missed": 1,
+ "true_missed_visible": 1,
+ "key": "cadsy_part_0003_asme__p1.json",
+ "kind": "cadsy",
+ "source": "official",
+ "items": 13,
+ "found": 13,
+ "first_read_hits": 12,
+ "final_hits": 12,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 4,
+ "baseline_found": 5,
+ "exact_text": 12,
+ "multiplier_right": 12,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k13",
+   "text": "55",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    730,
+    1359,
+    752,
+    1377
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "55",
+   "box": [
+    728,
+    1403,
+    761,
+    1426
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.024273157119750977,
+  "read": 0.802750825881958,
+  "audit": 1.5485868453979492,
+  "total": 2.3980510234832764
+ }
+}

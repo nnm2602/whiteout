@@ -1,0 +1,2682 @@
+{
+ "step": "data/raw/model_edits/nist_d2mi_904_edited.stp",
+ "model_units": "in",
+ "drawing_units": "in",
+ "scale": 1.0,
+ "matched": [
+  {
+   "model": {
+    "id": "#30141",
+    "type": "basic",
+    "text": "[0.168]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.168,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c41",
+    "number": "40",
+    "text": ".168",
+    "box": [
+     461,
+     1394,
+     568,
+     1421
+    ],
+    "sheet": 1,
+    "zone": "B7",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": ".168",
+    "nominal": 0.168,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#31276",
+    "type": "basic",
+    "text": "[0.268]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.268,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c30",
+    "number": "33",
+    "text": ".268",
+    "box": [
+     410,
+     1221,
+     517,
+     1248
+    ],
+    "sheet": 1,
+    "zone": "B8",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": ".268",
+    "nominal": 0.268,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#32176",
+    "type": "basic",
+    "text": "[4.037]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 4.037,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c26",
+    "number": "29",
+    "text": "4.037",
+    "box": [
+     950,
+     956,
+     1046,
+     983
+    ],
+    "sheet": 1,
+    "zone": "C6",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "4.037",
+    "nominal": 4.037,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#44596",
+    "type": "basic",
+    "text": "[0.672]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.672,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c28",
+    "number": "23",
+    "text": ".672",
+    "box": [
+     1390,
+     633,
+     1469,
+     660
+    ],
+    "sheet": 1,
+    "zone": "C5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": ".672",
+    "nominal": 0.672,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#45681",
+    "type": "basic",
+    "text": "[1.008]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.008,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c25",
+    "number": "24",
+    "text": "1.008",
+    "box": [
+     1489,
+     603,
+     1585,
+     631
+    ],
+    "sheet": 1,
+    "zone": "C5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.008",
+    "nominal": 1.008,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#46511",
+    "type": "basic",
+    "text": "[1.344]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.344,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c24",
+    "number": "25",
+    "text": "1.344",
+    "box": [
+     1610,
+     575,
+     1705,
+     601
+    ],
+    "sheet": 1,
+    "zone": "C5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.344",
+    "nominal": 1.344,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#47501",
+    "type": "basic",
+    "text": "[1.680]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.68,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c23",
+    "number": "15",
+    "text": "1.680",
+    "box": [
+     1721,
+     545,
+     1816,
+     572
+    ],
+    "sheet": 1,
+    "zone": "D4",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.680",
+    "nominal": 1.68,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#48516",
+    "type": "basic",
+    "text": "[2.016]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.016,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c22",
+    "number": "16",
+    "text": "2.016",
+    "box": [
+     1849,
+     516,
+     1945,
+     542
+    ],
+    "sheet": 1,
+    "zone": "D4",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2.016",
+    "nominal": 2.016,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#50516",
+    "type": "basic",
+    "text": "[2.375]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.375,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c33",
+    "number": "27",
+    "text": "2.375",
+    "box": [
+     804,
+     882,
+     900,
+     908
+    ],
+    "sheet": 1,
+    "zone": "C7",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2.375",
+    "nominal": 2.375,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#51221",
+    "type": "basic",
+    "text": "[2.500]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.5,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c20",
+    "number": "3",
+    "text": "2.500",
+    "box": [
+     815,
+     65,
+     911,
+     93
+    ],
+    "sheet": 1,
+    "zone": "D7",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2.500",
+    "nominal": 2.5,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#52396",
+    "type": "basic",
+    "text": "[2.738]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.738,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c21",
+    "number": "13",
+    "text": "2.738",
+    "box": [
+     236,
+     453,
+     331,
+     479
+    ],
+    "sheet": 1,
+    "zone": "D8",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2.738",
+    "nominal": 2.738,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#59696",
+    "type": "size",
+    "text": "⌀0.187 ±0.005",
+    "count": 1,
+    "unit": "in",
+    "name": "diameter",
+    "nominal": 0.187,
+    "lower": 0.182,
+    "upper": 0.192
+   },
+   "drawing": {
+    "id": "s1c0",
+    "number": "8",
+    "text": "Ø.182 - .192 ↧.250 ± .010",
+    "box": [
+     1523,
+     107,
+     1938,
+     132
+    ],
+    "sheet": 1,
+    "zone": "D4",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "Ø.182 - .192",
+    "nominal": 0.187,
+    "lower": 0.182,
+    "upper": 0.192,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#73741",
+    "type": "size",
+    "text": "⌀0.250 ±0.005",
+    "count": 1,
+    "unit": "in",
+    "name": "diameter",
+    "nominal": 0.25,
+    "lower": 0.245,
+    "upper": 0.255
+   },
+   "drawing": {
+    "id": "s1c1",
+    "number": "9",
+    "text": "⊔ Ø.245 - .255 ↧.100 ± .010",
+    "box": [
+     1583,
+     169,
+     2045,
+     193
+    ],
+    "sheet": 1,
+    "zone": "D4",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "⊔ Ø.245 - .255",
+    "nominal": 0.25,
+    "lower": 0.245,
+    "upper": 0.255,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#80801",
+    "type": "basic",
+    "text": "[0.168]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.168,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c9",
+    "number": "7",
+    "text": ".168",
+    "box": [
+     985,
+     659,
+     1064,
+     686
+    ],
+    "sheet": 2,
+    "zone": "C6",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": ".168",
+    "nominal": 0.168,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#81816",
+    "type": "basic",
+    "text": "[1.209]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.209,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c16",
+    "number": "10",
+    "text": "1.209",
+    "box": [
+     2063,
+     847,
+     2159,
+     874
+    ],
+    "sheet": 2,
+    "zone": "C3",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.209",
+    "nominal": 1.209,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#82746",
+    "type": "basic",
+    "text": "[1.459]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.459,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c13",
+    "number": "11",
+    "text": "1.459",
+    "box": [
+     2278,
+     869,
+     2374,
+     896
+    ],
+    "sheet": 2,
+    "zone": "C3",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.459",
+    "nominal": 1.459,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#83506",
+    "type": "basic",
+    "text": "[1.713]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.713,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c12",
+    "number": "12",
+    "text": "1.713",
+    "box": [
+     2502,
+     892,
+     2597,
+     918
+    ],
+    "sheet": 2,
+    "zone": "C2",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.713",
+    "nominal": 1.713,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#84611",
+    "type": "basic",
+    "text": "[0.806]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.806,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c17",
+    "number": "6",
+    "text": ".806",
+    "box": [
+     950,
+     811,
+     1030,
+     839
+    ],
+    "sheet": 2,
+    "zone": "C6",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": ".806",
+    "nominal": 0.806,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#85781",
+    "type": "basic",
+    "text": "[1.806]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.806,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c11",
+    "number": "9",
+    "text": "1.806",
+    "box": [
+     760,
+     900,
+     855,
+     926
+    ],
+    "sheet": 2,
+    "zone": "C7",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.806",
+    "nominal": 1.806,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#86576",
+    "type": "basic",
+    "text": "[0.542]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.542,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c10",
+    "number": "18",
+    "text": ".542",
+    "box": [
+     947,
+     1454,
+     1027,
+     1480
+    ],
+    "sheet": 2,
+    "zone": "B6",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": ".542",
+    "nominal": 0.542,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#87716",
+    "type": "basic",
+    "text": "[3.495]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 3.495,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c7",
+    "number": "22",
+    "text": "3.495",
+    "box": [
+     1381,
+     1633,
+     1476,
+     1659
+    ],
+    "sheet": 2,
+    "zone": "A5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "3.495",
+    "nominal": 3.495,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#89611",
+    "type": "basic",
+    "text": "[0.785]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.785,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c8",
+    "number": "5",
+    "text": ".785",
+    "box": [
+     920,
+     566,
+     999,
+     593
+    ],
+    "sheet": 2,
+    "zone": "C6",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": ".785",
+    "nominal": 0.785,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#90581",
+    "type": "basic",
+    "text": "[1.785]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.785,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c4",
+    "number": "2",
+    "text": "1.785",
+    "box": [
+     1231,
+     480,
+     1327,
+     507
+    ],
+    "sheet": 2,
+    "zone": "D6",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "1.785",
+    "nominal": 1.785,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#91526",
+    "type": "basic",
+    "text": "[2.257]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.257,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c3",
+    "number": "3",
+    "text": "2.257",
+    "box": [
+     1272,
+     383,
+     1368,
+     412
+    ],
+    "sheet": 2,
+    "zone": "D5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2.257",
+    "nominal": 2.257,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#92841",
+    "type": "basic",
+    "text": "[2.928]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.928,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c6",
+    "number": "4",
+    "text": "2.928",
+    "box": [
+     1331,
+     304,
+     1427,
+     331
+    ],
+    "sheet": 2,
+    "zone": "D5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2.928",
+    "nominal": 2.928,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#94306",
+    "type": "basic",
+    "text": "[3.869]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 3.869,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c5",
+    "number": "1",
+    "text": "3.869",
+    "box": [
+     1507,
+     217,
+     1603,
+     244
+    ],
+    "sheet": 2,
+    "zone": "D5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "3.869",
+    "nominal": 3.869,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#101081",
+    "type": "basic",
+    "text": "[2.632]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.632,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c18",
+    "number": "20",
+    "text": "2.632",
+    "box": [
+     1305,
+     1353,
+     1401,
+     1386
+    ],
+    "sheet": 2,
+    "zone": "B5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2.632",
+    "nominal": 2.632,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#215956",
+    "type": "basic",
+    "text": "[0.138]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.138,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c38",
+    "number": "43",
+    "text": ".138",
+    "box": [
+     2110,
+     1394,
+     2219,
+     1421
+    ],
+    "sheet": 1,
+    "zone": "B3",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": ".138",
+    "nominal": 0.138,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#216711",
+    "type": "basic",
+    "text": "[0.134]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.134,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c31",
+    "number": "38",
+    "text": ".134",
+    "box": [
+     2847,
+     1252,
+     2912,
+     1279
+    ],
+    "sheet": 1,
+    "zone": "B2",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": ".134",
+    "nominal": 0.134,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#24946",
+    "type": "basic",
+    "text": "[1.412]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.412,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c11",
+    "number": "26",
+    "text": "5X 1.412",
+    "box": [
+     529,
+     1057,
+     671,
+     1084
+    ],
+    "sheet": 1,
+    "zone": "C7",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "5X 1.412",
+    "nominal": 1.412,
+    "lower": null,
+    "upper": null,
+    "count": 5,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 5
+   }
+  },
+  {
+   "model": {
+    "id": "#29136",
+    "type": "basic",
+    "text": "[0.518]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.518,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c34",
+    "number": "36",
+    "text": "7X .518",
+    "box": [
+     1388,
+     1275,
+     1513,
+     1301
+    ],
+    "sheet": 1,
+    "zone": "B5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "7X .518",
+    "nominal": 0.518,
+    "lower": null,
+    "upper": null,
+    "count": 7,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 7
+   }
+  },
+  {
+   "model": {
+    "id": "#33556",
+    "type": "basic",
+    "text": "[3.912]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 3.912,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c10",
+    "number": "28",
+    "text": "5X 3.912",
+    "box": [
+     916,
+     1006,
+     1058,
+     1032
+    ],
+    "sheet": 1,
+    "zone": "C6",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "5X 3.912",
+    "nominal": 3.912,
+    "lower": null,
+    "upper": null,
+    "count": 5,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 5
+   }
+  },
+  {
+   "model": {
+    "id": "#36321",
+    "type": "basic",
+    "text": "[0.050]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c14",
+    "number": "4",
+    "text": "4X .050",
+    "box": [
+     1158,
+     148,
+     1283,
+     175
+    ],
+    "sheet": 1,
+    "zone": "D6",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "4X .050",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null,
+    "count": 4,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 4
+   }
+  },
+  {
+   "model": {
+    "id": "#49491",
+    "type": "basic",
+    "text": "[0.050]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c15",
+    "number": "7",
+    "text": "4X .050",
+    "box": [
+     1413,
+     281,
+     1566,
+     308
+    ],
+    "sheet": 1,
+    "zone": "D5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "4X .050",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null,
+    "count": 4,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 4
+   }
+  },
+  {
+   "model": {
+    "id": "#53981",
+    "type": "basic",
+    "text": "⌀[0.188]",
+    "count": 1,
+    "unit": "in",
+    "name": "diameter",
+    "nominal": 0.188,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c39",
+    "number": "19",
+    "text": "4X Ø.188",
+    "box": [
+     403,
+     757,
+     591,
+     791
+    ],
+    "sheet": 1,
+    "zone": "C8",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "4X Ø.188",
+    "nominal": 0.188,
+    "lower": null,
+    "upper": null,
+    "count": 4,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 4
+   }
+  },
+  {
+   "model": {
+    "id": "#79531",
+    "type": "basic",
+    "text": "[2.570]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 2.57,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c1",
+    "number": "13",
+    "text": "2X 2.570",
+    "box": [
+     2687,
+     966,
+     2829,
+     993
+    ],
+    "sheet": 2,
+    "zone": "C2",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2X 2.570",
+    "nominal": 2.57,
+    "lower": null,
+    "upper": null,
+    "count": 2,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 2
+   }
+  },
+  {
+   "model": {
+    "id": "#88706",
+    "type": "basic",
+    "text": "[0.168]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.168,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s2c2",
+    "number": "8",
+    "text": "2X .168",
+    "box": [
+     2049,
+     663,
+     2204,
+     690
+    ],
+    "sheet": 2,
+    "zone": "C3",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2X .168",
+    "nominal": 0.168,
+    "lower": null,
+    "upper": null,
+    "count": 2,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 2
+   }
+  },
+  {
+   "model": {
+    "id": "#94916",
+    "type": "basic",
+    "text": "[1.000]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.0,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c9",
+    "number": "20",
+    "text": "2X 1.000",
+    "box": [
+     469,
+     605,
+     611,
+     631
+    ],
+    "sheet": 1,
+    "zone": "C7",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2X 1.000",
+    "nominal": 1.0,
+    "lower": null,
+    "upper": null,
+    "count": 2,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 2
+   }
+  },
+  {
+   "model": {
+    "id": "#95801",
+    "type": "basic",
+    "text": "[1.750]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 1.75,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c8",
+    "number": "14",
+    "text": "2X 1.750",
+    "box": [
+     316,
+     539,
+     458,
+     566
+    ],
+    "sheet": 1,
+    "zone": "D8",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2X 1.750",
+    "nominal": 1.75,
+    "lower": null,
+    "upper": null,
+    "count": 2,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 2
+   }
+  },
+  {
+   "model": {
+    "id": "#96771",
+    "type": "basic",
+    "text": "[0.250]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.25,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c13",
+    "number": "1",
+    "text": "2X .250",
+    "box": [
+     460,
+     159,
+     637,
+     186
+    ],
+    "sheet": 1,
+    "zone": "D7",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2X .250",
+    "nominal": 0.25,
+    "lower": null,
+    "upper": null,
+    "count": 2,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 2
+   }
+  },
+  {
+   "model": {
+    "id": "#98091",
+    "type": "basic",
+    "text": "[0.825]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.825,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c12",
+    "number": "2",
+    "text": "2X .825",
+    "box": [
+     607,
+     108,
+     826,
+     135
+    ],
+    "sheet": 1,
+    "zone": "D7",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "2X .825",
+    "nominal": 0.825,
+    "lower": null,
+    "upper": null,
+    "count": 2,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 2
+   }
+  },
+  {
+   "model": {
+    "id": "#98941",
+    "type": "basic",
+    "text": "[0.050]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c16",
+    "number": "12",
+    "text": "5X .050",
+    "box": [
+     1743,
+     284,
+     1896,
+     311
+    ],
+    "sheet": 1,
+    "zone": "D4",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "5X .050",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null,
+    "count": 5,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 5
+   }
+  },
+  {
+   "model": {
+    "id": "#99806",
+    "type": "basic",
+    "text": "[0.050]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c18",
+    "number": "32",
+    "text": "5X .050",
+    "box": [
+     1388,
+     1081,
+     1513,
+     1107
+    ],
+    "sheet": 1,
+    "zone": "C5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "5X .050",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null,
+    "count": 5,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 5
+   }
+  },
+  {
+   "model": {
+    "id": "#103256",
+    "type": "size",
+    "text": "6X ⌀0.220 ±0.005",
+    "count": 6,
+    "unit": "in",
+    "name": "diameter",
+    "nominal": 0.22,
+    "lower": 0.215,
+    "upper": 0.225
+   },
+   "drawing": {
+    "id": "s2c14",
+    "number": "17",
+    "text": "4X Ø.215 - .225",
+    "box": [
+     1881,
+     1301,
+     2132,
+     1324
+    ],
+    "sheet": 2,
+    "zone": "B4",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "Ø.215 - .225",
+    "nominal": 0.22,
+    "lower": 0.215,
+    "upper": 0.225,
+    "count": 4,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "count": {
+    "model": 6,
+    "drawing": 4
+   }
+  },
+  {
+   "model": {
+    "id": "#218256",
+    "type": "basic",
+    "text": "8X SR[0.094]",
+    "count": 8,
+    "unit": "in",
+    "name": "spherical radius",
+    "nominal": 0.094,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c7",
+    "number": "17",
+    "text": "4X SR.094",
+    "box": [
+     2479,
+     381,
+     2668,
+     410
+    ],
+    "sheet": 1,
+    "zone": "D2",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "4X SR.094",
+    "nominal": 0.094,
+    "lower": null,
+    "upper": null,
+    "count": 4,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 8,
+    "drawing": 4
+   }
+  },
+  {
+   "model": {
+    "id": "#219971",
+    "type": "radius",
+    "text": "8X R0.032 ±0.01",
+    "count": 8,
+    "unit": "in",
+    "name": "radius",
+    "nominal": 0.032,
+    "lower": 0.022,
+    "upper": 0.042
+   },
+   "drawing": {
+    "id": "s1c3",
+    "number": "45",
+    "text": "4X R.032 ±.010",
+    "box": [
+     2418,
+     1741,
+     2635,
+     1758
+    ],
+    "sheet": 1,
+    "zone": "A3",
+    "kind": "radius",
+    "requirement": 0,
+    "requirement_text": "4X R.032 ±.010",
+    "nominal": 0.032,
+    "lower": 0.022,
+    "upper": 0.042,
+    "count": 4,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "count": {
+    "model": 8,
+    "drawing": 4
+   }
+  },
+  {
+   "model": {
+    "id": "#222876",
+    "type": "basic",
+    "text": "[0.768]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.768,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c17",
+    "number": "18",
+    "text": "4X .768",
+    "box": [
+     2967,
+     524,
+     3092,
+     550
+    ],
+    "sheet": 1,
+    "zone": "D1",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "4X .768",
+    "nominal": 0.768,
+    "lower": null,
+    "upper": null,
+    "count": 4,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 4
+   }
+  },
+  {
+   "model": {
+    "id": "#226351",
+    "type": "basic",
+    "text": "[0.050]",
+    "count": 1,
+    "unit": "in",
+    "name": "linear distance",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c19",
+    "number": "37",
+    "text": "5X .050",
+    "box": [
+     1602,
+     1148,
+     1727,
+     1174
+    ],
+    "sheet": 1,
+    "zone": "B5",
+    "kind": "basic_dimension",
+    "requirement": 0,
+    "requirement_text": "5X .050",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null,
+    "count": 5,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "count": {
+    "model": 1,
+    "drawing": 5
+   }
+  },
+  {
+   "model": {
+    "id": "#23071",
+    "type": "gdt",
+    "text": "⌓|0.016",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "surface_profile",
+    "value": 0.016,
+    "datums": [],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s1c43",
+    "number": "42",
+    "text": "◡ .016",
+    "box": [
+     1768,
+     1381,
+     1824,
+     1398
+    ],
+    "sheet": 1,
+    "zone": "B4",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "◡ .016",
+    "nominal": 0.016,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#27756",
+    "type": "gdt",
+    "text": "⊥|0.01|A|B",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "perpendicularity",
+    "value": 0.01,
+    "datums": [
+     "A",
+     "B"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s1c42",
+    "number": "39",
+    "text": "⊥ .010 A B",
+    "box": [
+     193,
+     1391,
+     442,
+     1423
+    ],
+    "sheet": 1,
+    "zone": "B8",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊥ .010 A B",
+    "nominal": 0.01,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#35361",
+    "type": "gdt",
+    "text": "∠|0.008|A",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "angularity",
+    "value": 0.008,
+    "datums": [
+     "A"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s1c27",
+    "number": "34",
+    "text": "∠ .008 A",
+    "box": [
+     662,
+     1111,
+     809,
+     1138
+    ],
+    "sheet": 1,
+    "zone": "B7",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "∠ .008 A",
+    "nominal": 0.008,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#41361",
+    "type": "gdt",
+    "text": "⌖|⌀0.005Ⓜ|A|B|C",
+    "count": 4,
+    "unit": "in",
+    "characteristic": "position",
+    "value": 0.005,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": [
+     "Ⓜ"
+    ]
+   },
+   "drawing": {
+    "id": "s2c20",
+    "number": "14",
+    "text": "⊕ 4X Ø.005(M) A B C",
+    "box": [
+     720,
+     1340,
+     990,
+     1367
+    ],
+    "sheet": 2,
+    "zone": "B7",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ 4X Ø.005(M) A B C",
+    "nominal": 0.005,
+    "lower": null,
+    "upper": null,
+    "count": 4,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#56296",
+    "type": "gdt",
+    "text": "⌖|⌀0.005Ⓛ|A|B|C",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "position",
+    "value": 0.005,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": [
+     "Ⓛ"
+    ]
+   },
+   "drawing": {
+    "id": "s1c36",
+    "number": "5",
+    "text": "⊕ | Ø.005Ⓛ | A | B | C",
+    "box": [
+     1193,
+     100,
+     1475,
+     127
+    ],
+    "sheet": 1,
+    "zone": "D5",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ | Ø.005Ⓛ | A | B | C",
+    "nominal": 0.005,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#67616",
+    "type": "gdt",
+    "text": "⌖|⌀0.005Ⓜ|A|B|C",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "position",
+    "value": 0.005,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": [
+     "Ⓜ"
+    ]
+   },
+   "drawing": {
+    "id": "s1c5",
+    "number": "11",
+    "text": "⊕ | Ø.005Ⓜ | A | B | C",
+    "box": [
+     1631,
+     135,
+     1901,
+     162
+    ],
+    "sheet": 1,
+    "zone": "D4",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ | Ø.005Ⓜ | A | B | C",
+    "nominal": 0.005,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#76131",
+    "type": "gdt",
+    "text": "⌖|⌀0.005Ⓜ|A|B|C",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "position",
+    "value": 0.005,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": [
+     "Ⓜ"
+    ]
+   },
+   "drawing": {
+    "id": "s1c6",
+    "number": "10",
+    "text": "⊕ | Ø.005Ⓜ | A | B | C",
+    "box": [
+     1616,
+     198,
+     1898,
+     229
+    ],
+    "sheet": 1,
+    "zone": "D4",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ | Ø.005Ⓜ | A | B | C",
+    "nominal": 0.005,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#78506",
+    "type": "gdt",
+    "text": "⌖|⌀0.005Ⓜ|A|B|C",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "position",
+    "value": 0.005,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": [
+     "Ⓜ"
+    ]
+   },
+   "drawing": {
+    "id": "s1c37",
+    "number": "22",
+    "text": "⊕ | Ø.005Ⓜ | A | B | C",
+    "box": [
+     1345,
+     798,
+     1627,
+     825
+    ],
+    "sheet": 1,
+    "zone": "C5",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ | Ø.005Ⓜ | A | B | C",
+    "nominal": 0.005,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#43771",
+    "type": "gdt",
+    "text": "⌖|⌀0.005Ⓛ|A|B|C",
+    "count": 4,
+    "unit": "in",
+    "characteristic": "position",
+    "value": 0.005,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": [
+     "Ⓛ"
+    ]
+   },
+   "drawing": {
+    "id": "s2c0",
+    "number": "21",
+    "text": "⊕ Ø.005Ⓛ A B C",
+    "box": [
+     1876,
+     1445,
+     2147,
+     1472
+    ],
+    "sheet": 2,
+    "zone": "B4",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ Ø.005Ⓛ A B C",
+    "nominal": 0.005,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "count": {
+    "model": 4,
+    "drawing": 1
+   }
+  },
+  {
+   "model": {
+    "id": "#225341",
+    "type": "gdt",
+    "text": "⌓|0.016|A|B|C",
+    "count": 45,
+    "unit": "in",
+    "characteristic": "surface_profile",
+    "value": 0.016,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": []
+   },
+   "drawing": {
+    "id": "s0c4",
+    "number": "3",
+    "text": "⌓ .016 A B C",
+    "box": [
+     189,
+     282,
+     420,
+     308
+    ],
+    "sheet": 0,
+    "zone": "D8",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⌓ .016 A B C",
+    "nominal": 0.016,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "count": {
+    "model": 45,
+    "drawing": 1
+   }
+  }
+ ],
+ "differs": [
+  {
+   "model": {
+    "id": "#25986",
+    "type": "basic",
+    "text": "[45.000°]",
+    "count": 1,
+    "unit": "deg",
+    "name": "full angle dimension",
+    "nominal": 45.0,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c29",
+    "number": "35",
+    "text": "5X 45°",
+    "box": [
+     913,
+     1089,
+     1022,
+     1116
+    ],
+    "sheet": 1,
+    "zone": "B6",
+    "kind": "angle",
+    "requirement": 0,
+    "requirement_text": "5X 45°",
+    "nominal": 45.0,
+    "lower": null,
+    "upper": null,
+    "count": 5,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "basic",
+     "model": "basic",
+     "drawing": "toleranced"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#62851",
+    "type": "size",
+    "text": "⌀0.250 ±0.01",
+    "count": 1,
+    "unit": "in",
+    "name": "diameter",
+    "nominal": 0.25,
+    "lower": 0.24,
+    "upper": 0.26
+   },
+   "drawing": {
+    "id": "s1c44",
+    "number": "30",
+    "text": "⊔ Ø.245 - .255 ↧.125 ± .010",
+    "box": [
+     1304,
+     836,
+     1766,
+     859
+    ],
+    "sheet": 1,
+    "zone": "C5",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "⊔ Ø.245 - .255",
+    "nominal": 0.25,
+    "lower": 0.245,
+    "upper": 0.255,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance",
+     "model": "±0.010",
+     "drawing": "±0.005"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#70551",
+    "type": "size",
+    "text": "⌀0.150",
+    "count": 1,
+    "unit": "in",
+    "name": "diameter",
+    "nominal": 0.15,
+    "lower": null,
+    "upper": null
+   },
+   "drawing": {
+    "id": "s1c2",
+    "number": "21",
+    "text": "Ø.145 - .155 ↧.100 ± .010",
+    "box": [
+     1334,
+     762,
+     1743,
+     786
+    ],
+    "sheet": 1,
+    "zone": "C5",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "Ø.145 - .155",
+    "nominal": 0.15,
+    "lower": 0.145,
+    "upper": 0.155,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance",
+     "model": "none",
+     "drawing": "±0.005"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#106846",
+    "type": "radius",
+    "text": "R0.135 ±0.01",
+    "count": 1,
+    "unit": "in",
+    "name": "radius",
+    "nominal": 0.135,
+    "lower": 0.125,
+    "upper": 0.145
+   },
+   "drawing": {
+    "id": "s2c15",
+    "number": "15",
+    "text": "R.135",
+    "box": [
+     1290,
+     1323,
+     1408,
+     1339
+    ],
+    "sheet": 2,
+    "zone": "B5",
+    "kind": "radius",
+    "requirement": 0,
+    "requirement_text": "R.135",
+    "nominal": 0.135,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance",
+     "model": "±0.010",
+     "drawing": "none"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#38471",
+    "type": "size",
+    "text": "4X ⌀0.394 ±0.005",
+    "count": 4,
+    "unit": "in",
+    "name": "diameter",
+    "nominal": 0.39375,
+    "lower": 0.38875,
+    "upper": 0.39875
+   },
+   "drawing": {
+    "id": "s1c32",
+    "number": "6",
+    "text": "2X Ø.370 - .380",
+    "box": [
+     1260,
+     68,
+     1460,
+     92
+    ],
+    "sheet": 1,
+    "zone": "D5",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "2X Ø.370 - .380",
+    "nominal": 0.375,
+    "lower": 0.37,
+    "upper": 0.38,
+    "count": 2,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "nominal",
+     "model": "0.394",
+     "drawing": "0.375"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#65241",
+    "type": "gdt",
+    "text": "⌖|⌀0.01Ⓜ|A|B|C",
+    "count": 1,
+    "unit": "in",
+    "characteristic": "position",
+    "value": 0.01,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": [
+     "Ⓜ"
+    ]
+   },
+   "drawing": {
+    "id": "s1c40",
+    "number": "31",
+    "text": "⊕ | Ø .005Ⓜ | A | B | C",
+    "box": [
+     1345,
+     867,
+     1627,
+     894
+    ],
+    "sheet": 1,
+    "zone": "C5",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ | Ø .005Ⓜ | A | B | C",
+    "nominal": 0.005,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance value",
+     "model": "0.01",
+     "drawing": "0.005"
+    }
+   ]
+  }
+ ],
+ "model_only": [
+  {
+   "id": "#105496",
+   "type": "size",
+   "text": "6X ⌀0.128 ±0.005",
+   "count": 6,
+   "unit": "in",
+   "name": "diameter",
+   "nominal": 0.128,
+   "lower": 0.123,
+   "upper": 0.133
+  },
+  {
+   "id": "#214941",
+   "type": "gdt",
+   "text": "⊥|0.01|A",
+   "count": 1,
+   "unit": "in",
+   "characteristic": "perpendicularity",
+   "value": 0.01,
+   "datums": [
+    "A"
+   ],
+   "modifiers": []
+  }
+ ],
+ "drawing_only": [
+  {
+   "id": "s1c0",
+   "number": "8",
+   "text": "Ø.182 - .192 ↧.250 ± .010",
+   "box": [
+    1523,
+    107,
+    1938,
+    132
+   ],
+   "sheet": 1,
+   "zone": "D4",
+   "kind": "hole_callout",
+   "requirement": 1,
+   "requirement_text": "↧.250 ± .010",
+   "nominal": 0.25,
+   "lower": 0.24,
+   "upper": 0.26,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  },
+  {
+   "id": "s1c1",
+   "number": "9",
+   "text": "⊔ Ø.245 - .255 ↧.100 ± .010",
+   "box": [
+    1583,
+    169,
+    2045,
+    193
+   ],
+   "sheet": 1,
+   "zone": "D4",
+   "kind": "hole_callout",
+   "requirement": 1,
+   "requirement_text": "↧.100 ± .010",
+   "nominal": 0.1,
+   "lower": 0.09000000000000001,
+   "upper": 0.11,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  },
+  {
+   "id": "s1c2",
+   "number": "21",
+   "text": "Ø.145 - .155 ↧.100 ± .010",
+   "box": [
+    1334,
+    762,
+    1743,
+    786
+   ],
+   "sheet": 1,
+   "zone": "C5",
+   "kind": "hole_callout",
+   "requirement": 1,
+   "requirement_text": "↧.100 ± .010",
+   "nominal": 0.1,
+   "lower": 0.09000000000000001,
+   "upper": 0.11,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  },
+  {
+   "id": "s1c35",
+   "number": "41",
+   "text": "▱ .005",
+   "box": [
+    1716,
+    1411,
+    1824,
+    1428
+   ],
+   "sheet": 1,
+   "zone": "B4",
+   "kind": "gdt_frame",
+   "requirement": 0,
+   "requirement_text": "▱ .005",
+   "nominal": 0.005,
+   "lower": null,
+   "upper": null,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  },
+  {
+   "id": "s1c44",
+   "number": "30",
+   "text": "⊔ Ø.245 - .255 ↧.125 ± .010",
+   "box": [
+    1304,
+    836,
+    1766,
+    859
+   ],
+   "sheet": 1,
+   "zone": "C5",
+   "kind": "hole_callout",
+   "requirement": 1,
+   "requirement_text": "↧.125 ± .010",
+   "nominal": 0.125,
+   "lower": 0.115,
+   "upper": 0.135,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  },
+  {
+   "id": "s2c19",
+   "number": "19",
+   "text": "2.832",
+   "box": [
+    1298,
+    1349,
+    1393,
+    1387
+   ],
+   "sheet": 2,
+   "zone": "B5",
+   "kind": "basic_dimension",
+   "requirement": 0,
+   "requirement_text": "2.832",
+   "nominal": 2.832,
+   "lower": null,
+   "upper": null,
+   "count": 1,
+   "tolerance_source": "none",
+   "reread": false
+  },
+  {
+   "id": "s2c21",
+   "number": "16",
+   "text": ".010",
+   "box": [
+    1314,
+    1328,
+    1381,
+    1354
+   ],
+   "sheet": 2,
+   "zone": "B5",
+   "kind": "basic_dimension",
+   "requirement": 0,
+   "requirement_text": ".010",
+   "nominal": 0.01,
+   "lower": null,
+   "upper": null,
+   "count": 1,
+   "tolerance_source": "none",
+   "reread": false
+  }
+ ],
+ "repeats": {
+  "model": [],
+  "drawing": []
+ },
+ "warnings": [],
+ "model_without_value": [],
+ "not_compared": [
+  {
+   "id": "s0c0",
+   "kind": "note",
+   "text": "4. UNLESS OTHERWISE SPECIFIED, ALL BASIC DIMENSION SURFACES SHALL COMPLY WITH:",
+   "sheet": 0
+  },
+  {
+   "id": "s0c1",
+   "kind": "note",
+   "text": "1. MATERIAL: ALUMINUM, PLATE, 6061-T651, IN ACCORDANCE WITH ASTM B205.",
+   "sheet": 0
+  },
+  {
+   "id": "s0c2",
+   "kind": "note",
+   "text": "7. INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY.",
+   "sheet": 0
+  },
+  {
+   "id": "s0c3",
+   "kind": "note",
+   "text": "MECHANICAL REFERENCE DATASET SEE PDM FOR DEFINING DATA",
+   "sheet": 0
+  },
+  {
+   "id": "s0c5",
+   "kind": "note",
+   "text": "2. FINISH: CHROMATE CONVERSION COATING IN ACCORDANCE WITH MIL-DTL-5541, CLASS 1A, TYPE II.",
+   "sheet": 0
+  },
+  {
+   "id": "s0c6",
+   "kind": "note",
+   "text": "3 IDENTIFICATION MARKING SHALL BE LOCATED APPROXIMATELY WHERE SHOWN IN ACCORDANCE WITH MIL-STD-130.",
+   "sheet": 0
+  },
+  {
+   "id": "s0c7",
+   "kind": "note",
+   "text": "5. WHEN THE FLATNESS OF DATUM FEATURE A EXCEEDS THE STATED PROFILE TOLERANCE IN THE FREE STATE, THE FEATURE MAY BE RESTRAINED TO DATUM PLANE A WITHIN THE SPECIFIED PROFILE TOLERANCE VALUE. THE ITEM SHALL BE DEEMED ACCEPTABLE WHEN FEATURES RELATED TO DATUM A MEET TOLERANCE REQUIREMENTS IN THIS RESTRAINED STATE.",
+   "sheet": 0
+  },
+  {
+   "id": "s0c8",
+   "kind": "note",
+   "text": "6. UNLESS OTHERWISE SPECIFIED, DIMENSIONS AND TOLERANCES ARE EXPRESSED IN INCHES AND SHALL BE INTERPRETED IN ACCORDANCE WITH ASME Y14.5-2009.",
+   "sheet": 0
+  },
+  {
+   "id": "s1c4",
+   "kind": "note",
+   "text": "4 SURFACES",
+   "sheet": 1
+  }
+ ],
+ "summary": {
+  "model_pmi": 66,
+  "drawing_requirements": 71,
+  "matched": 58,
+  "differs": 6,
+  "model_only": 2,
+  "drawing_only": 7,
+  "repeats_model": 0,
+  "repeats_drawing": 0,
+  "not_compared": 9
+ }
+}

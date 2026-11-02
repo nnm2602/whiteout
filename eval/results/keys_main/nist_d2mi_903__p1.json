@@ -1,0 +1,40 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 0,
+ "true_missed_visible": 0,
+ "key": "nist_d2mi_903__p1.json",
+ "kind": "nist_d2mi",
+ "source": "hand",
+ "items": 19,
+ "found": 20,
+ "first_read_hits": 19,
+ "final_hits": 19,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 0,
+ "baseline_found": 0,
+ "exact_text": 19,
+ "multiplier_right": 19,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [
+  {
+   "text": "4. INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY.",
+   "box": [
+    212,
+    257,
+    1146,
+    273
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.02703690528869629,
+  "read": 2.750797986984253,
+  "audit": 0.776392936706543,
+  "text_layer_unmatched": 4,
+  "total": 3.597005844116211
+ }
+}

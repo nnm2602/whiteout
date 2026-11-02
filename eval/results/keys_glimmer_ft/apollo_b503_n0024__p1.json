@@ -1,0 +1,435 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 5,
+ "true_missed_visible": 0,
+ "key": "apollo_b503_n0024__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 57,
+ "found": 99,
+ "first_read_hits": 52,
+ "final_hits": 52,
+ "hits_inside_larger_callout": 1,
+ "baseline_hits": 10,
+ "baseline_found": 23,
+ "exact_text": 32,
+ "multiplier_right": 51,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k15",
+   "text": ".5772",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2390,
+    2028,
+    2430
+   ],
+   "table": true
+  },
+  {
+   "key": "k16",
+   "text": ".5776",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2437,
+    2028,
+    2477
+   ],
+   "table": true
+  },
+  {
+   "key": "k19",
+   "text": ".6467",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2572,
+    2028,
+    2612
+   ],
+   "table": true
+  },
+  {
+   "key": "k22",
+   "text": ".6491",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    2705,
+    2028,
+    2745
+   ],
+   "table": true
+  },
+  {
+   "key": "k31",
+   "text": ".6563",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1868,
+    3112,
+    2028,
+    3152
+   ],
+   "table": true
+  }
+ ],
+ "extra": [
+  {
+   "text": "- 79 .6515",
+   "box": [
+    1670,
+    2735,
+    2006,
+    2770
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 63 .6451",
+   "box": [
+    1702,
+    2395,
+    1984,
+    2422
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 61 .5776",
+   "box": [
+    1702,
+    2351,
+    1778,
+    2378
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "A DIA \u00b1.0001",
+   "box": [
+    1792,
+    1041,
+    2008,
+    1073
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "LDW270M10007-91",
+   "box": [
+    1429,
+    3044,
+    1791,
+    3071
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 77 .6507",
+   "box": [
+    1670,
+    2699,
+    2006,
+    2735
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 65 .6459",
+   "box": [
+    1702,
+    2441,
+    1988,
+    2470
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 59 .5772",
+   "box": [
+    1699,
+    2306,
+    1777,
+    2334
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-89",
+   "box": [
+    1704,
+    3026,
+    1777,
+    3056
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 83 .6531",
+   "box": [
+    1670,
+    2806,
+    2006,
+    2841
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 67 .6467",
+   "box": [
+    1632,
+    2467,
+    2026,
+    2504
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-87",
+   "box": [
+    1711,
+    2983,
+    1782,
+    3013
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 85 .6539",
+   "box": [
+    1670,
+    2841,
+    2006,
+    2877
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2. TOOLING FOR THIS PART IS SIMILAR TO LDW270M10015.",
+   "box": [
+    4278,
+    3037,
+    5081,
+    3072
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 55 .5764",
+   "box": [
+    1700,
+    2263,
+    1778,
+    2291
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 71 .6483",
+   "box": [
+    1706,
+    2578,
+    1789,
+    2607
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-85",
+   "box": [
+    1714,
+    2938,
+    1785,
+    2967
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 87 .6547",
+   "box": [
+    1670,
+    2877,
+    2006,
+    2913
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "- 53 .5760",
+   "box": [
+    1632,
+    2213,
+    2026,
+    2250
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-83",
+   "box": [
+    1715,
+    2895,
+    1766,
+    2924
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-81",
+   "box": [
+    1720,
+    2847,
+    1775,
+    2877
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M10008 & LDW270M10009 FOR CORRESPONDING HOLE PATTERN.",
+   "box": [
+    4326,
+    2932,
+    5278,
+    3003
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".032",
+   "box": [
+    2861,
+    1255,
+    2957,
+    1286
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".6515",
+   "box": [
+    1878,
+    2830,
+    1963,
+    2857
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-79",
+   "box": [
+    1671,
+    2830,
+    1739,
+    2857
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "TOLERANCE ON LOFTED DELINEATIONS IS",
+   "box": [
+    4970,
+    2805,
+    5324,
+    2890
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-77",
+   "box": [
+    1707,
+    2804,
+    1775,
+    2831
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "GRAIN DIRECTION OPTIONAL",
+   "box": [
+    3061,
+    3266,
+    3612,
+    3295
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".063R TO .250R \u00b1 .015",
+   "box": [
+    5312,
+    1295,
+    5408,
+    1352
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.0",
+   "box": [
+    3256,
+    2096,
+    3401,
+    2134
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "-75",
+   "box": [
+    1712,
+    2759,
+    1786,
+    2787
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 18.36416244506836,
+  "read": 983.2610418796539,
+  "audit": 997.7053506374359,
+  "total": 2000.248550415039
+ }
+}

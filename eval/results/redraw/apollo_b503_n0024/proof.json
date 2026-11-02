@@ -1,0 +1,442 @@
+[
+ {
+  "box": [
+   4984,
+   1842,
+   5270,
+   1874
+  ],
+  "kind": "wrong text",
+  "redraw": "INTERSECTING SURFACES.",
+  "scan": "READING"
+ },
+ {
+  "box": [
+   1801,
+   1845,
+   2049,
+   1892
+  ],
+  "kind": "wrong text",
+  "redraw": ".5720",
+  "scan": ".5724"
+ },
+ {
+  "box": [
+   4996,
+   1889,
+   5229,
+   1929
+  ],
+  "kind": "added",
+  "redraw": "INTERSECTING SURFACES.",
+  "scan": ""
+ },
+ {
+  "box": [
+   1801,
+   1892,
+   2049,
+   1933
+  ],
+  "kind": "wrong text",
+  "redraw": ".5724",
+  "scan": ".5728"
+ },
+ {
+  "box": [
+   4936,
+   1892,
+   5021,
+   1920
+  ],
+  "kind": "moved",
+  "redraw": "READING",
+  "scan": ""
+ },
+ {
+  "box": [
+   4936,
+   1920,
+   5034,
+   1951
+  ],
+  "kind": "added",
+  "redraw": "READING",
+  "scan": ""
+ },
+ {
+  "box": [
+   1801,
+   1933,
+   2049,
+   1974
+  ],
+  "kind": "wrong text",
+  "redraw": ".5728",
+  "scan": ".5732"
+ },
+ {
+  "box": [
+   4943,
+   1969,
+   5011,
+   1998
+  ],
+  "kind": "added",
+  "redraw": "READING",
+  "scan": ""
+ },
+ {
+  "box": [
+   1801,
+   1974,
+   2049,
+   2015
+  ],
+  "kind": "wrong text",
+  "redraw": ".5732",
+  "scan": ".5736"
+ },
+ {
+  "box": [
+   1827,
+   1996,
+   2069,
+   2038
+  ],
+  "kind": "wrong text",
+  "redraw": ".5728",
+  "scan": ".5732"
+ },
+ {
+  "box": [
+   4947,
+   1996,
+   5036,
+   2028
+  ],
+  "kind": "added",
+  "redraw": "READING",
+  "scan": ""
+ },
+ {
+  "box": [
+   3534,
+   2015,
+   4004,
+   2063
+  ],
+  "kind": "wrong text",
+  "redraw": "2.000 DIA \u00b7(BASIC)",
+  "scan": "2.000 DIA \u25cb(BASIC)"
+ },
+ {
+  "box": [
+   1827,
+   2038,
+   2069,
+   2081
+  ],
+  "kind": "wrong text",
+  "redraw": ".5732",
+  "scan": ".5736"
+ },
+ {
+  "box": [
+   1827,
+   2119,
+   2069,
+   2162
+  ],
+  "kind": "wrong text",
+  "redraw": ".5740",
+  "scan": ".5744"
+ },
+ {
+  "box": [
+   3258,
+   2129,
+   3445,
+   2188
+  ],
+  "kind": "wrong text",
+  "redraw": "1 1.001 1.000",
+  "scan": "1.001 1.000"
+ },
+ {
+  "box": [
+   1827,
+   2203,
+   2069,
+   2245
+  ],
+  "kind": "wrong text",
+  "redraw": ".5756",
+  "scan": ".5752"
+ },
+ {
+  "box": [
+   1570,
+   2243,
+   1827,
+   2286
+  ],
+  "kind": "moved",
+  "redraw": "- 51 overlapping - 53",
+  "scan": "- 53"
+ },
+ {
+  "box": [
+   1827,
+   2243,
+   2069,
+   2286
+  ],
+  "kind": "wrong text",
+  "redraw": ".5760 in -51 row",
+  "scan": ".5756"
+ },
+ {
+  "box": [
+   1827,
+   2285,
+   2069,
+   2326
+  ],
+  "kind": "wrong text",
+  "redraw": ".5756",
+  "scan": ".5764"
+ },
+ {
+  "box": [
+   1827,
+   2326,
+   2069,
+   2367
+  ],
+  "kind": "wrong text",
+  "redraw": ".5760",
+  "scan": ".5768"
+ },
+ {
+  "box": [
+   3551,
+   2334,
+   3693,
+   2528
+  ],
+  "kind": "wrong text",
+  "redraw": "1.561 1.560 1 560 O",
+  "scan": "1.561 1.560"
+ },
+ {
+  "box": [
+   4934,
+   2339,
+   4995,
+   2383
+  ],
+  "kind": "added",
+  "redraw": "125",
+  "scan": ""
+ },
+ {
+  "box": [
+   1827,
+   2409,
+   2069,
+   2450
+  ],
+  "kind": "wrong text",
+  "redraw": ".5768",
+  "scan": ".5776"
+ },
+ {
+  "box": [
+   1810,
+   2489,
+   2053,
+   2540
+  ],
+  "kind": "moved",
+  "redraw": ".6451",
+  "scan": ".6459"
+ },
+ {
+  "box": [
+   1570,
+   2531,
+   1827,
+   2574
+  ],
+  "kind": "wrong text",
+  "redraw": "- 67 overlapping 69",
+  "scan": "- 67"
+ },
+ {
+  "box": [
+   1827,
+   2531,
+   2069,
+   2574
+  ],
+  "kind": "wrong text",
+  "redraw": ".6459",
+  "scan": ".6467"
+ },
+ {
+  "box": [
+   1827,
+   2572,
+   2069,
+   2614
+  ],
+  "kind": "wrong text",
+  "redraw": ".6467",
+  "scan": ".6483"
+ },
+ {
+  "box": [
+   1827,
+   2653,
+   2069,
+   2696
+  ],
+  "kind": "wrong text",
+  "redraw": "6507",
+  "scan": ".6499"
+ },
+ {
+  "box": [
+   1810,
+   2681,
+   2053,
+   2730
+  ],
+  "kind": "wrong text",
+  "redraw": "6507",
+  "scan": ".6499"
+ },
+ {
+  "box": [
+   1570,
+   2694,
+   1827,
+   2736
+  ],
+  "kind": "added",
+  "redraw": "-73",
+  "scan": ""
+ },
+ {
+  "box": [
+   1579,
+   2728,
+   2053,
+   2775
+  ],
+  "kind": "added",
+  "redraw": "-73 | .6491",
+  "scan": ""
+ },
+ {
+  "box": [
+   3019,
+   2760,
+   3273,
+   2807
+  ],
+  "kind": "added",
+  "redraw": "A OA FER",
+  "scan": ""
+ },
+ {
+  "box": [
+   1579,
+   2775,
+   2053,
+   2822
+  ],
+  "kind": "added",
+  "redraw": "-75 | .6491",
+  "scan": ""
+ },
+ {
+  "box": [
+   2821,
+   2783,
+   3061,
+   2824
+  ],
+  "kind": "added",
+  "redraw": "& ACTUAL A DIA PER",
+  "scan": "& ACTUAL A"
+ },
+ {
+  "box": [
+   2832,
+   2799,
+   3631,
+   2857
+  ],
+  "kind": "added",
+  "redraw": "& ACTUAL A DIA PER A ON FER",
+  "scan": "& ACTUAL A DIA PER"
+ },
+ {
+  "box": [
+   2822,
+   2888,
+   3095,
+   2923
+  ],
+  "kind": "added",
+  "redraw": "IF IF NECESSARY",
+  "scan": "IF NECESSARY"
+ },
+ {
+  "box": [
+   4973,
+   2924,
+   5280,
+   2969
+  ],
+  "kind": "wrong text",
+  "redraw": "LDW270M1000",
+  "scan": "LDW270M1000B"
+ },
+ {
+  "box": [
+   1810,
+   2963,
+   2053,
+   3010
+  ],
+  "kind": "moved",
+  "redraw": ".6515",
+  "scan": ".6531"
+ },
+ {
+  "box": [
+   4304,
+   2965,
+   5092,
+   3008
+  ],
+  "kind": "missing",
+  "redraw": "",
+  "scan": "& LDW270M10009 FOR CORRESPONDING"
+ },
+ {
+  "box": [
+   1810,
+   3010,
+   2053,
+   3057
+  ],
+  "kind": "moved",
+  "redraw": ".6523",
+  "scan": ".6539"
+ }
+]

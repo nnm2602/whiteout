@@ -1,0 +1,478 @@
+{
+ "id": "apollo_b503_n0259",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0259.jpg",
+ "stamp_not_for_photo_reproduction": false,
+ "drawing_number": "LDW270M10065",
+ "title": "",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": ".256-.263 HOLE ×.312 DEEP (4)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1280,
+    1015,
+    1530,
+    1080
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".890 HOLE (4)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    2350,
+    1095,
+    2620,
+    1137
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "CHAMFER 45°×.093",
+   "kind": "chamfer",
+   "multiplier": 1,
+   "box": [
+    2270,
+    1270,
+    2610,
+    1302
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "1.955",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3085,
+    1362,
+    3190,
+    1408
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "45°",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    2195,
+    1450,
+    2270,
+    1490
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "45°",
+   "kind": "angle",
+   "multiplier": 1,
+   "box": [
+    2400,
+    1446,
+    2475,
+    1490
+   ]
+  },
+  {
+   "key": "k7",
+   "text": ".156",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3055,
+    1460,
+    3128,
+    1503
+   ]
+  },
+  {
+   "key": "k8",
+   "text": ".256-.263 (DRILL F) ×.312 DEEP (8)",
+   "kind": "hole_callout",
+   "multiplier": 8,
+   "box": [
+    1615,
+    1540,
+    1950,
+    1612
+   ]
+  },
+  {
+   "key": "k9",
+   "text": ".069-.074 HOLE THRU ONE WALL ONLY (4 PLACES)",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    3480,
+    1550,
+    3880,
+    1658
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "2.400 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2723,
+    1678,
+    2872,
+    1720
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".010-.020 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    3460,
+    1718,
+    3675,
+    1752
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "1.250 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2600,
+    1748,
+    2750,
+    1788
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "MINOR DIA .1560-.1641",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    1525,
+    1874,
+    1935,
+    1907
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "TAP 10-32 UNF-3B",
+   "kind": "thread",
+   "multiplier": 4,
+   "box": [
+    1525,
+    1908,
+    1855,
+    1942
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "CSK 90°×.221 DIA",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1525,
+    1942,
+    1815,
+    1975
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "2.850/2.840 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2245,
+    1988,
+    2427,
+    2052
+   ]
+  },
+  {
+   "key": "k17",
+   "text": ".060 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2718,
+    2002,
+    2832,
+    2042
+   ]
+  },
+  {
+   "key": "k18",
+   "text": ".060",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3020,
+    1997,
+    3105,
+    2032
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "1.980 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2575,
+    2093,
+    2750,
+    2130
+   ]
+  },
+  {
+   "key": "k20",
+   "text": ".230",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3020,
+    2092,
+    3092,
+    2128
+   ]
+  },
+  {
+   "key": "k21",
+   "text": ".695",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3300,
+    2088,
+    3390,
+    2128
+   ]
+  },
+  {
+   "key": "k22",
+   "text": ".050/.040 WALL",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1880,
+    2168,
+    2085,
+    2235
+   ]
+  },
+  {
+   "key": "k23",
+   "text": "1.680 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2590,
+    2184,
+    2785,
+    2222
+   ]
+  },
+  {
+   "key": "k24",
+   "text": "1.945/1.935",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3002,
+    2158,
+    3102,
+    2230
+   ]
+  },
+  {
+   "key": "k25",
+   "text": ".125 R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    1955,
+    2256,
+    2065,
+    2292
+   ]
+  },
+  {
+   "key": "k26",
+   "text": ".800 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2588,
+    2276,
+    2750,
+    2312
+   ]
+  },
+  {
+   "key": "k27",
+   "text": ".080",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1928,
+    2328,
+    2015,
+    2362
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "1.945/1.935 (REF)",
+   "kind": "reference_dimension",
+   "multiplier": 1,
+   "box": [
+    1880,
+    2506,
+    2082,
+    2575
+   ]
+  },
+  {
+   "key": "k29",
+   "text": "2.445",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2692,
+    2558,
+    2805,
+    2598
+   ]
+  },
+  {
+   "key": "k30",
+   "text": ".500",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2580,
+    2680,
+    2675,
+    2722
+   ]
+  },
+  {
+   "key": "k31",
+   "text": "G41-16 THREAD RELIEF UNDERCUT TO 1.951-1.961 RELIEF DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1445,
+    2790,
+    2070,
+    2860
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "1.805/1.795 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2505,
+    2843,
+    2697,
+    2912
+   ]
+  },
+  {
+   "key": "k33",
+   "text": "NOTE: 1. ELECTRO-ETCH PER LSP-14-4706.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    3788,
+    2875,
+    4565,
+    2913
+   ]
+  },
+  {
+   "key": "k34",
+   "text": "MINOR DIA 1.8700-1.8783",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1603,
+    2920,
+    2070,
+    2957
+   ]
+  },
+  {
+   "key": "k35",
+   "text": "1.9375-16 UN-3B",
+   "kind": "thread",
+   "multiplier": 1,
+   "box": [
+    1603,
+    2956,
+    1912,
+    2992
+   ]
+  },
+  {
+   "key": "k36",
+   "text": "P.D. 1.8969-1.9021",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1603,
+    2990,
+    1972,
+    3025
+   ]
+  },
+  {
+   "key": "k37",
+   "text": "CSK 90°×1.982 DIA",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1603,
+    3023,
+    1990,
+    3060
+   ]
+  },
+  {
+   "key": "k38",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED APPLY: ELECTRO-ETCH PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED (SEE NOTE 1); FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010, .063R TO .250R ±.015, OVER .250R ±.030; 125 SURFACE ROUGHNESS PER MIL-STD-10; 200 FOR ALL HOLES; REMOVE ALL BURRS, BREAK ALL EDGES .015-.031",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    4490,
+    965,
+    4905,
+    2800
+   ]
+  }
+ ],
+ "doubts": [
+  "sheet carries no title text (sheet 3 of the drawing); title left empty",
+  "drawing number LDW270M10065 with rev A in an adjacent cell",
+  "k10: decimal point faint, printed as 2400 DIA; read as 2.400 DIA",
+  "k13: thread minor diameter line of the 10-32 stack; counted as its own dimension item",
+  "k14: a star or # mark sits between TAP and 10-32",
+  "k31: thread relief undercut callout (G41-16 standard) with a relief dia limit; kind could be note or hole_callout"
+ ]
+}

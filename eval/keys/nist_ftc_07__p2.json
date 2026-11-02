@@ -1,0 +1,269 @@
+{
+ "id": "nist_ftc_07",
+ "page": 2,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_07_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_07_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 7 - View B",
+ "doubts": [
+  "Boxes are axis-aligned boxes around rotated isometric annotations, so they overlap each other.",
+  "Composite frames T11, T4 and T13 give one item per row; each row repeats the shared symbol and gets its own box (the shared symbol cell is split between the two row boxes).",
+  "T8, T9, T10 are three single frames stacked on one leader; one item each.",
+  "D10 counterbore ⌴⌀.438 ±.010 and D9 hole size keyed as hole_callout; D11 depth as dimension. Rows of T11 take multiplier 4 from the 4X callout, T13 rows take 4 from D14, T14 takes 2 from D15, T12 takes 3 from D12/D13.",
+  "D12 carries the statistical tolerance symbol, written <ST>; T12 writes it inline after the tolerance as printed.",
+  "STR2 '4 COPLANAR SURFACES' kept as note with multiplier 4; the T4 frame rows keep multiplier 1 (the count is printed in STR2, not with the frame).",
+  "Excluded: DF4 datum feature symbol D, VSI1 view identifier 'D' (with its circle), coordinate systems CS1, CS2, CS3."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "D9",
+   "text": "4X ⌀.281 +.006/-.001",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    637,
+    145,
+    816,
+    274
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "D10",
+   "text": "⌴⌀.438 ±.010",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    635,
+    164,
+    816,
+    311
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "D11",
+   "text": "↧.30 ±.02",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    697,
+    234,
+    816,
+    349
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T11",
+   "text": "⌖|⌀.06Ⓜ|E|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    565,
+    222,
+    817,
+    411
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "T11",
+   "text": "⌖|⌀.02Ⓜ|E|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    565,
+    266,
+    817,
+    453
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T4",
+   "text": "⌓|.04|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1207,
+    155,
+    1446,
+    343
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "T4",
+   "text": "⌓|.01|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1208,
+    234,
+    1393,
+    388
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "STR2",
+   "text": "4 COPLANAR SURFACES",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    1291,
+    268,
+    1454,
+    415
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "T8",
+   "text": "⏥|.01/⌀1.00",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1409,
+    335,
+    1611,
+    497
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T9",
+   "text": "∥|.03|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1410,
+    393,
+    1608,
+    544
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "T10",
+   "text": "⌓|.06|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1410,
+    420,
+    1621,
+    585
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "D15",
+   "text": "2X ⌀.594 +.012/-.002",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    228,
+    977,
+    429,
+    1110
+   ]
+  },
+  {
+   "key": "k13",
+   "official_id": "T14",
+   "text": "⌖|⌀.040Ⓜ|⌀.045 MAX|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    225,
+    1023,
+    637,
+    1311
+   ]
+  },
+  {
+   "key": "k14",
+   "official_id": "D14",
+   "text": "4X ⌀.173 +.005/-.001",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    711,
+    1261,
+    911,
+    1393
+   ]
+  },
+  {
+   "key": "k15",
+   "official_id": "T13",
+   "text": "⌖|⌀.060|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    707,
+    1305,
+    945,
+    1489
+   ]
+  },
+  {
+   "key": "k16",
+   "official_id": "T13",
+   "text": "⌖|⌀.015|A",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    707,
+    1347,
+    935,
+    1491
+   ]
+  },
+  {
+   "key": "k17",
+   "official_id": "D12",
+   "text": "3X ⌀.875 ±.020 <ST>",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    1560,
+    1246,
+    1804,
+    1391
+   ]
+  },
+  {
+   "key": "k18",
+   "official_id": "D13",
+   "text": "3X ⌀.875 ±.010",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    1574,
+    1305,
+    1753,
+    1425
+   ]
+  },
+  {
+   "key": "k19",
+   "official_id": "T12",
+   "text": "⌖|⌀.050<ST>|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    1572,
+    1279,
+    1861,
+    1488
+   ]
+  }
+ ]
+}

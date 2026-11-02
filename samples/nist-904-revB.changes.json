@@ -1,0 +1,14 @@
+{
+ "changed": [
+  "2.375 -> 2.385",
+  "4X .768 -> 4X .770",
+  ".268 -> .272"
+ ],
+ "removed": [
+  ".134"
+ ],
+ "added": [
+  "BREAK SHARP EDGES .005-.015"
+ ],
+ "title_block": "rev A -> B"
+}

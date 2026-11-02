@@ -1,0 +1,114 @@
+{
+ "key": "apollo_b502_n0040__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 33,
+ "found": 55,
+ "first_read_hits": 32,
+ "final_hits": 32,
+ "baseline_hits": 6,
+ "baseline_found": 14,
+ "exact_text": 26,
+ "multiplier_right": 30,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k25",
+   "text": ".002",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    403,
+    3728,
+    487,
+    3765
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "1. THIS DRAWING AFFECTED BY LFM-4.",
+   "box": [
+    5035,
+    2245,
+    5725,
+    2279
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "SEE NOTE *7",
+   "box": [
+    233,
+    3032,
+    450,
+    3067
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "SEE NOTE *7",
+   "box": [
+    900,
+    3030,
+    1096,
+    3066
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".002",
+   "box": [
+    383,
+    3673,
+    458,
+    3711
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2. LDW200-54003-1 INSTL MAY BE USED FOR REWORK ON LM-4(34) THRU LM-15(45)",
+   "box": [
+    5031,
+    2324,
+    5732,
+    2394
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "3. (4) MODULE QUANTITIES OF -1 REQUIRED PER LFM-4.",
+   "box": [
+    5026,
+    2401,
+    5784,
+    2440
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "SEE NOTE #6",
+   "box": [
+    3748,
+    1798,
+    3975,
+    1830
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.056536197662353516,
+  "read": 10.380141019821167,
+  "audit": 30.46355390548706,
+  "total": 41.15297532081604
+ }
+}

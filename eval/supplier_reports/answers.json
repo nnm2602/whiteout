@@ -1,0 +1,1152 @@
+[
+ {
+  "file": "nist_clean_A.xlsx",
+  "job": "bd20fca1920f",
+  "drawing": "nist",
+  "layout": "A",
+  "numbering": "drawing",
+  "clean": true,
+  "rows": 141,
+  "errors": []
+ },
+ {
+  "file": "nist_clean_A.pdf",
+  "job": "bd20fca1920f",
+  "drawing": "nist",
+  "layout": "A",
+  "numbering": "drawing",
+  "clean": true,
+  "rows": 141,
+  "errors": []
+ },
+ {
+  "file": "nist_clean_B.xlsx",
+  "job": "bd20fca1920f",
+  "drawing": "nist",
+  "layout": "B",
+  "numbering": "drawing",
+  "clean": true,
+  "rows": 141,
+  "errors": []
+ },
+ {
+  "file": "nist_clean_own_numbers_A.xlsx",
+  "job": "bd20fca1920f",
+  "drawing": "nist",
+  "layout": "A",
+  "numbering": "own",
+  "clean": true,
+  "rows": 141,
+  "errors": []
+ },
+ {
+  "file": "nist_seeded1_A.xlsx",
+  "job": "bd20fca1920f",
+  "drawing": "nist",
+  "layout": "A",
+  "numbering": "drawing",
+  "clean": false,
+  "rows": 142,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "68-1",
+    "number": "68",
+    "drawing_text": "\u2295 4X \u00d8.005(M) A B C",
+    "char_no": "68A",
+    "detail": "result 0.0079 outside 0.0..0.005, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "30.2",
+    "number": "30",
+    "drawing_text": "\u21a7.100 \u00b1 .010",
+    "char_no": "30.2",
+    "detail": "result 0.0829 outside 0.09..0.11, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "71-1",
+    "number": "71",
+    "drawing_text": "4X \u00d8.215 - .225",
+    "char_no": "71A",
+    "detail": "0.225 copied as 0.220"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "8",
+    "number": "8",
+    "drawing_text": "7. INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY.",
+    "char_no": "8",
+    "detail": "note text changed: 'INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY.' -> 'INFORMATION ENCLOSED IN IS FOR REFERENCE ONLY.'"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "60",
+    "number": "60",
+    "drawing_text": ".806",
+    "char_no": "60",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "32",
+    "number": "32",
+    "drawing_text": ".672",
+    "char_no": "32",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "1",
+    "number": "1",
+    "drawing_text": "2. FINISH: CHROMATE CONVERSION COATING IN ACCORDANCE WITH MIL-DTL-5541, CLASS 1A, TYPE II.",
+    "char_no": "1",
+    "detail": "row for 'FINISH: CHROMATE CONVERSION COATING IN A' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "33",
+    "number": "33",
+    "drawing_text": "1.008",
+    "char_no": "33",
+    "detail": "row for '1.008' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "31",
+    "number": "31",
+    "drawing_text": "\u2295 | \u00d8.005\u24c2 | A | B | C",
+    "char_no": "31",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "7",
+    "number": "7",
+    "drawing_text": "6. UNLESS OTHERWISE SPECIFIED, DIMENSIONS AND TOLERANCES ARE EXPRESSED IN INCHES AND SHALL BE INTERPRETED IN ACCORDANCE WITH ASME Y14.5-2009.",
+    "char_no": "6",
+    "detail": "characteristic 7 numbered 6"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "77",
+    "detail": "'\u00d80.3125 \u00b10.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ },
+ {
+  "file": "nist_seeded1_A.pdf",
+  "job": "bd20fca1920f",
+  "drawing": "nist",
+  "layout": "A",
+  "numbering": "drawing",
+  "clean": false,
+  "rows": 142,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "68-1",
+    "number": "68",
+    "drawing_text": "\u2295 4X \u00d8.005(M) A B C",
+    "char_no": "68A",
+    "detail": "result 0.0079 outside 0.0..0.005, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "30.2",
+    "number": "30",
+    "drawing_text": "\u21a7.100 \u00b1 .010",
+    "char_no": "30.2",
+    "detail": "result 0.0829 outside 0.09..0.11, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "71-1",
+    "number": "71",
+    "drawing_text": "4X \u00d8.215 - .225",
+    "char_no": "71A",
+    "detail": "0.225 copied as 0.220"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "8",
+    "number": "8",
+    "drawing_text": "7. INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY.",
+    "char_no": "8",
+    "detail": "note text changed: 'INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY.' -> 'INFORMATION ENCLOSED IN IS FOR REFERENCE ONLY.'"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "60",
+    "number": "60",
+    "drawing_text": ".806",
+    "char_no": "60",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "32",
+    "number": "32",
+    "drawing_text": ".672",
+    "char_no": "32",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "1",
+    "number": "1",
+    "drawing_text": "2. FINISH: CHROMATE CONVERSION COATING IN ACCORDANCE WITH MIL-DTL-5541, CLASS 1A, TYPE II.",
+    "char_no": "1",
+    "detail": "row for 'FINISH: CHROMATE CONVERSION COATING IN A' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "33",
+    "number": "33",
+    "drawing_text": "1.008",
+    "char_no": "33",
+    "detail": "row for '1.008' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "31",
+    "number": "31",
+    "drawing_text": "\u2295 | \u00d8.005\u24c2 | A | B | C",
+    "char_no": "31",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "7",
+    "number": "7",
+    "drawing_text": "6. UNLESS OTHERWISE SPECIFIED, DIMENSIONS AND TOLERANCES ARE EXPRESSED IN INCHES AND SHALL BE INTERPRETED IN ACCORDANCE WITH ASME Y14.5-2009.",
+    "char_no": "6",
+    "detail": "characteristic 7 numbered 6"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "77",
+    "detail": "'\u00d80.3125 \u00b10.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ },
+ {
+  "file": "nist_seeded2_B.xlsx",
+  "job": "bd20fca1920f",
+  "drawing": "nist",
+  "layout": "B",
+  "numbering": "drawing",
+  "clean": false,
+  "rows": 142,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "71-3",
+    "number": "71",
+    "drawing_text": "4X \u00d8.215 - .225",
+    "char_no": "71.3",
+    "detail": "result .2301 outside 0.215..0.225, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "14",
+    "number": "14",
+    "drawing_text": "\u2295 | \u00d8.005\u24c1 | A | B | C",
+    "char_no": "14",
+    "detail": "result .0065 outside 0.0..0.005, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "30.2",
+    "number": "30",
+    "drawing_text": "\u21a7.100 \u00b1 .010",
+    "char_no": "30.2",
+    "detail": ".010 copied as .015"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "21-5",
+    "number": "21",
+    "drawing_text": "5X .050",
+    "char_no": "21.5",
+    "detail": ".050 copied as .005"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "10-1",
+    "number": "10",
+    "drawing_text": "2X .250",
+    "char_no": "10.1",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "11-2",
+    "number": "11",
+    "drawing_text": "2X .825",
+    "char_no": "11.2",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "55",
+    "number": "55",
+    "drawing_text": "3.869",
+    "char_no": "55",
+    "detail": "row for '3.869' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "40-1",
+    "number": "40",
+    "drawing_text": "5X .050",
+    "char_no": "40.1",
+    "detail": "row for '5X .050' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "51",
+    "number": "51",
+    "drawing_text": "\u25e1 .016",
+    "char_no": "51",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "33",
+    "number": "33",
+    "drawing_text": "1.008",
+    "char_no": "32",
+    "detail": "characteristic 33 numbered 32"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "77",
+    "detail": "'\u00d8.3125 \u00b1.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ },
+ {
+  "file": "nist_seeded3_A.xlsx",
+  "job": "bd20fca1920f",
+  "drawing": "nist",
+  "layout": "A",
+  "numbering": "drawing",
+  "clean": false,
+  "rows": 142,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "51",
+    "number": "51",
+    "drawing_text": "\u25e1 .016",
+    "char_no": "51",
+    "detail": "result 0.0234 outside 0.0..0.016, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "68-2",
+    "number": "68",
+    "drawing_text": "\u2295 4X \u00d8.005(M) A B C",
+    "char_no": "68B",
+    "detail": "result 0.0064 outside 0.0..0.005, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "18.2",
+    "number": "18",
+    "drawing_text": "\u21a7.250 \u00b1 .010",
+    "char_no": "18.2",
+    "detail": "0.010 copied as 0.015"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "37-4",
+    "number": "37",
+    "drawing_text": "5X 3.912",
+    "char_no": "37D",
+    "detail": "3.912 copied as 3.921"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "13-3",
+    "number": "13",
+    "drawing_text": "4X .050",
+    "char_no": "13C",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "60",
+    "number": "60",
+    "drawing_text": ".806",
+    "char_no": "60",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "74",
+    "number": "74",
+    "drawing_text": "2.632",
+    "char_no": "74",
+    "detail": "row for '2.632' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "46-1",
+    "number": "46",
+    "drawing_text": "5X .050",
+    "char_no": "46A",
+    "detail": "row for '0.050' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "61",
+    "number": "61",
+    "drawing_text": ".168",
+    "char_no": "61",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "12",
+    "number": "12",
+    "drawing_text": "2.500",
+    "char_no": "10B",
+    "detail": "characteristic 12 numbered 10B"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "77",
+    "detail": "'\u00d80.3125 \u00b10.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ },
+ {
+  "file": "nist_seeded4_own_numbers_A.xlsx",
+  "job": "bd20fca1920f",
+  "drawing": "nist",
+  "layout": "A",
+  "numbering": "own",
+  "clean": false,
+  "rows": 142,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "14",
+    "number": "14",
+    "drawing_text": "\u2295 | \u00d8.005\u24c1 | A | B | C",
+    "char_no": "28",
+    "detail": "result 0.0078 outside 0.0..0.005, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "71-1",
+    "number": "71",
+    "drawing_text": "4X \u00d8.215 - .225",
+    "char_no": "13A",
+    "detail": "result 0.2116 outside 0.215..0.225, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "54-1",
+    "number": "54",
+    "drawing_text": "4X R.032 \u00b1.010",
+    "char_no": "62A",
+    "detail": "0.010 copied as 0.015"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "13-2",
+    "number": "13",
+    "drawing_text": "4X .050",
+    "char_no": "22B",
+    "detail": "0.050 copied as 0.005"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "45-2",
+    "number": "45",
+    "drawing_text": "7X .518",
+    "char_no": "65B",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "35-1",
+    "number": "35",
+    "drawing_text": "5X 1.412",
+    "char_no": "15A",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "56",
+    "number": "56",
+    "drawing_text": "1.785",
+    "char_no": "47",
+    "detail": "row for '1.785' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "55",
+    "number": "55",
+    "drawing_text": "3.869",
+    "char_no": "34",
+    "detail": "row for '3.869' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "51",
+    "number": "51",
+    "drawing_text": "\u25e1 .016",
+    "char_no": "6",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "61",
+    "number": "61",
+    "drawing_text": ".168",
+    "char_no": "69",
+    "detail": "characteristic 71 numbered 69"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "77",
+    "detail": "'\u00d80.3125 \u00b10.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ },
+ {
+  "file": "apollo_clean_A.xlsx",
+  "job": "e9f770195cba",
+  "drawing": "apollo",
+  "layout": "A",
+  "numbering": "drawing",
+  "clean": true,
+  "rows": 84,
+  "errors": []
+ },
+ {
+  "file": "apollo_clean_B.xlsx",
+  "job": "e9f770195cba",
+  "drawing": "apollo",
+  "layout": "B",
+  "numbering": "drawing",
+  "clean": true,
+  "rows": 84,
+  "errors": []
+ },
+ {
+  "file": "apollo_clean_B.pdf",
+  "job": "e9f770195cba",
+  "drawing": "apollo",
+  "layout": "B",
+  "numbering": "drawing",
+  "clean": true,
+  "rows": 84,
+  "errors": []
+ },
+ {
+  "file": "apollo_clean_own_numbers_A.xlsx",
+  "job": "e9f770195cba",
+  "drawing": "apollo",
+  "layout": "A",
+  "numbering": "own",
+  "clean": true,
+  "rows": 84,
+  "errors": []
+ },
+ {
+  "file": "apollo_seeded1_A.xlsx",
+  "job": "e9f770195cba",
+  "drawing": "apollo",
+  "layout": "A",
+  "numbering": "drawing",
+  "clean": false,
+  "rows": 85,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "36-3",
+    "number": "36",
+    "drawing_text": ".256-.263 HOLE(3)",
+    "char_no": "36C",
+    "detail": "result 0.2650 outside 0.256..0.263, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "31-3",
+    "number": "31",
+    "drawing_text": "CHAMFER 45\u00b0 X .156 (3)",
+    "char_no": "31C",
+    "detail": "result 44.9382 outside 44.9688..45.0312, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "1",
+    "number": "1",
+    "drawing_text": "1.9950",
+    "char_no": "1",
+    "detail": "1.9950 copied as 1.9955"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "50",
+    "number": "50",
+    "drawing_text": "1.253",
+    "char_no": "50",
+    "detail": "1.253 copied as 1.235"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "71",
+    "number": "71",
+    "drawing_text": "UNLESS OTHERWISE SPECIFIED TOLERANCE ON FLANGES IS \u00b1 1/32",
+    "char_no": "71",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "12",
+    "number": "12",
+    "drawing_text": "1.1680",
+    "char_no": "12",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "16",
+    "number": "16",
+    "drawing_text": "16",
+    "char_no": "16",
+    "detail": "row for '16' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "40",
+    "number": "40",
+    "drawing_text": "-57 1.1940",
+    "char_no": "40",
+    "detail": "row for '-57 1.1940' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "58",
+    "number": "58",
+    "drawing_text": "-69 1.2820",
+    "char_no": "58",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "43",
+    "number": "43",
+    "drawing_text": "-55 1.1920",
+    "char_no": "42",
+    "detail": "characteristic 43 numbered 42"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'\u00d80.3125 \u00b10.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "79",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ },
+ {
+  "file": "apollo_seeded2_B.xlsx",
+  "job": "e9f770195cba",
+  "drawing": "apollo",
+  "layout": "B",
+  "numbering": "drawing",
+  "clean": false,
+  "rows": 85,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "13",
+    "number": "13",
+    "drawing_text": "1.1640",
+    "char_no": "13",
+    "detail": "result 1.1649 outside 1.1635..1.1645, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "69",
+    "number": "69",
+    "drawing_text": "1.671\n1.670",
+    "char_no": "69",
+    "detail": "result 1.6714 outside 1.67..1.671, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "10",
+    "number": "10",
+    "drawing_text": "1.1620",
+    "char_no": "10",
+    "detail": "1.1620 copied as 1.1625"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "33",
+    "number": "33",
+    "drawing_text": "2.506",
+    "char_no": "33",
+    "detail": "2.506 copied as 2.560"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "70",
+    "number": "70",
+    "drawing_text": ".2522-.2532 HOLE",
+    "char_no": "70",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "22",
+    "number": "22",
+    "drawing_text": "-45 1.1820",
+    "char_no": "22",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "77",
+    "number": "77",
+    "drawing_text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M10004 AND LDW270M10005 FOR CORRESPONDING HOLE PATTERN.",
+    "char_no": "77",
+    "detail": "row for '1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M100' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "57",
+    "number": "57",
+    "drawing_text": "SYMBOL V DENOTES SURFACE TO BE MACHINED",
+    "char_no": "57",
+    "detail": "row for 'SYMBOL V DENOTES SURFACE TO BE MACHINED' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "15",
+    "number": "15",
+    "drawing_text": "16",
+    "char_no": "15",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "34",
+    "number": "34",
+    "drawing_text": "1.253",
+    "char_no": "32",
+    "detail": "characteristic 34 numbered 32"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'\u00d8.3125 \u00b1.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "79",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ },
+ {
+  "file": "apollo_seeded2_B.pdf",
+  "job": "e9f770195cba",
+  "drawing": "apollo",
+  "layout": "B",
+  "numbering": "drawing",
+  "clean": false,
+  "rows": 85,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "13",
+    "number": "13",
+    "drawing_text": "1.1640",
+    "char_no": "13",
+    "detail": "result 1.1649 outside 1.1635..1.1645, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "69",
+    "number": "69",
+    "drawing_text": "1.671\n1.670",
+    "char_no": "69",
+    "detail": "result 1.6714 outside 1.67..1.671, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "10",
+    "number": "10",
+    "drawing_text": "1.1620",
+    "char_no": "10",
+    "detail": "1.1620 copied as 1.1625"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "33",
+    "number": "33",
+    "drawing_text": "2.506",
+    "char_no": "33",
+    "detail": "2.506 copied as 2.560"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "70",
+    "number": "70",
+    "drawing_text": ".2522-.2532 HOLE",
+    "char_no": "70",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "22",
+    "number": "22",
+    "drawing_text": "-45 1.1820",
+    "char_no": "22",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "77",
+    "number": "77",
+    "drawing_text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M10004 AND LDW270M10005 FOR CORRESPONDING HOLE PATTERN.",
+    "char_no": "77",
+    "detail": "row for '1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M100' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "57",
+    "number": "57",
+    "drawing_text": "SYMBOL V DENOTES SURFACE TO BE MACHINED",
+    "char_no": "57",
+    "detail": "row for 'SYMBOL V DENOTES SURFACE TO BE MACHINED' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "15",
+    "number": "15",
+    "drawing_text": "16",
+    "char_no": "15",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "34",
+    "number": "34",
+    "drawing_text": "1.253",
+    "char_no": "32",
+    "detail": "characteristic 34 numbered 32"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'\u00d8.3125 \u00b1.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "79",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ },
+ {
+  "file": "apollo_seeded3_A.xlsx",
+  "job": "e9f770195cba",
+  "drawing": "apollo",
+  "layout": "A",
+  "numbering": "drawing",
+  "clean": false,
+  "rows": 85,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "31-2",
+    "number": "31",
+    "drawing_text": "CHAMFER 45\u00b0 X .156 (3)",
+    "char_no": "31B",
+    "detail": "result 45.0560 outside 44.9688..45.0312, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "9",
+    "number": "9",
+    "drawing_text": "1.1600",
+    "char_no": "9",
+    "detail": "result 1.1590 outside 1.1595..1.1605, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "47",
+    "number": "47",
+    "drawing_text": "2.101\n2.100",
+    "char_no": "47",
+    "detail": "2.100 copied as 2.105"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "30",
+    "number": "30",
+    "drawing_text": "4 HOLES EQUALLY SPACED WITHIN .001 OF TRUE LOCATION \u25b2 SEE NOTE 1",
+    "char_no": "30",
+    "detail": "note text changed: 'HOLES EQUALLY SPACED WITHIN 0.001 OF TRUE LOCATION \u25b2 SEE NOTE 1' -> 'HOLES EQUALLY SPACED WITHIN 5.001 OF TRUE LOCATION \u25b2 SEE NOTE 1'"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "14",
+    "number": "14",
+    "drawing_text": "3.375",
+    "char_no": "14",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "74",
+    "number": "74",
+    "drawing_text": "GRAIN DIRECTION OPTIONAL",
+    "char_no": "74",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "5.1",
+    "number": "5",
+    "drawing_text": ".016R TO .062R \u00b1 .010",
+    "char_no": "5.1",
+    "detail": "row for '0.016R TO 0.062R \u00b1 0.010' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "50",
+    "number": "50",
+    "drawing_text": "1.253",
+    "char_no": "50",
+    "detail": "row for '1.253' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "29",
+    "number": "29",
+    "drawing_text": "-41 1.1780",
+    "char_no": "29",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "44",
+    "number": "44",
+    "drawing_text": "-59 1.1960",
+    "char_no": "43",
+    "detail": "characteristic 44 numbered 43"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'\u00d80.3125 \u00b10.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "79",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ },
+ {
+  "file": "apollo_seeded4_own_numbers_A.xlsx",
+  "job": "e9f770195cba",
+  "drawing": "apollo",
+  "layout": "A",
+  "numbering": "own",
+  "clean": false,
+  "rows": 85,
+  "errors": [
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "12",
+    "number": "12",
+    "drawing_text": "1.1680",
+    "char_no": "33",
+    "detail": "result 1.1691 outside 1.1675..1.1685, accepted"
+   },
+   {
+    "kind": "accepted_out_of_tolerance",
+    "row_id": "70",
+    "number": "70",
+    "drawing_text": ".2522-.2532 HOLE",
+    "char_no": "62",
+    "detail": "result 0.2535 outside 0.2522..0.2532, accepted"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "13",
+    "number": "13",
+    "drawing_text": "1.1640",
+    "char_no": "31",
+    "detail": "1.1640 copied as 1.1645"
+   },
+   {
+    "kind": "requirement_mismatch",
+    "row_id": "23",
+    "number": "23",
+    "drawing_text": "-37 1.1740",
+    "char_no": "23",
+    "detail": "1.1740 copied as 1.1704"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "5.1",
+    "number": "5",
+    "drawing_text": ".016R TO .062R \u00b1 .010",
+    "char_no": "4.1",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_result",
+    "row_id": "28",
+    "number": "28",
+    "drawing_text": "-39 1.1760",
+    "char_no": "25",
+    "detail": "result left blank"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "26",
+    "number": "26",
+    "drawing_text": "-43 1.1800",
+    "char_no": "5",
+    "detail": "row for '-43 1.1800' left out"
+   },
+   {
+    "kind": "missing_row",
+    "row_id": "76",
+    "number": "76",
+    "drawing_text": "2. PARTS SHALL BE CLEANED PER LSP-14-7072.",
+    "char_no": "18",
+    "detail": "row for 'PARTS SHALL BE CLEANED PER LSP-14-7072.' left out"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "46",
+    "number": "46",
+    "drawing_text": "-63 1.2730",
+    "char_no": "17",
+    "detail": "row typed twice"
+   },
+   {
+    "kind": "duplicate_number",
+    "row_id": "2",
+    "number": "2",
+    "drawing_text": "ELECTRO ETCH PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED USE BOTH SIDES IF NECESSARY.",
+    "char_no": "58",
+    "detail": "characteristic 60 numbered 58"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "78",
+    "detail": "'\u00d80.3125 \u00b10.005' not on drawing"
+   },
+   {
+    "kind": "extra_row",
+    "row_id": "",
+    "number": "",
+    "drawing_text": "",
+    "char_no": "79",
+    "detail": "'PASSIVATE PER AMS 2700, METHOD 1, TYPE 2' not on drawing"
+   }
+  ]
+ }
+]

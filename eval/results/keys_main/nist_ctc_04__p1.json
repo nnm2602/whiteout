@@ -1,0 +1,76 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 1,
+ "true_missed_visible": 0,
+ "key": "nist_ctc_04__p1.json",
+ "kind": "nist_ctc",
+ "source": "official",
+ "items": 15,
+ "found": 17,
+ "first_read_hits": 14,
+ "final_hits": 14,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 0,
+ "baseline_found": 1,
+ "exact_text": 14,
+ "multiplier_right": 14,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k4",
+   "official_id": "STR1",
+   "text": "2 SURFACES",
+   "kind": "note",
+   "multiplier": 2,
+   "box": [
+    526,
+    322,
+    664,
+    433
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "6X \u00d86.65 +0.12",
+   "box": [
+    1225,
+    461,
+    1438,
+    528
+   ],
+   "found_in": "read",
+   "multiplier": 6
+  },
+  {
+   "text": "\u2312 2 D G H",
+   "box": [
+    531,
+    335,
+    656,
+    420
+   ],
+   "found_in": "read",
+   "multiplier": 2
+  },
+  {
+   "text": "C",
+   "box": [
+    756,
+    370,
+    863,
+    437
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.02303290367126465,
+  "read": 0.6519501209259033,
+  "audit": 1.7012929916381836,
+  "text_layer_unmatched": 4,
+  "total": 2.3960940837860107
+ }
+}

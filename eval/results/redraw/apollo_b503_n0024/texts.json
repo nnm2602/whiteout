@@ -1,0 +1,4470 @@
+[
+{
+"text": "ONLY. USE BOTH SIDES",
+"box": [
+2832,
+2845,
+3249,
+2872
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 25.0,
+"base": 2871.0,
+"raw_box": [
+2850,
+2868,
+3242,
+2902
+]
+},
+{
+"text": "SURFACE ROUGHNESS",
+"box": [
+5061,
+2211,
+5232,
+2229
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 2227.5,
+"raw_box": [
+5097,
+2212,
+5243,
+2231
+]
+},
+{
+"text": "TO LDW270M10015,",
+"box": [
+4329,
+3074,
+4716,
+3105
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 3102.5,
+"raw_box": [
+4319,
+3100,
+4672,
+3138
+]
+},
+{
+"text": "HOLE PATTERN.",
+"box": [
+4325,
+3005,
+4630,
+3034
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 25.0,
+"base": 3032.0,
+"raw_box": [
+4316,
+3027,
+4587,
+3063
+]
+},
+{
+"text": "PER MIL-STD-10",
+"box": [
+5061,
+2258,
+5187,
+2275
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2274.0,
+"raw_box": [
+5097,
+2257,
+5214,
+2277
+]
+},
+{
+"text": "FOR ALL HOLES",
+"box": [
+5063,
+2302,
+5262,
+2321
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 17.5,
+"base": 2320.0,
+"raw_box": [
+5081,
+2304,
+5271,
+2324
+]
+},
+{
+"text": "IF NECESSARY",
+"box": [
+2895,
+2879,
+3099,
+2906
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 25.0,
+"base": 2906.0,
+"raw_box": [
+2850,
+2902,
+3052,
+2934
+]
+},
+{
+"text": "BREAK EDGE",
+"box": [
+4346,
+2147,
+4587,
+2175
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2174.0,
+"raw_box": [
+4337,
+2143,
+4564,
+2178
+]
+},
+{
+"text": "A HOLE (REF)",
+"box": [
+4570,
+2377,
+4822,
+2423
+],
+"rotation": 0,
+"kind": "label",
+"source": "job",
+"snapped": true,
+"cap": 25.0,
+"base": 2415.0,
+"raw_box": [
+4559,
+2336,
+4838,
+2394
+]
+},
+{
+"text": ".002 MAX",
+"box": [
+4339,
+2185,
+4540,
+2212
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 2210.5,
+"raw_box": [
+4333,
+2177,
+4523,
+2215
+]
+},
+{
+"text": ".125 R(2)",
+"box": [
+2834,
+2295,
+2977,
+2331
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 27.0,
+"base": 2327.0,
+"raw_box": [
+2816,
+2297,
+2986,
+2331
+]
+},
+{
+"text": ".5740",
+"box": [
+1875,
+2088,
+1977,
+2116
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 2114.0,
+"raw_box": [
+1836,
+2080,
+1978,
+2115
+]
+},
+{
+"text": ".5748",
+"box": [
+1875,
+2129,
+1980,
+2158
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2156.0,
+"raw_box": [
+1836,
+2118,
+1978,
+2154
+]
+},
+{
+"text": ".5756",
+"box": [
+1874,
+2174,
+1984,
+2202
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.5,
+"base": 2201.5,
+"raw_box": [
+1834,
+2196,
+1981,
+2231
+]
+},
+{
+"text": ".5760",
+"box": [
+1873,
+2221,
+1987,
+2249
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.5,
+"base": 2248.0,
+"raw_box": [
+1834,
+2235,
+1981,
+2270
+]
+},
+{
+"text": ".5756",
+"box": [
+1872,
+2264,
+1985,
+2291
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 26.5,
+"base": 2290.5,
+"raw_box": [
+1832,
+2273,
+1980,
+2309
+]
+},
+{
+"text": ".5760",
+"box": [
+1877,
+2305,
+1984,
+2334
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 27.5,
+"base": 2332.5,
+"raw_box": [
+1832,
+2311,
+1980,
+2347
+]
+},
+{
+"text": ".5772",
+"box": [
+1877,
+2351,
+1986,
+2379
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2378.0,
+"raw_box": [
+1832,
+2350,
+1980,
+2386
+]
+},
+{
+"text": "1.001",
+"box": [
+3256,
+2096,
+3401,
+2134
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 17.1,
+"base": 2136.0,
+"raw_box": [
+3356,
+2098,
+3444,
+2123
+]
+},
+{
+"text": "1.000",
+"box": [
+3302,
+2129,
+3412,
+2156
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 2156.0,
+"raw_box": [
+3354,
+2128,
+3444,
+2155
+]
+},
+{
+"text": ".125 R",
+"box": [
+2895,
+2225,
+3004,
+2253
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 26.5,
+"base": 2252.5,
+"raw_box": [
+2889,
+2216,
+3008,
+2245
+]
+},
+{
+"text": "1.560",
+"box": [
+3572,
+2388,
+3658,
+2416
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 25.5,
+"base": 2414.0,
+"raw_box": [
+3535,
+2391,
+3610,
+2420
+]
+},
+{
+"text": ".6523",
+"box": [
+1891,
+2888,
+2050,
+2924
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 28.0,
+"base": 2922.5,
+"raw_box": [
+1852,
+2886,
+2020,
+2925
+]
+},
+{
+"text": ".6515",
+"box": [
+1892,
+2938,
+2001,
+2968
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 27.5,
+"base": 2967.0,
+"raw_box": [
+1852,
+2932,
+2020,
+2971
+]
+},
+{
+"text": ".6523",
+"box": [
+1893,
+2984,
+2018,
+3014
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 29.0,
+"base": 3013.5,
+"raw_box": [
+1852,
+2977,
+2022,
+3017
+]
+},
+{
+"text": ".6547",
+"box": [
+1897,
+3026,
+2014,
+3056
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.5,
+"base": 3054.0,
+"raw_box": [
+1852,
+3021,
+2022,
+3060
+]
+},
+{
+"text": ".6555",
+"box": [
+1900,
+3071,
+2021,
+3101
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 29.0,
+"base": 3100.5,
+"raw_box": [
+1852,
+3067,
+2022,
+3106
+]
+},
+{
+"text": ".6563",
+"box": [
+1902,
+3117,
+2021,
+3148
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 29.0,
+"base": 3147.0,
+"raw_box": [
+1854,
+3111,
+2024,
+3152
+]
+},
+{
+"text": "NOTES:",
+"box": [
+4249,
+2903,
+4387,
+2930
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2929.0,
+"raw_box": [
+4234,
+2913,
+4378,
+2953
+]
+},
+{
+"text": ".032",
+"box": [
+2861,
+1255,
+2957,
+1286
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 1286.0,
+"raw_box": [
+2857,
+1240,
+2928,
+1274
+]
+},
+{
+"text": "A DIA \u2104",
+"box": [
+2804,
+2125,
+2933,
+2158
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 27.5,
+"base": 2155.0,
+"raw_box": [
+2750,
+2122,
+2940,
+2161
+]
+},
+{
+"text": "16",
+"box": [
+2853,
+1336,
+2880,
+1359
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 18.400000000000002,
+"base": 1359.0,
+"raw_box": [
+2844,
+1321,
+2912,
+1373
+]
+},
+{
+"text": "16",
+"box": [
+3006,
+1330,
+3032,
+1354
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "read",
+"snapped": true,
+"cap": 22.5,
+"base": 1352.5,
+"raw_box": [
+2997,
+1315,
+3054,
+1371
+]
+},
+{
+"text": "- 45",
+"box": [
+1699,
+2088,
+1777,
+2115
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2114.0,
+"raw_box": [
+1648,
+2080,
+1774,
+2116
+]
+},
+{
+"text": "- 47",
+"box": [
+1698,
+2129,
+1778,
+2157
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2156.0,
+"raw_box": [
+1648,
+2118,
+1774,
+2155
+]
+},
+{
+"text": "- 49",
+"box": [
+1699,
+2175,
+1781,
+2202
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.5,
+"base": 2202.0,
+"raw_box": [
+1646,
+2157,
+1774,
+2194
+]
+},
+{
+"text": "- 51",
+"box": [
+1646,
+2196,
+1774,
+2232
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": false,
+"cap": 28.8,
+"base": 2232.0,
+"raw_box": [
+1646,
+2196,
+1774,
+2232
+]
+},
+{
+"text": "- 53",
+"box": [
+1700,
+2222,
+1770,
+2251
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2249.5,
+"raw_box": [
+1644,
+2235,
+1774,
+2271
+]
+},
+{
+"text": "- 55",
+"box": [
+1700,
+2263,
+1778,
+2291
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.5,
+"base": 2290.0,
+"raw_box": [
+1644,
+2273,
+1774,
+2310
+]
+},
+{
+"text": "- 57",
+"box": [
+1699,
+2306,
+1777,
+2334
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.5,
+"base": 2334.0,
+"raw_box": [
+1644,
+2312,
+1774,
+2349
+]
+},
+{
+"text": "- 59",
+"box": [
+1702,
+2351,
+1778,
+2378
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.5,
+"base": 2378.0,
+"raw_box": [
+1644,
+2351,
+1774,
+2387
+]
+},
+{
+"text": "-81",
+"box": [
+1715,
+2895,
+1766,
+2924
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2922.5,
+"raw_box": [
+1676,
+2887,
+1806,
+2924
+]
+},
+{
+"text": "-83",
+"box": [
+1714,
+2938,
+1785,
+2967
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2966.5,
+"raw_box": [
+1674,
+2933,
+1806,
+2970
+]
+},
+{
+"text": "-85",
+"box": [
+1711,
+2983,
+1782,
+3013
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 28.5,
+"base": 3013.0,
+"raw_box": [
+1674,
+2979,
+1806,
+3016
+]
+},
+{
+"text": "-87",
+"box": [
+1704,
+3026,
+1777,
+3056
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 28.5,
+"base": 3055.0,
+"raw_box": [
+1673,
+3024,
+1806,
+3060
+]
+},
+{
+"text": "-89",
+"box": [
+1710,
+3071,
+1777,
+3101
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 29.5,
+"base": 3100.5,
+"raw_box": [
+1673,
+3068,
+1806,
+3105
+]
+},
+{
+"text": "B2",
+"box": [
+2080,
+3114,
+2124,
+3147
+],
+"rotation": 0,
+"kind": "label",
+"source": "read",
+"snapped": true,
+"cap": 29.5,
+"base": 3147.0,
+"raw_box": [
+2090,
+3100,
+2170,
+3166
+]
+},
+{
+"text": "D",
+"box": [
+5379,
+1276,
+5393,
+1305
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 29.0,
+"base": 1305.0,
+"raw_box": [
+5362,
+1275,
+5386,
+1302
+]
+},
+{
+"text": "B",
+"box": [
+3239,
+2170,
+3337,
+2222
+],
+"rotation": 0,
+"kind": "label",
+"source": "read",
+"snapped": true,
+"cap": 23.400000000000002,
+"base": 2206.0,
+"raw_box": [
+3278,
+2176,
+3334,
+2232
+]
+},
+{
+"text": "A",
+"box": [
+4209,
+2864,
+4230,
+2887
+],
+"rotation": 0,
+"kind": "label",
+"source": "read",
+"snapped": true,
+"cap": 18.400000000000002,
+"base": 2887.0,
+"raw_box": [
+4215,
+2870,
+4250,
+2906
+]
+},
+{
+"text": ".5768",
+"box": [
+1879,
+2395,
+1984,
+2422
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 25.5,
+"base": 2422.0,
+"raw_box": [
+1830,
+2390,
+1978,
+2425
+]
+},
+{
+"text": ".5740",
+"box": [
+1874,
+2041,
+1985,
+2070
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2069.0,
+"raw_box": [
+1836,
+2041,
+1981,
+2077
+]
+},
+{
+"text": "- 43",
+"box": [
+1697,
+2041,
+1780,
+2071
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.5,
+"base": 2069.5,
+"raw_box": [
+1648,
+2041,
+1774,
+2077
+]
+},
+{
+"text": "- 61",
+"box": [
+1702,
+2396,
+1779,
+2422
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2422.0,
+"raw_box": [
+1644,
+2390,
+1774,
+2426
+]
+},
+{
+"text": "200",
+"box": [
+4996,
+2304,
+5021,
+2321
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 13.600000000000001,
+"base": 2321.0,
+"raw_box": [
+5008,
+2302,
+5044,
+2326
+]
+},
+{
+"text": "D",
+"box": [
+1368,
+1294,
+1395,
+1324
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 30.0,
+"base": 1324.0,
+"raw_box": [
+1363,
+1295,
+1392,
+1329
+]
+},
+{
+"text": "BREAK ALL EDGES .015-.031",
+"box": [
+4997,
+2386,
+5214,
+2405
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 17.0,
+"base": 2404.0,
+"raw_box": [
+5007,
+2390,
+5246,
+2409
+]
+},
+{
+"text": "REMOVE ALL BURRS.",
+"box": [
+4997,
+2363,
+5160,
+2381
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 2381.0,
+"raw_box": [
+5007,
+2366,
+5172,
+2385
+]
+},
+{
+"text": ".037",
+"box": [
+2858,
+1226,
+2933,
+1253
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 1252.0,
+"raw_box": [
+2852,
+1201,
+2937,
+1234
+]
+},
+{
+"text": "A",
+"box": [
+1384,
+3272,
+1407,
+3300
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 22.400000000000002,
+"base": 3300.0,
+"raw_box": [
+1363,
+3214,
+1397,
+3258
+]
+},
+{
+"text": "ALL DIMENSIONS SHOWN TO BE MET",
+"box": [
+4995,
+2025,
+5295,
+2044
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2042.5,
+"raw_box": [
+5001,
+2029,
+5285,
+2048
+]
+},
+{
+"text": "THICKNESS OF PLATE .0003 MIN.",
+"box": [
+4995,
+2071,
+5260,
+2090
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2089.0,
+"raw_box": [
+5001,
+2075,
+5257,
+2094
+]
+},
+{
+"text": "BE .0002 ON THREADED AREAS.",
+"box": [
+4997,
+2118,
+5245,
+2137
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2135.0,
+"raw_box": [
+5001,
+2120,
+5246,
+2140
+]
+},
+{
+"text": "NO ALLOWANCE FOR PLATING IN",
+"box": [
+4997,
+2141,
+5262,
+2160
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2158.5,
+"raw_box": [
+5001,
+2143,
+5253,
+2162
+]
+},
+{
+"text": "AFTER CADMIUM PLATING.",
+"box": [
+4995,
+2049,
+5208,
+2066
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2065.5,
+"raw_box": [
+5001,
+2053,
+5200,
+2071
+]
+},
+{
+"text": "HOLES",
+"box": [
+4997,
+2166,
+5044,
+2183
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2182.0,
+"raw_box": [
+5001,
+2165,
+5079,
+2184
+]
+},
+{
+"text": "125",
+"box": [
+5001,
+2236,
+5037,
+2259
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": false,
+"cap": 18.400000000000002,
+"base": 2259.0,
+"raw_box": [
+5001,
+2236,
+5037,
+2259
+]
+},
+{
+"text": "TO .0005 MAX. MIN. THICKNESS TO",
+"box": [
+4995,
+2094,
+5280,
+2114
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2112.0,
+"raw_box": [
+5000,
+2096,
+5291,
+2116
+]
+},
+{
+"text": "-79",
+"box": [
+1720,
+2847,
+1775,
+2877
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 28.0,
+"base": 2875.5,
+"raw_box": [
+1676,
+2843,
+1806,
+2879
+]
+},
+{
+"text": ".6515",
+"box": [
+1891,
+2848,
+2004,
+2875
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2875.0,
+"raw_box": [
+1852,
+2842,
+2019,
+2879
+]
+},
+{
+"text": ".016R TO .062R \u00b1 .010",
+"box": [
+5004,
+1312,
+5183,
+1332
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1329.0,
+"raw_box": [
+4998,
+1311,
+5207,
+1332
+]
+},
+{
+"text": ".063R TO .250R \u00b1 .015",
+"box": [
+5004,
+1336,
+5183,
+1355
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1352.0,
+"raw_box": [
+4998,
+1332,
+5211,
+1354
+]
+},
+{
+"text": "OVER .250R \u00b1 .030",
+"box": [
+5004,
+1359,
+5183,
+1379
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1376.0,
+"raw_box": [
+4998,
+1355,
+5182,
+1378
+]
+},
+{
+"text": "2.000",
+"box": [
+3220,
+1995,
+3456,
+2021
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 25.0,
+"base": 2021.0,
+"raw_box": [
+3343,
+2018,
+3482,
+2047
+]
+},
+{
+"text": "INSPECTION INFORMATION",
+"box": [
+4998,
+2429,
+5212,
+2447
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 2446.0,
+"raw_box": [
+5005,
+2431,
+5218,
+2450
+]
+},
+{
+"text": "LSP-14-4706 ON TAB",
+"box": [
+2823,
+2810,
+3213,
+2838
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 25.0,
+"base": 2836.0,
+"raw_box": [
+2848,
+2833,
+3242,
+2870
+]
+},
+{
+"text": ".066-.067 HOLE",
+"box": [
+2734,
+2001,
+3009,
+2030
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 25.0,
+"base": 2028.0,
+"raw_box": [
+2772,
+2010,
+3043,
+2041
+]
+},
+{
+"text": "DEPTH SHOWN FOR TAPPED",
+"box": [
+4988,
+1403,
+5211,
+1421
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 17.0,
+"base": 1420.0,
+"raw_box": [
+4987,
+1401,
+5237,
+1421
+]
+},
+{
+"text": "RADII TOLERANCES",
+"box": [
+4988,
+1289,
+5142,
+1306
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1306.0,
+"raw_box": [
+4987,
+1288,
+5163,
+1308
+]
+},
+{
+"text": "DO NOT CADMIUM PLATE & PAINT",
+"box": [
+4991,
+1575,
+5272,
+1593
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1592.0,
+"raw_box": [
+4985,
+1575,
+5275,
+1595
+]
+},
+{
+"text": "FILLET AND INSIDE CORNER",
+"box": [
+4989,
+1266,
+5215,
+1283
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1283.0,
+"raw_box": [
+4985,
+1264,
+5243,
+1284
+]
+},
+{
+"text": "2 IMPERFECT THREADS MAX.",
+"box": [
+4989,
+1533,
+5220,
+1551
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1550.0,
+"raw_box": [
+4985,
+1535,
+5244,
+1555
+]
+},
+{
+"text": "HOLES OR SURFACES MARKED",
+"box": [
+4991,
+1599,
+5231,
+1617
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1616.0,
+"raw_box": [
+4985,
+1599,
+5239,
+1618
+]
+},
+{
+"text": "EXTERNAL THREAD LENGTH",
+"box": [
+4990,
+1494,
+5209,
+1511
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1511.0,
+"raw_box": [
+4985,
+1493,
+5237,
+1513
+]
+},
+{
+"text": "SHOWN INCLUDES",
+"box": [
+4989,
+1514,
+5133,
+1531
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1530.5,
+"raw_box": [
+4985,
+1515,
+5159,
+1535
+]
+},
+{
+"text": "BEYOND PERMISSIBLE.",
+"box": [
+4989,
+1450,
+5168,
+1468
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 17.0,
+"base": 1467.0,
+"raw_box": [
+4982,
+1450,
+5197,
+1470
+]
+},
+{
+"text": "- 41",
+"box": [
+1695,
+1998,
+1769,
+2026
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2025.5,
+"raw_box": [
+1648,
+2003,
+1774,
+2038
+]
+},
+{
+"text": "WITH DOUBLE ASTERISK.",
+"box": [
+4990,
+1622,
+5191,
+1640
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1639.0,
+"raw_box": [
+4985,
+1622,
+5195,
+1642
+]
+},
+{
+"text": ".5732",
+"box": [
+1875,
+1996,
+1990,
+2026
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 28.5,
+"base": 2025.5,
+"raw_box": [
+1836,
+2002,
+1985,
+2040
+]
+},
+{
+"text": ".6451",
+"box": [
+1876,
+2441,
+1988,
+2469
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2469.0,
+"raw_box": [
+1830,
+2429,
+1978,
+2465
+]
+},
+{
+"text": "- 63",
+"box": [
+1702,
+2442,
+1771,
+2470
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2468.5,
+"raw_box": [
+1644,
+2429,
+1774,
+2465
+]
+},
+{
+"text": "HOLES IS FULL THDS. 2-3 IMP THDS.",
+"box": [
+4989,
+1425,
+5288,
+1444
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1442.0,
+"raw_box": [
+4980,
+1426,
+5299,
+1447
+]
+},
+{
+"text": "A",
+"box": [
+5391,
+3254,
+5413,
+3283
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 3283.0,
+"raw_box": [
+5381,
+3254,
+5417,
+3288
+]
+},
+{
+"text": ".2522 - .2532 HOLE",
+"box": [
+3308,
+2880,
+3757,
+2908
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 2907.5,
+"raw_box": [
+3324,
+2885,
+3734,
+2925
+]
+},
+{
+"text": "MINIMUM PERMISSIBLE",
+"box": [
+4998,
+2452,
+5186,
+2470
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 2469.0,
+"raw_box": [
+5005,
+2453,
+5211,
+2472
+]
+},
+{
+"text": "USE BOTH SIDES IF NECESSARY.",
+"box": [
+4988,
+1223,
+5250,
+1241
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1239.0,
+"raw_box": [
+4971,
+1221,
+5257,
+1241
+]
+},
+{
+"text": "AND ALL OTHER MARKINGS",
+"box": [
+4987,
+1177,
+5208,
+1194
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1193.0,
+"raw_box": [
+4971,
+1175,
+5211,
+1195
+]
+},
+{
+"text": "IN REGION MARKED",
+"box": [
+4989,
+1198,
+5222,
+1219
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1216.0,
+"raw_box": [
+4971,
+1199,
+5181,
+1219
+]
+},
+{
+"text": "DELINEATIONS IS",
+"box": [
+5002,
+2817,
+5142,
+2834
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2834.0,
+"raw_box": [
+4992,
+2813,
+5205,
+2833
+]
+},
+{
+"text": "CHAMFER 45\u00b0X.156(3)",
+"box": [
+2627,
+2049,
+2991,
+2086
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 25.0,
+"base": 2080.5,
+"raw_box": [
+2649,
+2060,
+3038,
+2096
+]
+},
+{
+"text": "CHROME PLATING SOLUTION.",
+"box": [
+4995,
+1983,
+5226,
+2001
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1999.0,
+"raw_box": [
+5005,
+1982,
+5225,
+2002
+]
+},
+{
+"text": "1.000",
+"box": [
+2861,
+2461,
+2963,
+2488
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 25.0,
+"base": 2487.0,
+"raw_box": [
+2839,
+2452,
+2944,
+2486
+]
+},
+{
+"text": "-77",
+"box": [
+1707,
+2804,
+1775,
+2831
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2831.0,
+"raw_box": [
+1676,
+2798,
+1806,
+2835
+]
+},
+{
+"text": "& ACTUAL A DIA PER",
+"box": [
+2833,
+2773,
+2990,
+2808
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 2801.5,
+"raw_box": [
+2848,
+2797,
+3262,
+2835
+]
+},
+{
+"text": ".6507",
+"box": [
+1888,
+2804,
+2003,
+2831
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2831.0,
+"raw_box": [
+1852,
+2797,
+2020,
+2835
+]
+},
+{
+"text": "ELECTRO ETCH PART NUMBER",
+"box": [
+4963,
+1153,
+5224,
+1172
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 17.0,
+"base": 1171.0,
+"raw_box": [
+4962,
+1151,
+5248,
+1171
+]
+},
+{
+"text": "2.000",
+"box": [
+3793,
+2407,
+3903,
+2435
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 25.5,
+"base": 2434.0,
+"raw_box": [
+3796,
+2397,
+3895,
+2444
+]
+},
+{
+"text": "AVERAGE EDGE DISTANCE",
+"box": [
+4998,
+2475,
+5203,
+2493
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 2492.0,
+"raw_box": [
+5005,
+2477,
+5204,
+2496
+]
+},
+{
+"text": "TOLERANCE ON LOFTED",
+"box": [
+5001,
+2793,
+5189,
+2811
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 2811.0,
+"raw_box": [
+4994,
+2791,
+5253,
+2811
+]
+},
+{
+"text": ".750",
+"box": [
+2997,
+2475,
+3072,
+2502
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 2501.0,
+"raw_box": [
+2976,
+2466,
+3050,
+2498
+]
+},
+{
+"text": ".5728",
+"box": [
+1872,
+1951,
+1981,
+1980
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 28.0,
+"base": 1979.0,
+"raw_box": [
+1836,
+1964,
+1978,
+2000
+]
+},
+{
+"text": "- 39",
+"box": [
+1693,
+1952,
+1776,
+1980
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.5,
+"base": 1979.5,
+"raw_box": [
+1648,
+1964,
+1774,
+2001
+]
+},
+{
+"text": ".6451",
+"box": [
+1875,
+2486,
+1980,
+2514
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 26.5,
+"base": 2513.0,
+"raw_box": [
+1830,
+2467,
+1978,
+2504
+]
+},
+{
+"text": "- 65",
+"box": [
+1702,
+2487,
+1778,
+2515
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2514.5,
+"raw_box": [
+1644,
+2467,
+1774,
+2504
+]
+},
+{
+"text": "GRAIN DIRECTION OPTIONAL",
+"box": [
+3061,
+3266,
+3612,
+3295
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 25.0,
+"base": 3293.0,
+"raw_box": [
+3052,
+3296,
+3602,
+3327
+]
+},
+{
+"text": "HOLES MUST BE KEPT FREE OF",
+"box": [
+4995,
+1959,
+5247,
+1978
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 1976.0,
+"raw_box": [
+5005,
+1960,
+5236,
+1977
+]
+},
+{
+"text": "MISMATCH STEP OF \u00b1 .005",
+"box": [
+4990,
+1667,
+5212,
+1687
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1684.0,
+"raw_box": [
+4987,
+1664,
+5244,
+1684
+]
+},
+{
+"text": "45\u00b0 (BASIC)",
+"box": [
+3347,
+2752,
+3615,
+2799
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 2785.5,
+"raw_box": [
+3421,
+2779,
+3604,
+2819
+]
+},
+{
+"text": "MARKED IS",
+"box": [
+4998,
+2499,
+5137,
+2517
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 17.0,
+"base": 2516.0,
+"raw_box": [
+5005,
+2500,
+5175,
+2520
+]
+},
+{
+"text": "C",
+"box": [
+1377,
+1954,
+1399,
+1983
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 1983.0,
+"raw_box": [
+1306,
+1944,
+1349,
+1980
+]
+},
+{
+"text": "ELECTRO-ETCH PART NO.",
+"box": [
+2838,
+2738,
+3256,
+2767
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2766.0,
+"raw_box": [
+2850,
+2763,
+3260,
+2802
+]
+},
+{
+"text": "PERMISSIBLE DUE TO CHANGE",
+"box": [
+4991,
+1690,
+5234,
+1708
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1707.0,
+"raw_box": [
+4987,
+1687,
+5276,
+1707
+]
+},
+{
+"text": "-75",
+"box": [
+1712,
+2759,
+1786,
+2787
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.5,
+"base": 2786.0,
+"raw_box": [
+1678,
+2754,
+1807,
+2790
+]
+},
+{
+"text": ".6491",
+"box": [
+1890,
+2759,
+1998,
+2787
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 27.0,
+"base": 2786.5,
+"raw_box": [
+1854,
+2752,
+2022,
+2790
+]
+},
+{
+"text": "NOT SPECIFIED.",
+"box": [
+5000,
+2753,
+5125,
+2770
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2770.0,
+"raw_box": [
+4992,
+2749,
+5163,
+2769
+]
+},
+{
+"text": "1.1520",
+"box": [
+1853,
+1095,
+1977,
+1122
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 24.0,
+"base": 1119.0,
+"raw_box": [
+1848,
+1104,
+1983,
+1140
+]
+},
+{
+"text": "- 37",
+"box": [
+1696,
+1907,
+1775,
+1935
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 28.0,
+"base": 1935.0,
+"raw_box": [
+1651,
+1927,
+1774,
+1960
+]
+},
+{
+"text": "5",
+"box": [
+3137,
+3573,
+3158,
+3603
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 3603.0,
+"raw_box": [
+3130,
+3571,
+3162,
+3612
+]
+},
+{
+"text": "- 67",
+"box": [
+1644,
+2506,
+1774,
+2543
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": false,
+"cap": 29.6,
+"base": 2543.0,
+"raw_box": [
+1644,
+2506,
+1774,
+2543
+]
+},
+{
+"text": "4",
+"box": [
+3647,
+3571,
+3670,
+3600
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 3600.0,
+"raw_box": [
+3641,
+3569,
+3672,
+3611
+]
+},
+{
+"text": "3",
+"box": [
+4161,
+3568,
+4181,
+3597
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 3597.0,
+"raw_box": [
+4133,
+3568,
+4165,
+3604
+]
+},
+{
+"text": "2",
+"box": [
+4669,
+3563,
+4689,
+3593
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 3593.0,
+"raw_box": [
+4676,
+3568,
+4708,
+3605
+]
+},
+{
+"text": "NOTES CHECKED APPLY TO THIS DWG.",
+"box": [
+4981,
+1101,
+5334,
+1123
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 17.0,
+"base": 1119.0,
+"raw_box": [
+4976,
+1099,
+5337,
+1121
+]
+},
+{
+"text": "B2",
+"box": [
+2075,
+2485,
+2115,
+2520
+],
+"rotation": 0,
+"kind": "label",
+"source": "read",
+"snapped": true,
+"cap": 31.5,
+"base": 2519.5,
+"raw_box": [
+2045,
+2483,
+2100,
+2545
+]
+},
+{
+"text": "6",
+"box": [
+2629,
+3575,
+2650,
+3604
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 3604.0,
+"raw_box": [
+2621,
+3567,
+2653,
+3608
+]
+},
+{
+"text": "ENG 73.2 6-64",
+"box": [
+1444,
+3564,
+1539,
+3574
+],
+"rotation": 0,
+"kind": "other",
+"source": "read",
+"snapped": true,
+"cap": 9.0,
+"base": 3574.0,
+"raw_box": [
+1404,
+3584,
+1500,
+3599
+]
+},
+{
+"text": "7",
+"box": [
+2119,
+3576,
+2140,
+3606
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 3606.0,
+"raw_box": [
+2114,
+3566,
+2145,
+3599
+]
+},
+{
+"text": "8",
+"box": [
+1608,
+3573,
+1629,
+3603
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 3603.0,
+"raw_box": [
+1591,
+3562,
+1623,
+3597
+]
+},
+{
+"text": "LDW270M10007-91",
+"box": [
+1430,
+3118,
+1764,
+3152
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 3146.0,
+"raw_box": [
+1426,
+3112,
+1797,
+3153
+]
+},
+{
+"text": ".125",
+"box": [
+3801,
+2880,
+3838,
+2907
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 2905.5,
+"raw_box": [
+3739,
+2877,
+3817,
+2919
+]
+},
+{
+"text": "OF CUTTERS AT INSIDE",
+"box": [
+4991,
+1713,
+5180,
+1731
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1730.0,
+"raw_box": [
+4987,
+1710,
+5202,
+1730
+]
+},
+{
+"text": "125",
+"box": [
+4937,
+2322,
+4978,
+2356
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": false,
+"cap": 27.200000000000003,
+"base": 2356.0,
+"raw_box": [
+4937,
+2322,
+4978,
+2356
+]
+},
+{
+"text": "LDW270M10007- 1",
+"box": [
+1357,
+1097,
+1743,
+1135
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 25.0,
+"base": 1123.0,
+"raw_box": [
+1417,
+1101,
+1738,
+1139
+]
+},
+{
+"text": "2.875",
+"box": [
+3220,
+1885,
+3331,
+1916
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "read",
+"snapped": true,
+"cap": 28.0,
+"base": 1913.5,
+"raw_box": [
+3231,
+1906,
+3384,
+1940
+]
+},
+{
+"text": "1",
+"box": [
+5180,
+3557,
+5189,
+3585
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 22.400000000000002,
+"base": 3585.0,
+"raw_box": [
+5202,
+3551,
+5227,
+3591
+]
+},
+{
+"text": "RIVETS SHORTER THAN 1 INCH ARE",
+"box": [
+5000,
+2728,
+5288,
+2747
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.5,
+"base": 2746.0,
+"raw_box": [
+4992,
+2725,
+5411,
+2746
+]
+},
+{
+"text": "MODEL OR END ITEM",
+"box": [
+4591,
+3521,
+4734,
+3537
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 15.0,
+"base": 3536.0,
+"raw_box": [
+4587,
+3542,
+4729,
+3564
+]
+},
+{
+"text": "SCALE",
+"box": [
+4742,
+3542,
+4790,
+3560
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": false,
+"cap": 14.4,
+"base": 3560.0,
+"raw_box": [
+4742,
+3542,
+4790,
+3560
+]
+},
+{
+"text": "UNLESS OTHERWISE SPECIFIED",
+"box": [
+5033,
+1075,
+5282,
+1093
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 17.0,
+"base": 1093.0,
+"raw_box": [
+5035,
+1072,
+5280,
+1093
+]
+},
+{
+"text": "INTERSECTING SURFACES.",
+"box": [
+4992,
+1736,
+5197,
+1754
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1753.0,
+"raw_box": [
+4987,
+1735,
+5205,
+1755
+]
+},
+{
+"text": ".5724",
+"box": [
+1873,
+1907,
+1983,
+1937
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 28.0,
+"base": 1935.5,
+"raw_box": [
+1839,
+1887,
+1978,
+1922
+]
+},
+{
+"text": ".6459",
+"box": [
+1881,
+2531,
+1990,
+2559
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 28.0,
+"base": 2559.0,
+"raw_box": [
+1830,
+2544,
+1980,
+2580
+]
+},
+{
+"text": "NOTED",
+"box": [
+4762,
+3514,
+4903,
+3541
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 14.0,
+"base": 3534.5,
+"raw_box": [
+4797,
+3532,
+4855,
+3551
+]
+},
+{
+"text": "- 35",
+"box": [
+1694,
+1860,
+1773,
+1889
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 28.0,
+"base": 1888.5,
+"raw_box": [
+1648,
+1887,
+1774,
+1923
+]
+},
+{
+"text": "- 69",
+"box": [
+1703,
+2532,
+1778,
+2560
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2559.5,
+"raw_box": [
+1644,
+2545,
+1774,
+2581
+]
+},
+{
+"text": "-73",
+"box": [
+1712,
+2714,
+1781,
+2741
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.0,
+"base": 2741.0,
+"raw_box": [
+1678,
+2708,
+1807,
+2744
+]
+},
+{
+"text": "PART NO.",
+"box": [
+1531,
+1052,
+1695,
+1076
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 21.5,
+"base": 1074.0,
+"raw_box": [
+1525,
+1062,
+1701,
+1092
+]
+},
+{
+"text": ".6491",
+"box": [
+1885,
+2713,
+1984,
+2742
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 25.5,
+"base": 2740.5,
+"raw_box": [
+1852,
+2707,
+2022,
+2745
+]
+},
+{
+"text": "LENGTHS OF AN, NAS & MS AL ALY",
+"box": [
+5000,
+2705,
+5292,
+2726
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.5,
+"base": 2723.0,
+"raw_box": [
+4992,
+2704,
+5411,
+2725
+]
+},
+{
+"text": "1.000",
+"box": [
+3365,
+2681,
+3519,
+2719
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 25.5,
+"base": 2707.0,
+"raw_box": [
+3356,
+2704,
+3441,
+2736
+]
+},
+{
+"text": "SYMBOL DENOTES SURFACE",
+"box": [
+4998,
+2561,
+5253,
+2593
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 17.0,
+"base": 2584.0,
+"raw_box": [
+5007,
+2567,
+5250,
+2586
+]
+},
+{
+"text": ".256-.263 HOLE (3)",
+"box": [
+3667,
+2130,
+4048,
+2169
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 2163.0,
+"raw_box": [
+3703,
+2134,
+4032,
+2181
+]
+},
+{
+"text": "A DIA \u00b1.0001",
+"box": [
+1792,
+1041,
+2008,
+1073
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 21.0,
+"base": 1071.5,
+"raw_box": [
+1784,
+1054,
+2019,
+1091
+]
+},
+{
+"text": "READING",
+"box": [
+4940,
+1892,
+5017,
+1920
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": false,
+"cap": 22.400000000000002,
+"base": 1920.0,
+"raw_box": [
+4940,
+1892,
+5017,
+1920
+]
+},
+{
+"text": "2. TOOLING FOR THIS PART IS SIMILAR",
+"box": [
+4278,
+3037,
+5081,
+3072
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 25.0,
+"base": 3065.0,
+"raw_box": [
+4294,
+3063,
+5019,
+3100
+]
+},
+{
+"text": "SHEET",
+"box": [
+5168,
+3511,
+5219,
+3537
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 15.0,
+"base": 3532.5,
+"raw_box": [
+5213,
+3515,
+5262,
+3537
+]
+},
+{
+"text": "2.000 DIA \u2113(BASIC)",
+"box": [
+3621,
+2011,
+4003,
+2058
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 2050.0,
+"raw_box": [
+3691,
+2028,
+4001,
+2081
+]
+},
+{
+"text": "LEM",
+"box": [
+4613,
+3485,
+4687,
+3510
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 25.0,
+"base": 3510.0,
+"raw_box": [
+4642,
+3512,
+4710,
+3541
+]
+},
+{
+"text": "3.00",
+"box": [
+5247,
+3513,
+5323,
+3535
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 22.0,
+"base": 3535.0,
+"raw_box": [
+5282,
+3510,
+5363,
+3539
+]
+},
+{
+"text": "NO SCALE",
+"box": [
+4372,
+2659,
+4566,
+2686
+],
+"rotation": 0,
+"kind": "label",
+"source": "read",
+"snapped": true,
+"cap": 25.5,
+"base": 2685.0,
+"raw_box": [
+4397,
+2685,
+4591,
+2725
+]
+},
+{
+"text": "MANUFACTURING OPERATIONS",
+"box": [
+4988,
+1038,
+5328,
+1060
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 20.0,
+"base": 1059.0,
+"raw_box": [
+4984,
+1036,
+5331,
+1062
+]
+},
+{
+"text": "\u25b2 SEE NOTE 1.",
+"box": [
+3690,
+2719,
+3992,
+2747
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 25.0,
+"base": 2746.0,
+"raw_box": [
+3682,
+2750,
+4010,
+2788
+]
+},
+{
+"text": "WITHIN .001 OF TRUE LOCATION.",
+"box": [
+3690,
+2683,
+4267,
+2711
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 25.0,
+"base": 2710.0,
+"raw_box": [
+3680,
+2711,
+4291,
+2748
+]
+},
+{
+"text": "TO BE MACHINED",
+"box": [
+4999,
+2596,
+5138,
+2614
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 8.1,
+"base": 2602.0,
+"raw_box": [
+5007,
+2595,
+5129,
+2614
+]
+},
+{
+"text": "DIAMETERS MARKED",
+"box": [
+4993,
+1770,
+5203,
+1800
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 16.0,
+"base": 1795.0,
+"raw_box": [
+4989,
+1776,
+5163,
+1796
+]
+},
+{
+"text": "4 HOLES EQUALLY SPACED",
+"box": [
+3691,
+2649,
+4178,
+2676
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 2675.0,
+"raw_box": [
+3670,
+2669,
+4174,
+2708
+]
+},
+{
+"text": "LDW270M10007- 33",
+"box": [
+1423,
+1820,
+1774,
+1848
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 1847.0,
+"raw_box": [
+1417,
+1847,
+1770,
+1886
+]
+},
+{
+"text": "-71",
+"box": [
+1706,
+2578,
+1789,
+2607
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 25.5,
+"base": 2604.0,
+"raw_box": [
+1646,
+2584,
+1774,
+2620
+]
+},
+{
+"text": ".5720",
+"box": [
+1874,
+1858,
+1981,
+1888
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 28.5,
+"base": 1887.5,
+"raw_box": [
+1839,
+1846,
+1987,
+1883
+]
+},
+{
+"text": "SECTION B-B",
+"box": [
+4307,
+2577,
+4617,
+2633
+],
+"rotation": 0,
+"kind": "label",
+"source": "read",
+"snapped": true,
+"cap": 26.0,
+"base": 2632.0,
+"raw_box": [
+4310,
+2566,
+4625,
+2624
+]
+},
+{
+"text": "B",
+"box": [
+1369,
+2610,
+1401,
+2641
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 27.5,
+"base": 2639.0,
+"raw_box": [
+1314,
+2592,
+1356,
+2625
+]
+},
+{
+"text": "TOLERANCE ON FLANGES IS \u00b1 1/32",
+"box": [
+4998,
+2662,
+5289,
+2684
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 17.0,
+"base": 2680.5,
+"raw_box": [
+4992,
+2662,
+5406,
+2684
+]
+},
+{
+"text": "SIZE",
+"box": [
+4767,
+3427,
+4797,
+3442
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 12.0,
+"base": 3442.0,
+"raw_box": [
+4777,
+3426,
+4811,
+3450
+]
+},
+{
+"text": "MUST BE CONCENTRIC WITHIN",
+"box": [
+4993,
+1801,
+5239,
+1819
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 17.0,
+"base": 1818.0,
+"raw_box": [
+4989,
+1798,
+5278,
+1818
+]
+},
+{
+"text": "\u00b1 .002 FULL INDICATOR",
+"box": [
+5033,
+1824,
+5282,
+1842
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 17.0,
+"base": 1841.0,
+"raw_box": [
+5028,
+1826,
+5282,
+1848
+]
+},
+{
+"text": "UNLESS OTHERWISE SPECIFIED",
+"box": [
+4999,
+2640,
+5247,
+2659
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "job",
+"snapped": true,
+"cap": 16.0,
+"base": 2657.0,
+"raw_box": [
+4992,
+2637,
+5411,
+2658
+]
+},
+{
+"text": "1",
+"box": [
+5161,
+975,
+5171,
+1004
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 1004.0,
+"raw_box": [
+5156,
+969,
+5173,
+1006
+]
+},
+{
+"text": "B",
+"box": [
+3288,
+2572,
+3324,
+2602
+],
+"rotation": 0,
+"kind": "label",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 2602.0,
+"raw_box": [
+3272,
+2587,
+3336,
+2653
+]
+},
+{
+"text": "5",
+"box": [
+3120,
+979,
+3140,
+1009
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 1009.0,
+"raw_box": [
+3116,
+976,
+3143,
+1010
+]
+},
+{
+"text": "4",
+"box": [
+3844,
+976,
+3865,
+1006
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 1006.0,
+"raw_box": [
+3838,
+975,
+3867,
+1010
+]
+},
+{
+"text": ".6491",
+"box": [
+1881,
+2622,
+1997,
+2652
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 27.5,
+"base": 2651.0,
+"raw_box": [
+1830,
+2621,
+1978,
+2658
+]
+},
+{
+"text": "D",
+"box": [
+4771,
+3456,
+4794,
+3488
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 25.6,
+"base": 3488.0,
+"raw_box": [
+4745,
+3454,
+4777,
+3497
+]
+},
+{
+"text": "-73",
+"box": [
+1705,
+2622,
+1775,
+2652
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 28.5,
+"base": 2651.5,
+"raw_box": [
+1646,
+2622,
+1774,
+2659
+]
+},
+{
+"text": "6",
+"box": [
+2612,
+982,
+2633,
+1011
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 1011.0,
+"raw_box": [
+2608,
+979,
+2636,
+1013
+]
+},
+{
+"text": "3",
+"box": [
+4142,
+976,
+4162,
+1005
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 1005.0,
+"raw_box": [
+4135,
+958,
+4167,
+1013
+]
+},
+{
+"text": "2",
+"box": [
+4650,
+976,
+4670,
+1005
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 1005.0,
+"raw_box": [
+4644,
+956,
+4678,
+1013
+]
+},
+{
+"text": "B",
+"box": [
+5353,
+3508,
+5369,
+3535
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 18.0,
+"base": 3535.0,
+"raw_box": [
+5356,
+3452,
+5381,
+3491
+]
+},
+{
+"text": "LDW270M10007",
+"box": [
+4986,
+3453,
+5291,
+3491
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 35.0,
+"base": 3489.0,
+"raw_box": [
+4985,
+3451,
+5317,
+3497
+]
+},
+{
+"text": "26512",
+"box": [
+4807,
+3451,
+4914,
+3495
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": false,
+"cap": 35.2,
+"base": 3495.0,
+"raw_box": [
+4807,
+3451,
+4914,
+3495
+]
+},
+{
+"text": "7",
+"box": [
+2102,
+987,
+2123,
+1016
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 23.200000000000003,
+"base": 1016.0,
+"raw_box": [
+2097,
+983,
+2130,
+1019
+]
+},
+{
+"text": "8",
+"box": [
+1594,
+984,
+1614,
+1021
+],
+"rotation": 0,
+"kind": "zone_marker",
+"source": "read",
+"snapped": true,
+"cap": 31.0,
+"base": 1021.0,
+"raw_box": [
+1589,
+979,
+1619,
+1025
+]
+},
+{
+"text": "B",
+"box": [
+5323,
+3456,
+5354,
+3489
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 26.400000000000002,
+"base": 3489.0,
+"raw_box": [
+5331,
+3448,
+5369,
+3494
+]
+},
+{
+"text": "-75",
+"box": [
+1705,
+2670,
+1763,
+2698
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 26.5,
+"base": 2697.0,
+"raw_box": [
+1648,
+2661,
+1777,
+2698
+]
+},
+{
+"text": ".6467",
+"box": [
+1885,
+2578,
+1992,
+2605
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 24.0,
+"base": 2602.0,
+"raw_box": [
+1855,
+2573,
+2022,
+2609
+]
+},
+{
+"text": "6507",
+"box": [
+1882,
+2667,
+2004,
+2697
+],
+"rotation": 0,
+"kind": "table_cell",
+"source": "read",
+"snapped": true,
+"cap": 28.0,
+"base": 2696.0,
+"raw_box": [
+1838,
+2700,
+1985,
+2738
+]
+},
+{
+"text": "INTERSECTING SURFACES.",
+"box": [
+4993,
+1848,
+5062,
+1866
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 17.5,
+"base": 1866.0,
+"raw_box": [
+4944,
+1836,
+5189,
+1861
+]
+},
+{
+"text": "3. PARTS SHALL BE CLEANED PER LSP-14-7072",
+"box": [
+4282,
+3105,
+5227,
+3143
+],
+"rotation": 0,
+"kind": "note",
+"source": "job",
+"snapped": true,
+"cap": 26.0,
+"base": 3135.5,
+"raw_box": [
+4294,
+3133,
+5228,
+3172
+]
+},
+{
+"text": "READING",
+"box": [
+4946,
+1970,
+5013,
+1992
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": false,
+"cap": 17.6,
+"base": 1992.0,
+"raw_box": [
+4946,
+1970,
+5013,
+1992
+]
+},
+{
+"text": "1. FOR HOLES MARKED \u25b2 SEE DWG LDW270M1000",
+"box": [
+4285,
+2932,
+5278,
+3003
+],
+"rotation": 0,
+"kind": "note",
+"source": "read",
+"snapped": true,
+"cap": 31.95,
+"base": 2964.0,
+"raw_box": [
+4303,
+2951,
+5239,
+2991
+]
+},
+{
+"text": "GRUMMAN AIRCRAFT ENGRG CORP., BETHPAGE, L I.,",
+"box": [
+4786,
+3384,
+5338,
+3411
+],
+"rotation": 0,
+"kind": "title_block",
+"source": "read",
+"snapped": true,
+"cap": 20.0,
+"base": 3407.0,
+"raw_box": [
+4791,
+3386,
+5240,
+3421
+]
+},
+{
+"text": "LDW270M10007 B",
+"box": [
+3426,
+974,
+3805,
+1016
+],
+"rotation": 180,
+"kind": "other",
+"source": "read",
+"snapped": true,
+"cap": 35.0,
+"base": 979.0,
+"raw_box": [
+3427,
+975,
+3810,
+1019
+]
+},
+{
+"text": "LDW270M10007B",
+"box": [
+5381,
+2556,
+5423,
+2991
+],
+"rotation": 90,
+"kind": "other",
+"source": "read",
+"snapped": true,
+"cap": 25.5,
+"base": 5409.0,
+"raw_box": [
+5383,
+2553,
+5431,
+3026
+]
+},
+{
+"text": "1.561",
+"box": [
+3612,
+2313,
+3623,
+2337
+],
+"rotation": 0,
+"kind": "dimension",
+"source": "job",
+"snapped": true,
+"cap": 23.5,
+"base": 2336.5,
+"raw_box": null
+}
+]

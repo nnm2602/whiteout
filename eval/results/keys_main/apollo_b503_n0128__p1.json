@@ -1,0 +1,27 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 0,
+ "true_missed_visible": 0,
+ "key": "apollo_b503_n0128__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 46,
+ "found": 63,
+ "first_read_hits": 46,
+ "final_hits": 46,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 3,
+ "baseline_found": 9,
+ "exact_text": 45,
+ "multiplier_right": 46,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [],
+ "timings": {
+  "overview": 0.05072307586669922,
+  "read": 11.656445026397705,
+  "audit": 1.0163860321044922,
+  "total": 12.953573226928711
+ }
+}

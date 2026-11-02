@@ -1,0 +1,26 @@
+[
+ {
+  "id": "nist-904",
+  "name": "NIST test part 827-9999-904",
+  "blurb": "Modern CAD drawing, 3 sheets, GD&T frames and hole callouts. Public domain (NIST).",
+  "thumb": "thumbs/nist.png",
+  "file": "nist-904.pdf",
+  "job": "bd20fca1920f"
+ },
+ {
+  "id": "apollo",
+  "name": "Apollo Lunar Module bracket, 1960s",
+  "blurb": "Hand-lettered aperture-card scan with limit tolerances and a dash-number table. Public domain (NARA).",
+  "thumb": "thumbs/apollo.png",
+  "file": "apollo-ldw270m10003.jpg",
+  "job": "e9f770195cba"
+ },
+ {
+  "id": "nist-904-revB",
+  "name": "Revision B of the NIST part",
+  "blurb": "Our edited copy: 3 values changed, one removed, a note added. Shows what to re-measure and what carries forward.",
+  "thumb": "thumbs/nist-revB.png",
+  "file": "nist-904-revB.pdf",
+  "job": "880a653a1d04"
+ }
+]

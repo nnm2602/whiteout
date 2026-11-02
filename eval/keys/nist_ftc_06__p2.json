@@ -1,0 +1,176 @@
+{
+ "id": "nist_ftc_06",
+ "page": 2,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_06_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_06_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 6 - View B",
+ "doubts": [
+  "T17 and T18 are two-row profile frames (⌓ .05|D|B|C over .01|D, shared symbol): one item per row with official IDs T17-1, T17-2, T18-1, T18-2; the shared symbol is written on both rows. Row boxes overlap because the frames are rotated.",
+  "k2 D16 '⌳1.00 : 2.00' and k7 D17 '2X ⌲1.00 : 3.00' are boxed taper ratios (FSI: basic dimension); the taper symbol drawn on the leader is written in front of the ratio and included in the box.",
+  "T6 and T7 are two separate frames stacked on datum feature E (profile over flatness).",
+  "T17 and T18 leaders point to the cone and its cylindrical support (FSI 'applies to cone and cylinder'); no count is printed, multiplier left at 1.",
+  "Excluded DF2, DF3, DF5 datum feature symbols and CS1, CS2 coordinate systems."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T16",
+   "text": "⌓|.04|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    682,
+    308,
+    882,
+    481
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "D16",
+   "text": "⌳1.00 : 2.00",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    784,
+    308,
+    988,
+    457
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T6",
+   "text": "⌓|.02|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1302,
+    202,
+    1498,
+    355
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T7",
+   "text": "⏥|.01",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1304,
+    245,
+    1409,
+    334
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "T18-1",
+   "text": "⌓|.05|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1267,
+    356,
+    1459,
+    545
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T18-2",
+   "text": "⌓|.01|D",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1267,
+    421,
+    1398,
+    545
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "D17",
+   "text": "2X ⌲1.00 : 3.00",
+   "kind": "basic_dimension",
+   "multiplier": 2,
+   "box": [
+    349,
+    611,
+    609,
+    774
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "T17-1",
+   "text": "⌓|.05|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    274,
+    762,
+    469,
+    951
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "T17-2",
+   "text": "⌓|.01|D",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    274,
+    847,
+    403,
+    951
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T3",
+   "text": "⊥|.012|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1733,
+    731,
+    1911,
+    895
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "D1",
+   "text": "12.00 ±.01",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1381,
+    1097,
+    1506,
+    1173
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "T2",
+   "text": "⊥|.012|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1391,
+    1097,
+    1572,
+    1207
+   ]
+  }
+ ]
+}

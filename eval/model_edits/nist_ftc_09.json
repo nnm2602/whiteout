@@ -1,0 +1,52 @@
+{
+ "case": "nist_ftc_09",
+ "source": "data/raw/nist_pmi_step/nist_ftc_09_asme1_ap242-e1.stp",
+ "edited": "data/raw/model_edits/nist_ftc_09_edited.stp",
+ "pmi_after": 53,
+ "edits": [
+  {
+   "edit": "tolerance",
+   "target": "#9032",
+   "before": "38.1 ±0.3048",
+   "expect": "differs",
+   "field": "tolerance",
+   "factor": 2.0,
+   "drawing": {
+    "id": "s1c0",
+    "text": ".375 ±.008 X 1.500 ±.012",
+    "requirement_text": "1.500 ±.012",
+    "sheet": 1
+   },
+   "after": "bounds -0.024 / 0.024"
+  },
+  {
+   "edit": "nominal",
+   "target": "#8595",
+   "before": "2X ⌀5.9436 ±0.2032",
+   "expect": "differs",
+   "field": "nominal",
+   "factor": 1.05,
+   "drawing": {
+    "id": "s0c7",
+    "text": "2X Ø.234 ±.008",
+    "requirement_text": "2X Ø.234 ±.008",
+    "sheet": 0
+   },
+   "after": "nominal 0.2457 (was 0.234)"
+  },
+  {
+   "edit": "no_tolerance",
+   "target": "#8661",
+   "before": "3X ⌀6.35 +0.0762/0",
+   "expect": "differs",
+   "field": "tolerance",
+   "drawing": {
+    "id": "s0c5",
+    "text": "3X Ø.250 +.003 -.000",
+    "requirement_text": "3X Ø.250 +.003 -.000",
+    "sheet": 0
+   },
+   "after": "plus/minus tolerance #8668 deleted"
+  }
+ ]
+}

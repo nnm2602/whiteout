@@ -1,0 +1,692 @@
+{
+ "missed_visible_on_erased_page": 1,
+ "true_missed": 7,
+ "true_missed_visible": 1,
+ "key": "milstd_ms16562c__p1.json",
+ "kind": "milstd",
+ "source": "hand",
+ "items": 94,
+ "found": 140,
+ "first_read_hits": 87,
+ "final_hits": 87,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 4,
+ "baseline_found": 5,
+ "exact_text": 62,
+ "multiplier_right": 66,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k15",
+   "text": ".032",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    912,
+    706,
+    933
+   ],
+   "table": true
+  },
+  {
+   "key": "k31",
+   "text": ".122",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    877,
+    954,
+    922,
+    975
+   ],
+   "table": true
+  },
+  {
+   "key": "k35",
+   "text": ".162",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    570,
+    976,
+    615,
+    997
+   ],
+   "table": true
+  },
+  {
+   "key": "k36",
+   "text": ".048",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    975,
+    706,
+    996
+   ],
+   "table": true
+  },
+  {
+   "key": "k41",
+   "text": ".199",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    486,
+    997,
+    531,
+    1018
+   ],
+   "table": true
+  },
+  {
+   "key": "k57",
+   "text": ".065",
+   "kind": "chamfer",
+   "multiplier": 2,
+   "box": [
+    661,
+    1058,
+    706,
+    1079
+   ],
+   "table": true
+  },
+  {
+   "key": "k94",
+   "text": "PROCUREMENT SPECIFICATION MIL-P-10971",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    360,
+    1970,
+    600,
+    2003
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "5. PART NUMBER: THE PART NUMBER SHALL CONSIST OF THE BASIC MS NUMBER FOLLOWED BY A DASH NUMBER FROM TABLE II. EXAMPLE: MS16562-1 MS16562-1 = PIN, SPRING-TUBULAR, SLOTTED, .062 NOMINAL SIZE, .188 LENGTH, CARBON STEEL, CADMIUM PLATED.",
+   "box": [
+    404,
+    1595,
+    1530,
+    1785
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "C, BOTH ENDS",
+   "box": [
+    849,
+    608,
+    942,
+    626
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".094",
+   "box": [
+    402,
+    917,
+    442,
+    933
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1,000",
+   "box": [
+    1187,
+    910,
+    1285,
+    929
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".097",
+   "box": [
+    1369,
+    912,
+    1407,
+    927
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".094",
+   "box": [
+    1480,
+    910,
+    1539,
+    929
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".125",
+   "box": [
+    402,
+    939,
+    441,
+    954
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".131",
+   "box": [
+    580,
+    933,
+    638,
+    952
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".129",
+   "box": [
+    1368,
+    933,
+    1406,
+    948
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".125",
+   "box": [
+    1452,
+    932,
+    1492,
+    968
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".156",
+   "box": [
+    401,
+    960,
+    441,
+    975
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".160",
+   "box": [
+    1369,
+    975,
+    1408,
+    989
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".156",
+   "box": [
+    1452,
+    974,
+    1491,
+    989
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".188",
+   "box": [
+    402,
+    980,
+    442,
+    1016
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".192",
+   "box": [
+    1368,
+    995,
+    1408,
+    1010
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".187",
+   "box": [
+    1452,
+    994,
+    1490,
+    1009
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".219",
+   "box": [
+    402,
+    1042,
+    441,
+    1057
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".224",
+   "box": [
+    1368,
+    1037,
+    1407,
+    1051
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".219",
+   "box": [
+    1452,
+    1035,
+    1491,
+    1051
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".250",
+   "box": [
+    402,
+    1063,
+    441,
+    1078
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".256",
+   "box": [
+    1368,
+    1057,
+    1407,
+    1072
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".250",
+   "box": [
+    1452,
+    1056,
+    1492,
+    1071
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".312",
+   "box": [
+    402,
+    1083,
+    440,
+    1098
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".318",
+   "box": [
+    1368,
+    1077,
+    1407,
+    1092
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".312",
+   "box": [
+    1452,
+    1076,
+    1490,
+    1092
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".375",
+   "box": [
+    402,
+    1104,
+    441,
+    1119
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".383",
+   "box": [
+    1368,
+    1098,
+    1407,
+    1113
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".375",
+   "box": [
+    1452,
+    1097,
+    1491,
+    1112
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".436",
+   "box": [
+    402,
+    1125,
+    440,
+    1140
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".445",
+   "box": [
+    1368,
+    1119,
+    1407,
+    1133
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".437",
+   "box": [
+    1452,
+    1118,
+    1490,
+    1133
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".500",
+   "box": [
+    402,
+    1146,
+    441,
+    1161
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".510",
+   "box": [
+    1368,
+    1139,
+    1407,
+    1154
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".500",
+   "box": [
+    1452,
+    1138,
+    1491,
+    1154
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "L",
+   "box": [
+    1150,
+    310,
+    1168,
+    323
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "D",
+   "box": [
+    710,
+    515,
+    717,
+    539
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "B",
+   "box": [
+    781,
+    501,
+    788,
+    529
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "T",
+   "box": [
+    1254,
+    382,
+    1283,
+    396
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".078",
+   "box": [
+    402,
+    896,
+    441,
+    912
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".081",
+   "box": [
+    1382,
+    889,
+    1444,
+    908
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".078",
+   "box": [
+    1452,
+    911,
+    1492,
+    927
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".062",
+   "box": [
+    366,
+    868,
+    445,
+    886
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".069",
+   "box": [
+    493,
+    868,
+    552,
+    886
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".066",
+   "box": [
+    549,
+    853,
+    611,
+    868
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".026",
+   "box": [
+    753,
+    852,
+    789,
+    868
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".007",
+   "box": [
+    802,
+    868,
+    854,
+    886
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".050",
+   "box": [
+    919,
+    868,
+    980,
+    886
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".012",
+   "box": [
+    1038,
+    868,
+    1102,
+    886
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".065",
+   "box": [
+    1368,
+    890,
+    1407,
+    905
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".062",
+   "box": [
+    1452,
+    889,
+    1491,
+    905
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "425",
+   "box": [
+    1208,
+    868,
+    1264,
+    886
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".234",
+   "box": [
+    1363,
+    1034,
+    1432,
+    1054
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.03166079521179199,
+  "read": 2.9377939701080322,
+  "audit": 1.0821080207824707,
+  "text_layer_unmatched": 21,
+  "total": 4.10135293006897
+ }
+}

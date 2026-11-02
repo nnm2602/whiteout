@@ -1,0 +1,163 @@
+{
+ "id": "nist_ftc_09",
+ "page": 3,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_09_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_09_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 9 - View C",
+ "doubts": [
+  "All annotations are drawn in isometric planes (about 30 degrees); every box is the axis-aligned box enclosing the rotated text or frame, so boxes of stacked items overlap.",
+  "Feature control frames printed under an nX size callout carry that callout's multiplier (same convention as the d2mi hand keys); frames with their own printed nX use it.",
+  "T20, T21, T22 are single-hole position tolerances in X, 45 degrees and Y directions (direction set by RLE2-RLE4); keyed as plain frames, multiplier 1.",
+  "T19 prints its own 3X in front of the frame; the 3X is included in text and box.",
+  "Excluded: the view notes block at top right (MCS shown translated, supplemental geometry used for polar zones), which impose no requirement; RLE1-RLE4, CS1, CS4, DF7, DF8."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "⌖|.01|A|G|H",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    791,
+    296,
+    1042,
+    445
+   ],
+   "official_id": "T22"
+  },
+  {
+   "key": "k2",
+   "text": "⌖|.01|A|G|H",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1050,
+    359,
+    1303,
+    508
+   ],
+   "official_id": "T21"
+  },
+  {
+   "key": "k3",
+   "text": "3X ⌖|.03|A|G|H",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    1114,
+    436,
+    1398,
+    603
+   ],
+   "official_id": "T19"
+  },
+  {
+   "key": "k4",
+   "text": "3X ⌀.156 ±.008",
+   "kind": "dimension",
+   "multiplier": 3,
+   "box": [
+    1196,
+    530,
+    1404,
+    653
+   ],
+   "official_id": "D17"
+  },
+  {
+   "key": "k5",
+   "text": "⌖|.01|A|G|H",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1278,
+    563,
+    1530,
+    710
+   ],
+   "official_id": "T20"
+  },
+  {
+   "key": "k6",
+   "text": "⌀.375 ±.008",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1477,
+    721,
+    1649,
+    826
+   ],
+   "official_id": "D6"
+  },
+  {
+   "key": "k7",
+   "text": "⌖|⌀.040|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1499,
+    676,
+    1791,
+    847
+   ],
+   "official_id": "T8"
+  },
+  {
+   "key": "k8",
+   "text": "⊥|⌀.010|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1537,
+    721,
+    1771,
+    871
+   ],
+   "official_id": "T9"
+  },
+  {
+   "key": "k9",
+   "text": ".140 ±.008",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1646,
+    856,
+    1781,
+    944
+   ],
+   "official_id": "D7"
+  },
+  {
+   "key": "k10",
+   "text": "⌖|.010|A|G|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1661,
+    816,
+    1933,
+    976
+   ],
+   "official_id": "T10"
+  },
+  {
+   "key": "k11",
+   "text": "⌓|.008|A|G|H",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    818,
+    1115,
+    1098,
+    1280
+   ],
+   "official_id": "T11"
+  }
+ ]
+}

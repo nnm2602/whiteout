@@ -1,0 +1,243 @@
+{
+ "id": "nist_ftc_09",
+ "page": 4,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_09_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_09_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 9 - View D",
+ "doubts": [
+  "All annotations are drawn in isometric planes (about 30 degrees); every box is the axis-aligned box enclosing the rotated text or frame, so boxes of stacked items overlap.",
+  "Feature control frames printed under an nX size callout carry that callout's multiplier (same convention as the d2mi hand keys); frames with their own printed nX use it.",
+  "STR4 and STR5 print SEP REQT (separate requirement), not SIM REQT; keyed as note items with that text.",
+  "T4 (perpendicularity) and T5 (position) are two separate frames stacked under D3 with T4 offset to the right; one item each.",
+  "D18 and T23 are dual-unit (inch and [mm]); the bracketed mm values are kept in the text.",
+  "T25 and T26 are bidirectional position tolerances (X and Y, set by RLE5/RLE6), each with its own printed 3X.",
+  "Excluded: view notes block at top right (dual units used for 2X ⌀.315 holes; supplemental geometry note), DF4, DF5, RLE5, RLE6, CS1, CS2."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "⌀.750 ±.008",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    580,
+    512,
+    722,
+    603
+   ],
+   "official_id": "D3"
+  },
+  {
+   "key": "k2",
+   "text": "⊥|⌀.010|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    516,
+    509,
+    712,
+    623
+   ],
+   "official_id": "T4"
+  },
+  {
+   "key": "k3",
+   "text": "⌖|⌀.050|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    434,
+    498,
+    681,
+    643
+   ],
+   "official_id": "T5"
+  },
+  {
+   "key": "k4",
+   "text": "2X ⌀.221 ±.008",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    464,
+    649,
+    640,
+    752
+   ],
+   "official_id": "D4"
+  },
+  {
+   "key": "k5",
+   "text": "⌖|⌀.020|A|D|B",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    376,
+    636,
+    621,
+    780
+   ],
+   "official_id": "T6"
+  },
+  {
+   "key": "k6",
+   "text": "2X ⌀.156 ±.008",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    267,
+    931,
+    444,
+    1034
+   ],
+   "official_id": "D20"
+  },
+  {
+   "key": "k7",
+   "text": "⌖|⌀.025Ⓜ|A|DⓂ|EⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    224,
+    944,
+    551,
+    1136
+   ],
+   "official_id": "T27"
+  },
+  {
+   "key": "k8",
+   "text": "SEP REQT",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    209,
+    974,
+    342,
+    1050
+   ],
+   "official_id": "STR4"
+  },
+  {
+   "key": "k9",
+   "text": "2X ⌀.156 ±.008",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    655,
+    1154,
+    831,
+    1258
+   ],
+   "official_id": "D21"
+  },
+  {
+   "key": "k10",
+   "text": "⌖|⌀.025Ⓜ|A|DⓂ|EⓂ",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    611,
+    1168,
+    937,
+    1358
+   ],
+   "official_id": "T28"
+  },
+  {
+   "key": "k11",
+   "text": "SEP REQT",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    595,
+    1197,
+    728,
+    1273
+   ],
+   "official_id": "STR5"
+  },
+  {
+   "key": "k12",
+   "text": "2X ⌀.315 ±.008 [8 ±0.2]",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    1596,
+    1024,
+    1857,
+    1183
+   ],
+   "official_id": "D18"
+  },
+  {
+   "key": "k13",
+   "text": "⌖|⌀.030 [0.76]|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1555,
+    1036,
+    1864,
+    1216
+   ],
+   "official_id": "T23"
+  },
+  {
+   "key": "k14",
+   "text": "3X ⌀.281 ±.008",
+   "kind": "dimension",
+   "multiplier": 3,
+   "box": [
+    1462,
+    1098,
+    1641,
+    1205
+   ],
+   "official_id": "D19"
+  },
+  {
+   "key": "k15",
+   "text": "⊥|⌀.010|A",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    1427,
+    1110,
+    1622,
+    1225
+   ],
+   "official_id": "T24"
+  },
+  {
+   "key": "k16",
+   "text": "3X ⌖|.020|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    1365,
+    1185,
+    1617,
+    1333
+   ],
+   "official_id": "T25"
+  },
+  {
+   "key": "k17",
+   "text": "3X ⌖|.060|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    994,
+    1260,
+    1245,
+    1407
+   ],
+   "official_id": "T26"
+  }
+ ]
+}

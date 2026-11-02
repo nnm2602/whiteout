@@ -1,0 +1,98 @@
+{
+ "id": "nist_ftc_07",
+ "page": 4,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_07_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_07_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 7 - View D",
+ "doubts": [
+  "Boxes are axis-aligned boxes around rotated isometric annotations, so they overlap each other.",
+  "STR5 'INNER AND OUTER RADII OF ENTIRE GROOVE' and STR6 'INNER AND OUTER WALL OF ENTIRE GROOVE' are, per the FSI, clarification only (applicability comes from the dual leaders); kept as note items because they state the scope of D17 and T16. Drop them if clarification text should not count.",
+  "D17 R.012 - .022 points to two radii through a dual leader but prints no count, so multiplier 1.",
+  "Composite frame T16 gives one item per row.",
+  "Excluded: coordinate system CS1."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "D17",
+   "text": "R.012 - .022",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    708,
+    307,
+    860,
+    405
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "STR5",
+   "text": "INNER AND OUTER RADII OF ENTIRE GROOVE",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    723,
+    242,
+    1031,
+    473
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T16",
+   "text": "⌓|.030|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    941,
+    359,
+    1165,
+    533
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "T16",
+   "text": "⌓|.005|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    941,
+    402,
+    1165,
+    572
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "STR6",
+   "text": "INNER AND OUTER WALL OF ENTIRE GROOVE",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    949,
+    409,
+    1260,
+    636
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T17",
+   "text": "⌓|.006|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1099,
+    569,
+    1323,
+    740
+   ]
+  }
+ ]
+}

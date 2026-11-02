@@ -1,0 +1,81 @@
+{
+ "engine": "Muse Glimmer 30B Q4_K_M + mmproj + DFlash draft, llama.cpp, one NVIDIA L4 (g2-standard-8)",
+ "sheets": 6,
+ "items": 240,
+ "glimmer_found": 220,
+ "glimmer_pct": 91.7,
+ "spark_found_same_sheets": 234,
+ "spark_pct": 97.5,
+ "median_minutes_per_sheet": 52.2,
+ "note": "Planned 10 sheets; the GPU machine reached its 6 hour stop after 6.",
+ "rows": [
+  {
+   "sheet": "apollo_b502_n0014__p1",
+   "source": "hand",
+   "items": 42,
+   "glimmer_found": 41,
+   "spark_found": 42,
+   "glimmer_first_read": 41,
+   "glimmer_extra": 12,
+   "spark_extra": 5,
+   "minutes": 70.3
+  },
+  {
+   "sheet": "apollo_b503_n0024__p1",
+   "source": "hand",
+   "items": 57,
+   "glimmer_found": 45,
+   "spark_found": 54,
+   "glimmer_first_read": 44,
+   "glimmer_extra": 11,
+   "spark_extra": 6,
+   "minutes": 62.5
+  },
+  {
+   "sheet": "apollo_b503_n0057__p1",
+   "source": "hand",
+   "items": 56,
+   "glimmer_found": 55,
+   "spark_found": 54,
+   "glimmer_first_read": 55,
+   "glimmer_extra": 7,
+   "spark_extra": 12,
+   "minutes": 54.5
+  },
+  {
+   "sheet": "nist_d2mi_903__p1",
+   "source": "hand",
+   "items": 19,
+   "glimmer_found": 18,
+   "spark_found": 19,
+   "glimmer_first_read": 18,
+   "glimmer_extra": 7,
+   "spark_extra": 1,
+   "minutes": 23.0
+  },
+  {
+   "sheet": "nist_d2mi_904__p2",
+   "source": "hand",
+   "items": 45,
+   "glimmer_found": 41,
+   "spark_found": 45,
+   "glimmer_first_read": 41,
+   "glimmer_extra": 6,
+   "spark_extra": 0,
+   "minutes": 49.9
+  },
+  {
+   "sheet": "nist_d2mi_904__p3",
+   "source": "hand",
+   "items": 21,
+   "glimmer_found": 20,
+   "spark_found": 20,
+   "glimmer_first_read": 20,
+   "glimmer_extra": 3,
+   "spark_extra": 1,
+   "minutes": 21.8
+  }
+ ],
+ "glimmer_extra_total": 46,
+ "spark_extra_total": 25
+}

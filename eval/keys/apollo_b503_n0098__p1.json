@@ -1,0 +1,410 @@
+{
+ "id": "apollo_b503_n0098",
+ "page": 1,
+ "width": 6400,
+ "height": 4466,
+ "dpi": 181.269,
+ "file": "data/raw/apollo/apollo_b503_n0098.jpg",
+ "source": "hand",
+ "drawing_number": "LDW270M10025",
+ "title": "",
+ "stamp_not_for_photo_reproduction": false,
+ "doubts": [
+  "title: the title block has no part name cell; drawing LDW270M10025 rev A, LEM, size C, scale FULL. Title left empty; the -1 balloon is not keyed",
+  "k12, k14, k18, k23, k24, k25: tolerances printed stacked +.000 over -.020 (or -.010) beside the value; written as '<value> +.000 -.020'. The circled A2 flags beside them are inspection flags and not keyed",
+  "k25: the tolerance digits look like '+.008' and '-.018' at first glance; at 8x zoom they are '+.000' and '-.010' with the last zeros of the two lines touching. TYP with no count, multiplier 1",
+  "k16 (4 HOLES EQUALLY SPACED WITHIN .001 OF TRUE LOCATION): position requirement written as a local note; keyed as note with multiplier 4, as in the mating part keys",
+  "k15 (SURFACE TO BE FLAT WITHIN .005 TIR): a flatness requirement written as a local note; keyed as note, could be read as an old style flatness frame",
+  "k1 (BREAK EDGE .010 MAX (2)): edge break note with a count, multiplier 2",
+  "k7, k8, k22: the ℄ beside the value is the Grumman concentricity marker defined in the block (k32). k22 and k28 print BASIC without a box; keyed basic_dimension",
+  "k27: '1.766/1.734 R(4)' read as a radius with 4 places",
+  "k32 (Grumman block): the 125 line has a blacked-out word, the 200 line reads FOR ALL [blacked out] HOLES; blacked-out words omitted",
+  "Not keyed: NOTE 1 (FOR HOLES MARKED ▲ SEE DWG LDW270M10024 FOR CORRESPONDING HOLE PATTERN, cross reference only); GRAIN DIRECTION OPTIONAL (imposes nothing)"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "BREAK EDGE .010 MAX (2)",
+   "kind": "note",
+   "multiplier": 2,
+   "box": [
+    2066,
+    1813,
+    2337,
+    1880
+   ]
+  },
+  {
+   "key": "k2",
+   "text": ".062R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    2425,
+    1832,
+    2553,
+    1872
+   ]
+  },
+  {
+   "key": "k3",
+   "text": ".116/.110",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1984,
+    1917,
+    2060,
+    1983
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    1960,
+    2017,
+    2020,
+    2076
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2100,
+    2100,
+    2190,
+    2156
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "1.630/1.614 DIA",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1917,
+    2127,
+    2026,
+    2226
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "1.152/1.142 DIA ℄",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2380,
+    2098,
+    2567,
+    2197
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "1.255/1.250 DIA ℄",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2600,
+    2097,
+    2766,
+    2193
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "FULL R",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    1951,
+    2374,
+    2078,
+    2411
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2075,
+    2343,
+    2134,
+    2407
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".092/.087",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2105,
+    2432,
+    2195,
+    2507
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".250 +.000 -.020",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2095,
+    2525,
+    2234,
+    2603
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "16",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    2155,
+    2635,
+    2230,
+    2695
+   ]
+  },
+  {
+   "key": "k14",
+   "text": ".500 +.000 -.020",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2370,
+    2625,
+    2510,
+    2705
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "SURFACE TO BE FLAT WITHIN .005 TIR",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    2128,
+    2897,
+    2542,
+    2976
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "4 HOLES EQUALLY SPACED WITHIN .001 OF TRUE LOCATION ▲ ( SEE NOTE 1)",
+   "kind": "note",
+   "multiplier": 4,
+   "box": [
+    3550,
+    1577,
+    3943,
+    1730
+   ]
+  },
+  {
+   "key": "k17",
+   "text": ".256 - .263 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    2924,
+    1637,
+    3216,
+    1676
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "2.000 +.000 -.020",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3260,
+    1724,
+    3422,
+    1793
+   ]
+  },
+  {
+   "key": "k19",
+   "text": ".2522 - .2532 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    3584,
+    1790,
+    3884,
+    1826
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "125",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3878,
+    1767,
+    3933,
+    1823
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "1.000 ±.020",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3200,
+    1850,
+    3333,
+    1916
+   ]
+  },
+  {
+   "key": "k22",
+   "text": "2.000 DIA BASIC ℄",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2733,
+    1946,
+    3080,
+    2028
+   ]
+  },
+  {
+   "key": "k23",
+   "text": "2.656 DIA. +.000 -.010",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3744,
+    1936,
+    3920,
+    2001
+   ]
+  },
+  {
+   "key": "k24",
+   "text": "2.000 +.000 -.020",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3660,
+    2070,
+    3826,
+    2140
+   ]
+  },
+  {
+   "key": "k25",
+   "text": ".900 +.000 -.010 (TYP)",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3000,
+    2163,
+    3163,
+    2229
+   ]
+  },
+  {
+   "key": "k26",
+   "text": "1.000 ±.020",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    3547,
+    2180,
+    3706,
+    2236
+   ]
+  },
+  {
+   "key": "k27",
+   "text": "1.766/1.734 R (4)",
+   "kind": "radius",
+   "multiplier": 4,
+   "box": [
+    3330,
+    2357,
+    3506,
+    2420
+   ]
+  },
+  {
+   "key": "k28",
+   "text": "45° BASIC",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    3134,
+    2377,
+    3243,
+    2460
+   ]
+  },
+  {
+   "key": "k29",
+   "text": ".256 - .263 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    3440,
+    2477,
+    3736,
+    2513
+   ]
+  },
+  {
+   "key": "k30",
+   "text": ".2522 - .2532 HOLE",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    3034,
+    2527,
+    3345,
+    2563
+   ]
+  },
+  {
+   "key": "k31",
+   "text": "125",
+   "kind": "surface_finish",
+   "multiplier": 1,
+   "box": [
+    3340,
+    2497,
+    3396,
+    2556
+   ]
+  },
+  {
+   "key": "k32",
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED APPLY TO THIS DWG (checked): RUBBER STAMP PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED. USE BOTH SIDES IF NECESSARY; FILLET AND INSIDE CORNER RADII TOLERANCES .016R TO .062R ±.010 .063R TO .250R ±.015 OVER .250R ±.030; DIAMETERS MARKED ℄ MUST BE CONCENTRIC WITHIN .002 FULL INDICATOR READING; 125 √ SURFACE ROUGHNESS PER MIL-STD-10; 200 √ FOR ALL HOLES; REMOVE ALL BURRS. BREAK ALL EDGES .015-.031",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    3970,
+    1348,
+    4345,
+    3050
+   ]
+  }
+ ]
+}

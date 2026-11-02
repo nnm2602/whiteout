@@ -1,0 +1,229 @@
+{
+ "id": "nist_ftc_07",
+ "page": 1,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_07_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_07_asme1_rd",
+ "title": "PMI Fully-Toleranced Test Case 7 - View A",
+ "doubts": [
+  "Boxes are axis-aligned boxes around rotated isometric annotations, so they overlap each other and the part.",
+  "Hole sizes (D1, D3, D5, D7) keyed as hole_callout; the depth lines (D2, D4, D6, D8, printed with the depth symbol in an AIGDT font) as dimension. Depth and position frames under a 2X or 4X callout take the callout count as multiplier.",
+  "T1 profile frame given multiplier 2 from its STR1 qualifier '2 SURFACES F1.1 AND F1.2'; STR1 kept as its own note item with multiplier 2.",
+  "Projected tolerance zone written inline in the tolerance cell as printed, e.g. ⌀.020Ⓟ.425.",
+  "Note 4 (frame T19 inline) keyed with official_id 'note 4'; note 5 (statistical tolerancing / SPC, part of STR8) keyed with official_id 'note 5'.",
+  "Excluded: notes 1 (CAD model required), 2 (precedence), 3 (applicable standards), 6 (UNITS: INCHES); leader-directed notes LDN1 'F1.1' and LDN2 'F1.2' (labels only); datum feature symbols DF1 A, DF2 B, DF3 C; coordinate systems CS1, CS2."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "D3",
+   "text": "⌀.250 +.003/-.000",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    993,
+    250,
+    1150,
+    346
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "D4",
+   "text": "↧.30 ±.02",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1030,
+    297,
+    1160,
+    366
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T3",
+   "text": "⌖|⌀.020Ⓟ.425|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1045,
+    223,
+    1368,
+    410
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "D7",
+   "text": "4X ⌀.250 +.003/-.001",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1293,
+    303,
+    1473,
+    435
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D8",
+   "text": "↧.30 ±.02",
+   "kind": "dimension",
+   "multiplier": 4,
+   "box": [
+    1294,
+    400,
+    1406,
+    480
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T7",
+   "text": "⌖|⌀.023Ⓟ.150|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    1294,
+    310,
+    1620,
+    541
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "D5",
+   "text": "2X ⌀.250 +.003/-.000",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    660,
+    503,
+    857,
+    621
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "D6",
+   "text": "↧.30 ±.02",
+   "kind": "dimension",
+   "multiplier": 2,
+   "box": [
+    698,
+    572,
+    828,
+    642
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "T6",
+   "text": "⌖|⌀.023Ⓟ.425|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    714,
+    474,
+    1077,
+    684
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T1",
+   "text": "⌓|.015",
+   "kind": "gdt_frame",
+   "multiplier": 2,
+   "box": [
+    1545,
+    488,
+    1669,
+    602
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "STR1",
+   "text": "2 SURFACES F1.1 AND F1.2",
+   "kind": "note",
+   "multiplier": 2,
+   "box": [
+    1598,
+    514,
+    1767,
+    661
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "D1",
+   "text": "⌀.250 +.003/-.000",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1735,
+    638,
+    1892,
+    734
+   ]
+  },
+  {
+   "key": "k13",
+   "official_id": "D2",
+   "text": "↧.30 ±.02",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1765,
+    690,
+    1895,
+    760
+   ]
+  },
+  {
+   "key": "k14",
+   "official_id": "T2",
+   "text": "⊥|⌀.015Ⓟ.425|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1778,
+    634,
+    2067,
+    801
+   ]
+  },
+  {
+   "key": "k15",
+   "official_id": "note 4",
+   "text": "4. ⌓|.06|A|B|C APPLIES TO ALL UNTOLERANCED SURFACES.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    104,
+    760,
+    555,
+    818
+   ]
+  },
+  {
+   "key": "k16",
+   "official_id": "note 5",
+   "text": "5. FEATURES IDENTIFIED AS STATISTICALLY TOLERANCED <ST> SHALL BE PRODUCED WITH STATISTICAL PROCESS CONTROLS OR TO THE MORE RESTRICTIVE ARITHMETIC LIMITS SPECIFIED . DETAILED PROCESS PLAN NEEDED TO COMPLETELY DEFINE STATISTICAL PARAMETERS AND REQUIREMENTS.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    105,
+    861,
+    664,
+    1100
+   ]
+  }
+ ]
+}

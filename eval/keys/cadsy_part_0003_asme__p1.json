@@ -1,0 +1,172 @@
+{
+ "id": "cadsy_part_0003_asme",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0003_asme.png",
+ "source": "official",
+ "standard": "ASME",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "2X ⌀4.5 THRU ⌴⌀7 ↧3.5",
+   "kind": "hole_callout",
+   "multiplier": 2,
+   "box": [
+    1322,
+    377,
+    1644,
+    397
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "R1.5 ±0.05",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    1535,
+    415,
+    1647,
+    433
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "3X R1.5",
+   "kind": "radius",
+   "multiplier": 3,
+   "box": [
+    1535,
+    848,
+    1621,
+    867
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "70",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    862,
+    968,
+    885,
+    987
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "4X C0.8",
+   "kind": "chamfer",
+   "multiplier": 4,
+   "box": [
+    355,
+    1046,
+    442,
+    1064
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "30",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2063,
+    1046,
+    2085,
+    1064
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "4X C0.8",
+   "kind": "chamfer",
+   "multiplier": 4,
+   "box": [
+    1680,
+    1082,
+    1767,
+    1101
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "12",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1514,
+    1180,
+    1532,
+    1202
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "8.5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    215,
+    1207,
+    233,
+    1236
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "15",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    376,
+    1317,
+    397,
+    1336
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "⏥|0.2",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    885,
+    1301,
+    991,
+    1352
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "15",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1931,
+    1317,
+    1952,
+    1336
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "55",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    730,
+    1359,
+    752,
+    1377
+   ]
+  }
+ ]
+}

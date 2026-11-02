@@ -1,0 +1,140 @@
+{
+ "key": "nist_d2mi_904__p2.json",
+ "kind": "nist_d2mi",
+ "source": "hand",
+ "items": 45,
+ "found": 47,
+ "first_read_hits": 41,
+ "final_hits": 41,
+ "baseline_hits": 18,
+ "baseline_found": 24,
+ "exact_text": 37,
+ "multiplier_right": 40,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k18",
+   "text": "1.344",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1608,
+    571,
+    1707,
+    605
+   ]
+  },
+  {
+   "key": "k20",
+   "text": ".672",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1388,
+    630,
+    1470,
+    664
+   ]
+  },
+  {
+   "key": "k37",
+   "text": ".168",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    458,
+    1392,
+    542,
+    1425
+   ]
+  },
+  {
+   "key": "k38",
+   "text": "\u2313|.016",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1705,
+    1372,
+    1838,
+    1406
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "SEE PDM FOR DEFINING DATA",
+   "box": [
+    1426,
+    2045,
+    1842,
+    2076
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1.008",
+   "box": [
+    1390,
+    632,
+    1469,
+    660
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".672",
+   "box": [
+    1310,
+    664,
+    1333,
+    688
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "SEE SHEET 3",
+   "box": [
+    1370,
+    1382,
+    1553,
+    1408
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": ".168",
+   "box": [
+    501,
+    1335,
+    561,
+    1371
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "\u2313 .016",
+   "box": [
+    1682,
+    1342,
+    1806,
+    1383
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 31.074456930160522,
+  "read": 2017.9884049892426,
+  "audit": 947.8564426898956,
+  "text_layer_unmatched": 0,
+  "total": 2996.998579978943
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "id": "nist_ftc_08",
+ "page": 2,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ftc/nist_ftc_08_asme1_rc.pdf",
+ "source": "official",
+ "drawing_number": "nist_ftc_08_asme1_rc",
+ "title": "PMI Fully-Toleranced Test Case 8 - View B",
+ "doubts": [
+  "Annotation text is drawn as vector paths; boxes from blue annotation pixels inside hand-placed regions, checked on overlays. Boxes are axis-aligned around rotated annotations and overlap.",
+  "T23 has the all-around circle on its leader (FSI 'All Around'); the circle is not a separate text string, so it is not keyed and not in the frame box.",
+  "STR5 'L1↔L2' (between indicator limiting T20 flatness to the area between line elements L1 and L2) kept as a note item. LDN1 'L1' and LDN2 'L2' labels excluded.",
+  "Composite frame T7 gives two items, both with multiplier 10 from D3 '10X'.",
+  "Excluded: datum feature symbols DF4 D, DF5 E, DF6 F; represented line elements RLE1, RLE2; crosshatch CH1; coordinate systems CS1, CS2, CS3."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T21",
+   "text": "∥|.015Ⓣ|D",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    986,
+    200,
+    1139,
+    327
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T22",
+   "text": "⌓|.035|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    986,
+    211,
+    1182,
+    362
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "T23",
+   "text": "⌓|.04|D|E-F",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1220,
+    253,
+    1426,
+    371
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "D3",
+   "text": "10X ⌀.213 +.005/-.001",
+   "kind": "hole_callout",
+   "multiplier": 10,
+   "box": [
+    1503,
+    453,
+    1686,
+    562
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "T7",
+   "text": "⌖|⌀.04Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 10,
+   "box": [
+    1540,
+    450,
+    1794,
+    597
+   ]
+  },
+  {
+   "key": "k6",
+   "official_id": "T7",
+   "text": "⌖|⌀.02Ⓜ|D|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 10,
+   "box": [
+    1570,
+    468,
+    1826,
+    616
+   ]
+  },
+  {
+   "key": "k7",
+   "official_id": "T5",
+   "text": "∥|.03|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1777,
+    573,
+    1896,
+    679
+   ]
+  },
+  {
+   "key": "k8",
+   "official_id": "T6",
+   "text": "⌓|.06|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1777,
+    570,
+    1962,
+    715
+   ]
+  },
+  {
+   "key": "k9",
+   "official_id": "T16",
+   "text": "∥|.015Ⓣ|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    198,
+    545,
+    349,
+    671
+   ]
+  },
+  {
+   "key": "k10",
+   "official_id": "T17",
+   "text": "∥|.03ⒻⓉ|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    198,
+    582,
+    363,
+    716
+   ]
+  },
+  {
+   "key": "k11",
+   "official_id": "T18",
+   "text": "⌓|.05|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    198,
+    619,
+    383,
+    765
+   ]
+  },
+  {
+   "key": "k12",
+   "official_id": "T19",
+   "text": "⌓|.06|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    198,
+    975,
+    384,
+    1120
+   ]
+  },
+  {
+   "key": "k13",
+   "official_id": "T20",
+   "text": "⏥|.015",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    510,
+    1123,
+    620,
+    1223
+   ]
+  },
+  {
+   "key": "k14",
+   "official_id": "STR5",
+   "text": "L1↔L2",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    513,
+    1180,
+    614,
+    1255
+   ]
+  }
+ ]
+}

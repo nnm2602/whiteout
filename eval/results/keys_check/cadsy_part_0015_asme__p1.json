@@ -1,0 +1,75 @@
+{
+ "missed_visible_on_erased_page": 1,
+ "true_missed": 2,
+ "true_missed_visible": 1,
+ "key": "cadsy_part_0015_asme__p1.json",
+ "kind": "cadsy",
+ "source": "official",
+ "items": 15,
+ "found": 15,
+ "first_read_hits": 13,
+ "final_hits": 13,
+ "hits_inside_larger_callout": 0,
+ "baseline_hits": 2,
+ "baseline_found": 2,
+ "exact_text": 13,
+ "multiplier_right": 13,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k7",
+   "text": "5 \u00b10.05",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1091,
+    1099,
+    1109,
+    1170
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    374,
+    1202,
+    392,
+    1212
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "5 \u00b10.05",
+   "box": [
+    1090,
+    1181,
+    1161,
+    1214
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2",
+   "box": [
+    379,
+    1214,
+    414,
+    1245
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.019193172454833984,
+  "read": 1.1888279914855957,
+  "audit": 64.43742895126343,
+  "total": 65.67742013931274
+ }
+}

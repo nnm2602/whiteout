@@ -1,0 +1,275 @@
+{
+ "id": "nist_d2mi_907",
+ "page": 1,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-907.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": "1. MATERIAL: ALUMINUM, ROUND, 6061-T6, IN ACCORDANCE WITH ASTM B211.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    94,
+    1270,
+    120
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "2. FINISH: CHROMATE CONVERSION COATING IN ACCORDANCE WITH MIL-DTL-5541, CLASS 1A, TYPE II.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    140,
+    1622,
+    167
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "3. SPACE OR USAGE PRECLUDES IDENTIFICATION MARKING, MARK CONTAINER OR TAG IN ACCORDANCE WITH MIL-STD-130.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    184,
+    1580,
+    232
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "5. UNLESS OTHERWISE SPECIFIED, DIMENSIONS AND TOLERANCES ARE EXPRESSED IN INCHES AND SHALL BE INTERPRETED IN ACCORDANCE WITH ASME Y14.5-2009.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    297,
+    1678,
+    345
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "6 DRILL POINT OPTIONAL, BREAKTHROUGH PROHIBITED.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    135,
+    365,
+    955,
+    412
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "7. THIS DRAWING IS PART OF A PRODUCT DEFINITION DATASET IN ACCORDANCE WITH ASME Y14.41, AND SHALL BE USED IN CONJUNCTION WITH ASSOCIATED DESIGN MODEL FOR COMPLETE PRODUCT DEFINITION. UNLESS OTHERWISE SPECIFIED, BASIC DIMENSIONS SHALL BE OBTAINED FROM RELATED MODEL, ORIGINATING AT COORDINATE SYSTEM DRF_ABC. ALL FEATURES OF SIZE AND MINOR FEATURES ARE MODELED AT A NOMINAL (MEAN) VALUE, EXCEPT PRESS-FIT FEATURES. PRESS-FIT FEATURES ARE MODELED AT THE MAXIMUM MATERIAL CONDITION VALUE.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    432,
+    1745,
+    572
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "⌀.164 - .167",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1120,
+    1153,
+    1331,
+    1181
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "⌖|⌀.002|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1115,
+    1191,
+    1342,
+    1225
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "⌀.214 - .224",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    875,
+    1348,
+    1083,
+    1375
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "⌭|.005",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    910,
+    1386,
+    1042,
+    1420
+   ]
+  },
+  {
+   "key": "k11",
+   "text": ".085",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1523,
+    903,
+    1605,
+    937
+   ]
+  },
+  {
+   "key": "k12",
+   "text": ".910",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2161,
+    903,
+    2244,
+    937
+   ]
+  },
+  {
+   "key": "k13",
+   "text": ".075 ±.015",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1882,
+    962,
+    2045,
+    990
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "R.005 MAX",
+   "kind": "radius",
+   "multiplier": 1,
+   "box": [
+    1415,
+    982,
+    1565,
+    1010
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "⌀.139 - .142",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1404,
+    1150,
+    1615,
+    1179
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "⌖|⌀.002|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1398,
+    1191,
+    1625,
+    1225
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "⌓|.010|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1471,
+    1403,
+    1665,
+    1437
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "⌰|.002|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1746,
+    1451,
+    1924,
+    1485
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "⌀.156 - .166",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    2717,
+    1152,
+    2928,
+    1181
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "⌖|⌀.008|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    2713,
+    1191,
+    2969,
+    1225
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "⌓|.006|A|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    2656,
+    1411,
+    2849,
+    1445
+   ]
+  }
+ ],
+ "doubts": [
+  "Note 4 (INFORMATION ENCLOSED IN PARENTHESES IS FOR REFERENCE ONLY) left out as it imposes nothing; no parenthesized dimensions appear on the sheet",
+  "Note 8 (drawing released with an associated 3D CAD model and .STP file which MAY be used for manufacturing and inspection) left out as permissive; could be ballooned by some inspectors",
+  "k4: note 5 is units plus ASME Y14.5-2009 interpretation; kept as a note because it names the governing standard, could be read as imposing nothing",
+  "k6: note 7 kept because it makes the model the source of basic dimensions from DRF_ABC; it is mostly a definition note and could be read as imposing nothing",
+  "k5: flag note 6 (hexagon flag) applies to the ⌀.156 - .166 bore",
+  "k18: runout frame drawn with two arrows, read as total runout (⌰); no ⌀ in the tolerance cell",
+  "k20: position frame references A|B|C as printed although no datum feature C is labeled on the sheet (C presumably from the model DRF_ABC)",
+  "k7, k9, k15, k19: diameter limit dimensions given kind dimension; k19 could be hole_callout since it is the drilled bore of note 6",
+  "DRF_ABC and the X, Y, Z axis labels are coordinate system labels, not items",
+  "No UNLESS OTHERWISE SPECIFIED tolerance block in the title block; every size is toleranced, limit, or basic"
+ ]
+}

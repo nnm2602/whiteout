@@ -1,0 +1,84 @@
+{
+ "id": "nist_ctc_05",
+ "page": 2,
+ "width": 2200,
+ "height": 1700,
+ "dpi": 200,
+ "file": "data/raw/nist_ctc/nist_ctc_05_asme1_rd.pdf",
+ "source": "official",
+ "drawing_number": "nist_ctc_05_asme1_rd",
+ "title": "PMI Complex Test Case 5 - View 2 (of 2)",
+ "doubts": [
+  "k4 D5 '2.000' and k5 D6 '1.250' are boxed basic dimensions locating and sizing datum target area D1 (DT2); kept as basic_dimension items although the datum target itself is excluded.",
+  "k3 D4 box is crossed by its own vertical dimension line, so the box reaches the edge of the text area on that side.",
+  "Text block 'Notes Datum feature A defined in View 1 (of 2). Datum target D1 referenced in View 1 (of 2).' is a cross reference; excluded.",
+  "Excluded DF1, DF2 datum feature symbols, DT2 datum target symbol, CS1 coordinate system, SG2 and CH2 supplemental geometry markers."
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "official_id": "T10",
+   "text": "⌰|.015|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    582,
+    672,
+    709,
+    776
+   ]
+  },
+  {
+   "key": "k2",
+   "official_id": "T9",
+   "text": "⌰|.002|A",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    648,
+    884,
+    776,
+    990
+   ]
+  },
+  {
+   "key": "k3",
+   "official_id": "D4",
+   "text": "⌀10.000 ±.001",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    568,
+    1029,
+    694,
+    1120
+   ]
+  },
+  {
+   "key": "k4",
+   "official_id": "D5",
+   "text": "2.000",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1519,
+    874,
+    1601,
+    959
+   ]
+  },
+  {
+   "key": "k5",
+   "official_id": "D6",
+   "text": "1.250",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1482,
+    981,
+    1580,
+    1055
+   ]
+  }
+ ]
+}

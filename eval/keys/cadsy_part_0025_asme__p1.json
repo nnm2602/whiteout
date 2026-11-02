@@ -1,0 +1,220 @@
+{
+ "id": "cadsy_part_0025_asme",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0025_asme.png",
+ "source": "official",
+ "standard": "ASME",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "3",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    721,
+    354,
+    731,
+    372
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "H 1",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    820,
+    354,
+    849,
+    372
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "3X ⌀4.5 THRU",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    1240,
+    595,
+    1409,
+    615
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "⌭|0.1",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    1240,
+    616,
+    1342,
+    666
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "30",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    215,
+    677,
+    233,
+    699
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "30",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    538,
+    1003,
+    560,
+    1022
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "80",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    715,
+    1045,
+    737,
+    1063
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "3",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    721,
+    1122,
+    731,
+    1140
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "50 ±0.2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1766,
+    1122,
+    1837,
+    1140
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "17",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1468,
+    1250,
+    1486,
+    1272
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "1",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    215,
+    1353,
+    233,
+    1359
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "1",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1219,
+    1353,
+    1237,
+    1359
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "10",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    302,
+    1382,
+    323,
+    1400
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "3",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    721,
+    1382,
+    731,
+    1400
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "H 30",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    820,
+    1382,
+    866,
+    1400
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "25",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1643,
+    1382,
+    1665,
+    1400
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "H 30",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    754,
+    1409,
+    802,
+    1427
+   ]
+  }
+ ]
+}

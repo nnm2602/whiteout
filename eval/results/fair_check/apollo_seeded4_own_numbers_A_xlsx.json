@@ -1,0 +1,847 @@
+{
+ "ok": false,
+ "verdict": "Return to supplier: 12 problems found (2 requirements with no row, 2 rows that differ from the drawing, 2 results outside the limits marked accepted, 2 missing results, 2 repeated characteristic numbers, 2 rows that match nothing on the drawing).",
+ "summary": {
+  "missing_row": 2,
+  "requirement_mismatch": 2,
+  "accepted_out_of_tolerance": 2,
+  "missing_result": 2,
+  "duplicate_number": 2,
+  "extra_row": 2,
+  "number_mismatch": 0
+ },
+ "findings": [
+  {
+   "kind": "duplicate_number",
+   "message": "Characteristic number 17 is used on 2 rows (row 24, row 25); every characteristic needs its own number.",
+   "supplier_row": {
+    "index": 18,
+    "where": "row 25",
+    "char_no": "17",
+    "requirement": "-63 1.2730",
+    "lower": "",
+    "upper": "",
+    "result": "1.2723",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": null
+  },
+  {
+   "kind": "duplicate_number",
+   "message": "Characteristic number 58 is used on 2 rows (row 70, row 72); every characteristic needs its own number.",
+   "supplier_row": {
+    "index": 65,
+    "where": "row 72",
+    "char_no": "58",
+    "requirement": "ELECTRO ETCH PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED USE BOTH SIDES IF NECESSARY.",
+    "lower": "",
+    "upper": "",
+    "result": "Conforms",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": {
+    "char_id": "s0c41",
+    "number": "2",
+    "row_id": "2",
+    "requirement": "ELECTRO ETCH PART NUMBER AND ALL OTHER MARKINGS IN REGION MARKED USE BOTH SIDES IF NECESSARY.",
+    "type": "note",
+    "lower": "",
+    "upper": "",
+    "box": [
+     5024,
+     1150,
+     5305,
+     1239
+    ],
+    "sheet": 0,
+    "zone": "D1"
+   }
+  },
+  {
+   "kind": "missing_row",
+   "message": "Balloon 26 \"-43 1.1800\" (sheet 1, zone C8) is on the drawing but has no row in the report.",
+   "supplier_row": null,
+   "drawing": {
+    "char_id": "s0c26",
+    "number": "26",
+    "row_id": "26",
+    "requirement": "-43 1.1800",
+    "type": "size",
+    "lower": "",
+    "upper": "",
+    "box": [
+     1770,
+     2066,
+     1993,
+     2092
+    ],
+    "sheet": 0,
+    "zone": "C8"
+   }
+  },
+  {
+   "kind": "missing_row",
+   "message": "Balloon 76 \"2. PARTS SHALL BE CLEANED PER LSP-14-7072.\" (sheet 1, zone A2) is on the drawing but has no row in the report.",
+   "supplier_row": null,
+   "drawing": {
+    "char_id": "s0c62",
+    "number": "76",
+    "row_id": "76",
+    "requirement": "2. PARTS SHALL BE CLEANED PER LSP-14-7072.",
+    "type": "note",
+    "lower": "",
+    "upper": "",
+    "box": [
+     4331,
+     3058,
+     5106,
+     3120
+    ],
+    "sheet": 0,
+    "zone": "A2"
+   }
+  },
+  {
+   "kind": "missing_result",
+   "message": "Row 4.1 \"0.016R TO 0.062R \u00b1 0.010\" has no measured result.",
+   "supplier_row": {
+    "index": 3,
+    "where": "row 10",
+    "char_no": "4.1",
+    "requirement": "0.016R TO 0.062R \u00b1 0.010",
+    "lower": "-0.01",
+    "upper": "0.01",
+    "result": "",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": {
+    "char_id": "s0c8",
+    "number": "5",
+    "row_id": "5.1",
+    "requirement": ".016R TO .062R \u00b1 .010",
+    "type": "radius",
+    "lower": "-0.01",
+    "upper": "0.01",
+    "box": [
+     5045,
+     1264,
+     5271,
+     1377
+    ],
+    "sheet": 0,
+    "zone": "D1"
+   }
+  },
+  {
+   "kind": "requirement_mismatch",
+   "message": "Row 23 says \"-37 1.1704\" but balloon 23 on the drawing says \"-37 1.1740\": numbers differ: 1.174 on the drawing but 1.1704 in the report.",
+   "supplier_row": {
+    "index": 23,
+    "where": "row 30",
+    "char_no": "23",
+    "requirement": "-37 1.1704",
+    "lower": "",
+    "upper": "",
+    "result": "1.1743",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": {
+    "char_id": "s0c50",
+    "number": "23",
+    "row_id": "23",
+    "requirement": "-37 1.1740",
+    "type": "size",
+    "lower": "",
+    "upper": "",
+    "box": [
+     1768,
+     1928,
+     1994,
+     1956
+    ],
+    "sheet": 0,
+    "zone": "C8"
+   }
+  },
+  {
+   "kind": "missing_result",
+   "message": "Row 25 \"-39 1.1760\" has no measured result.",
+   "supplier_row": {
+    "index": 25,
+    "where": "row 32",
+    "char_no": "25",
+    "requirement": "-39 1.1760",
+    "lower": "",
+    "upper": "",
+    "result": "",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": {
+    "char_id": "s0c40",
+    "number": "28",
+    "row_id": "28",
+    "requirement": "-39 1.1760",
+    "type": "size",
+    "lower": "",
+    "upper": "",
+    "box": [
+     1771,
+     1975,
+     1994,
+     2000
+    ],
+    "sheet": 0,
+    "zone": "C8"
+   }
+  },
+  {
+   "kind": "requirement_mismatch",
+   "message": "Row 31 says \"1.1645\" but balloon 13 on the drawing says \"1.1640\": numbers differ: 1.164 on the drawing but 1.1645 in the report.",
+   "supplier_row": {
+    "index": 31,
+    "where": "row 38",
+    "char_no": "31",
+    "requirement": "1.1645",
+    "lower": "1.1635",
+    "upper": "1.1645",
+    "result": "1.1639",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": {
+    "char_id": "s0c53",
+    "number": "13",
+    "row_id": "13",
+    "requirement": "1.1640",
+    "type": "size",
+    "lower": "1.1635",
+    "upper": "1.1645",
+    "box": [
+     1897,
+     1705,
+     2000,
+     1731
+    ],
+    "sheet": 0,
+    "zone": "C8"
+   }
+  },
+  {
+   "kind": "accepted_out_of_tolerance",
+   "message": "Row 33 records 1.1691, outside the drawing limits 1.1675 to 1.1685 for balloon 12, but is marked accepted.",
+   "supplier_row": {
+    "index": 33,
+    "where": "row 40",
+    "char_no": "33",
+    "requirement": "1.1680",
+    "lower": "1.1675",
+    "upper": "1.1685",
+    "result": "1.1691",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": {
+    "char_id": "s0c68",
+    "number": "12",
+    "row_id": "12",
+    "requirement": "1.1680",
+    "type": "size",
+    "lower": "1.1675",
+    "upper": "1.1685",
+    "box": [
+     1896,
+     1792,
+     2000,
+     1818
+    ],
+    "sheet": 0,
+    "zone": "C8"
+   }
+  },
+  {
+   "kind": "accepted_out_of_tolerance",
+   "message": "Row 62 records 0.2535, outside the drawing limits 0.2522 to 0.2532 for balloon 70, but is marked accepted.",
+   "supplier_row": {
+    "index": 67,
+    "where": "row 74",
+    "char_no": "62",
+    "requirement": "0.2522-0.2532 HOLE",
+    "lower": "0.2522",
+    "upper": "0.2532",
+    "result": "0.2535",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": {
+    "char_id": "s0c51",
+    "number": "70",
+    "row_id": "70",
+    "requirement": ".2522-.2532 HOLE",
+    "type": "size",
+    "lower": "0.2522",
+    "upper": "0.2532",
+    "box": [
+     3762,
+     2720,
+     4121,
+     2748
+    ],
+    "sheet": 0,
+    "zone": "B4"
+   }
+  },
+  {
+   "kind": "extra_row",
+   "message": "Row 78 \"\u00d80.3125 \u00b10.005\" (row 90) matches no requirement on the drawing.",
+   "supplier_row": {
+    "index": 83,
+    "where": "row 90",
+    "char_no": "78",
+    "requirement": "\u00d80.3125 \u00b10.005",
+    "lower": "0.307",
+    "upper": "0.318",
+    "result": "0.3137",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": null
+  },
+  {
+   "kind": "extra_row",
+   "message": "Row 79 \"PASSIVATE PER AMS 2700, METHOD 1, TYPE 2\" (row 91) matches no requirement on the drawing.",
+   "supplier_row": {
+    "index": 84,
+    "where": "row 91",
+    "char_no": "79",
+    "requirement": "PASSIVATE PER AMS 2700, METHOD 1, TYPE 2",
+    "lower": "",
+    "upper": "",
+    "result": "Conforms",
+    "accept": "ACC",
+    "nonconformance": ""
+   },
+   "drawing": null
+  }
+ ],
+ "numbering": "own",
+ "rows_read": 85,
+ "drawing_lines": 84,
+ "matched": 82,
+ "rejected_rows": 0,
+ "layout": {
+  "source": "xlsx",
+  "sheet": "FAIR Characteristics",
+  "header_row": 6,
+  "columns": {
+   "number": "Bubble No.",
+   "zone": "Sheet / Zone",
+   "requirement": "Characteristic Description",
+   "lower": "Min",
+   "upper": "Max",
+   "result": "Actual Measurement",
+   "accept": "Acc / Rej",
+   "nc": "NCR #"
+  }
+ },
+ "matches": [
+  {
+   "supplier_index": 0,
+   "char_no": "1",
+   "row_id": "15",
+   "how": "text"
+  },
+  {
+   "supplier_index": 1,
+   "char_no": "2",
+   "row_id": "64",
+   "how": "text"
+  },
+  {
+   "supplier_index": 2,
+   "char_no": "3",
+   "row_id": "65",
+   "how": "text"
+  },
+  {
+   "supplier_index": 3,
+   "char_no": "4.1",
+   "row_id": "5.1",
+   "how": "text"
+  },
+  {
+   "supplier_index": 4,
+   "char_no": "4.2",
+   "row_id": "5.2",
+   "how": "text"
+  },
+  {
+   "supplier_index": 5,
+   "char_no": "4.3",
+   "row_id": "5.3",
+   "how": "text"
+  },
+  {
+   "supplier_index": 6,
+   "char_no": "6",
+   "row_id": "33",
+   "how": "text"
+  },
+  {
+   "supplier_index": 7,
+   "char_no": "7",
+   "row_id": "50",
+   "how": "text"
+  },
+  {
+   "supplier_index": 8,
+   "char_no": "8",
+   "row_id": "62",
+   "how": "text"
+  },
+  {
+   "supplier_index": 9,
+   "char_no": "9",
+   "row_id": "63",
+   "how": "text"
+  },
+  {
+   "supplier_index": 10,
+   "char_no": "10",
+   "row_id": "68",
+   "how": "text"
+  },
+  {
+   "supplier_index": 11,
+   "char_no": "11",
+   "row_id": "43",
+   "how": "text"
+  },
+  {
+   "supplier_index": 12,
+   "char_no": "12",
+   "row_id": "14",
+   "how": "text"
+  },
+  {
+   "supplier_index": 13,
+   "char_no": "13",
+   "row_id": "39",
+   "how": "text"
+  },
+  {
+   "supplier_index": 14,
+   "char_no": "14",
+   "row_id": "25",
+   "how": "text"
+  },
+  {
+   "supplier_index": 15,
+   "char_no": "15",
+   "row_id": "61",
+   "how": "text"
+  },
+  {
+   "supplier_index": 16,
+   "char_no": "16",
+   "row_id": "17",
+   "how": "text"
+  },
+  {
+   "supplier_index": 17,
+   "char_no": "17",
+   "row_id": "46",
+   "how": "text"
+  },
+  {
+   "supplier_index": 19,
+   "char_no": "19",
+   "row_id": "16",
+   "how": "text"
+  },
+  {
+   "supplier_index": 20,
+   "char_no": "20",
+   "row_id": "73",
+   "how": "text"
+  },
+  {
+   "supplier_index": 21,
+   "char_no": "21",
+   "row_id": "66",
+   "how": "text"
+  },
+  {
+   "supplier_index": 22,
+   "char_no": "22",
+   "row_id": "77",
+   "how": "text"
+  },
+  {
+   "supplier_index": 23,
+   "char_no": "23",
+   "row_id": "23",
+   "how": "text"
+  },
+  {
+   "supplier_index": 24,
+   "char_no": "24",
+   "row_id": "3",
+   "how": "text"
+  },
+  {
+   "supplier_index": 25,
+   "char_no": "25",
+   "row_id": "28",
+   "how": "text"
+  },
+  {
+   "supplier_index": 26,
+   "char_no": "26",
+   "row_id": "20",
+   "how": "text"
+  },
+  {
+   "supplier_index": 27,
+   "char_no": "27",
+   "row_id": "42",
+   "how": "text"
+  },
+  {
+   "supplier_index": 28,
+   "char_no": "28",
+   "row_id": "34",
+   "how": "text"
+  },
+  {
+   "supplier_index": 29,
+   "char_no": "29",
+   "row_id": "11",
+   "how": "text"
+  },
+  {
+   "supplier_index": 30,
+   "char_no": "30",
+   "row_id": "60",
+   "how": "text"
+  },
+  {
+   "supplier_index": 31,
+   "char_no": "31",
+   "row_id": "13",
+   "how": "text"
+  },
+  {
+   "supplier_index": 32,
+   "char_no": "32",
+   "row_id": "29",
+   "how": "text"
+  },
+  {
+   "supplier_index": 33,
+   "char_no": "33",
+   "row_id": "12",
+   "how": "text"
+  },
+  {
+   "supplier_index": 34,
+   "char_no": "34",
+   "row_id": "67-2",
+   "how": "text"
+  },
+  {
+   "supplier_index": 35,
+   "char_no": "35",
+   "row_id": "22",
+   "how": "text"
+  },
+  {
+   "supplier_index": 36,
+   "char_no": "36",
+   "row_id": "49",
+   "how": "text"
+  },
+  {
+   "supplier_index": 37,
+   "char_no": "37A",
+   "row_id": "67-1",
+   "how": "text"
+  },
+  {
+   "supplier_index": 38,
+   "char_no": "37B",
+   "row_id": "48",
+   "how": "text"
+  },
+  {
+   "supplier_index": 39,
+   "char_no": "38",
+   "row_id": "4",
+   "how": "text"
+  },
+  {
+   "supplier_index": 40,
+   "char_no": "39",
+   "row_id": "6",
+   "how": "text"
+  },
+  {
+   "supplier_index": 41,
+   "char_no": "40",
+   "row_id": "52",
+   "how": "text"
+  },
+  {
+   "supplier_index": 42,
+   "char_no": "41A",
+   "row_id": "31-3",
+   "how": "text"
+  },
+  {
+   "supplier_index": 43,
+   "char_no": "41B",
+   "row_id": "31-2",
+   "how": "text"
+  },
+  {
+   "supplier_index": 44,
+   "char_no": "41C",
+   "row_id": "31-1",
+   "how": "text"
+  },
+  {
+   "supplier_index": 45,
+   "char_no": "42",
+   "row_id": "38",
+   "how": "text"
+  },
+  {
+   "supplier_index": 46,
+   "char_no": "43",
+   "row_id": "8",
+   "how": "text"
+  },
+  {
+   "supplier_index": 47,
+   "char_no": "44",
+   "row_id": "24",
+   "how": "text"
+  },
+  {
+   "supplier_index": 48,
+   "char_no": "45A",
+   "row_id": "36-3",
+   "how": "text"
+  },
+  {
+   "supplier_index": 49,
+   "char_no": "45B",
+   "row_id": "36-2",
+   "how": "text"
+  },
+  {
+   "supplier_index": 50,
+   "char_no": "45C",
+   "row_id": "36-1",
+   "how": "text"
+  },
+  {
+   "supplier_index": 51,
+   "char_no": "46",
+   "row_id": "45",
+   "how": "text"
+  },
+  {
+   "supplier_index": 52,
+   "char_no": "47",
+   "row_id": "35",
+   "how": "text"
+  },
+  {
+   "supplier_index": 53,
+   "char_no": "48",
+   "row_id": "7",
+   "how": "text"
+  },
+  {
+   "supplier_index": 54,
+   "char_no": "49",
+   "row_id": "53",
+   "how": "text"
+  },
+  {
+   "supplier_index": 55,
+   "char_no": "50",
+   "row_id": "69",
+   "how": "text"
+  },
+  {
+   "supplier_index": 56,
+   "char_no": "51",
+   "row_id": "1",
+   "how": "text"
+  },
+  {
+   "supplier_index": 57,
+   "char_no": "52",
+   "row_id": "32",
+   "how": "text"
+  },
+  {
+   "supplier_index": 58,
+   "char_no": "53",
+   "row_id": "19",
+   "how": "text"
+  },
+  {
+   "supplier_index": 59,
+   "char_no": "54",
+   "row_id": "56",
+   "how": "text"
+  },
+  {
+   "supplier_index": 60,
+   "char_no": "55",
+   "row_id": "57",
+   "how": "text"
+  },
+  {
+   "supplier_index": 61,
+   "char_no": "56",
+   "row_id": "41",
+   "how": "text"
+  },
+  {
+   "supplier_index": 62,
+   "char_no": "57",
+   "row_id": "58",
+   "how": "text"
+  },
+  {
+   "supplier_index": 63,
+   "char_no": "58",
+   "row_id": "30",
+   "how": "text"
+  },
+  {
+   "supplier_index": 64,
+   "char_no": "59",
+   "row_id": "37",
+   "how": "text"
+  },
+  {
+   "supplier_index": 65,
+   "char_no": "58",
+   "row_id": "2",
+   "how": "text"
+  },
+  {
+   "supplier_index": 66,
+   "char_no": "61",
+   "row_id": "71",
+   "how": "text"
+  },
+  {
+   "supplier_index": 67,
+   "char_no": "62",
+   "row_id": "70",
+   "how": "text"
+  },
+  {
+   "supplier_index": 68,
+   "char_no": "63",
+   "row_id": "18",
+   "how": "text"
+  },
+  {
+   "supplier_index": 69,
+   "char_no": "64",
+   "row_id": "51",
+   "how": "text"
+  },
+  {
+   "supplier_index": 70,
+   "char_no": "65",
+   "row_id": "40",
+   "how": "text"
+  },
+  {
+   "supplier_index": 71,
+   "char_no": "66",
+   "row_id": "74",
+   "how": "text"
+  },
+  {
+   "supplier_index": 72,
+   "char_no": "67",
+   "row_id": "47",
+   "how": "text"
+  },
+  {
+   "supplier_index": 73,
+   "char_no": "68",
+   "row_id": "54",
+   "how": "text"
+  },
+  {
+   "supplier_index": 74,
+   "char_no": "69",
+   "row_id": "72",
+   "how": "text"
+  },
+  {
+   "supplier_index": 75,
+   "char_no": "70",
+   "row_id": "55",
+   "how": "text"
+  },
+  {
+   "supplier_index": 76,
+   "char_no": "71",
+   "row_id": "10",
+   "how": "text"
+  },
+  {
+   "supplier_index": 77,
+   "char_no": "72",
+   "row_id": "75",
+   "how": "text"
+  },
+  {
+   "supplier_index": 78,
+   "char_no": "73",
+   "row_id": "21",
+   "how": "text"
+  },
+  {
+   "supplier_index": 79,
+   "char_no": "74",
+   "row_id": "27",
+   "how": "text"
+  },
+  {
+   "supplier_index": 80,
+   "char_no": "75",
+   "row_id": "44",
+   "how": "text"
+  },
+  {
+   "supplier_index": 81,
+   "char_no": "76",
+   "row_id": "9",
+   "how": "text"
+  },
+  {
+   "supplier_index": 82,
+   "char_no": "77",
+   "row_id": "59",
+   "how": "text"
+  }
+ ],
+ "report": "apollo_seeded4_own_numbers_A.xlsx",
+ "usage": {}
+}

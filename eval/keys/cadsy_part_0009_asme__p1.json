@@ -1,0 +1,268 @@
+{
+ "id": "cadsy_part_0009_asme",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0009_asme.png",
+ "source": "official",
+ "standard": "ASME",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "⊥|⌀0.2|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    651,
+    413,
+    835,
+    464
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "⌭|0.2",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    651,
+    464,
+    835,
+    514
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "40",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    469,
+    496,
+    492,
+    514
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "⌀80",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    860,
+    495,
+    921,
+    515
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "⌭|0.5",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    215,
+    686,
+    321,
+    737
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "3X ⌀4 THRU EQ SP ON ⌀65 B.C.",
+   "kind": "hole_callout",
+   "multiplier": 3,
+   "box": [
+    959,
+    719,
+    1334,
+    740
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "⊥|⌀0.2|B",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    959,
+    741,
+    1143,
+    791
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "80",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    855,
+    760,
+    873,
+    782
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "⌭|0.2",
+   "kind": "gdt_frame",
+   "multiplier": 3,
+   "box": [
+    959,
+    791,
+    1143,
+    842
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "65",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    324,
+    804,
+    342,
+    826
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "40",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    469,
+    1027,
+    492,
+    1046
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "⌀50 THRU",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    693,
+    1027,
+    818,
+    1046
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "80 ±0.5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    563,
+    1105,
+    634,
+    1124
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "29.51",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    660,
+    1147,
+    711,
+    1165
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "40",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1538,
+    1147,
+    1561,
+    1165
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "9",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    324,
+    1255,
+    342,
+    1264
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "6",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    855,
+    1263,
+    873,
+    1273
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "10",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1393,
+    1246,
+    1411,
+    1267
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "∥|0.2|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    651,
+    1290,
+    808,
+    1341
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "2",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1816,
+    1306,
+    1826,
+    1324
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "40",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1538,
+    1348,
+    1561,
+    1366
+   ]
+  }
+ ]
+}

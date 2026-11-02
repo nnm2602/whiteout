@@ -1,0 +1,98 @@
+{
+ "missed_visible_on_erased_page": 0,
+ "true_missed": 1,
+ "true_missed_visible": 0,
+ "key": "nist_ftc_06__p1.json",
+ "kind": "nist_ftc",
+ "source": "official",
+ "items": 25,
+ "found": 27,
+ "first_read_hits": 24,
+ "final_hits": 24,
+ "hits_inside_larger_callout": 2,
+ "baseline_hits": 0,
+ "baseline_found": 2,
+ "exact_text": 17,
+ "multiplier_right": 16,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k18",
+   "official_id": "D12-1",
+   "text": "\u2334\u2300.40 \u00b1.01",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    1758,
+    896,
+    1910,
+    1014
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "text": "2. DIRECTLY-TOLERANCED DIMENSIONS AND BASIC DIMENSIONS DEFINED ON THE DRAWING TAKE PRECEDENCE OVER DIMENSIONAL DATA DEFINED BY THE MODEL. OBTAIN ALL OTHER DIMENSIONAL DATA FROM THE MODEL. THE MODEL REPRESENTS BASIC DIMENSIONAL DATA UNLESS OTHERWISE SPECIFIED.",
+   "box": [
+    123,
+    297,
+    765,
+    496
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "3. APPLICABLE STANDARDS: ASME Y14.41-2003 APPLIES TO DATASET. ASME Y14.5M-1994 APPLIES TO DIMENSIONING AND TOLERANCING.",
+   "box": [
+    123,
+    539,
+    730,
+    648
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1. CAD MODEL __________ REV. __ IS REQUIRED TO COMPLETE PRODUCT DEFINITION.",
+   "box": [
+    123,
+    206,
+    734,
+    254
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "5. UNITS: INCHES",
+   "box": [
+    123,
+    720,
+    511,
+    799
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "\u25b1 .01",
+   "box": [
+    1825,
+    630,
+    1928,
+    688
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.0267336368560791,
+  "read": 1.711536169052124,
+  "audit": 1.0285899639129639,
+  "text_layer_unmatched": 10,
+  "total": 2.7879798412323
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "id": "nist_d2mi_908",
+ "page": 1,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-908.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": "1. MATERIAL: ALUMINUM, PLATE, 6061-T6, IN ACCORDANCE WITH ASTM B205.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    92,
+    1266,
+    122
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "2. FINISH: CHROMATE CONVERSION COATING IN ACCORDANCE WITH MIL-DTL-5541, CLASS 1A, TYPE II.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    150,
+    140,
+    1630,
+    168
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "3 IDENTIFICATION MARKING SHALL BE LOCATED APPROXIMATELY WHERE SHOWN IN ACCORDANCE WITH MIL-STD-130.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    140,
+    195,
+    1582,
+    256
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "4. UNLESS OTHERWISE SPECIFIED, ALL BASIC DIMENSION SURFACES SHALL COMPLY WITH: ⌓|.016|A|B|C.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    155,
+    278,
+    1666,
+    314
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "5. WHEN DATUM FEATURE A EXCEEDS THE STATED PROFILE TOLERANCE IN THE FREE STATE, THE FEATURE MAY BE RESTRAINED TO DATUM PLANE A WITHIN THE SPECIFIED PROFILE TOLERANCE VALUE. THE ITEM SHALL BE DEEMED ACCEPTABLE WHEN FEATURES RELATED TO DATUM A MEET THE TOLERANCE REQUIREMENTS IN THIS RESTRAINED STATE.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    155,
+    338,
+    1711,
+    427
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "8. THIS DRAWING IS PART OF A PRODUCT DEFINITION DATASET IN ACCORDANCE WITH ASME Y14.41, AND SHALL BE USED IN CONJUNCTION WITH ASSOCIATED DESIGN MODEL FOR COMPLETE PRODUCT DEFINITION. UNLESS OTHERWISE SPECIFIED, BASIC DIMENSIONS SHALL BE OBTAINED FROM RELATED MODEL, ORIGINATING AT COORDINATE SYSTEM DRF_ABC. ALL FEATURES OF SIZE AND MINOR FEATURES ARE MODELED AT A NOMINAL (MEAN) VALUE, EXCEPT PRESS-FIT FEATURES. PRESS-FIT FEATURES ARE MODELED AT THE MAXIMUM MATERIAL CONDITION VALUE.",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    155,
+    558,
+    1726,
+    693
+   ]
+  }
+ ],
+ "doubts": [
+  "k3: flag note (hexagon 3); no flag symbol marking the location was found on sheets 1 to 3, still kept as a requirement",
+  "k5: free state restraint note; governs how datum A is inspected rather than adding a characteristic, kept per include-when-in-doubt",
+  "k6: note 8 defines basic dimensions from the model (needed to inspect note 4 profile); kept per include-when-in-doubt",
+  "excluded note 6 (inches, interpret per ASME Y14.5-2009), note 7 (parentheses are reference) and note 9 (released with 3D CAD model and .STP) as imposing nothing inspectable",
+  "sheet has no UNLESS OTHERWISE SPECIFIED tolerance block and no material or finish entry in the title block"
+ ]
+}

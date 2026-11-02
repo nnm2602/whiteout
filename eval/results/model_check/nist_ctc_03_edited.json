@@ -1,0 +1,978 @@
+{
+ "step": "data/raw/model_edits/nist_ctc_03_edited.stp",
+ "model_units": "mm",
+ "drawing_units": "in",
+ "scale": 0.03937007874015748,
+ "matched": [
+  {
+   "model": {
+    "id": "#97",
+    "type": "reference",
+    "text": "(19.050)",
+    "count": 1,
+    "unit": "mm",
+    "name": "linear distance",
+    "nominal": 19.05,
+    "lower": null,
+    "upper": null,
+    "in_drawing_units": {
+     "nominal": 0.75,
+     "lower": null,
+     "upper": null,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c13",
+    "number": "6",
+    "text": "(.750)",
+    "box": [
+     633,
+     550,
+     683,
+     595
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "reference_dimension",
+    "requirement": 0,
+    "requirement_text": "(.750)",
+    "nominal": 0.75,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "none",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#264",
+    "type": "size",
+    "text": "⌀11.125 ±0.127",
+    "count": 1,
+    "unit": "mm",
+    "name": "diameter",
+    "nominal": 11.1252,
+    "lower": 10.9982,
+    "upper": 11.2522,
+    "in_drawing_units": {
+     "nominal": 0.438,
+     "lower": 0.433,
+     "upper": 0.443,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c3",
+    "number": "15",
+    "text": "Ø.438 ±.005",
+    "box": [
+     1746,
+     1219,
+     1826,
+     1277
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "Ø.438 ±.005",
+    "nominal": 0.438,
+    "lower": 0.433,
+    "upper": 0.443,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#265",
+    "type": "size",
+    "text": "4X ⌀15.875 ±0.127",
+    "count": 4,
+    "unit": "mm",
+    "name": "diameter",
+    "nominal": 15.875,
+    "lower": 15.748,
+    "upper": 16.002,
+    "in_drawing_units": {
+     "nominal": 0.625,
+     "lower": 0.62,
+     "upper": 0.6299999999999999,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c17",
+    "number": "4",
+    "text": "4X Ø.625 ±.005",
+    "box": [
+     415,
+     790,
+     551,
+     878
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "4X Ø.625 ±.005",
+    "nominal": 0.625,
+    "lower": 0.62,
+    "upper": 0.63,
+    "count": 4,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#266",
+    "type": "size",
+    "text": "2X ⌀11.125 ±0.127",
+    "count": 2,
+    "unit": "mm",
+    "name": "diameter",
+    "nominal": 11.1252,
+    "lower": 10.9982,
+    "upper": 11.2522,
+    "in_drawing_units": {
+     "nominal": 0.438,
+     "lower": 0.433,
+     "upper": 0.443,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c0",
+    "number": "1",
+    "text": "2X Ø.438 ±.005",
+    "box": [
+     579,
+     197,
+     714,
+     287
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "2X Ø.438 ±.005",
+    "nominal": 0.438,
+    "lower": 0.433,
+    "upper": 0.443,
+    "count": 2,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#268",
+    "type": "size",
+    "text": "⌀38.100 ±0.127",
+    "count": 1,
+    "unit": "mm",
+    "name": "diameter",
+    "nominal": 38.1,
+    "lower": 37.973,
+    "upper": 38.227,
+    "in_drawing_units": {
+     "nominal": 1.5,
+     "lower": 1.4949999999999999,
+     "upper": 1.505,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c2",
+    "number": "20",
+    "text": "Ø1.500 ±.005",
+    "box": [
+     1406,
+     1345,
+     1523,
+     1424
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "Ø1.500 ±.005",
+    "nominal": 1.5,
+    "lower": 1.495,
+    "upper": 1.505,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#270",
+    "type": "size",
+    "text": "2X 20.83 ±1.524",
+    "count": 2,
+    "unit": "mm",
+    "name": "thickness",
+    "nominal": 20.828,
+    "lower": 19.304,
+    "upper": 22.352,
+    "in_drawing_units": {
+     "nominal": 0.82,
+     "lower": 0.7599999999999999,
+     "upper": 0.88,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c6",
+    "number": "22",
+    "text": "4X .82 ±.06",
+    "box": [
+     1544,
+     1299,
+     1651,
+     1360
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "dimension",
+    "requirement": 0,
+    "requirement_text": "4X .82 ±.06",
+    "nominal": 0.82,
+    "lower": 0.76,
+    "upper": 0.8799999999999999,
+    "count": 4,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "count": {
+    "model": 2,
+    "drawing": 4
+   }
+  },
+  {
+   "model": {
+    "id": "#36",
+    "type": "gdt",
+    "text": "∠|1.02|A",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "angularity",
+    "value": 1.016,
+    "datums": [
+     "A"
+    ],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.04,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c21",
+    "number": "16",
+    "text": "∠ .04 A",
+    "box": [
+     643,
+     1212,
+     795,
+     1353
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "∠ .04 A",
+    "nominal": 0.04,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#37",
+    "type": "gdt",
+    "text": "⏥|0.127/6.35 X 6.35",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "flatness",
+    "value": 0.127,
+    "datums": [],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.005,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c20",
+    "number": "17",
+    "text": "⏥ .005 / .25 X .25",
+    "box": [
+     688,
+     1273,
+     860,
+     1527
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⏥ .005 / .25 X .25",
+    "nominal": 0.005,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#38",
+    "type": "gdt",
+    "text": "⌓|1.52|A|B|C",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "surface_profile",
+    "value": 1.524,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.06,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c16",
+    "number": "18",
+    "text": "⏒ .06 A B C",
+    "box": [
+     755,
+     1320,
+     927,
+     1527
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⏒ .06 A B C",
+    "nominal": 0.06,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#39",
+    "type": "gdt",
+    "text": "⌓|0.76|A|B|C",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "surface_profile",
+    "value": 0.762,
+    "datums": [
+     "A",
+     "B",
+     "C"
+    ],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.03,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c9",
+    "number": "5",
+    "text": "⌓ .03 A B C",
+    "box": [
+     508,
+     665,
+     772,
+     725
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⌓ .03 A B C",
+    "nominal": 0.03,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#40",
+    "type": "gdt",
+    "text": "⌖|⌀1.27Ⓜ|A|BⓂ|CⓂ",
+    "count": 2,
+    "unit": "mm",
+    "characteristic": "position",
+    "value": 1.27,
+    "datums": [
+     "A",
+     "BⓂ",
+     "CⓂ"
+    ],
+    "modifiers": [
+     "Ⓜ"
+    ],
+    "in_drawing_units": {
+     "value": 0.05,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c4",
+    "number": "2",
+    "text": "⊕ Ø.05(M) A B(M) C(M)",
+    "box": [
+     597,
+     244,
+     708,
+     320
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ Ø.05(M) A B(M) C(M)",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null,
+    "count": 2,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#42",
+    "type": "gdt",
+    "text": "⌖|⌀0.51|A|B",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "position",
+    "value": 0.508,
+    "datums": [
+     "A",
+     "B"
+    ],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.02,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c14",
+    "number": "13",
+    "text": "⊕ Ø.02 A B",
+    "box": [
+     1710,
+     866,
+     1854,
+     939
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ Ø.02 A B",
+    "nominal": 0.02,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#43",
+    "type": "gdt",
+    "text": "⌖|⌀1.52|D|B|C",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "position",
+    "value": 1.524,
+    "datums": [
+     "D",
+     "B",
+     "C"
+    ],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.06,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c7",
+    "number": "7",
+    "text": "⊕ Ø.06 D B C",
+    "box": [
+     1116,
+     484,
+     1234,
+     564
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ Ø.06 D B C",
+    "nominal": 0.06,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#44",
+    "type": "gdt",
+    "text": "⌖|⌀2.03|D|B|C",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "position",
+    "value": 2.032,
+    "datums": [
+     "D",
+     "B",
+     "C"
+    ],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.08,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c8",
+    "number": "21",
+    "text": "⊕ Ø.08 D B C",
+    "box": [
+     1445,
+     1400,
+     1563,
+     1480
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ Ø.08 D B C",
+    "nominal": 0.08,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#80",
+    "type": "gdt",
+    "text": "⊥|⌀0.25|E",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "perpendicularity",
+    "value": 0.254,
+    "datums": [
+     "E"
+    ],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.01,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c11",
+    "number": "12",
+    "text": "⊥ Ø.01 E",
+    "box": [
+     664,
+     1142,
+     714,
+     1179
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊥ Ø.01 E",
+    "nominal": 0.01,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   }
+  },
+  {
+   "model": {
+    "id": "#41",
+    "type": "gdt",
+    "text": "⌖|⌀1.27Ⓜ|D|B|C",
+    "count": 4,
+    "unit": "mm",
+    "characteristic": "position",
+    "value": 1.27,
+    "datums": [
+     "D",
+     "B",
+     "C"
+    ],
+    "modifiers": [
+     "Ⓜ"
+    ],
+    "in_drawing_units": {
+     "value": 0.05,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c19",
+    "number": "10",
+    "text": "⌖ Ø.05Ⓜ D B C",
+    "box": [
+     454,
+     849,
+     595,
+     942
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⌖ Ø.05Ⓜ D B C",
+    "nominal": 0.05,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "count": {
+    "model": 4,
+    "drawing": 1
+   }
+  }
+ ],
+ "differs": [
+  {
+   "model": {
+    "id": "#263",
+    "type": "size",
+    "text": "⌀11.125",
+    "count": 1,
+    "unit": "mm",
+    "name": "diameter",
+    "nominal": 11.1252,
+    "lower": null,
+    "upper": null,
+    "in_drawing_units": {
+     "nominal": 0.438,
+     "lower": null,
+     "upper": null,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c18",
+    "number": "8",
+    "text": "Ø.438 ±.005",
+    "box": [
+     1763,
+     845,
+     1884,
+     890
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "Ø.438 ±.005",
+    "nominal": 0.438,
+    "lower": 0.433,
+    "upper": 0.443,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance",
+     "model": "none",
+     "drawing": "±0.005"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#271",
+    "type": "size",
+    "text": "⌀27.051 ±0.1524",
+    "count": 1,
+    "unit": "mm",
+    "name": "diameter",
+    "nominal": 27.051,
+    "lower": 26.8986,
+    "upper": 27.2034,
+    "in_drawing_units": {
+     "nominal": 1.065,
+     "lower": 1.059,
+     "upper": 1.071,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c1",
+    "number": "11",
+    "text": "Ø1.065 ±.003",
+    "box": [
+     622,
+     1084,
+     761,
+     1165
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "Ø1.065 ±.003",
+    "nominal": 1.065,
+    "lower": 1.062,
+    "upper": 1.0679999999999998,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance",
+     "model": "±0.006",
+     "drawing": "±0.003"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#267",
+    "type": "size",
+    "text": "⌀53.34 ±0.254",
+    "count": 1,
+    "unit": "mm",
+    "name": "diameter",
+    "nominal": 53.34,
+    "lower": 53.086,
+    "upper": 53.594,
+    "in_drawing_units": {
+     "nominal": 2.1,
+     "lower": 2.09,
+     "upper": 2.11,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c5",
+    "number": "3",
+    "text": "Ø2.00 ±.01",
+    "box": [
+     1126,
+     457,
+     1218,
+     524
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "hole_callout",
+    "requirement": 0,
+    "requirement_text": "Ø2.00 ±.01",
+    "nominal": 2.0,
+    "lower": 1.99,
+    "upper": 2.01,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "nominal",
+     "model": "2.10",
+     "drawing": "2.00"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#45",
+    "type": "gdt",
+    "text": "⌖|1.52|D|B|C",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "position",
+    "value": 1.524,
+    "datums": [
+     "D",
+     "B",
+     "C"
+    ],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.06,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c10",
+    "number": "19",
+    "text": "⊕ .03 D B C",
+    "box": [
+     1348,
+     1431,
+     1449,
+     1499
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⊕ .03 D B C",
+    "nominal": 0.03,
+    "lower": null,
+    "upper": null,
+    "count": 1,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "tolerance value",
+     "model": "0.06",
+     "drawing": "0.03"
+    }
+   ]
+  },
+  {
+   "model": {
+    "id": "#35",
+    "type": "gdt",
+    "text": "⌓|0.25",
+    "count": 1,
+    "unit": "mm",
+    "characteristic": "surface_profile",
+    "value": 0.254,
+    "datums": [],
+    "modifiers": [],
+    "in_drawing_units": {
+     "value": 0.01,
+     "unit": "in"
+    }
+   },
+   "drawing": {
+    "id": "s0c15",
+    "number": "9",
+    "text": "⌒ .01 A 2 COPLANAR SURFACES",
+    "box": [
+     1767,
+     738,
+     1922,
+     818
+    ],
+    "sheet": 0,
+    "zone": "",
+    "kind": "gdt_frame",
+    "requirement": 0,
+    "requirement_text": "⌒ .01 A 2 COPLANAR SURFACES",
+    "nominal": 0.01,
+    "lower": null,
+    "upper": null,
+    "count": 2,
+    "tolerance_source": "printed",
+    "reread": false
+   },
+   "fields": [
+    {
+     "field": "datums",
+     "model": "none",
+     "drawing": "A"
+    }
+   ]
+  }
+ ],
+ "model_only": [],
+ "drawing_only": [
+  {
+   "id": "s0c12",
+   "number": "14",
+   "text": "⊥ Ø.01 A",
+   "box": [
+    1739,
+    1180,
+    1845,
+    1253
+   ],
+   "sheet": 0,
+   "zone": "",
+   "kind": "gdt_frame",
+   "requirement": 0,
+   "requirement_text": "⊥ Ø.01 A",
+   "nominal": 0.01,
+   "lower": null,
+   "upper": null,
+   "count": 1,
+   "tolerance_source": "printed",
+   "reread": false
+  }
+ ],
+ "repeats": {
+  "model": [],
+  "drawing": []
+ },
+ "warnings": [],
+ "model_without_value": [
+  {
+   "id": "#269",
+   "type": "size",
+   "name": "diameter"
+  }
+ ],
+ "not_compared": [],
+ "summary": {
+  "model_pmi": 21,
+  "drawing_requirements": 22,
+  "matched": 16,
+  "differs": 5,
+  "model_only": 0,
+  "drawing_only": 1,
+  "repeats_model": 0,
+  "repeats_drawing": 0,
+  "not_compared": 0
+ }
+}

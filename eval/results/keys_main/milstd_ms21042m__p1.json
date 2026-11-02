@@ -1,0 +1,609 @@
+{
+ "missed_visible_on_erased_page": 2,
+ "true_missed": 4,
+ "true_missed_visible": 2,
+ "key": "milstd_ms21042m__p1.json",
+ "kind": "milstd",
+ "source": "hand",
+ "items": 138,
+ "found": 181,
+ "first_read_hits": 134,
+ "final_hits": 134,
+ "hits_inside_larger_callout": 1,
+ "baseline_hits": 1,
+ "baseline_found": 2,
+ "exact_text": 129,
+ "multiplier_right": 133,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [
+  {
+   "key": "k1",
+   "text": "THE REQUIREMENTS FOR ACQUIRING THE PRODUCT(S) DESCRIBED HEREIN SHALL CONSIST OF THIS SPECIFICATION SHEET AND THE ISSUE OF THE FOLLOWING SPECIFICATION LISTED IN THAT ISSUE OF THE DODISS SPECIFIED IN THE SOLICITATION MIL-N-25027",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    99,
+    105,
+    163,
+    999
+   ]
+  },
+  {
+   "key": "k86",
+   "text": "5",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1229,
+    1099,
+    1246,
+    1119
+   ],
+   "table": true
+  },
+  {
+   "key": "k108",
+   "text": ".252",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    717,
+    1188,
+    758,
+    1209
+   ],
+   "table": true
+  },
+  {
+   "key": "k119",
+   "text": "266",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    501,
+    1231,
+    539,
+    1253
+   ],
+   "table": true
+  }
+ ],
+ "extra": [
+  {
+   "text": "(e) MINIMUM DISTANCE FROM THE WASHER FACE OF THE NUT TO THE BEGINNING OF THE MINIMUM LENGTH E OF EACH WRENCHING CORNER",
+   "box": [
+    288,
+    1433,
+    1261,
+    1464
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "CONCAVED OR CONICAL SURFACE BETWEEN TOP OF RING BASE WRENCHING CORNERS, AND AREA BETWEEN CORNERS",
+   "box": [
+    1040,
+    249,
+    1410,
+    279
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "TOOL MARK OR DISTORTION PERMISSIBLE IN LOCKING AREA",
+   "box": [
+    713,
+    643,
+    930,
+    657
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "RADIUS, CHAMFER OR SQUARE",
+   "box": [
+    775,
+    338,
+    906,
+    368
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "RADIUS OR CHAMFER",
+   "box": [
+    1209,
+    291,
+    1370,
+    317
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "266",
+   "box": [
+    504,
+    1255,
+    534,
+    1269
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "020",
+   "box": [
+    1083,
+    1103,
+    1114,
+    1116
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "050",
+   "box": [
+    1084,
+    1125,
+    1115,
+    1139
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "080",
+   "box": [
+    1083,
+    1148,
+    1115,
+    1162
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "150",
+   "box": [
+    1085,
+    1169,
+    1115,
+    1183
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "180",
+   "box": [
+    1085,
+    1191,
+    1115,
+    1205
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "350",
+   "box": [
+    1084,
+    1212,
+    1115,
+    1226
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "600",
+   "box": [
+    1084,
+    1233,
+    1114,
+    1247
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "800",
+   "box": [
+    1084,
+    1256,
+    1115,
+    1270
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "\u00f8A",
+   "box": [
+    581,
+    345,
+    603,
+    357
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "\u00f8D",
+   "box": [
+    1149,
+    505,
+    1169,
+    518
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "\u00f8B",
+   "box": [
+    1195,
+    507,
+    1216,
+    519
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "L",
+   "box": [
+    714,
+    468,
+    734,
+    496
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "H",
+   "box": [
+    1050,
+    337,
+    1060,
+    348
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "G",
+   "box": [
+    1187,
+    343,
+    1210,
+    361
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "E",
+   "box": [
+    993,
+    679,
+    1013,
+    686
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "F",
+   "box": [
+    1032,
+    676,
+    1112,
+    689
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "J",
+   "box": [
+    1079,
+    602,
+    1112,
+    613
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "5",
+   "box": [
+    1176,
+    1056,
+    1282,
+    1070
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "(d) MINIMUM LENGTH OF EACH WRENCHING CORNER",
+   "box": [
+    288,
+    1407,
+    714,
+    1423
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "15,200",
+   "box": [
+    1080,
+    1267,
+    1216,
+    1293
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "800",
+   "box": [
+    1224,
+    1267,
+    1318,
+    1293
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "530",
+   "box": [
+    1326,
+    1267,
+    1462,
+    1293
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "9,820",
+   "box": [
+    1080,
+    1244,
+    1216,
+    1266
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "004",
+   "box": [
+    994,
+    1244,
+    1071,
+    1293
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "600",
+   "box": [
+    1224,
+    1244,
+    1318,
+    1266
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "330",
+   "box": [
+    1326,
+    1244,
+    1462,
+    1266
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "6,200",
+   "box": [
+    1080,
+    1220,
+    1216,
+    1242
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "350",
+   "box": [
+    1224,
+    1220,
+    1318,
+    1242
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "150",
+   "box": [
+    1326,
+    1220,
+    1462,
+    1242
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "252 243",
+   "box": [
+    765,
+    1197,
+    960,
+    1219
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "3,470",
+   "box": [
+    1080,
+    1197,
+    1216,
+    1219
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "60",
+   "box": [
+    1326,
+    1197,
+    1462,
+    1219
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "2,490",
+   "box": [
+    1080,
+    1172,
+    1216,
+    1195
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "003",
+   "box": [
+    994,
+    1172,
+    1071,
+    1219
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "30",
+   "box": [
+    1326,
+    1172,
+    1462,
+    1195
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "1,670",
+   "box": [
+    1080,
+    1148,
+    1216,
+    1171
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "080",
+   "box": [
+    1224,
+    1148,
+    1318,
+    1171
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "20",
+   "box": [
+    1326,
+    1148,
+    1462,
+    1171
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "10",
+   "box": [
+    1326,
+    1124,
+    1462,
+    1147
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "0025",
+   "box": [
+    978,
+    1098,
+    1039,
+    1115
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "660",
+   "box": [
+    1080,
+    1098,
+    1216,
+    1123
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  },
+  {
+   "text": "5",
+   "box": [
+    1326,
+    1098,
+    1462,
+    1123
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 0.028682947158813477,
+  "read": 1.7888591289520264,
+  "audit": 2.3444831371307373,
+  "text_layer_unmatched": 0,
+  "total": 4.224563837051392
+ }
+}

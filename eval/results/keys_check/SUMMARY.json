@@ -1,0 +1,123 @@
+{
+ "overall": {
+  "sheets": 5,
+  "key_items": 179,
+  "first_read_recall": 0.9553,
+  "final_recall": 0.9553,
+  "final_recall_ci95": [
+   0.9143,
+   0.9772
+  ],
+  "precision": 0.7533,
+  "exact_text_of_matched": 0.8713,
+  "multiplier_right_of_matched": 0.9883,
+  "baseline_recall": 0.2737,
+  "baseline_precision": 0.6203,
+  "audit_added": 3,
+  "missed": 8,
+  "missed_visible_on_erased_page": 3,
+  "true_missed": 6,
+  "true_missed_visible": 3,
+  "hits_inside_larger_callout": 0,
+  "audit_added_correct": 0
+ },
+ "by_source": {
+  "apollo": {
+   "sheets": 2,
+   "key_items": 112,
+   "first_read_recall": 0.9554,
+   "final_recall": 0.9554,
+   "final_recall_ci95": [
+    0.8997,
+    0.9808
+   ],
+   "precision": 0.6815,
+   "exact_text_of_matched": 0.8037,
+   "multiplier_right_of_matched": 0.9907,
+   "baseline_recall": 0.2232,
+   "baseline_precision": 0.5208,
+   "audit_added": 3,
+   "missed": 5,
+   "missed_visible_on_erased_page": 1,
+   "true_missed": 3,
+   "true_missed_visible": 1,
+   "hits_inside_larger_callout": 0,
+   "audit_added_correct": 0
+  },
+  "cadsy": {
+   "sheets": 1,
+   "key_items": 15,
+   "first_read_recall": 0.8667,
+   "final_recall": 0.8667,
+   "final_recall_ci95": [
+    0.6212,
+    0.9626
+   ],
+   "precision": 0.8667,
+   "exact_text_of_matched": 1.0,
+   "multiplier_right_of_matched": 1.0,
+   "baseline_recall": 0.1333,
+   "baseline_precision": 1.0,
+   "audit_added": 0,
+   "missed": 2,
+   "missed_visible_on_erased_page": 1,
+   "true_missed": 2,
+   "true_missed_visible": 1,
+   "hits_inside_larger_callout": 0,
+   "audit_added_correct": 0
+  },
+  "milstd": {
+   "sheets": 1,
+   "key_items": 7,
+   "first_read_recall": 0.8571,
+   "final_recall": 0.8571,
+   "final_recall_ci95": [
+    0.4869,
+    0.9743
+   ],
+   "precision": 0.6,
+   "exact_text_of_matched": 0.8333,
+   "multiplier_right_of_matched": 1.0,
+   "baseline_recall": 0.5714,
+   "baseline_precision": 0.8,
+   "audit_added": 0,
+   "missed": 1,
+   "missed_visible_on_erased_page": 1,
+   "true_missed": 1,
+   "true_missed_visible": 1,
+   "hits_inside_larger_callout": 0,
+   "audit_added_correct": 0
+  },
+  "nist_d2mi": {
+   "sheets": 1,
+   "key_items": 45,
+   "first_read_recall": 1.0,
+   "final_recall": 1.0,
+   "final_recall_ci95": [
+    0.9213,
+    1.0
+   ],
+   "precision": 1.0,
+   "exact_text_of_matched": 1.0,
+   "multiplier_right_of_matched": 0.9778,
+   "baseline_recall": 0.4,
+   "baseline_precision": 0.75,
+   "audit_added": 0,
+   "missed": 0,
+   "missed_visible_on_erased_page": 0,
+   "true_missed": 0,
+   "true_missed_visible": 0,
+   "hits_inside_larger_callout": 0,
+   "audit_added_correct": 0
+  }
+ },
+ "usage": {
+  "calls": 135,
+  "cached": 96,
+  "input_tokens": 421713,
+  "output_tokens": 253692,
+  "reasoning_tokens": 191209,
+  "seconds": 1512.4527,
+  "usd": 1.6053
+ }
+}

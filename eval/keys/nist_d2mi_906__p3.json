@@ -1,0 +1,266 @@
+{
+ "id": "nist_d2mi_906",
+ "page": 3,
+ "width": 3400,
+ "height": 2200,
+ "dpi": 200,
+ "file": "data/raw/nist_d2mi/827-9999-906.pdf",
+ "source": "hand",
+ "items": [
+  {
+   "key": "k1",
+   "text": "3.869",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1716,
+    428,
+    1815,
+    462
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "2.928",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1586,
+    481,
+    1685,
+    515
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "2.257",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1468,
+    524,
+    1569,
+    562
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "1.785",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1369,
+    580,
+    1468,
+    614
+   ]
+  },
+  {
+   "key": "k5",
+   "text": ".785",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1238,
+    622,
+    1320,
+    656
+   ]
+  },
+  {
+   "key": "k6",
+   "text": ".168",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1060,
+    671,
+    1143,
+    705
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "4X .050 X .050",
+   "kind": "chamfer",
+   "multiplier": 4,
+   "box": [
+    2209,
+    561,
+    2451,
+    598
+   ]
+  },
+  {
+   "key": "k8",
+   "text": ".168",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2145,
+    673,
+    2229,
+    707
+   ]
+  },
+  {
+   "key": "k9",
+   "text": ".806",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1059,
+    809,
+    1142,
+    843
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "1.209",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2135,
+    850,
+    2234,
+    884
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "1.806",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    946,
+    909,
+    1045,
+    943
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "1.459",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2237,
+    907,
+    2336,
+    941
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "1.713",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2342,
+    964,
+    2442,
+    998
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "2.570",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    2442,
+    1016,
+    2542,
+    1050
+   ]
+  },
+  {
+   "key": "k15",
+   "text": ".542",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1212,
+    1364,
+    1296,
+    1398
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "4X ⌀.123 - .133",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    768,
+    1376,
+    1030,
+    1404
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "⌖|⌀.005Ⓜ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    768,
+    1415,
+    1054,
+    1449
+   ]
+  },
+  {
+   "key": "k18",
+   "text": "4X ⌀.215 - .225",
+   "kind": "hole_callout",
+   "multiplier": 4,
+   "box": [
+    2101,
+    1391,
+    2362,
+    1419
+   ]
+  },
+  {
+   "key": "k19",
+   "text": "⌖|⌀.005Ⓛ|A|B|C",
+   "kind": "gdt_frame",
+   "multiplier": 4,
+   "box": [
+    2089,
+    1428,
+    2375,
+    1463
+   ]
+  },
+  {
+   "key": "k20",
+   "text": "2.632",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1413,
+    1407,
+    1512,
+    1441
+   ]
+  },
+  {
+   "key": "k21",
+   "text": "3.495",
+   "kind": "basic_dimension",
+   "multiplier": 1,
+   "box": [
+    1576,
+    1465,
+    1675,
+    1499
+   ]
+  }
+ ],
+ "doubts": [
+  "No UNLESS OTHERWISE SPECIFIED tolerance block on this sheet; VIEW D-D / SEE SHEET 2 ZONE B5 labels excluded"
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "case": "nist_ctc_02",
+ "source": "data/raw/nist_pmi_step/nist_ctc_02_asme1_ap242-e2.stp",
+ "edited": "data/raw/model_edits/nist_ctc_02_edited.stp",
+ "pmi_after": 28,
+ "edits": [
+  {
+   "edit": "tolerance",
+   "target": "#409",
+   "before": "⌀40 ±0.15",
+   "expect": "differs",
+   "field": "tolerance",
+   "factor": 2.0,
+   "drawing": {
+    "id": "s1c2",
+    "text": "Ø40 ±0.15",
+    "requirement_text": "Ø40 ±0.15",
+    "sheet": 1
+   },
+   "after": "bounds -0.3 / 0.3"
+  },
+  {
+   "edit": "nominal",
+   "target": "#403",
+   "before": "⌀100 ±0.15",
+   "expect": "differs",
+   "field": "nominal",
+   "factor": 1.05,
+   "drawing": {
+    "id": "s0c3",
+    "text": "2X Ø100 ±0.15",
+    "requirement_text": "2X Ø100 ±0.15",
+    "sheet": 0
+   },
+   "after": "nominal 105 (was 100)"
+  },
+  {
+   "edit": "gdt_value",
+   "target": "#62",
+   "before": "⌓|0.5|D|EⓂ|FⓂ",
+   "expect": "differs",
+   "field": "tolerance value",
+   "factor": 2.0,
+   "drawing": {
+    "id": "s2c6",
+    "text": "⌌ 0.5 D E(M) F(M)",
+    "requirement_text": "⌌ 0.5 D E(M) F(M)",
+    "sheet": 2
+   },
+   "after": "value 1 (was 0.5)"
+  },
+  {
+   "edit": "no_tolerance",
+   "target": "#405",
+   "before": "⌀12 ±0.05",
+   "expect": "differs",
+   "field": "tolerance",
+   "drawing": {
+    "id": "s2c1",
+    "text": "Ø12 ±0.05",
+    "requirement_text": "Ø12 ±0.05",
+    "sheet": 2
+   },
+   "after": "plus/minus tolerance #333 deleted"
+  },
+  {
+   "edit": "removed_gdt",
+   "target": "#69",
+   "before": "⌖|⌀0.05|D|E",
+   "expect": "drawing_only",
+   "drawing": {
+    "id": "s2c7",
+    "text": "⊕ Ø0.05 D E",
+    "requirement_text": "⊕ Ø0.05 D E",
+    "sheet": 2
+   },
+   "after": "geometric tolerance #69 deleted"
+  }
+ ]
+}

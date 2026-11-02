@@ -1,0 +1,35 @@
+{
+ "key": "apollo_b503_n0202__p1.json",
+ "kind": "apollo",
+ "source": "hand",
+ "items": 19,
+ "found": 37,
+ "first_read_hits": 19,
+ "final_hits": 19,
+ "baseline_hits": 8,
+ "baseline_found": 15,
+ "exact_text": 17,
+ "multiplier_right": 18,
+ "audit_added": 0,
+ "audit_added_correct": 0,
+ "missed": [],
+ "extra": [
+  {
+   "text": "NOTE: 1. FOR HOLES MARKED \u25b2 SEE DRAWING LDW270M10046 FOR CORRESPONDING HOLE PATTERN",
+   "box": [
+    3282,
+    2722,
+    4033,
+    2826
+   ],
+   "found_in": "read",
+   "multiplier": 1
+  }
+ ],
+ "timings": {
+  "overview": 13.242001295089722,
+  "read": 32.97462487220764,
+  "audit": 54.39765810966492,
+  "total": 100.88091921806335
+ }
+}

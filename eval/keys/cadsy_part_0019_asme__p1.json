@@ -1,0 +1,100 @@
+{
+ "id": "cadsy_part_0019_asme",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0019_asme.png",
+ "source": "official",
+ "standard": "ASME",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "⌭|0.1",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    657,
+    338,
+    759,
+    389
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "⌀20 ±0.1 THRU",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1078,
+    655,
+    1250,
+    675
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "44.19",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    618,
+    1122,
+    672,
+    1141
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "40",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1652,
+    1161,
+    1674,
+    1179
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "10",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    215,
+    1278,
+    233,
+    1299
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "22.09",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    423,
+    1397,
+    476,
+    1416
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "20",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1475,
+    1397,
+    1497,
+    1416
+   ]
+  }
+ ]
+}

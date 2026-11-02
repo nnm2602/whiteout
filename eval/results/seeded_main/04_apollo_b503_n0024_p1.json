@@ -1,0 +1,2051 @@
+{
+ "name": "04_apollo_b503_n0024_p1",
+ "source": {
+  "file": "data/raw/apollo/apollo_b503_n0024.jpg",
+  "page": 1
+ },
+ "glyph_h": 19,
+ "items": [
+  {
+   "text": "SURFACE ROUGHNESS 63 MAX",
+   "kind": "note",
+   "condition": "plain",
+   "box": [
+    4552,
+    2878,
+    4915,
+    2896
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "SURFACE ROUGHNESS 63 MAX"
+  },
+  {
+   "text": "1.500 +/-.005",
+   "kind": "dimension",
+   "condition": "small",
+   "box": [
+    2101,
+    1665,
+    2208,
+    1679
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "1.500 +/-.005"
+  },
+  {
+   "text": "MARK PART NO PER MIL-STD-130",
+   "kind": "note",
+   "condition": "rotated",
+   "box": [
+    881,
+    3135,
+    899,
+    3528
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "MARK PART NO PER MIL-STD-130"
+  },
+  {
+   "text": "ALL FILLETS R.030",
+   "kind": "note",
+   "condition": "on_line",
+   "box": [
+    1559,
+    3534,
+    1780,
+    3552
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "ALL FILLETS R.030"
+  },
+  {
+   "text": "2X R.062",
+   "kind": "radius",
+   "condition": "faint",
+   "box": [
+    4021,
+    506,
+    4127,
+    524
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "2X R.062"
+  },
+  {
+   "text": "4X .312",
+   "kind": "dimension",
+   "condition": "tiny",
+   "box": [
+    2310,
+    2182,
+    2352,
+    2191
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "4X .312"
+  },
+  {
+   "text": "4X .312",
+   "kind": "dimension",
+   "condition": "plain",
+   "box": [
+    1674,
+    351,
+    1765,
+    369
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "4X .312"
+  },
+  {
+   "text": "MASK BEFORE ANODIZE",
+   "kind": "note",
+   "condition": "small",
+   "box": [
+    4397,
+    2017,
+    4579,
+    2029
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "MASK BEFORE ANODIZE"
+  },
+  {
+   "text": "3.375",
+   "kind": "dimension",
+   "condition": "rotated",
+   "box": [
+    3971,
+    2218,
+    3988,
+    2286
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "3.375"
+  },
+  {
+   "text": ".625",
+   "kind": "dimension",
+   "condition": "on_line",
+   "box": [
+    4679,
+    1002,
+    4731,
+    1020
+   ],
+   "found": false,
+   "found_in": "",
+   "read_as": ""
+  },
+  {
+   "text": ".250-20 UNC-2B",
+   "kind": "thread",
+   "condition": "faint",
+   "box": [
+    610,
+    1069,
+    806,
+    1087
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": ".250-20 UNC-2B"
+  },
+  {
+   "text": "ALL FILLETS R.030",
+   "kind": "note",
+   "condition": "tiny",
+   "box": [
+    3008,
+    3027,
+    3113,
+    3036
+   ],
+   "found": true,
+   "found_in": "read",
+   "read_as": "ALL FILLETS R.030"
+  }
+ ],
+ "chars": 87,
+ "audit_new_not_planted": [],
+ "passes": 1,
+ "timings": {
+  "overview": 0.05357694625854492,
+  "read": 10.948441982269287,
+  "audit": 1.3073148727416992,
+  "total": 12.546876192092896
+ },
+ "audit_finds": [
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "MANUFACTURING OPERATIONS UNLESS OTHERWISE SPECIFIED NOTES CHECKED V APPLY TO THIS DWG.",
+   "box": [
+    4988,
+    1038,
+    5328,
+    1060
+   ],
+   "verdict": "not_requirement",
+   "reason": "manufacturing operations table header and administrative instruction, not an inspectable product characteristic",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "MISMATCH STEP OF +- .005 OF CUTTERS AT INSIDE INTERSECTING SURFACES.",
+   "box": [
+    4990,
+    1667,
+    5234,
+    1754
+   ],
+   "verdict": "duplicate",
+   "reason": "complete note imposing a mismatch step limit, fully readable",
+   "char_id": "s0c69"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "4 HOLES EQUALLY SPACED",
+   "box": [
+    3692,
+    2649,
+    4178,
+    2676
+   ],
+   "verdict": "fragment",
+   "reason": "partial hole callout only quantity pattern remains, size and tolerance erased",
+   "char_id": "s0c75"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "LDW270M10007- 33",
+   "box": [
+    1423,
+    1820,
+    1774,
+    1848
+   ],
+   "verdict": "not_requirement",
+   "reason": "part number in parts list/table, not an inspectable characteristic",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "LDW270M10007- 1",
+   "box": [
+    1357,
+    1097,
+    1707,
+    1135
+   ],
+   "verdict": "not_requirement",
+   "reason": "part number in tabulated parts list, not a manufactured characteristic",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "LDW270M10007 B",
+   "box": [
+    3427,
+    974,
+    3805,
+    1016
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing number / title block field in border, not inspectable",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "ENG 72.2 6-44",
+   "box": [
+    1384,
+    3580,
+    1575,
+    3628
+   ],
+   "verdict": "fragment",
+   "reason": "very faint cut-off title block text at sheet edge, not fully readable",
+   "char_id": "s0c86"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "checkmark",
+   "box": [
+    5325,
+    1849,
+    5361,
+    1899
+   ],
+   "verdict": "not_requirement",
+   "reason": "Isolated check mark, approval mark not an engineering requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "NAS 9-1100",
+   "box": [
+    3650,
+    3770,
+    3954,
+    3924
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block fields, drawing/spec identifier without requirement text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "PART NO.",
+   "box": [
+    1531,
+    1052,
+    1695,
+    1076
+   ],
+   "verdict": "not_requirement",
+   "reason": "table column header, not an inspectable dimension on its own",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "arrow",
+   "box": [
+    3359,
+    974,
+    3398,
+    1048
+   ],
+   "verdict": "not_requirement",
+   "reason": "border arrow/leaders are not requirements",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "arrow",
+   "box": [
+    3392,
+    3550,
+    3419,
+    3611
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone arrow leader, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": ".625",
+   "box": [
+    4650,
+    976,
+    4731,
+    1020
+   ],
+   "verdict": "fragment",
+   "reason": "isolated number on border with no feature, leader or tolerance, next to large white erased area",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 35",
+   "box": [
+    1696,
+    1907,
+    1775,
+    1935
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number suffix referencing base part number in parts list",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 37",
+   "box": [
+    1736,
+    1952,
+    1776,
+    1980
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number suffix referencing base part number in parts list",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 63",
+   "box": [
+    1702,
+    2487,
+    1778,
+    2515
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 65",
+   "box": [
+    1703,
+    2532,
+    1778,
+    2560
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 67",
+   "box": [
+    1706,
+    2578,
+    1773,
+    2607
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 69",
+   "box": [
+    1705,
+    2623,
+    1775,
+    2652
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 71",
+   "box": [
+    1705,
+    2670,
+    1763,
+    2698
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 73",
+   "box": [
+    1712,
+    2714,
+    1781,
+    2741
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 75",
+   "box": [
+    1712,
+    2759,
+    1786,
+    2787
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "I",
+   "box": [
+    3378,
+    240,
+    3381,
+    262
+   ],
+   "verdict": "fragment",
+   "reason": "isolated faint vertical mark, incomplete with no readable requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "8",
+   "box": [
+    1594,
+    984,
+    1614,
+    1021
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone number at top of drawing border, not an inspectable requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "6",
+   "box": [
+    2612,
+    982,
+    2633,
+    1011
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker in border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "4",
+   "box": [
+    3844,
+    976,
+    3865,
+    1005
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker in border, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "3",
+   "box": [
+    4142,
+    976,
+    4161,
+    1005
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker in border, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "1",
+   "box": [
+    5161,
+    975,
+    5171,
+    1004
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker for drawing grid, not a product requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B",
+   "box": [
+    1369,
+    2610,
+    1401,
+    2641
+   ],
+   "verdict": "not_requirement",
+   "reason": "single letter marker adjacent to table, zone or view indicator, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "A",
+   "box": [
+    1385,
+    3272,
+    1407,
+    3300
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing border zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "7",
+   "box": [
+    2119,
+    3576,
+    2140,
+    3606
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "6",
+   "box": [
+    2630,
+    3575,
+    2650,
+    3604
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "4",
+   "box": [
+    3647,
+    3571,
+    3670,
+    3600
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "3",
+   "box": [
+    4161,
+    3568,
+    4181,
+    3597
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": ".",
+   "box": [
+    1312,
+    3884,
+    1333,
+    3899
+   ],
+   "verdict": "fragment",
+   "reason": "tiny faint speck, incomplete text next to white area",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1296,
+    3820,
+    1324,
+    3841
+   ],
+   "verdict": "fragment",
+   "reason": "tiny speck, incomplete text next to erased area",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 39",
+   "box": [
+    1695,
+    1998,
+    1769,
+    2026
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number suffix referencing base part number in parts list",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": ".6491",
+   "box": [
+    1890,
+    2759,
+    1998,
+    2787
+   ],
+   "verdict": "duplicate",
+   "reason": "tabulated numeric value for dash -73, complete and readable",
+   "char_id": "s0c61"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 61",
+   "box": [
+    1702,
+    2442,
+    1771,
+    2470
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "etch location symbol",
+   "box": [
+    3118,
+    2500,
+    3162,
+    2534
+   ],
+   "verdict": "not_requirement",
+   "reason": "symbol showing electro-etch location, leader target only",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 77",
+   "box": [
+    1707,
+    2804,
+    1775,
+    2831
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "C",
+   "box": [
+    1361,
+    1954,
+    1399,
+    2048
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on drawing border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "01",
+   "box": [
+    2846,
+    3732,
+    3097,
+    3786
+   ],
+   "verdict": "not_requirement",
+   "reason": "sheet or title block identifier 01, not an inspectable feature requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": ".6507",
+   "box": [
+    1889,
+    2804,
+    2003,
+    2831
+   ],
+   "verdict": "duplicate",
+   "reason": "checked on the original: Red-box text '.6507' in the -77 row is identical to already listed blue item [1] '.6507'. It is not a new inspectable requirement.",
+   "char_id": "s0c18"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B",
+   "box": [
+    3289,
+    2605,
+    3343,
+    2649
+   ],
+   "verdict": "not_requirement",
+   "reason": "section cutting plane marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "A",
+   "box": [
+    5391,
+    3255,
+    5413,
+    3283
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing border zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "5",
+   "box": [
+    3120,
+    979,
+    3140,
+    1008
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker in border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "7",
+   "box": [
+    2102,
+    987,
+    2123,
+    1016
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker in border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "\u221a",
+   "box": [
+    5319,
+    1184,
+    5354,
+    1235
+   ],
+   "verdict": "fragment",
+   "reason": "checkmark alone next to erased white row",
+   "char_id": "s0c53"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 41",
+   "box": [
+    1697,
+    2041,
+    1780,
+    2071
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number suffix referencing base part number in parts list",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 59",
+   "box": [
+    1702,
+    2396,
+    1779,
+    2422
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B2",
+   "box": [
+    2062,
+    2470,
+    2128,
+    2536
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker in circle",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 79",
+   "box": [
+    1720,
+    2847,
+    1775,
+    2877
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "ELECTRO-ETCH PART NO. & ACTUAL A DIA PER LSP-14-4706 ON TAB IF NECESSARY",
+   "box": [
+    2835,
+    2879,
+    3099,
+    2906
+   ],
+   "verdict": "duplicate",
+   "reason": "complete marking note imposing a requirement",
+   "char_id": "s0c59"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "A",
+   "box": [
+    4168,
+    2852,
+    4227,
+    2907
+   ],
+   "verdict": "not_requirement",
+   "reason": "revision or zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "5",
+   "box": [
+    3137,
+    3574,
+    3158,
+    3603
+   ],
+   "verdict": "not_requirement",
+   "reason": "drawing zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "A DIA \u00b1.0001",
+   "box": [
+    1792,
+    1041,
+    2008,
+    1073
+   ],
+   "verdict": "not_requirement",
+   "reason": "tabulated table header giving tolerance only with no nominal value present, not complete inspectable requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 43",
+   "box": [
+    1699,
+    2088,
+    1777,
+    2115
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number suffix referencing base part number in parts list",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 57",
+   "box": [
+    1702,
+    2351,
+    1778,
+    2377
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 81",
+   "box": [
+    1715,
+    2895,
+    1766,
+    2924
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "NOTES:",
+   "box": [
+    4198,
+    2845,
+    4387,
+    2930
+   ],
+   "verdict": "not_requirement",
+   "reason": "notes heading label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "ENG 73.2 6-66",
+   "box": [
+    1444,
+    3564,
+    1539,
+    3574
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field text, not a part requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "D",
+   "box": [
+    1368,
+    1294,
+    1395,
+    1324
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone markers",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "M --- .30",
+   "box": [
+    877,
+    3155,
+    909,
+    3543
+   ],
+   "verdict": "fragment",
+   "reason": "faint partial text next to erased area",
+   "char_id": "s0c81"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "D",
+   "box": [
+    5379,
+    1277,
+    5406,
+    1304
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker on drawing border",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1471,
+    3589,
+    1512,
+    3627
+   ],
+   "verdict": "not_requirement",
+   "reason": "isolated leader arrow with no text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 45",
+   "box": [
+    1698,
+    2130,
+    1778,
+    2157
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number suffix referencing base part number in parts list",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "1",
+   "box": [
+    5180,
+    3557,
+    5189,
+    3595
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 55",
+   "box": [
+    1699,
+    2307,
+    1777,
+    2334
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "LDW270M10007-91",
+   "box": [
+    1430,
+    3118,
+    1764,
+    3152
+   ],
+   "verdict": "not_requirement",
+   "reason": "part number in table, title block / parts list field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "SHEET 3.00",
+   "box": [
+    5168,
+    3511,
+    5323,
+    3537
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block sheet number field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B2",
+   "box": [
+    2068,
+    3100,
+    2135,
+    3165
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker B2",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 83",
+   "box": [
+    1661,
+    2950,
+    1758,
+    2989
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "\u2713",
+   "box": [
+    5305,
+    1284,
+    5361,
+    1347
+   ],
+   "verdict": "not_requirement",
+   "reason": "applicability check mark in table, not a measurement requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "SECTION B-B NO SCALE",
+   "box": [
+    4372,
+    2659,
+    4566,
+    2686
+   ],
+   "verdict": "not_requirement",
+   "reason": "view/section label with scale - not inspectable geometry",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "FULL & NOTED",
+   "box": [
+    4762,
+    3514,
+    4903,
+    3541
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block scale field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "LDW270M1000...",
+   "box": [
+    5348,
+    2612,
+    5403,
+    3005
+   ],
+   "verdict": "not_requirement",
+   "reason": "vertical drawing/title block number field, not a part requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 47",
+   "box": [
+    1699,
+    2175,
+    1781,
+    2202
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number suffix referencing base part number in parts list",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 53",
+   "box": [
+    1701,
+    2263,
+    1778,
+    2290
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "-89",
+   "box": [
+    1710,
+    3071,
+    1777,
+    3101
+   ],
+   "verdict": "not_requirement",
+   "reason": "partial dash number in parts list / revision table, not a dimensional requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 85",
+   "box": [
+    1711,
+    2983,
+    1782,
+    3013
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": ".002 MAX",
+   "box": [
+    4339,
+    2185,
+    4540,
+    2212
+   ],
+   "verdict": "duplicate",
+   "reason": "limit value with MAX still readable with leader",
+   "char_id": "s0c0"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "LEM",
+   "box": [
+    4613,
+    3485,
+    4687,
+    3510
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block model field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "26512",
+   "box": [
+    4858,
+    3479,
+    4968,
+    3519
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block CAGE code field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B",
+   "box": [
+    5323,
+    3456,
+    5354,
+    3489
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block revision/size field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B",
+   "box": [
+    3239,
+    2170,
+    3337,
+    2222
+   ],
+   "verdict": "not_requirement",
+   "reason": "view / section label with leader, not a dimension",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "SURFACE ROUGHNESS",
+   "box": [
+    5061,
+    2211,
+    5232,
+    2229
+   ],
+   "verdict": "not_requirement",
+   "reason": "Section header for surface roughness, value below is redacted so no complete requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "2. TOOLING FOR THIS PART IS SIMILAR TO LDW270M10015",
+   "box": [
+    4278,
+    3037,
+    5081,
+    3072
+   ],
+   "verdict": "not_requirement",
+   "reason": "informational tooling similarity statement, does not define part acceptance criteria",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 49",
+   "box": [
+    1701,
+    2222,
+    1770,
+    2250
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number suffix referencing base part number in parts list",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "D",
+   "box": [
+    4767,
+    3427,
+    4797,
+    3442
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block size field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1544,
+    1847,
+    1573,
+    2237
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader/arrow with no requirement text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 51",
+   "box": [
+    1645,
+    2224,
+    1758,
+    2264
+   ],
+   "verdict": "not_requirement",
+   "reason": "dash number identifying a part variant",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "SCALE",
+   "box": [
+    4788,
+    3547,
+    4836,
+    3567
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "\u2713 \u2713 \u2713",
+   "box": [
+    5328,
+    2224,
+    5363,
+    2272
+   ],
+   "verdict": "not_requirement",
+   "reason": "check marks in title block approval column, not a part requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "GRUMMAN AIRCRAFT ENGRG CORP., BETHPAGE, L.I., NEW YORK",
+   "box": [
+    4786,
+    3384,
+    5338,
+    3411
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block company name field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "SIZE",
+   "box": [
+    4771,
+    3456,
+    4793,
+    3488
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "CODE IDENT NO.",
+   "box": [
+    4856,
+    3450,
+    4975,
+    3472
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block label",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "-87",
+   "box": [
+    1704,
+    3026,
+    1777,
+    3056
+   ],
+   "verdict": "not_requirement",
+   "reason": "partial dash number in parts list / revision table, not a dimensional requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "arrow",
+   "box": [
+    2948,
+    1269,
+    2980,
+    1436
+   ],
+   "verdict": "fragment",
+   "reason": "dimension arrow with value erased, sits next to white patch",
+   "char_id": "s0c30"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "LDW270M10007",
+   "box": [
+    4829,
+    3422,
+    5291,
+    3491
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block drawing number field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "\u2193",
+   "box": [
+    3352,
+    962,
+    3406,
+    1022
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader/arrow with no associated dimension text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "D",
+   "box": [
+    4601,
+    3430,
+    4651,
+    3507
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block size field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "",
+   "box": [
+    1353,
+    2255,
+    1415,
+    2298
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader/arrow with no requirement text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "B",
+   "box": [
+    3079,
+    2180,
+    3138,
+    2232
+   ],
+   "verdict": "not_requirement",
+   "reason": "section view label B",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "\u2193",
+   "box": [
+    3340,
+    978,
+    3371,
+    1054
+   ],
+   "verdict": "not_requirement",
+   "reason": "leaders and arrows",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "\u2191",
+   "box": [
+    3390,
+    3591,
+    3408,
+    3664
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone border arrow, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "\u2191",
+   "box": [
+    3387,
+    3560,
+    3411,
+    3625
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone border arrow, leader with no requirement text",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "vertical arrow",
+   "box": [
+    1563,
+    1883,
+    1597,
+    2323
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader/arrow symbol indicating ditto, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "UNLESS OTHERWISE SPECIFIED",
+   "box": [
+    5033,
+    1075,
+    5282,
+    1093
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block field",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "arrow",
+   "box": [
+    1359,
+    2303,
+    1412,
+    2329
+   ],
+   "verdict": "not_requirement",
+   "reason": "leader/arrow symbol on border, not a requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "checkmark",
+   "box": [
+    5319,
+    1301,
+    5355,
+    1352
+   ],
+   "verdict": "not_requirement",
+   "reason": "Isolated check mark, approval mark not an engineering requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "checkmark",
+   "box": [
+    5329,
+    2299,
+    5363,
+    2347
+   ],
+   "verdict": "not_requirement",
+   "reason": "Isolated check mark, approval mark not an engineering requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "NOTES CHECKED \u221a APPLY TO THIS DWG.",
+   "box": [
+    4982,
+    1101,
+    5334,
+    1123
+   ],
+   "verdict": "not_requirement",
+   "reason": "title block applicability statement, no inspectable requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "SECTION B-B",
+   "box": [
+    4280,
+    2577,
+    4629,
+    2645
+   ],
+   "verdict": "not_requirement",
+   "reason": "section view label, not an inspectable requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "2",
+   "box": [
+    4669,
+    3563,
+    4689,
+    3592
+   ],
+   "verdict": "not_requirement",
+   "reason": "zone marker",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 71",
+   "box": [
+    1603,
+    2800,
+    1752,
+    2842
+   ],
+   "verdict": "not_requirement",
+   "reason": "parts list dash number, not an inspectable feature requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 67",
+   "box": [
+    1605,
+    2693,
+    1754,
+    2736
+   ],
+   "verdict": "not_requirement",
+   "reason": "parts list dash number, not an inspectable feature requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 75",
+   "box": [
+    1714,
+    2939,
+    1785,
+    2967
+   ],
+   "verdict": "not_requirement",
+   "reason": "parts list dash number, not an inspectable feature requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 77",
+   "box": [
+    1605,
+    2959,
+    1754,
+    3004
+   ],
+   "verdict": "not_requirement",
+   "reason": "parts list dash number, not an inspectable feature requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 65",
+   "box": [
+    1606,
+    2639,
+    1755,
+    2683
+   ],
+   "verdict": "not_requirement",
+   "reason": "parts list dash number, not an inspectable feature requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 69",
+   "box": [
+    1606,
+    2747,
+    1755,
+    2790
+   ],
+   "verdict": "not_requirement",
+   "reason": "parts list dash number, not an inspectable feature requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "- 79",
+   "box": [
+    1605,
+    3013,
+    1757,
+    3057
+   ],
+   "verdict": "not_requirement",
+   "reason": "parts list dash number, not an inspectable feature requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "1. FOR HOLES MAR",
+   "box": [
+    4285,
+    2934,
+    4733,
+    2964
+   ],
+   "verdict": "fragment",
+   "reason": "truncated note text cut off at image edge",
+   "char_id": "s0c58"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "& LDW270M10009",
+   "box": [
+    4327,
+    2969,
+    4765,
+    3003
+   ],
+   "verdict": "fragment",
+   "reason": "truncated note text cut off at image edge",
+   "char_id": "s0c58"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "TO LDW270M100",
+   "box": [
+    4329,
+    3075,
+    4716,
+    3105
+   ],
+   "verdict": "fragment",
+   "reason": "truncated note text cut off at image edge",
+   "char_id": "s0c84"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "09 FOR CORRESPONDING",
+   "box": [
+    4790,
+    2967,
+    5097,
+    2995
+   ],
+   "verdict": "fragment",
+   "reason": "cut off left edge and incomplete sentence fragment",
+   "char_id": "s0c58"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "CTRO-ETCH PART NO.",
+   "box": [
+    2838,
+    2739,
+    3256,
+    2767
+   ],
+   "verdict": "fragment",
+   "reason": "left edge cut off partial note",
+   "char_id": "s0c59"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "CTUAL A DIA PER",
+   "box": [
+    2833,
+    2768,
+    3202,
+    2808
+   ],
+   "verdict": "fragment",
+   "reason": "left edge cut off partial note",
+   "char_id": "s0c59"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "P-14-4706 ON TAB",
+   "box": [
+    2823,
+    2810,
+    3213,
+    2838
+   ],
+   "verdict": "fragment",
+   "reason": "left edge cut off partial note",
+   "char_id": "s0c59"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "checkmark",
+   "box": [
+    5331,
+    2362,
+    5364,
+    2410
+   ],
+   "verdict": "not_requirement",
+   "reason": "Isolated check mark, approval mark not an engineering requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "I",
+   "box": [
+    1734,
+    1128,
+    1768,
+    1158
+   ],
+   "verdict": "fragment",
+   "reason": "isolated character in table, incomplete fragment",
+   "char_id": "s0c63"
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "A",
+   "box": [
+    1470,
+    3291,
+    1502,
+    3312
+   ],
+   "verdict": "not_requirement",
+   "reason": "single letter at tile edge, view/zone label with no requirement",
+   "char_id": null
+  },
+  {
+   "pass": 1,
+   "pass_no": 1,
+   "text": "_",
+   "box": [
+    3354,
+    2881,
+    3495,
+    2908
+   ],
+   "verdict": "fragment",
+   "reason": "small corner edge cut off at image border",
+   "char_id": "s0c47"
+  }
+ ]
+}

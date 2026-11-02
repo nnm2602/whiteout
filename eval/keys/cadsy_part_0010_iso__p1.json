@@ -1,0 +1,221 @@
+{
+ "id": "cadsy_part_0010_iso",
+ "page": 1,
+ "width": 2480,
+ "height": 1754,
+ "dpi": 300.0,
+ "file": "data/raw/cadsy/part_0010_iso.png",
+ "source": "official",
+ "standard": "ISO",
+ "doubts": [
+  "official Cadsy labels converted by script; frame rows split from one labelled frame box into equal row heights; kinds inferred from the callout text",
+  "dpi is the loader default for PNGs without dpi metadata (300), not a physical scale"
+ ],
+ "items": [
+  {
+   "key": "k1",
+   "text": "84",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    420,
+    360,
+    442,
+    379
+   ]
+  },
+  {
+   "key": "k2",
+   "text": "0,7",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1503,
+    374,
+    1525,
+    401
+   ]
+  },
+  {
+   "key": "k3",
+   "text": "20 ±0,1",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    907,
+    466,
+    928,
+    533
+   ]
+  },
+  {
+   "key": "k4",
+   "text": "14,5",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    948,
+    473,
+    970,
+    512
+   ]
+  },
+  {
+   "key": "k5",
+   "text": "16",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    699,
+    500,
+    718,
+    522
+   ]
+  },
+  {
+   "key": "k6",
+   "text": "∥|0,1|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1514,
+    498,
+    1665,
+    548
+   ]
+  },
+  {
+   "key": "k7",
+   "text": "42",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    296,
+    620,
+    319,
+    638
+   ]
+  },
+  {
+   "key": "k8",
+   "text": "42",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1101,
+    620,
+    1124,
+    638
+   ]
+  },
+  {
+   "key": "k9",
+   "text": "⌭|0,5",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1091,
+    697,
+    1195,
+    748
+   ]
+  },
+  {
+   "key": "k10",
+   "text": "⌀80",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    898,
+    756,
+    959,
+    776
+   ]
+  },
+  {
+   "key": "k11",
+   "text": "⌀4 ↧18,27 ⌴⌀80 SF ↧3,2",
+   "kind": "hole_callout",
+   "multiplier": 1,
+   "box": [
+    1319,
+    727,
+    1649,
+    748
+   ]
+  },
+  {
+   "key": "k12",
+   "text": "⊥|⌀0,5|B",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    777,
+    866,
+    959,
+    916
+   ]
+  },
+  {
+   "key": "k13",
+   "text": "⌭|0,5",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    777,
+    916,
+    959,
+    967
+   ]
+  },
+  {
+   "key": "k14",
+   "text": "⌭|0,5",
+   "kind": "gdt_frame",
+   "multiplier": 1,
+   "box": [
+    1514,
+    916,
+    1618,
+    967
+   ]
+  },
+  {
+   "key": "k15",
+   "text": "84",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1225,
+    1295,
+    1248,
+    1314
+   ]
+  },
+  {
+   "key": "k16",
+   "text": "⌀84",
+   "kind": "dimension",
+   "multiplier": 1,
+   "box": [
+    1536,
+    1284,
+    1598,
+    1303
+   ]
+  },
+  {
+   "key": "k17",
+   "text": "General tolerance ISO 2768-f",
+   "kind": "note",
+   "multiplier": 1,
+   "box": [
+    1619,
+    1511,
+    1720,
+    1530
+   ],
+   "title_block": true
+  }
+ ]
+}
